@@ -17,16 +17,16 @@
 
 Explore the following sections to unlock new ways to save time, boost productivity, and maximize online income opportunities.
 
-### 1. [AI and Coding Tips and Tricks](./AI%20and%20Coding%20Tips%20and%20Tricks/AI-Prompting-Tips.md)
+### 1. [AI and Coding Tips and Tricks](./AI%20and%20Coding%20Tips%20and%20Tricks/)
    - **File:** [AI-Prompting-Tips.md](./AI%20and%20Coding%20Tips%20and%20Tricks/AI-Prompting-Tips.md)
    - **Overview**: Discover powerful AI prompting techniques for coding, creative problem-solving, and productivity enhancement.
   
-### 2. [Creative Methods to Earn Online](./Creative%20Methods%20to%20Earn%20Online/Websites-Paying-For-Work.md)
+### 2. [Creative Methods to Earn Online](./Creative%20Methods%20to%20Earn%20Online/)
    - **File:** [Websites-Paying-For-Work.md](./Creative%20Methods%20to%20Earn%20Online/Websites-Paying-For-Work.md)
    - **Overview**: Find innovative online platforms that pay for skills like freelancing and niche gigs.
   
-### 3. [Useful Websites for Productivity](./Useful%20Websites%20for%20Productivity/Time-Saving-Websites.md)
-   - **File:** [Time-Saving-Websites.md](./Useful%20Websites%20for%20Productivity/Time-Saving-Websites.md)
+### 3. [Useful Websites for Productivity](./Useful%20Websites%20for%20Productivity%20/)
+   - **File:** [Time-Saving-Websites.md](./Useful%20Websites%20for%20Productivity%20/Time-Saving-Websites.md)
    - **Overview**: A curated list of sites designed to streamline tasks and save time.
   
 ---
