@@ -13,30 +13,8 @@
 
 ---
 
-## 📂 Repository Content
-
-Explore the following sections to unlock new ways to save time, boost productivity, and online income opportunities.
-
-### 1. [AI and Coding Tips and Tricks](./AI%20and%20Coding%20Tips%20and%20Tricks/)
-   - **File:** [AI-Prompting-Tips.md](./AI%20and%20Coding%20Tips%20and%20Tricks/AI-Prompting-Tips.md)
-   - **Overview**: Discover powerful AI prompting techniques for coding, creative problem-solving, and productivity.
-  
-### 2. [Creative Methods to Earn Online](./Creative%20Methods%20to%20Earn%20Online/)
-   - **File:** [Websites-Paying-For-Work.md](./Creative%20Methods%20to%20Earn%20Online/Websites-Paying-For-Work.md)
-   - **Overview**: Find innovative online platforms that pay for skills like freelancing and niche gigs.
-  
-### 3. [Useful Websites for Productivity](./Useful%20Websites%20for%20Productivity%20/)
-   - **File:** [Time-Saving-Websites.md](./Useful%20Websites%20for%20Productivity%20/Time-Saving-Websites.md)
-   - **Overview**: A curated list of sites designed to streamline tasks and save time.
-  
----
-
 ### ⭐️ Support & Contributions
 
 If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://github.com/Drix10) to help others discover these resources. Contributions are always welcome! Submit pull requests with additional links, tips, or any useful resources that fit these categories.
 
 ---
-
-
-## 🤖 AI Updates
-- [2024-12-02](https://github.com/Drix10/ai-resources/blob/main/Useful%2520Websites%2520for%2520Productivity%2520/resources-2024-12-02-63b440.md) - Latest Useful%20Websites%20for%20Productivity%20 update
