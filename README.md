@@ -22,3 +22,7 @@ I use [a Custom Tool](https://github.com/Drix10/Twitter-Gemini-GitHub-MVP) to sc
 If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://github.com/Drix10) to help others discover these resources. Contributions are always welcome! Submit pull requests with additional links, tips, or any useful resources that fit these categories.
 
 ---
+
+
+## 💻 Development Resources
+- [#001](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-001.md) - Latest Coding and Software Development collection
