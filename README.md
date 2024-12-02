@@ -27,4 +27,6 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 
 
 ## 📈 Productivity & Growth
+- [#002](https://github.com/Drix10/ai-resources/blob/main/Creative%20Methods%20to%20Earn%20Online/resources-002.md) - Latest Creative Methods to Earn Online collection
+
 - [#001](https://github.com/Drix10/ai-resources/blob/main/Creative%20Methods%20to%20Earn%20Online/resources-001.md) - Latest Creative Methods to Earn Online collection
