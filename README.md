@@ -15,7 +15,7 @@
 
 ### 🧵 How It Works?
 
-We use [a Custom Tool](https://github.com/Drix10/Twitter-Gemini-GitHub-MVP) to scrap twitter/X and find the best resources and then we upload them here daily, this is an automatic process which took us weeks to build, we would appreciate your support!
+I use [a Custom Tool](https://github.com/Drix10/Twitter-Gemini-GitHub-MVP) to scrap twitter/X and find the best resources and then I upload them here daily, this is an automatic process which took me weeks to build, I would appreciate your support!
 
 ### ⭐️ Support & Contributions
 
