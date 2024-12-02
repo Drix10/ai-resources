@@ -13,22 +13,12 @@
 
 ---
 
+### 🧵 How It Works?
+
+We use [a Custom Tool](https://github.com/Drix10/Twitter-Gemini-GitHub-MVP) to scrap twitter/X and find the best resources and then we upload them here daily, this is an automatic process which took us weeks to build, we would appreciate your support!
+
 ### ⭐️ Support & Contributions
 
 If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://github.com/Drix10) to help others discover these resources. Contributions are always welcome! Submit pull requests with additional links, tips, or any useful resources that fit these categories.
 
 ---
-
-
-## 🤖 AI Updates
-- [#003](https://github.com/Drix10/ai-resources/blob/main/Useful%20Websites%20for%20Productivity/resources-003.md) - Latest Useful Websites for Productivity collection
-
-- [#002](https://github.com/Drix10/ai-resources/blob/main/Useful%20Websites%20for%20Productivity/resources-002.md) - Latest Useful Websites for Productivity collection
-
-- [#001](https://github.com/Drix10/ai-resources/blob/main/Useful%20Websites%20for%20Productivity/resources-001.md) - Latest Useful Websites for Productivity collection
-
-
-## 📈 Productivity & Growth
-- [#002](https://github.com/Drix10/ai-resources/blob/main/Creative%20Methods%20to%20Earn%20Online/resources-002.md) - Latest Creative Methods to Earn Online collection
-
-- [#001](https://github.com/Drix10/ai-resources/blob/main/Creative%20Methods%20to%20Earn%20Online/resources-001.md) - Latest Creative Methods to Earn Online collection
