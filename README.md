@@ -24,6 +24,3 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 - [#002](https://github.com/Drix10/ai-resources/blob/main/Useful%20Websites%20for%20Productivity/resources-002.md) - Latest Useful Websites for Productivity collection
 
 - [#001](https://github.com/Drix10/ai-resources/blob/main/Useful%20Websites%20for%20Productivity/resources-001.md) - Latest Useful Websites for Productivity collection
-
-## 📝 Updates
-- [#001](https://github.com/Drix10/ai-resources/blob/main/undefined/resources-001.md) - Latest undefined collection
