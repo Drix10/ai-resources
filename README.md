@@ -38,6 +38,8 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 
 
 ## 📈 Productivity & Growth
+- [#009](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-009.md) - Latest Productivity and Passive Income collection
+
 - [#008](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-008.md) - Latest Productivity and Passive Income collection
 
 - [#007](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-007.md) - Latest Productivity and Passive Income collection
