@@ -38,6 +38,8 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 - [#008](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-008.md) - Latest Coding and Software Development collection
 
 ## 📈 Productivity & Growth
+- [#016](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-016.md) - Latest Productivity and Passive Income collection
+
 - [#015](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-015.md) - Latest Productivity and Passive Income collection
 
 - [#014](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-014.md) - Latest Productivity and Passive Income collection
@@ -46,5 +48,3 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 - [#010](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-010.md) - Latest AI Tools and Resources collection
 
 - [#009](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-009.md) - Latest AI Tools and Resources collection
-
-- [#008](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-008.md) - Latest AI Tools and Resources collection
