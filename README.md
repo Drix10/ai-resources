@@ -39,3 +39,6 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 
 ## 🤖 AI Updates
 - [#011](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-011.md) - Latest AI Tools and Resources collection
+
+## 📈 Productivity & Growth
+- [#024](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-024.md) - Latest Productivity and Passive Income collection
