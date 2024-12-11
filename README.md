@@ -25,6 +25,8 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 
 
 ## 💻 Development Resources
+- [#023](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-023.md) - Latest Coding and Software Development collection
+
 - [#022](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-022.md) - Latest Coding and Software Development collection
 
 - [#021](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-021.md) - Latest Coding and Software Development collection
@@ -34,19 +36,3 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 - [#019](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-019.md) - Latest Coding and Software Development collection
 
 - [#018](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-018.md) - Latest Coding and Software Development collection
-
-- [#017](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-017.md) - Latest Coding and Software Development collection
-
-## 📈 Productivity & Growth
-- [#028](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-028.md) - Latest Productivity and Passive Income collection
-
-- [#027](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-027.md) - Latest Productivity and Passive Income collection
-
-- [#026](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-026.md) - Latest Productivity and Passive Income collection
-
-- [#025](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-025.md) - Latest Productivity and Passive Income collection
-
-## 🤖 AI Updates
-- [#014](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-014.md) - Latest AI Tools and Resources collection
-
-- [#013](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-013.md) - Latest AI Tools and Resources collection
