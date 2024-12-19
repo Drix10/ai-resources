@@ -25,6 +25,8 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 
 
 ## 💻 Development Resources
+- [#036](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-036.md) - Latest Coding and Software Development collection
+
 - [#035](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-035.md) - Latest Coding and Software Development collection
 
 - [#034](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-034.md) - Latest Coding and Software Development collection
@@ -34,10 +36,3 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 - [#032](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-032.md) - Latest Coding and Software Development collection
 
 - [#031](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-031.md) - Latest Coding and Software Development collection
-
-- [#030](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-030.md) - Latest Coding and Software Development collection
-
-## 📈 Productivity & Growth
-- [#034](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-034.md) - Latest Productivity and Passive Income collection
-
-- [#033](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-033.md) - Latest Productivity and Passive Income collection
