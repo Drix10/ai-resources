@@ -25,6 +25,8 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 
 
 ## 💻 Development Resources
+- [#043](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-043.md) - Latest Coding and Software Development collection
+
 - [#042](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-042.md) - Latest Coding and Software Development collection
 
 - [#041](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-041.md) - Latest Coding and Software Development collection
@@ -34,17 +36,3 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 - [#039](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-039.md) - Latest Coding and Software Development collection
 
 - [#038](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-038.md) - Latest Coding and Software Development collection
-
-- [#037](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-037.md) - Latest Coding and Software Development collection
-
-## 📈 Productivity & Growth
-- [#043](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-043.md) - Latest Productivity and Passive Income collection
-
-- [#042](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-042.md) - Latest Productivity and Passive Income collection
-
-- [#041](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-041.md) - Latest Productivity and Passive Income collection
-
-## 🤖 AI Updates
-- [#029](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-029.md) - Latest AI Tools and Resources collection
-
-- [#028](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-028.md) - Latest AI Tools and Resources collection
