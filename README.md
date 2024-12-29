@@ -25,6 +25,8 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 
 
 ## 💻 Development Resources
+- [#049](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-049.md) - Latest Coding and Software Development collection
+
 - [#048](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-048.md) - Latest Coding and Software Development collection
 
 - [#047](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-047.md) - Latest Coding and Software Development collection
@@ -34,19 +36,3 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 - [#045](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-045.md) - Latest Coding and Software Development collection
 
 - [#044](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-044.md) - Latest Coding and Software Development collection
-
-- [#043](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-043.md) - Latest Coding and Software Development collection
-
-## 🤖 AI Updates
-- [#039](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-039.md) - Latest AI Tools and Resources collection
-
-- [#038](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-038.md) - Latest AI Tools and Resources collection
-
-- [#037](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-037.md) - Latest AI Tools and Resources collection
-
-## 📈 Productivity & Growth
-- [#053](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-053.md) - Latest Productivity and Passive Income collection
-
-- [#052](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-052.md) - Latest Productivity and Passive Income collection
-
-- [#051](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-051.md) - Latest Productivity and Passive Income collection
