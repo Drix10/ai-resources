@@ -25,6 +25,8 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 
 
 ## 💻 Development Resources
+- [#053](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-053.md) - Latest Coding and Software Development collection
+
 - [#052](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-052.md) - Latest Coding and Software Development collection
 
 - [#051](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-051.md) - Latest Coding and Software Development collection
@@ -34,13 +36,3 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 - [#049](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-049.md) - Latest Coding and Software Development collection
 
 - [#048](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-048.md) - Latest Coding and Software Development collection
-
-- [#047](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-047.md) - Latest Coding and Software Development collection
-
-## 📈 Productivity & Growth
-- [#055](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-055.md) - Latest Productivity and Passive Income collection
-
-## 🤖 AI Updates
-- [#042](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-042.md) - Latest AI Tools and Resources collection
-
-- [#041](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-041.md) - Latest AI Tools and Resources collection
