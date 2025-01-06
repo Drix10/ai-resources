@@ -25,6 +25,8 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 
 
 ## 💻 Development Resources
+- [#063](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-063.md) - Latest Coding and Software Development collection
+
 - [#062](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-062.md) - Latest Coding and Software Development collection
 
 - [#061](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-061.md) - Latest Coding and Software Development collection
@@ -34,17 +36,3 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 - [#059](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-059.md) - Latest Coding and Software Development collection
 
 - [#058](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-058.md) - Latest Coding and Software Development collection
-
-- [#057](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-057.md) - Latest Coding and Software Development collection
-
-## 🤖 AI Updates
-- [#055](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-055.md) - Latest AI Tools and Resources collection
-
-- [#054](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-054.md) - Latest AI Tools and Resources collection
-
-- [#053](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-053.md) - Latest AI Tools and Resources collection
-
-## 📈 Productivity & Growth
-- [#067](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-067.md) - Latest Productivity and Passive Income collection
-
-- [#066](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-066.md) - Latest Productivity and Passive Income collection
