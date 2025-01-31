@@ -25,6 +25,8 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 
 
 ## 💻 Development Resources
+- [#082](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-082.md) - Latest Coding and Software Development collection
+
 - [#081](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-081.md) - Latest Coding and Software Development collection
 
 - [#080](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-080.md) - Latest Coding and Software Development collection
@@ -34,5 +36,3 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 - [#078](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-078.md) - Latest Coding and Software Development collection
 
 - [#077](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-077.md) - Latest Coding and Software Development collection
-
-- [#076](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-076.md) - Latest Coding and Software Development collection
