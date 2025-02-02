@@ -23,9 +23,11 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 
 ---## 🤖 AI Updates
 - [#069](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-069.md) - Latest update from 🤖 AI Updates
+## 🤖 AI Updates
+- [#069](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-069.md) - Latest update from 🤖 AI Updates
 
 ## 💻 Development Resources
-- [#086](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-086.md) - Latest update from 💻 Development Resources
+- [#087](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-087.md) - Latest update from 💻 Development Resources
 
 ## 📈 Productivity & Growth
 - [#082](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-082.md) - Latest update from 📈 Productivity & Growth
