@@ -1,6 +1,6 @@
 <div align="center">
   <h1><a href="https://x.com/DRIX_10_" target="_blank">🚀 AI Resources by DRIX10</a></h1>
-  <p><strong>Your curated collection of AI resources, productivity hacks, and income-boosting tools.</strong></p>
+  <p><strong>Explore a comprehensive collection of top AI resources, cutting-edge productivity hacks, and innovative tools, curated by experts on 𝕏</strong></p>
 </div>
 
 <div align="center">
