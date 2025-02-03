@@ -22,12 +22,11 @@ I use [a Custom Tool](https://github.com/Drix10/Twitter-Gemini-GitHub-MVP) to sc
 If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://github.com/Drix10) to help others discover these resources. Contributions are always welcome! Submit pull requests with additional links, tips, or any useful resources that fit these categories.## 🤖 AI Updates
 - [#071](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-071.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
 - [#071](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-071.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#072](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-072.md) - Latest update from 🤖 AI Updates
-## 🤖 AI Updates
+- [#072](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-072.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
 - [#072](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-072.md) - Latest update from 🤖 AI Updates
 
 ## 💻 Development Resources
-- [#092](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-092.md) - Latest update from 💻 Development Resources
+- [#093](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-093.md) - Latest update from 💻 Development Resources
 
 ## 📈 Productivity & Growth
 - [#084](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-084.md) - Latest update from 📈 Productivity & Growth
