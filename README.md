@@ -13,19 +13,10 @@
 
 ---
 
-### 🧵 How It Works?
-
-I use [a Custom Tool](https://github.com/Drix10/Twitter-Gemini-GitHub-MVP) to scrap twitter/X and find the best resources and then I upload them here daily, this is an automatic process built with software made at https://coslynx.com, I would appreciate your support!
-
 ### ⭐️ Support & Contributions
 
-If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://github.com/Drix10) to help others discover these resources. Contributions are always welcome! Submit pull requests with additional links, tips, or any useful resources that fit these categories.## 🤖 AI Updates
-- [#071](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-071.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#071](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-071.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#072](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-072.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#072](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-072.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#073](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-073.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#076](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-076.md) - Latest update from 🤖 AI Updates
+If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://github.com/Drix10) to help others discover these resources. Contributions are always welcome! Submit pull requests with additional links, tips, or any useful resources that fit these categories.
+
 ## 🤖 AI Updates
 - [#076](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-076.md) - Latest update from 🤖 AI Updates
 
