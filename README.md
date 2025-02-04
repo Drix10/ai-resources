@@ -19,9 +19,8 @@ If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://
 - [#078](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-078.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
 - [#078](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-078.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
 - [#079](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-079.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#080](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-080.md) - Latest update from 🤖 AI Updates
-## 🤖 AI Updates
-- [#081](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-081.md) - Latest update from 🤖 AI Updates
+- [#080](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-080.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
+- [#082](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-082.md) - Latest update from 🤖 AI Updates
 
 ## 💻 Development Resources
 - [#098](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-098.md) - Latest update from 💻 Development Resources
