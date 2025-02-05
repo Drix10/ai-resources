@@ -58,17 +58,8 @@
 </div>
 
 ---
+<div align="center"><h2>🤖 AI Updates</h2><p>• <a href="https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-084.md">#084</a> - Latest update from 🤖 AI Updates</p></div>
 
-### ⭐️ Support
+<div align="center"><h2>💻 Development Resources</h2><p>• <a href="https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-101.md">#101</a> - Latest update from 💻 Development Resources</p></div>
 
-If you like reading our reports, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
-
----
-## 🤖 AI Updates
-- [#084](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-084.md) - Latest update from 🤖 AI Updates
-
-## 💻 Development Resources
-- [#100](https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-100.md) - Latest update from 💻 Development Resources
-
-## 📈 Productivity & Growth
-- [#085](https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-085.md) - Latest update from 📈 Productivity & Growth
+<div align="center"><h2>📈 Productivity & Growth</h2><p>• <a href="https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-085.md">#085</a> - Latest update from 📈 Productivity & Growth</p></div>
