@@ -15,13 +15,10 @@
 
 ### ⭐️ Support & Contributions
 
-If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://github.com/Drix10) to help others discover these resources. Contributions are always welcome! Submit pull requests with additional links, tips, or any useful resources that fit these categories.## 🤖 AI Updates
-- [#078](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-078.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#078](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-078.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#079](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-079.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#080](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-080.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#082](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-082.md) - Latest update from 🤖 AI Updates## 🤖 AI Updates
-- [#083](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-083.md) - Latest update from 🤖 AI Updates
+If you enjoy this repository, please star ⭐️ it and follow [Drix10](https://github.com/Drix10) to help others discover these resources. Contributions are always welcome! Submit pull requests with additional links, tips, or any useful resources that fit these categories.
+
+---
+
 ## 🤖 AI Updates
 - [#083](https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-083.md) - Latest update from 🤖 AI Updates
 
