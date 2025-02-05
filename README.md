@@ -58,8 +58,20 @@
 </div>
 
 ---
-<div align="center"><h2>🤖 AI Updates</h2><p>• <a href="https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-084.md">#084</a> - Latest update from 🤖 AI Updates</p></div>
+<div align="center">
+              <h2 style="margin: 0;">🤖 AI Updates</h2>
+          
+              <p>• <a href="https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-085.md">#085</a> - Latest update from 🤖 AI Updates</p>
+            </div>
 
-<div align="center"><h2>💻 Development Resources</h2><p>• <a href="https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-101.md">#101</a> - Latest update from 💻 Development Resources</p></div>
+            <div align="center">
+              <h2 style="margin: 0;">💻 Development Resources</h2>
+          
+              <p>• <a href="https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-101.md">#101</a> - Latest update from 💻 Development Resources</p>
+            </div>
 
-<div align="center"><h2>📈 Productivity & Growth</h2><p>• <a href="https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-085.md">#085</a> - Latest update from 📈 Productivity & Growth</p></div>
+            <div align="center">
+              <h2 style="margin: 0;">📈 Productivity & Growth</h2>
+          
+              <p>• <a href="https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-085.md">#085</a> - Latest update from 📈 Productivity & Growth</p>
+            </div>
