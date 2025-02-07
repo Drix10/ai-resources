@@ -70,5 +70,5 @@
 
 <div align="center">
     <h2 style="margin: 0;">📈 Productivity & Growth</h2>
-    <p>• <a href="https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-086.md">#086</a> - Latest update from 📈 Productivity & Growth</p>
+    <p>• <a href="https://github.com/Drix10/ai-resources/blob/main/Productivity%20and%20Passive%20Income/resources-087.md">#087</a> - Latest update from 📈 Productivity & Growth</p>
   </div>
