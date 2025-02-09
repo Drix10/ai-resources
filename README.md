@@ -60,7 +60,7 @@
 ---
 <div align="center">
     <h2 style="margin: 0;">🤖 AI Updates</h2>
-    <p>• <a href="https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-086.md">#086</a> - Latest update from 🤖 AI Updates</p>
+    <p>• <a href="https://github.com/Drix10/ai-resources/blob/main/AI%20Tools%20and%20Resources/resources-087.md">#087</a> - Latest update from 🤖 AI Updates</p>
   </div>
 
 <div align="center">
