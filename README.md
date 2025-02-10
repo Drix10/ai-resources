@@ -65,7 +65,7 @@
 
 <div align="center">
     <h2 style="margin: 0;">💻 Development Resources</h2>
-    <p>• <a href="https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-110.md">#110</a> - Latest update from 💻 Development Resources</p>
+    <p>• <a href="https://github.com/Drix10/ai-resources/blob/main/Coding%20and%20Software%20Development/resources-111.md">#111</a> - Latest update from 💻 Development Resources</p>
   </div>
 
 <div align="center">
