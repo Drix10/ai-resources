@@ -1,0 +1,263 @@
+### 🚀 Alchemy Stream - Onboarding and DREP Launch
+
+This article covers the onboarding process with Alchemy Stream and the upcoming launch of DREP on AppleTV and Roku.  The author expresses excitement about the collaboration and the platform's expansion.
+
+Key Points:
+
+• Onboarding email received from Dan at Alchemy Stream.
+
+• DREP launching soon on AppleTV and Roku.
+
+• Alchemy Streaming App available for download.
+
+
+🔗 Resources:
+
+• [Alchemy Stream](https://alchemystream.com) - Streaming platform
+
+• [AIMUSICVIDEO](https://x.com/aimusicvideo) -  Creator's X account
+
+• [DocRedEyeKC](https://x.com/DocRedEyeKC) - Creator's X account
+
+![Image](https://pbs.twimg.com/media/GyRUkKKXkAIXGNZ?format=jpg&name=small)
+
+
+---
+
+### ✨ Film Festival - Whispers in the Dark Feature
+
+This article announces the selection of "Whispers in the Dark: Descent into Madness" for the Pattaya Film Festival 2025. The author expresses their honor and excitement about the film's screening.
+
+Key Points:
+
+• "Whispers in the Dark" featured at Pattaya Film Festival 2025.
+
+• Film screening from August 28–30 in Pattaya, Thailand.
+
+• Film selected for the international short film showcase.
+
+
+🔗 Resources:
+
+• [AIMUSICVIDEO](https://x.com/aimusicvideo) - Creator's X account
+
+• [BLVCKLIGHTai](https://x.com/BLVCKLIGHTai) - Creator's X account
+
+![Image](https://pbs.twimg.com/media/GyRKpUWa4AIulZW?format=jpg&name=small)
+
+
+---
+
+### 🤖 Gazebo Jetty - Community Test & Tutorial Party
+
+This article announces a community Test & Tutorial Party for Gazebo Jetty, encouraging participation in testing and contributing to open-source development.
+
+Key Points:
+
+• Test & Tutorial Party from August 27 to September 11.
+
+• Opportunity to learn about Gazebo and contribute to open-source.
+
+• Kickoff meeting on August 27 at 9 am PST.
+
+
+🚀 Implementation:
+
+1. Join the kickoff meeting on August 27 at 9 am PST via the provided link.
+2. Participate in testing and tutorials during the party period.
+3. Contribute to the open-source project.
+
+
+🔗 Resources:
+
+• [OpenRoboticsOrg](https://x.com/OpenRoboticsOrg) - Organization's X account
+
+• [Gazebo Jetty](https://lu.ma/zg16qxh0) -  Party link
+
+![Image](https://pbs.twimg.com/media/GyRDj45aAAAGARG?format=jpg&name=small)
+
+
+---
+
+### 💡 Walking and Health - Built Environment Study
+
+This article summarizes a study published in Nature that demonstrates a strong correlation between daily step count and the built environment.
+
+Key Points:
+
+• Countrywide study finds strong evidence linking daily steps and the built environment.
+
+• Study published in Nature by UW Allen professor Tim Althoff.
+
+•  Provides insights into the impact of urban design on population health.
+
+
+🔗 Resources:
+
+• [UW CSE](https://x.com/uwcse) - University of Washington Computer Science and Engineering's X account
+
+• [University of Washington](https://x.com/UW) - University's X account
+
+• [Tim Althoff](https://x.com/timalthoff) - Professor's X account
+
+• [Nature](https://x.com/Nature) - Journal's X account
+
+• [Study Link](https://t.co/jIAhNTIaw6) - Study published in Nature
+
+
+---
+
+### 🤖 AI Agents - Real-World Results at Six Five Media Summit
+
+This article highlights a presentation at the Six Five Media Summit 2025 showcasing real-world results delivered by AI agents.  The presentation included internal and external data demonstrating AI's impact.
+
+Key Points:
+
+• Six Five Media Summit 2025 featured a presentation on AI agent results.
+
+•  Presentation by Nirankush Panchbhai, SVP of Product Management at ServiceNow.
+
+• Impressive internal and external data shared regarding AI agent performance.
+
+
+🔗 Resources:
+
+• [Six Five Media](https://x.com/TheSixFiveMedia) - Media company's X account
+
+• [Nirankush Panchbhai](https://x.com/NkushOnT) - Presenter's X account
+
+• [ServiceNow](https://x.com/ServiceNow) - Company's X account
+
+• [Daniel Newman](https://x.com/danielnewmanUV) - Interviewer's X account
+
+
+---
+
+### 🤖 Personalized Cancer Treatment - Modeling Tumor Biology
+
+This article discusses a blog post highlighting research on modeling individual tumor biology for personalized cancer treatment.  The research uses AI to move beyond one-size-fits-all approaches.
+
+Key Points:
+
+• Research focuses on modeling each tumor's unique biology.
+
+• Findings from a PNAS paper are highlighted.
+
+•  Aims to move beyond one-size-fits-all cancer treatment approaches.
+
+
+🔗 Resources:
+
+• [IndabaXKenya](https://x.com/IndabaXKenya) -  X account
+
+• [GenBio AI](https://x.com/genbioai) -  AI company's X account
+
+• [Probably Bots](https://x.com/probablybots) - Researcher's X account
+
+• [Eric Xing](https://x.com/ericxing) - Researcher's X account
+
+![Image](https://pbs.twimg.com/media/GxS9LclXcAMUBoz?format=png&name=small)
+
+
+---
+
+### 💡 Academic Publishing - Revenue and Author/Reviewer Compensation
+
+This article presents data on the revenue generated by major academic publishers and the compensation received by authors and reviewers.
+
+Key Points:
+
+• Data shows significant revenue generated by major academic publishers.
+
+• Authors and reviewers receive no compensation for their contributions.
+
+•  Highlights an imbalance in the academic publishing ecosystem.
+
+
+🔗 Resources:
+
+
+• [IndabaXKenya](https://x.com/IndabaXKenya) - X account
+
+• [Mushtaq Bilal PhD](https://x.com/MushtaqBilalPhD) - X account
+
+
+---
+
+### 🤖 Robotics Foundation Models - Autoregressive Depth Prediction
+
+This article discusses a robotics foundation model that utilizes autoregressive depth prediction for reasoning, drawing a parallel to large language models.
+
+Key Points:
+
+•  Foundation model autoregressively predicts depth tokens.
+
+•  Lifts prediction to 2.5D for enhanced reasoning capabilities.
+
+•  Provides a robotics analogue to reasoning LLMs.
+
+
+🔗 Resources:
+
+• [Allen Institute for AI](https://x.com/allen_ai) - AI institute's X account
+
+• [Chris Paxton](https://x.com/chris_j_paxton) - X account
+
+• [DJiafei](https://x.com/DJiafei) - X account
+
+![Image](https://pbs.twimg.com/amplify_video_thumb/1955266599348473859/img/cxaqRxCZHy4Rp0BG.jpg)
+
+
+---
+
+### 💡 Postgraduate Opportunity - Food and Nutritional Sciences
+
+This article announces a postgraduate research opportunity in food and nutritional sciences at University College Cork, as part of the TransForm project.
+
+Key Points:
+
+• Master by Research opportunity in food and nutritional sciences.
+
+•  Located at the School of Food and Nutritional Sciences, University College Cork.
+
+•  Part of the TransForm project.
+
+
+🔗 Resources:
+
+• [IndabaXKenya](https://x.com/IndabaXKenya) - X account
+
+• [Obeng Cosmos](https://x.com/ObengCosmos) - X account
+
+![Image](https://pbs.twimg.com/media/GyM9XY3aEAELVyt?format=jpg&name=small)
+
+
+---
+
+### 🤖 Deep Learning Weekly - Issue #417
+
+This article announces the release of Issue #417 of Deep Learning Weekly, highlighting featured articles on AI agent architecture, AI training power demands, and LLMs in text-based video games.
+
+Key Points:
+
+• Issue #417 of Deep Learning Weekly is now live.
+
+• Features articles on reliable AI agent architecture and future AI training power needs.
+
+• Includes a paper on LLMs' performance in text-based video games.
+
+
+🔗 Resources:
+
+• [Deep Learning Weekly](https://x.com/dl_weekly) - Newsletter's X account
+
+• [Issue #417](https://t.co/4UIVcwo7RV) - Link to Issue #417
+
+
+---
+
+### ⭐️ Support
+
+If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
+
+---
