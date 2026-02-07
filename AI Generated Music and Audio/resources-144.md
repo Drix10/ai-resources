@@ -1,0 +1,161 @@
+### 🚀 ElevenLabs Growth - Strategic Investment and Future Vision
+
+This article details ElevenLabs' recent funding round, including key investors and board appointments. It also outlines the company's strategic plans for global expansion, product development, and deep research investment in advanced AI audio technologies.
+
+Key Points:
+
+• Secured significant investment led by Sequoia Capital, with Andrew Reed joining the board.
+
+• Received continued support from existing investors like a16z and ICONIQ, and welcomed new partners.
+
+• Plans to expand product and engineering teams globally, supported by local go-to-market teams.
+
+• Committed to deep research in empathetic conversational models, dubbing, and audio general intelligence.
+
+• Aims to integrate research advancements into scalable products for broad adoption.
+
+🔗 Resources:
+
+• [ElevenLabs Careers](https://elevenlabs.io/careers) - Explore career opportunities at ElevenLabs
+
+• [ElevenLabs X Profile](https://x.com/elevenlabsio) - Official ElevenLabs X (Twitter) profile
+---
+### 🤖 AI Engineering - Reshaping Software Development
+
+This article discusses the transformative impact of AI on software development practices, highlighting insights from a Spotify chief architect on integrating AI agents into the engineering workflow. It explores how AI is fundamentally altering the way software is built.
+
+Key Points:
+
+• AI agents are automating code generation, reducing manual coding efforts.
+
+• Software development workflows are being significantly reshaped by AI integration.
+
+• Industry experts are sharing insights on practical AI application in engineering.
+
+• Explores how AI is reshaping the way we build software.
+
+🔗 Resources:
+
+• [AI Engineering Podcast](https://t.co/4omraf97vx) - Listen to Spotify's chief architect
+
+• [Spotify Engineering X Profile](https://x.com/SpotifyEng) - Official Spotify Engineering X profile
+---
+### 🤖 Speech Synthesis - Lip-to-Speech with Enhanced Prosody
+
+This article introduces a research paper titled "LipSody: Lip-to-Speech Synthesis with Enhanced Prosody Consistency." It focuses on advancements in generating speech directly from lip movements, emphasizing natural prosodic elements for improved output quality.
+
+Key Points:
+
+• Explores lip-to-speech synthesis technology.
+
+• Enhances prosody consistency in synthesized speech.
+
+• Presents research by Jaejun Lee, Yoori Oh, and Kyogu Lee.
+
+🔗 Resources:
+
+• [LipSody Research Paper](https://t.co/ms89yKYvbx) - Learn about enhanced prosody consistency
+
+• [ArxivSound X Profile](https://x.com/ArxivSound) - Official ArxivSound X profile
+---
+### 🤖 Silent Speech Voicing - Multi-speaker with Facial Inputs
+
+This article presents research on multi-speaker silent speech voicing, a method for generating speech from facial inputs alone. The paper, "Speaking Without Sound," explores techniques for synthesizing speech without auditory input.
+
+Key Points:
+
+• Investigates silent speech voicing using only facial inputs.
+
+• Supports multi-speaker applications for diverse voice generation.
+
+• Highlights research by Jaejun Lee, Yoori Oh, and Kyogu Lee.
+
+🔗 Resources:
+
+• [Silent Speech Voicing Research Paper](https://t.co/xDqJHvso7j) - Learn about multi-speaker silent speech voicing
+
+• [ArxivSound X Profile](https://x.com/ArxivSound) - Official ArxivSound X profile
+---
+### 🤖 Speech Enhancement - Parallel Generative with Neural Codec
+
+This article describes the research paper "ParaGSE: Parallel Generative Speech Enhancement with Group-Vector-Quantization-based Neural Speech Codec." It focuses on advanced methods for improving speech quality using parallel generative models and neural codecs.
+
+Key Points:
+
+• Introduces ParaGSE for generative speech enhancement.
+
+• Utilizes group-vector-quantization-based neural speech codecs.
+
+• Contributed by Fei Liu and Yang Ai.
+
+🔗 Resources:
+
+• [ParaGSE Research Paper](https://t.co/E3vyYJIDvu) - Learn about generative speech enhancement
+
+• [ArxivSound X Profile](https://x.com/ArxivSound) - Official ArxivSound X profile
+---
+### 🤖 Pitch Estimation - Voting-based with Alignment and Correlation
+
+This article highlights a research paper on "Voting-based Pitch Estimation with Temporal and Frequential Alignment and Correlation Aware Selection." The study details a novel approach to accurately estimate pitch in audio signals.
+
+Key Points:
+
+• Proposes a voting-based method for pitch estimation.
+
+• Incorporates temporal and frequential alignment.
+
+• Uses correlation-aware selection for improved accuracy.
+
+• Authored by Junya Koguchi and Tomoki Koriyama.
+
+🔗 Resources:
+
+• [Pitch Estimation Research Paper](https://t.co/uMKmTFffMa) - Learn about voting-based pitch estimation
+
+• [ArxivSound X Profile](https://x.com/ArxivSound) - Official ArxivSound X profile
+---
+### ✨ AI Music Generation - Evoke Music New Release
+
+This article announces a new song generated by Evoke Music, showcasing advancements in AI-powered music creation. It highlights the capabilities of Amadeus Code's platform in producing original musical compositions.
+
+Key Points:
+
+• Features a new song from Evoke Music's AI generation platform.
+
+• Demonstrates AI's capacity for creative musical composition.
+
+• Showcases the output from amadeuscode.com/en/evoke-music.
+
+🔗 Resources:
+
+• [Evoke Music](https://amadeuscode.com/en/evoke-music) - AI-powered music generation platform
+
+![Image](https://pbs.twimg.com/amplify_video_thumb/2016410136995364865/img/g4RIedlrSWFh-Z47.jpg)
+---
+### 💡 AI Music Protocol - Creator-First and Attribution
+
+This article introduces Mubert's creator-first protocol, which addresses ethical issues in AI model training by ensuring attribution, consent, and compensation for original data. It outlines a new approach to music generation that prioritizes creator rights and on-chain ownership.
+
+Key Points:
+
+• Challenges current AI models lacking data attribution and consent.
+
+• Proposes a creator-first protocol for ethical AI music generation.
+
+• Ensures provenance, royalties, and on-chain ownership for every sound.
+
+• Builds a transparent and fair ecosystem for creators in AI.
+
+🔗 Resources:
+
+• [Mubert App X Profile](https://x.com/mubertapp) - Mubert's official X (Twitter) profile
+---
+
+
+---
+
+### ⭐️ Support
+
+If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
+
+---
