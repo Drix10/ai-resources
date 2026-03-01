@@ -1,0 +1,248 @@
+### 🚀 AI Video Contest - $500,000 Action Contest
+
+This article outlines the details of the $500,000 Action Contest, including submission guidelines, eligibility, and the featured entry "TAILS OF STEEL." It covers the rules for participation and the deadline for submissions.
+
+Key Points:
+
+• The contest invites participants to create AI-generated videos.
+
+• Submissions should be between 15 seconds and 5 minutes in length and in English.
+
+• Participants can submit up to 10 entries using various AI models.
+
+• A specific entry, "TAILS OF STEEL," showcases a 1990s megacity narrative.
+
+• The deadline for submissions is February 28, 11:59 PM PT.
+
+🚀 Implementation:
+1. Utilize any AI video model for content creation.
+2. Ensure the Higgsfield watermark is present in the submitted video.
+3. Share the video on social media with #HiggsfieldAction and tag @higgsfield_creo.
+
+🔗 Resources:
+
+• [Higgsfield Creo](https://x.com/higgsfield_creo) - Platform for AI video creation and contests
+
+• [Higgsfield Action Hashtag](https://x.com/hashtag/HiggsfieldAction?src=hashtag_click) - Official hashtag for contest submissions
+
+• [Contest Link](https://t.co/XojhdPeDOX) - Official link for contest details
+
+![Image](https://pbs.twimg.com/amplify_video_thumb/2027903369650835457/img/bjtv7L_iSPezO1TY.jpg)
+
+---
+### 🤖 AI Image Generation - Detailed Character Prompts
+
+This article demonstrates the use of detailed prompts to generate specific character appearances with AI models, exemplified by "Nano Banana 2" on Skywork.ai. It focuses on structuring prompts for precise output.
+
+Key Points:
+
+• Showcases precise textual descriptions for AI image generation.
+
+• Details specific subject attributes like gender, age, and hair style.
+
+• Emphasizes the importance of clear prompt structure for desired outputs.
+
+🚀 Implementation:
+1. Define `image_prompt`: Specify the overall characteristics of the image.
+2. Detail `subject`: Include attributes such as gender, age appearance, and hair description.
+3. Describe hair characteristics: Specify style, color, and framing details.
+
+🔗 Resources:
+
+• [Skywork AI](https://x.com/Skywork_ai) - Platform for AI image generation
+
+• [Lexx Aura](https://x.com/lexx_aura) - User showcasing AI image generation
+
+![Image](https://pbs.twimg.com/media/HCPvAmHbEAUvWmo?format=jpg&name=900x900)
+
+![Image](https://pbs.twimg.com/amplify_video_thumb/2027559577823416321/img/1gM9xB_rnMdE297K?format=jpg&name=240x240)
+
+---
+### 🤖 AI Image Generation - Celebrity-Inspired Prompts
+
+This article illustrates the application of AI image generation to create depictions inspired by real individuals, specifically using "Sadie Sink" as a reference on Skywork.ai's Nano Banana 2 model. It highlights generating nuanced subject portrayal.
+
+Key Points:
+
+• Demonstrates AI's ability to render specific celebrity-like appearances.
+
+• Utilizes detailed descriptors for complexion and hair characteristics.
+
+• Highlights prompt crafting for generating nuanced subject portrayal.
+
+🚀 Implementation:
+1. Define `image_prompt_details`: Structure the prompt for specific subject traits.
+2. Specify `appearance`: Detail the celebrity's look, including complexion.
+3. Describe `hair`: Outline hair length, color, and wave style.
+
+🔗 Resources:
+
+• [Skywork AI](https://x.com/Skywork_ai) - AI platform for generating images from text prompts
+
+• [xIrissy](https://x.com/xIrissy) - User demonstrating AI image creation
+
+![Image](https://pbs.twimg.com/media/HCQAqBfacAEJxUm?format=jpg&name=900x900)
+
+![Image](https://pbs.twimg.com/amplify_video_thumb/2027559577823416321/img/1gM9xB_rnMdE297K?format=jpg&name=240x240)
+
+---
+### ✨ AI Video Tool - Seedance2 Availability
+
+This article discusses the availability of the Seedance2 AI model through a specific platform, contrasting its continued access with other tools that have restricted it. It encourages users to explore its capabilities for AI art.
+
+Key Points:
+
+• Notes the re-restriction of SD2 on platforms like CapCut.
+
+• Highlights continued access to Seedance2 through the featured platform.
+
+• Encourages users to apply for access to the open AI model.
+
+🚀 Implementation:
+1. Understand Seedance2: Learn about the capabilities of the AI model.
+2. Access the Platform: Visit the platform that maintains open access.
+3. Apply for Usage: Follow the instructions to gain access to the tool.
+
+🔗 Resources:
+
+• [GumVue](https://x.com/GumVue) - Platform offering Seedance2 access
+
+• [YouArt Studio](https://x.com/YouArtStudio) - Creator showcasing AI art
+
+• [Seedance2 Hashtag](https://x.com/hashtag/seedance2?src=hashtag_click) - Community tag for Seedance2 creations
+
+• [AI Art Hashtag](https://x.com/hashtag/aiart?src=hashtag_click) - General tag for AI-generated art
+
+![Image](https://pbs.twimg.com/amplify_video_thumb/2027347086535192576/img/lY_K1dF1a7UXxpmT.jpg)
+
+---
+### 🤖 AI 3D Modeling - Hitem3D.ai Generation
+
+This article showcases a 3D model generated by hitem3d.ai, a minimalist hollow-out white horse ornament, now available for 3D printing on MakerWorld. It demonstrates AI's role in creating printable designs.
+
+Key Points:
+
+• Features an AI-generated minimalist hollow-out white horse model.
+
+• Demonstrates hitem3d.ai's capability in creating 3D printable designs.
+
+• Highlights the model's availability for download and printing on MakerWorld.
+
+🚀 Implementation:
+1. Generate Model: Use hitem3d.ai to create custom 3D models.
+2. Access Model Link: Retrieve the generated model from the platform.
+3. Download for Printing: Obtain the model file from MakerWorld for 3D printing.
+
+🔗 Resources:
+
+• [Hitem3D AI](https://x.com/Hitem3D) - Platform for AI-powered 3D model generation
+
+• [MakerWorld Model Link](https://makerworld.com/zh/models/2239) - Link to the 3D model for printing
+
+• [Hitem3D Hashtag](https://x.com/hashtag/hitem3d?src=hashtag_click) - Community tag for Hitem3D creations
+
+• [3D Printing Hashtag](https://x.com/hashtag/3DPrinting?src=hashtag_click) - General tag for 3D printing discussions
+
+• [AI 3D Hashtag](https://x.com/hashtag/AI3D?src=hashtag_click) - Tag for AI in 3D modeling
+
+• [MakerWorld Hashtag](https://x.com/hashtag/makerworld?src=hashtag_click) - Community tag for MakerWorld platform
+
+![Image](https://pbs.twimg.com/media/HCNjv8FagAAPOgm?format=jpg&name=360x360)
+
+![Image](https://pbs.twimg.com/media/HCNj0KObEAAmF52?format=jpg&name=360x360)
+
+![Image](https://pbs.twimg.com/media/HCNksLrbEAQ7sMB?format=jpg&name=360x360)
+
+![Image](https://pbs.twimg.com/media/HCNlFIua0AAUM3I?format=jpg&name=360x3D40)
+
+---
+### ✨ AI Video Effect - Higgsfield Soul 2.0 Preset
+
+This article introduces SOUL 2.0, a surreal solarization preset for video effects, showcasing how it alters visual light and evokes emotional responses. It highlights the creative capabilities of the Higgsfield_Soul2 tool.
+
+Key Points:
+
+• Presents SOUL 2.0 as a unique surreal solarization preset.
+
+• Highlights its ability to transform visual light and create emotional impact.
+
+• Created using the Higgsfield_Soul2 tool for distinct video aesthetics.
+
+🚀 Implementation:
+1. Access Higgsfield_Soul2: Utilize the specified AI creative tool.
+2. Apply Soul 2.0 Preset: Select and apply the surreal solarization effect.
+3. Generate Output: Create videos with the distinctive visual style.
+
+🔗 Resources:
+
+• [Higgsfield Creo](https://x.com/higgsfield_creo) - Creator platform for AI video effects
+
+• [Accept5320](https://x.com/accept5320) - User showcasing video effects
+
+• [Higgsfield Soul2 Hashtag](https://x.com/hashtag/Higgsfield_Soul2?src=hashtag_click) - Tag for Higgsfield Soul2 creations
+
+![Image](https://pbs.twimg.com/media/HBxGQyVbsAArXVa?format=jpg&name=small)
+
+![Image](https://pbs.twimg.com/amplify_video_thumb/2024560592208416768/img/4wyJnoE1rvB_4PI9?format=jpg&name=240x240)
+
+---
+### 🚀 AI Video Generation - Kling AI 3.0 Rollout
+
+This article announces the upcoming full rollout of Kling 3.0, a significant update to the AI video generation platform, acknowledging its community's support and top market position. It emphasizes empowering users in video creation.
+
+Key Points:
+
+• Kling AI has achieved a top market ranking.
+
+• The full rollout of Kling 3.0 is anticipated soon.
+
+• The platform aims to empower every user to become a director.
+
+🚀 Implementation:
+1. Anticipate Kling 3.0: Prepare for the release of the updated AI video generation model.
+2. Access New Features: Explore enhanced capabilities upon full rollout.
+3. Create Advanced Videos: Utilize Kling 3.0 to produce director-level content.
+
+🔗 Resources:
+
+• [Kling AI](https://x.com/Kling_ai) - Platform for advanced AI video generation
+
+• [Artificial Anlys](https://x.com/ArtificialAnlys/status/2027453094322442420) - Account showcasing AI analysis and tools
+
+![Image](https://pbs.twimg.com/media/HCL0y0Pa8AAP1BM?format=jpg&name=small)
+
+---
+### 💡 AI E-commerce Tool - Visionati Product Descriptions
+
+This article introduces the Visionati Shopify app, designed to automate product description generation for e-commerce stores using AI, based on product images. It highlights the app's efficiency and customizable options.
+
+Key Points:
+
+• Visionati app generates product descriptions directly from images.
+
+• Users can select their preferred AI model and language.
+
+• The tool supports bulk generation for efficient store management.
+
+🚀 Implementation:
+1. Install Visionati App: Add the Visionati app to your Shopify store.
+2. Upload Product Images: Ensure product images are available for analysis.
+3. Configure Settings: Choose AI model and target language.
+4. Generate Descriptions: Initiate the AI to write product descriptions.
+
+🔗 Resources:
+
+• [Visionati](https://x.com/visionati) - Developer of the Shopify AI app
+
+• [Visionati Shopify App](https://t.co/5h05dxHYML) - Direct link to the app on Shopify
+
+---
+
+
+---
+
+### ⭐️ Support
+
+If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
+
+---
