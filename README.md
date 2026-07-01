@@ -26,59 +26,59 @@
 
 ### CS Academics
 
-*   [Latest Update (#232)](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-232.md) - *Resources related to CS Academics*
+*   [Latest Update (#233)](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-233.md) - *Resources related to CS Academics*
 
 ### Devs, Designers, DevRel
 
-*   [Latest Update (#221)](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-221.md) - *Resources related to Devs, Designers, DevRel*
+*   [Latest Update (#222)](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-222.md) - *Resources related to Devs, Designers, DevRel*
 
 ### Tech VIPs
 
-*   [Latest Update (#217)](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-217.md) - *Resources related to Tech VIPs*
+*   [Latest Update (#218)](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-218.md) - *Resources related to Tech VIPs*
 
 ### VC Firms
 
-*   [Latest Update (#216)](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-216.md) - *Resources related to VC Firms*
+*   [Latest Update (#217)](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-217.md) - *Resources related to VC Firms*
 
 ### AI Developer Tools
 
-*   [Latest Update (#213)](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-213.md) - *Resources related to AI Developer Tools*
+*   [Latest Update (#214)](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-214.md) - *Resources related to AI Developer Tools*
 
 ### AI Education
 
-*   [Latest Update (#215)](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-215.md) - *Resources related to AI Education*
+*   [Latest Update (#216)](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-216.md) - *Resources related to AI Education*
 
 ### AI Artists and Creators
 
-*   [Latest Update (#215)](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-215.md) - *Resources related to AI Artists and Creators*
+*   [Latest Update (#216)](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-216.md) - *Resources related to AI Artists and Creators*
 
 ### AI Companies and Ventures
 
-*   [Latest Update (#212)](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-212.md) - *Resources related to AI Companies and Ventures*
+*   [Latest Update (#213)](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-213.md) - *Resources related to AI Companies and Ventures*
 
 ### AI Consulting and Expertise
 
-*   [Latest Update (#210)](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-210.md) - *Resources related to AI Consulting and Expertise*
+*   [Latest Update (#211)](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-211.md) - *Resources related to AI Consulting and Expertise*
 
 ### AI in Enterprise Applications
 
-*   [Latest Update (#208)](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-208.md) - *Resources related to AI in Enterprise Applications*
+*   [Latest Update (#209)](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-209.md) - *Resources related to AI in Enterprise Applications*
 
 ### AI Powered Film and Media
 
-*   [Latest Update (#205)](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-205.md) - *Resources related to AI Powered Film and Media*
+*   [Latest Update (#206)](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-206.md) - *Resources related to AI Powered Film and Media*
 
 ### AI Holodeck and Virtual Worlds
 
-*   [Latest Update (#204)](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-204.md) - *Resources related to AI Holodeck and Virtual Worlds*
+*   [Latest Update (#205)](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-205.md) - *Resources related to AI Holodeck and Virtual Worlds*
 
 ### AI Leaders and Thinkers
 
-*   [Latest Update (#202)](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-202.md) - *Resources related to AI Leaders and Thinkers*
+*   [Latest Update (#203)](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-203.md) - *Resources related to AI Leaders and Thinkers*
 
 ### AI in Healthcare and Science
 
-*   [Latest Update (#204)](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-204.md) - *Resources related to AI in Healthcare and Science*
+*   [Latest Update (#205)](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-205.md) - *Resources related to AI in Healthcare and Science*
 
 ### AI Generated Music and Audio
 
