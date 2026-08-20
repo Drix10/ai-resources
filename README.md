@@ -26,67 +26,59 @@
 
 ### AI Developer Tools
 
-*   [Latest Update (#242)](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-242.md) - *Resources related to AI Developer Tools*
+*   [Latest Update (#246)](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-246.md) - *Resources related to AI Developer Tools*
 
 ### AI Leaders and Thinkers
 
-*   [Latest Update (#238)](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-238.md) - *Resources related to AI Leaders and Thinkers*
+*   [Latest Update (#239)](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-239.md) - *Resources related to AI Leaders and Thinkers*
 
 ### AI Companies and Ventures
 
-*   [Latest Update (#240)](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-240.md) - *Resources related to AI Companies and Ventures*
+*   [Latest Update (#241)](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-241.md) - *Resources related to AI Companies and Ventures*
 
 ### CS Academics
 
-*   [Latest Update (#264)](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-264.md) - *Resources related to CS Academics*
+*   [Latest Update (#265)](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-265.md) - *Resources related to CS Academics*
 
 ### Tech VIPs
 
-*   [Latest Update (#248)](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-248.md) - *Resources related to Tech VIPs*
+*   [Latest Update (#249)](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-249.md) - *Resources related to Tech VIPs*
 
 ### VC Firms
 
-*   [Latest Update (#245)](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-245.md) - *Resources related to VC Firms*
+*   [Latest Update (#246)](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-246.md) - *Resources related to VC Firms*
 
 ### Devs, Designers, DevRel
 
-*   [Latest Update (#251)](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-251.md) - *Resources related to Devs, Designers, DevRel*
+*   [Latest Update (#252)](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-252.md) - *Resources related to Devs, Designers, DevRel*
 
 ### Tech Infrastructure
 
-*   [Latest Update (#225)](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-225.md) - *Resources related to Tech Infrastructure*
+*   [Latest Update (#226)](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-226.md) - *Resources related to Tech Infrastructure*
 
 ### Founders and Entrepreneurs
 
-*   [Latest Update (#223)](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-223.md) - *Resources related to Founders and Entrepreneurs*
+*   [Latest Update (#224)](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-224.md) - *Resources related to Founders and Entrepreneurs*
 
 ### AI Organizations and Media
 
-*   [Latest Update (#238)](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-238.md) - *Resources related to AI Organizations and Media*
+*   [Latest Update (#239)](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-239.md) - *Resources related to AI Organizations and Media*
 
 ### AI Powered Film and Media
 
-*   [Latest Update (#232)](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-232.md) - *Resources related to AI Powered Film and Media*
+*   [Latest Update (#233)](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-233.md) - *Resources related to AI Powered Film and Media*
 
 ### AI Holodeck and Virtual Worlds
 
-*   [Latest Update (#231)](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-231.md) - *Resources related to AI Holodeck and Virtual Worlds*
-
-### AI Leaders and Thinkers
-
-*   [Latest Update (#238)](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-238.md) - *Resources related to AI Leaders and Thinkers*
+*   [Latest Update (#232)](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-232.md) - *Resources related to AI Holodeck and Virtual Worlds*
 
 ### AI in Healthcare and Science
 
-*   [Latest Update (#231)](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-231.md) - *Resources related to AI in Healthcare and Science*
+*   [Latest Update (#232)](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-232.md) - *Resources related to AI in Healthcare and Science*
 
 ### AI Generated Music and Audio
 
 *   [Latest Update (#230)](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-230.md) - *Resources related to AI Generated Music and Audio*
-
-### AI Organizations and Media
-
-*   [Latest Update (#238)](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-238.md) - *Resources related to AI Organizations and Media*
 
 ### AI Professionals and Community
 
@@ -139,14 +131,6 @@
 ### The Exponential Future
 
 *   [Latest Update (#214)](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-214.md) - *Resources related to The Exponential Future*
-
-### Founders and Entrepreneurs
-
-*   [Latest Update (#223)](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-223.md) - *Resources related to Founders and Entrepreneurs*
-
-### Tech Infrastructure
-
-*   [Latest Update (#225)](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-225.md) - *Resources related to Tech Infrastructure*
 
 ### Interesting Finds
 
