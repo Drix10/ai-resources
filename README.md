@@ -90,11 +90,11 @@
 
 ### AI in Real Estate and Property Tech
 
-*   [Latest Update (#227)](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-227.md) - *Resources related to AI in Real Estate and Property Tech*
+*   [Latest Update (#228)](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-228.md) - *Resources related to AI in Real Estate and Property Tech*
 
 ### AI and Robotics Applications
 
-*   [Latest Update (#226)](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-226.md) - *Resources related to AI and Robotics Applications*
+*   [Latest Update (#227)](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-227.md) - *Resources related to AI and Robotics Applications*
 
 ### AI Driven Vehicles and Transportation
 
@@ -102,15 +102,15 @@
 
 ### AI for Content Creation and Marketing
 
-*   [Latest Update (#222)](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-222.md) - *Resources related to AI for Content Creation and Marketing*
+*   [Latest Update (#223)](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-223.md) - *Resources related to AI for Content Creation and Marketing*
 
 ### AR VR Companies and Development
 
-*   [Latest Update (#221)](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-221.md) - *Resources related to AR VR Companies and Development*
+*   [Latest Update (#222)](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-222.md) - *Resources related to AR VR Companies and Development*
 
 ### AR VR Professionals and Community
 
-*   [Latest Update (#217)](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-217.md) - *Resources related to AR VR Professionals and Community*
+*   [Latest Update (#218)](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-218.md) - *Resources related to AR VR Professionals and Community*
 
 ### Climate and Weather Technology
 
@@ -118,7 +118,7 @@
 
 ### Computer Vision and AI Applications
 
-*   [Latest Update (#220)](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-220.md) - *Resources related to Computer Vision and AI Applications*
+*   [Latest Update (#221)](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-221.md) - *Resources related to Computer Vision and AI Applications*
 
 ### Crypto and Web3
 
@@ -130,11 +130,11 @@
 
 ### The Exponential Future
 
-*   [Latest Update (#216)](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-216.md) - *Resources related to The Exponential Future*
+*   [Latest Update (#217)](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-217.md) - *Resources related to The Exponential Future*
 
 ### Interesting Finds
 
-*   [Latest Update (#215)](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-215.md) - *Resources related to Interesting Finds*
+*   [Latest Update (#216)](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-216.md) - *Resources related to Interesting Finds*
 
 ### Investors and Venture Capital
 
@@ -146,7 +146,7 @@
 
 ### Neuroscience and AI
 
-*   [Latest Update (#199)](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-199.md) - *Resources related to Neuroscience and AI*
+*   [Latest Update (#200)](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-200.md) - *Resources related to Neuroscience and AI*
 
 ### PR and Communications
 
@@ -154,11 +154,11 @@
 
 ### Quantum Computing
 
-*   [Latest Update (#199)](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-199.md) - *Resources related to Quantum Computing*
+*   [Latest Update (#200)](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-200.md) - *Resources related to Quantum Computing*
 
 ### Spatial Computing
 
-*   [Latest Update (#197)](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-197.md) - *Resources related to Spatial Computing*
+*   [Latest Update (#198)](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-198.md) - *Resources related to Spatial Computing*
 
 ### Tech Companies and News
 
