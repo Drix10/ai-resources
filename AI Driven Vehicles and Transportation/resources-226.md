@@ -7,15 +7,10 @@ Key Points:
 • Cursor will continue to increase compute to support Claude models.
 • The partnership is expected to expand in the future.
 
-### 🚀 Implementation:
-
-1. No specific implementation steps are provided in the source.
-
 ### 🔗 Resources:
 • [Original post](https://x.com/NotTomBrown/status/2093541294027280657) - Original source
 • [Cursor](https://x.com/RLanceMartin) - Cursor
-• [Anthropic](https://x.com/NotTomBrown) - Anthropic
-• [Cursor](https://x.com/NotTomBrown) - Cursor
+• [Cursor](https://x.com/RLanceMartin) - Cursor
 • [Anthropic](https://x.com/NotTomBrown) - Anthropic
 
 ---
@@ -28,10 +23,6 @@ Key Points:
 • The future of automotive is about software-defined vehicles and supporting organizations.
 • Industry experts discuss overcoming legacy processes.
 • Navigating the shift to software-defined vehicles is crucial.
-
-### 🚀 Implementation:
-
-1. No specific implementation steps are provided in the source.
 
 ### 🔗 Resources:
 • [Original post](https://x.com/QNX_News/status/2093359840752017728) - Original source
@@ -51,10 +42,6 @@ Key Points:
 • The event is expected to open on September 19.
 • This marks a significant milestone for Waymo.
 
-### 🚀 Implementation:
-
-1. No specific implementation steps are provided in the source.
-
 ### 🔗 Resources:
 • [Original post](https://x.com/guidaautonoma/status/2093360488759386422) - Original source
 • [Waymo](https://x.com/Waymo) - Waymo
@@ -72,10 +59,6 @@ Key Points:
 • The Arc Sport's electric power is about speed and system approach.
 • The system approach results in smoother acceleration and a more consistent wake.
 • The boat gets smarter over time.
-
-### 🚀 Implementation:
-
-1. No specific implementation steps are provided in the source.
 
 ### 🔗 Resources:
 • [Original post](https://x.com/ArcBoats/status/2093122959645004275) - Original source
@@ -95,10 +78,6 @@ Key Points:
 • The system did not fall back to the small model.
 • The system prompted the user to wait until it was fully loaded.
 
-### 🚀 Implementation:
-
-1. No specific implementation steps are provided in the source.
-
 ### 🔗 Resources:
 • [Original post](https://x.com/ANSR42/status/2092672465961197941) - Original source
 • [ANSR42](https://x.com/ANSR42) - ANSR42
@@ -116,10 +95,6 @@ Key Points:
 • The author tested openpilot 0.11.2 on sunnypilot.
 • The system could not identify the author's car.
 • The issue was likely due to a fingerprint problem.
-
-### 🚀 Implementation:
-
-1. No specific implementation steps are provided in the source.
 
 ### 🔗 Resources:
 • [Original post](https://x.com/ANSR42/status/2092672477831037283) - Original source
@@ -139,10 +114,6 @@ Key Points:
 • The partnership aims to deliver one million drones per day by 2029.
 • DoorDash is building its own drone platform.
 
-### 🚀 Implementation:
-
-1. No specific implementation steps are provided in the source.
-
 ### 🔗 Resources:
 • [Original post](https://x.com/ARKInvest/status/2092625512023683295) - Original source
 • [ARK Invest](https://x.com/TashaARK) - ARK Invest
@@ -161,14 +132,8 @@ Key Points:
 • Raines brings extensive leadership experience.
 • The experience spans agriculture, technology, and digital transformation.
 
-### 🚀 Implementation:
-
-1. No specific implementation steps are provided in the source.
-
 ### 🔗 Resources:
 • [Original post](https://x.com/SabantoAg/status/2092601042764501008) - Original source
-• [Sabanto](https://x.com/SabantoAg) - Sabanto
-• [Sabanto](https://x.com/SabantoAg) - Sabanto
 • [Sabanto](https://x.com/SabantoAg) - Sabanto
 • [Sabanto Press Release](https://t.co/Oa7CGuv1Nt) - Sabanto Press Release
 
