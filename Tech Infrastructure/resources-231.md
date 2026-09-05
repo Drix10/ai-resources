@@ -164,3 +164,18 @@ Key Points:
 • Gartner (https://www.gartner.com/) - Gartner website
 • AI transformation (https://www.gartner.com/en/information-technology/insights/artificial-intelligence) - AI transformation Gartner page
 • Workforce transformation (https://www.gartner.com/en/information-technology/insights/workforce-transformation) - Workforce transformation Gartner page
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Tech Infrastructure #231" on blogs.drix10.com](https://blogs.drix10.com/articles/tech-infrastructure/resources-231)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/tech-infrastructure/resources-231](https://blogs.drix10.com/articles/tech-infrastructure/resources-231)
+- **GitHub Source File**: [Tech Infrastructure/resources-231.md](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-231.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

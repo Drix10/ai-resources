@@ -148,3 +148,18 @@ Key Points:
 • [Original post](https://x.com/hirokonishimura/status/2094758927103611359) - Original post
 • [Study](https://visualcapitalist.com/the-income-an-individual-needs-to-live-comfortably-in-every-state-in-2026/) - Study
 • [Study](https://visualcapitalist.com/mapped-the-income-a-family-needs-to-live-comfortably-in-every-u-s-state-2/) - Study
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Tech Infrastructure #230" on blogs.drix10.com](https://blogs.drix10.com/articles/tech-infrastructure/resources-230)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/tech-infrastructure/resources-230](https://blogs.drix10.com/articles/tech-infrastructure/resources-230)
+- **GitHub Source File**: [Tech Infrastructure/resources-230.md](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-230.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

@@ -130,3 +130,18 @@ Key Points:
 🔗 Resources:
 • [Original source](https://x.com/MTSlive/status/2093125573900177776) - Original source
 • [Hugging Face](https://huggingface.co/) - Hugging Face website
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Tech Companies and News #200" on blogs.drix10.com](https://blogs.drix10.com/articles/tech-companies-and-news/resources-200)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/tech-companies-and-news/resources-200](https://blogs.drix10.com/articles/tech-companies-and-news/resources-200)
+- **GitHub Source File**: [Tech Companies and News/resources-200.md](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-200.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

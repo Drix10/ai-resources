@@ -169,3 +169,18 @@ Key Points:
 ### 🔗 Resources:
 • [Original post URL](https://x.com/verge/status/2095286756325425193) - Original source
 • [Autonomous vehicles](https://www.theverge.com/transportation/2023/2/20/23608818/autonomous-vehicles-lidar-geofence) - Autonomous vehicles overview
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Spatial Computing #202" on blogs.drix10.com](https://blogs.drix10.com/articles/spatial-computing/resources-202)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/spatial-computing/resources-202](https://blogs.drix10.com/articles/spatial-computing/resources-202)
+- **GitHub Source File**: [Spatial Computing/resources-202.md](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-202.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

@@ -210,35 +210,23 @@ Key Points:
 
 
 ---
-### 🤖 NBA Player Tracking - Computer Vision Project
-
-This article discusses a computer vision project focused on mapping NBA players' positions from a camera perspective onto a court map.  Future development involves detecting shooting motions and marking shot locations.
-
-Key Points:
-
-• Mapping player positions onto a court.
-
-
-• Future implementation of shot detection.
-
-
-• Code migration to Roboflow's GitHub repository.
-
-
-![Image](https://pbs.twimg.com/amplify_video_thumb/1927030360740593664/img/-DhqIiFoFBbfOZ87.jpg)
-
-🔗 Resources:
-
-• [Roboflow GitHub](https://github.com/roboflow/sports) - Project code
-
-
-• [Skalskip92's Tweet](https://x.com/skalskip92/status/1927035196928340046) - NBA player tracking project
-
-
----
-
 ### ⭐️ Support
 
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Spatial Computing #60" on blogs.drix10.com](https://blogs.drix10.com/articles/spatial-computing/resources-060)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/spatial-computing/resources-060](https://blogs.drix10.com/articles/spatial-computing/resources-060)
+- **GitHub Source File**: [Spatial Computing/resources-060.md](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-060.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

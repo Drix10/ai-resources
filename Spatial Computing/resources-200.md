@@ -139,3 +139,18 @@ Key Points:
 • [Original post](https://x.com/sxpstudio/status/2094464915381592322) - Original source
 • [Apple Under Tim](https://www.apple.com/about/tim-cook/) - Apple's page about Tim Cook
 • ![Apple Under Tim Image](https://www.apple.com/about/images/tim-cook-hero.jpg)
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Spatial Computing #200" on blogs.drix10.com](https://blogs.drix10.com/articles/spatial-computing/resources-200)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/spatial-computing/resources-200](https://blogs.drix10.com/articles/spatial-computing/resources-200)
+- **GitHub Source File**: [Spatial Computing/resources-200.md](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-200.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

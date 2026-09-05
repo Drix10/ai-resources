@@ -130,3 +130,18 @@ Key Points:
 🔗 Resources:
 • [Original post](https://x.com/sarthakgh/status/2094608452484043228) - Original source
 • [Immigration Reform](https://x.com/sarthakgh) - Wage-based system
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Tech Journalists and VIPs #201" on blogs.drix10.com](https://blogs.drix10.com/articles/tech-journalists-and-vips/resources-201)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/tech-journalists-and-vips/resources-201](https://blogs.drix10.com/articles/tech-journalists-and-vips/resources-201)
+- **GitHub Source File**: [Tech Journalists and VIPs/resources-201.md](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-201.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

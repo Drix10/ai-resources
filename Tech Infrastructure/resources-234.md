@@ -124,3 +124,18 @@ Autonomous cars are becoming increasingly popular, with companies like Tesla lea
 
 🔗 Resources:
 • [Original post](https://x.com/wintonARK/status/2096137957791121464) - Original post
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Tech Infrastructure #234" on blogs.drix10.com](https://blogs.drix10.com/articles/tech-infrastructure/resources-234)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/tech-infrastructure/resources-234](https://blogs.drix10.com/articles/tech-infrastructure/resources-234)
+- **GitHub Source File**: [Tech Infrastructure/resources-234.md](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-234.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)
