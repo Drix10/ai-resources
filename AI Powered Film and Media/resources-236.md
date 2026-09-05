@@ -162,3 +162,18 @@ Key Points:
 • [oiioxford](https://x.com/oiioxford) - Twitter handle
 • [CJ_Ohman](https://x.com/CJ_Ohman) - Twitter handle
 • ![Image](https://pbs.twimg.com/media/HRSLrMoa0AAEoVS?format=jpg&name=small) - Image
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "AI Powered Film and Media #236" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-powered-film-and-media/resources-236)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-powered-film-and-media/resources-236](https://blogs.drix10.com/articles/ai-powered-film-and-media/resources-236)
+- **GitHub Source File**: [AI Powered Film and Media/resources-236.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-236.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

@@ -153,3 +153,18 @@ Key Points:
 • [The past 24 hours in AI: • Supabase says ChatGPT sign-in is now a top login method • The Hugging Face incident reportedly had multiple agent waves • A primer maps LLMs, reasoning models and agents, plus Python setup with uv](https://x.com/nocodemba/status/2094456868412490183) - Original update
 • [nocode.mba](https://x.com/nocodemba) - Author of the update
 • ![Image](https://pbs.twimg.com/media/HREBOjybkAAJDZM?format=jpg&name=small) - Screenshot of the update
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "AI Organizations and Media #243" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-organizations-and-media/resources-243)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-organizations-and-media/resources-243](https://blogs.drix10.com/articles/ai-organizations-and-media/resources-243)
+- **GitHub Source File**: [AI Organizations and Media/resources-243.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-243.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)
