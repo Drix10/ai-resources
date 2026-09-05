@@ -1,41 +1,3 @@
-### ✨ NBA Highlights - Trae Young's Wizards Debut
-
-This article captures a significant moment for Trae Young as he scores his first basket playing for the Washington Wizards. It highlights the immediate impact of his presence on the team.
-
-Key Points:
-
-• Trae Young's first basket marks a new chapter with the Wizards.
-
-• The highlight demonstrates the player's offensive capabilities.
-
-• This event generates early excitement for the team's season.
-
-🔗 Resources:
-
-• [NBA on X](https://x.com/NBA) - Official NBA updates and highlights
-
-![Image](https://pbs.twimg.com/amplify_video_thumb/2029712175720226816/img/cgzRZe6xGKz4d39C.jpg)
-
----
-### 🚀 NBA Viewing - Live Game Access
-
-This article provides instructions on how to access and watch a live NBA game between the Utah Jazz and the Washington Wizards. It ensures fans can easily tune into the action.
-
-Key Points:
-
-• Access live NBA games conveniently through the official platform.
-
-• Stay updated with real-time basketball action from various devices.
-
-• Utilize designated resources for seamless game viewing experience.
-
-🔗 Resources:
-
-• [NBA How to Watch Games](https://www.nba.com/how-to-watch-games) - Official guide for viewing NBA games
-
-• [NBA on X](https://x.com/NBA) - Official NBA updates and highlights
-
----
 ### 💡 Celebrity Stories - Billy Porter's Chilling Account
 
 This article references a compelling story shared by Billy Porter, detailing a profound personal experience. It provides access to the full narrative for interested readers.
@@ -106,27 +68,6 @@ Key Points:
 • [BuzzFeed on X](https://x.com/BuzzFeed) - Latest updates from BuzzFeed
 
 ---
-### 💡 NBA Analysis - Kia Rookie Ladder
-
-This article directs readers to the latest Kia Rookie Ladder, providing expert analysis and rankings of current NBA rookies. It offers insights into emerging talent in the league.
-
-Key Points:
-
-• Access current rankings and analysis of NBA rookie performances.
-
-• Stay informed on the progress and impact of top new players.
-
-• Gain expert insights from recognized NBA analysts like @AschNBA.
-
-🔗 Resources:
-
-• [Kia Rookie Ladder](https://t.co/LK1RowSCEd) - Latest rankings and analysis of NBA rookies
-
-• [NBA on X](https://x.com/NBA) - Official NBA updates and highlights
-
-• [AschNBA on X](https://x.com/AschNBA) - NBA analyst account
-
----
 ### 💡 Cultural Cuisine - Oxtail Taste Wars
 
 This article introduces a "Taste Wars" segment focusing on a culinary comparison of Jamaican and Black cultural approaches to preparing oxtail. It highlights a cultural food exploration.
@@ -171,46 +112,23 @@ Key Points:
 ![Image](https://pbs.twimg.com/tweet_video_thumb/HCl_Q08WkAA7Ww5.jpg)
 
 ---
-### ✨ NBA Highlights - LeBron James Slam
-
-This article describes a perfectly executed transition play in an NBA game, culminating in a powerful slam dunk by LeBron James. It highlights teamwork and individual athletic prowess.
-
-Key Points:
-
-• A smart steal initiates a textbook fast break transition.
-
-• Collaborative passing leads to an open scoring opportunity.
-
-• LeBron James executes a statement slam dunk.
-
-🔗 Resources:
-
-• [NBA on X](https://x.com/NBA) - Official NBA updates and highlights
-
----
-### 🚀 NBA Viewing - Fourth Quarter Access
-
-This article provides direct access to watch the fourth quarter of an ongoing NBA game. It ensures viewers can quickly tune in for the crucial final moments of the match.
-
-Key Points:
-
-• Access live NBA game action, specifically the final quarter.
-
-• Stay updated with critical late-game developments.
-
-• Utilize official channels for reliable sports broadcasting.
-
-🔗 Resources:
-
-• [NBA How to Watch Games](https://www.nba.com/how-to-watch-games) - Official guide for viewing NBA games
-
-• [NBA on X](https://x.com/NBA) - Official NBA updates and highlights
-
-
----
-
 ### ⭐️ Support
 
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "CS Academics #175" on blogs.drix10.com](https://blogs.drix10.com/articles/cs-academics/resources-175)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/cs-academics/resources-175](https://blogs.drix10.com/articles/cs-academics/resources-175)
+- **GitHub Source File**: [CS Academics/resources-175.md](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-175.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

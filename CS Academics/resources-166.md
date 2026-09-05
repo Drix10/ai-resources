@@ -1,23 +1,3 @@
-### 💡 Sports Broadcasting - Live Game Access
-
-This article provides details on how to watch the live NBA game between the Mavericks and Lakers, featuring LeBron James. It outlines the platform for streaming the event.
-
-Key Points:
-
-• Watch the Mavericks vs. Lakers game live on Prime Video.
-
-• Access the live broadcast through the NBA's official viewing guide.
-
-• Experience top-tier NBA action from any compatible device.
-
-
-🔗 Resources:
-
-• [NBA How to Watch](https://www.nba.com/how-to-watch-games) - Guide for accessing NBA live games
-
-![Image](https://pbs.twimg.com/amplify_video_thumb/2022145266690965504/img/vLGoaVGPYi8Svj-O.jpg)
-
----
 ### 💡 Home Decor - Affordable Enhancements
 
 This article identifies a selection of affordable products from Walmart designed to elevate home aesthetics and impress guests. It focuses on cost-effective home improvement solutions.
@@ -34,34 +14,6 @@ Key Points:
 🔗 Resources:
 
 • [BuzzFeed Article](https://www.buzzfeed.com/buzzfeed/30-products-from-walmart-thatll-make-your-friends-think-wow-your-place-looks-so-nice) - Curated list of home decor items from Walmart
-
----
-### 💡 Basketball Techniques - Advanced Offensive Moves
-
-This article describes a specific sequence of advanced basketball offensive techniques used to create scoring opportunities near the basket. It outlines a four-step maneuver.
-
-Key Points:
-
-• Execute a fake shot to deceive defenders.
-
-• Utilize a step-through move for improved positioning.
-
-• Employ the backboard to set up a powerful dunk.
-
-• Conclude the sequence with a decisive slam.
-
-
-🚀 Implementation:
-1. Fake a shot to draw the defender out of position.
-2. Perform a step-through move to gain an advantage under the basket.
-3. Throw the ball off the backboard to yourself.
-4. Slam the ball down to score.
-
-🔗 Resources:
-
-![Image](https://pbs.twimg.com/amplify_video_thumb/2022142325213081601/img/AhHL_TFGGnwVbmW9.jpg)
-
-![Image](https://pbs.twimg.com/amplify_video_thumb/2022141796529102848/img/y1kkUTTGCddkgBG?format=jpg&name=240x240)
 
 ---
 ### 🤖 AI in Material Science - Semiconductor Optimization
@@ -94,48 +46,6 @@ Key Points:
 🔗 Resources:
 
 ![Image](https://pbs.twimg.com/amplify_video_thumb/2022007508106452992/img/yB6jIVaOvSzxU2q4.jpg)
-
----
-### ✨ Sports Recap - Game Highlights and Player Performance
-
-This article summarizes the final scores of a recent NBA game, highlighting Nikola Jokić's triple-double streak and other key player statistics from the Denver Nuggets' victory.
-
-Key Points:
-
-• Nikola Jokić achieved his fourth consecutive triple-double.
-
-• The Denver Nuggets secured a victory in their home game.
-
-• Jamal Murray contributed significantly with 23 points, 6 rebounds, and 7 assists.
-
-• Tim Hardaway Jr. added 21 points, including four three-pointers.
-
-
-🔗 Resources:
-
-![Image](https://pbs.twimg.com/media/HA7_L4QaIAAOWCe?format=jpg&name=small)
-
-![Image](https://pbs.twimg.com/media/HA7-kcraMAAOzaV?format=jpg&name=240x240)
-
----
-### ✨ Sports Recap - Team Victory and Player Statistics
-
-This article presents the final scores of an NBA game, detailing how Lauri Markkanen led the Utah Jazz to victory and noting contributions from other team members.
-
-Key Points:
-
-• Lauri Markkanen guided the Utah Jazz to a decisive victory.
-
-• Jaren Jackson Jr. contributed 23 points for the team.
-
-• Brice Sensabaugh scored 19 points, including three three-pointers.
-
-
-🔗 Resources:
-
-![Image](https://pbs.twimg.com/media/HA7-kcraMAAOzaV?format=jpg&name=small)
-
-![Image](https://pbs.twimg.com/media/HA793zJXEAAf3wl?format=jpg&name=240x240)
 
 ---
 ### 💡 Current Events - Incident Report
@@ -176,32 +86,23 @@ Key Points:
 ![Image](https://pbs.twimg.com/media/HA6bs9WbsAEJe7B?format=jpg&name=small)
 
 ---
-### ✨ Product Showcase - NBA All-Star Collection
-
-This article introduces the 2026 Wilson Basketball NBA All-Star Collection, which celebrates the City of Angels with its unique, star-inspired designs. It details the collection's availability.
-
-Key Points:
-
-• Explore the 2026 Wilson Basketball NBA All-Star Collection.
-
-• Designs pay tribute to Los Angeles, the City of Angels.
-
-• Features original, star-powered aesthetics on basketball gear.
-
-• Available for purchase directly from Wilson.com.
-
-
-🔗 Resources:
-
-• [Wilson Basketball](https://www.wilson.com/en-us/basketball/nba-gear) - Shop the 2026 NBA All-Star Collection
-
-![Image](https://pbs.twimg.com/media/HA484RUXMAAm8P4?format=jpg&name=small)
-
-
----
-
 ### ⭐️ Support
 
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "CS Academics #166" on blogs.drix10.com](https://blogs.drix10.com/articles/cs-academics/resources-166)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/cs-academics/resources-166](https://blogs.drix10.com/articles/cs-academics/resources-166)
+- **GitHub Source File**: [CS Academics/resources-166.md](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-166.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

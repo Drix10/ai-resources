@@ -138,24 +138,6 @@ Key Points:
 
 ---
 
-### 🎾 Sports Events - Audience Engagement & Scheduling
-
-Mark Ein, owner of the DC Tournament, expressed appreciation for the Filipino community's interest in tennis, particularly around player Alex Eala. He also detailed the complex process involved in tournament scheduling.
-
-Key Points:
-
-• Mark Ein noted significant Filipino interest in the DC Tennis Tournament.
-
-• 80% of ticket inquiries related to Alex Eala's schedule.
-
-• Tournament scheduling involves complex logistical considerations.
-
-🔗 Resources:
-• [Dyan Castillejo](https://x.com/DYANCASTILLEJO) - X account of the reporter.
-![Video Thumbnail](https://pbs.twimg.com/amplify_video_thumb/2083004037461610496/img/HeSkCpB8yD2TiNJE.jpg)
-
----
-
 ### 🤖 AI in Software Engineering - Code Quality Audits
 
 This post discusses the use of AI to perform code quality audits on a large codebase of 20,000 lines. The team claims the AI achieves a quality level comparable to human audits for this scope, suggesting AI can handle review tasks beyond human capacity.
@@ -180,3 +162,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Crypto and Web3 #206" on blogs.drix10.com](https://blogs.drix10.com/articles/crypto-and-web3/resources-206)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/crypto-and-web3/resources-206](https://blogs.drix10.com/articles/crypto-and-web3/resources-206)
+- **GitHub Source File**: [Crypto and Web3/resources-206.md](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-206.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

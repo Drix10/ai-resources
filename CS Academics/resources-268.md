@@ -127,3 +127,18 @@ Key Points:
 • https://x.com/BuzzFeed/status/2094580998885552614 - Original post URL
 • https://x.com/BuzzFeed - BuzzFeed's Twitter handle
 • https://t.co/bfgi0SXrXo - Link to the article about celebrity moments
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "CS Academics #268" on blogs.drix10.com](https://blogs.drix10.com/articles/cs-academics/resources-268)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/cs-academics/resources-268](https://blogs.drix10.com/articles/cs-academics/resources-268)
+- **GitHub Source File**: [CS Academics/resources-268.md](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-268.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

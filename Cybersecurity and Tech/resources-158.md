@@ -85,29 +85,6 @@ Key Points:
 ![Image](https://pbs.twimg.com/media/HHJAh9wXsAABVhj?format=jpg&name=900x900)
 
 ---
-### ✨ Sports Highlights - NHL Game Event
-
-This article captures a key moment from an NHL game, specifically an early rally in Raleigh. It highlights a notable play initiated by 'The Captain' during the match between the Flyers and the Hurricanes.
-
-Key Points:
-
-• Highlights a significant early play in an NHL game
-
-• Features an influential action by "The Captain"
-
-• Documents a notable event from the PHI vs CAR matchup
-
-🔗 Resources:
-
-• [InfoSecSherpa](https://x.com/InfoSecSherpa) - InfoSecSherpa X account
-• [NHLFlyers](https://x.com/NHLFlyers) - Official NHL Flyers X account
-• [NHLFlyers Game Tweet](https://x.com/NHLFlyers/status/2051442515350339848) - Original NHL Flyers game tweet
-• [#PHIvsCAR](https://x.com/hashtag/PHIvsCAR) - Hashtag for NHL game matchup
-• [#IgniteTheOrange](https://x.com/hashtag/IgniteTheOrange) - Team promotional hashtag
-
-![Image](https://pbs.twimg.com/media/HHgvrUPWIAExbu2.jpg)
-
----
 ### 💡 Cybersecurity Insights - Expert Interview
 
 This article highlights a recorded conversation featuring Chloé Messdaghi, a prominent figure in the cybersecurity community. The discussion aims to provide valuable insights into current industry trends and challenges.
@@ -216,3 +193,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Cybersecurity and Tech #158" on blogs.drix10.com](https://blogs.drix10.com/articles/cybersecurity-and-tech/resources-158)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/cybersecurity-and-tech/resources-158](https://blogs.drix10.com/articles/cybersecurity-and-tech/resources-158)
+- **GitHub Source File**: [Cybersecurity and Tech/resources-158.md](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-158.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

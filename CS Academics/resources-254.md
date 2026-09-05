@@ -1,110 +1,3 @@
-### 💡 WNBA History - Player Achievements
-
-Jonquel Jones achieved a historic milestone in the WNBA. She secured multiple MVP titles across various competitions.
-
-Key Points:
-
-• Jonquel Jones led Team Spoon to victory in Chicago.
-
-• She is the first WNBA player to win four distinct MVP awards.
-
-• Her awards include WNBA MVP (2021), Commissioner’s Cup MVP (2023), Finals MVP (2024), and WNBA All-Star MVP (2026).
-
-🔗 Resources:
-![Image](https://pbs.twimg.com/amplify_video_thumb/2081222246639509504/img/ERoDBzI5UmzQQ7dR.jpg)
-
----
-
-### 💡 WNBA All-Star - Player Fan Interaction
-
-Audi Crooks and Sarah Strong engaged with fans during the WNBA All-Star event. This highlights player involvement with the community.
-
-Key Points:
-
-• Audi Crooks and Sarah Strong interacted with fans.
-
-• This occurred at the WNBA All-Star event.
-
----
-
-### 💡 2026 WNBA All-Star Game - Attendance
-
-Several notable players were present at the 2026 ATT WNBA All-Star Game. Their attendance marked a point of interest for the event.
-
-Key Points:
-
-• Aaliyah Chavez was in attendance.
-
-• Jerzy Robinson also attended the event.
-
-• JuJu Watkins was present at the 2026 ATT WNBA All-Star Game.
-
-🔗 Resources:
-![Image](https://pbs.twimg.com/amplify_video_thumb/2081198161821941761/img/QTf858HR5y-xEUO-.jpg)
-
----
-
-### 💡 2026 Kia Shooting Stars - Team Seattle Score
-
-Team Seattle's first-round score in the 2026 Kia Shooting Stars competition was announced. The event aired live on ESPN.
-
-Key Points:
-
-• Team Seattle scored 26 points in the first round.
-
-• The event was the 2026 Kia Shooting Stars competition.
-
-• The competition was broadcast live on ESPN.
-
-🔗 Resources:
-![Image](https://pbs.twimg.com/amplify_video_thumb/2080809841400950784/img/KbSyKwQo_pdhMKWC.jpg)
-
----
-
-### 💡 2026 Kia Shooting Stars - Team Minnesota Score
-
-Team Minnesota achieved a first-round score in the 2026 Kia Shooting Stars event. The competition was available for live viewing on ESPN.
-
-Key Points:
-
-• Team Minnesota's first-round score was 19 points.
-
-• This occurred during the 2026 Kia Shooting Stars event.
-
-• The event was televised live on ESPN.
-
-🔗 Resources:
-![Image](https://pbs.twimg.com/profile_images/2081368225481211904/b_9m3621_normal.jpg)
-
----
-
-### 💡 Player Arrival - Paige Bueckers
-
-Paige Bueckers made her arrival. The context suggests this was for a WNBA event, as it's from the NBA account.
-
-Key Points:
-
-• Paige Bueckers arrived at an event.
-
-• The event context implies a WNBA gathering.
-
-🔗 Resources:
-![Image](https://pbs.twimg.com/amplify_video_thumb/2080430061220454400/img/89xGqXIxUQ1Mx3sU.jpg)
-
----
-
-### 💡 Studbudz - Chicago Event
-
-"studbudz" were present in Chicago. The context is minimal, originating from a Twitch account.
-
-Key Points:
-
-• "studbudz" were in Chicago.
-
-• The content originates from Twitch, suggesting a gaming or streaming event.
-
----
-
 ### 🤖 Gemini Spark - Google AI Pro Rollout
 
 Gemini Spark is now being released to Google AI Pro subscribers in the U.S. Future plans include expanding its availability to more countries.
@@ -143,21 +36,23 @@ Key Points:
 
 ---
 
-### 💡 NBA Summer League - 2026 Rookie Debuts
-
-The 2026 NBA Rookie class made their debuts during the NBA Summer League in Las Vegas. This provided an early look at new player performances.
-
-Key Points:
-
-• The 2026 Rookie class debuted in NBA Summer League.
-
-• The event took place in Las Vegas.
-
-
----
-
 ### ⭐️ Support
 
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "CS Academics #254" on blogs.drix10.com](https://blogs.drix10.com/articles/cs-academics/resources-254)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/cs-academics/resources-254](https://blogs.drix10.com/articles/cs-academics/resources-254)
+- **GitHub Source File**: [CS Academics/resources-254.md](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-254.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)
