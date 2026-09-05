@@ -160,3 +160,18 @@ Key Points:
 🔗 Resources:
 • [Original post URL](https://x.com/ArxivSound/status/2095769617843343444) - Original source
 • [Yuan Tian et al.](https://arxiv.org/abs/2203.10334) - Streamable and lightweight waveform-domain neural speech super-resolution
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "AI Generated Music and Audio #238" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-generated-music-and-audio/resources-238)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-generated-music-and-audio/resources-238](https://blogs.drix10.com/articles/ai-generated-music-and-audio/resources-238)
+- **GitHub Source File**: [AI Generated Music and Audio/resources-238.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-238.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

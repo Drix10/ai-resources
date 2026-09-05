@@ -140,3 +140,18 @@ Key Points:
 
 🔗 Resources:
 • [Original post](https://x.com/majorajay/status/2094611246079463616) - Original source
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "AI in Healthcare and Science #237" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-in-healthcare-and-science/resources-237)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-in-healthcare-and-science/resources-237](https://blogs.drix10.com/articles/ai-in-healthcare-and-science/resources-237)
+- **GitHub Source File**: [AI in Healthcare and Science/resources-237.md](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-237.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)
