@@ -91,31 +91,6 @@ Key Points:
 
 ---
 
-### ✨ Esports - LoL Pick'Em Challenge
-
-A platform is launching a League of Legends Pick'Em Challenge for the Esports World Cup. Users are invited to predict specific game outcomes for matches.
-
-Key Points:
-
-• A LoL Pick'Em Challenge is available for the Esports World Cup.
-
-• Participants predict outcomes for specific game events.
-
-• Key predictions include First Blood, First Dragon, and Game Length.
-
-🚀 Implementation:
-1. Select a match (e.g., SEN vs GEN).
-2. Predict First Blood outcome (SEN or GEN).
-3. Predict First Dragon outcome (SEN or GEN).
-4. Predict Game Length (Over or Under 30.5 min).
-5. Share your picks.
-
-🔗 Resources:
-• [Prophet Market AI on X](https://x.com/prophetmarketai) - Official Prophet Market AI X account
-![Image](https://pbs.twimg.com/media/HNSnf4EXoAAUWzd?format=jpg&name=small)
-
----
-
 ### ✨ Promise AI - Creative Story Development
 
 Promise AI is collaborating with filmmakers to develop original stories. This process involves pairing directors with established screenwriters to enhance content creation.
@@ -198,3 +173,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "AI Companies and Ventures #226" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-companies-and-ventures/resources-226)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-companies-and-ventures/resources-226](https://blogs.drix10.com/articles/ai-companies-and-ventures/resources-226)
+- **GitHub Source File**: [AI Companies and Ventures/resources-226.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-226.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

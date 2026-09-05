@@ -148,3 +148,18 @@ Key Points:
 • [Original post](https://x.com/ShubhamAg0x/status/2094426593477443851) - Original source
 • [WorldArchiveAI](https://x.com/worldarchiveai) - AI research
 • ![Image](https://pbs.twimg.com/media/HQ6kipHaoAAjvqy?format=jpg&name=small)
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "AI and Robotics Applications #230" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-and-robotics-applications/resources-230)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-and-robotics-applications/resources-230](https://blogs.drix10.com/articles/ai-and-robotics-applications/resources-230)
+- **GitHub Source File**: [AI and Robotics Applications/resources-230.md](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-230.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

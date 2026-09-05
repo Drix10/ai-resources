@@ -230,38 +230,23 @@ Key Points:
 ![Image](https://pbs.twimg.com/media/HADSnyEa8AAml03?format=jpg&name=small)
 
 ---
-### 🤖 System Redesign - Auto-Referee Hardware & Software
-
-This article details a significant system redesign project, involving a complete overhaul of the hardware for an auto-referee system and its associated aggregation host software. It acknowledges the intensive efforts of the engineering team dedicated to this complex reconstruction.
-
-Key Points:
-
-• Extensive rebuilding of auto-referee system hardware
-
-• Comprehensive rewrite of aggregation host software
-
-• Involves significant changes across both hardware and software
-
-• Collaborative effort by a dedicated engineering team
-
-
-🔗 Resources:
-
-• [Takumi_K_jpn Profile](https://x.com/takumi_k_jpn) - Associated with the system redesign project
-
-• [Redesign Update Tweet](https://x.com/takumi_k_jpn/status/2017796402743808405) - Original tweet detailing the system overhaul
-
-![Image](https://pbs.twimg.com/media/HACnIlwbEAIUzid?format=jpg&name=small)
-
-![Image](https://pbs.twimg.com/media/HACnIm3bcAA9yv3?format=360x360)
-
-![Image](https://pbs.twimg.com/media/HACnInDbsAAdMYG?format=360x360)
-
-
----
-
 ### ⭐️ Support
 
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "AI and Robotics Applications #139" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-and-robotics-applications/resources-139)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-and-robotics-applications/resources-139](https://blogs.drix10.com/articles/ai-and-robotics-applications/resources-139)
+- **GitHub Source File**: [AI and Robotics Applications/resources-139.md](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-139.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)
