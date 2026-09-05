@@ -132,25 +132,6 @@ Key Points:
 
 ---
 
-### ✨ Sports Technology - Prediction Market Partnership
-
-The New York Mets have partnered with Novig, a prediction-market startup. This agreement marks Major League Baseball's first official prediction-market collaboration.
-
-Key Points:
-
-• The NY Mets selected Novig as their official prediction-market partner.
-
-• This is the first such partnership in Major League Baseball.
-
-• It indicates prediction markets are expanding into professional sports.
-
-🔗 Resources:
-• [Article Link](https://t.co/VqVKx30MJv) - Report on the Mets-Novig partnership
-• [NY Mets](https://x.com/Mets) - Official Twitter profile for the baseball team
-• [Novig](https://x.com/Novig) - Prediction-market startup Twitter profile
-
----
-
 ### 🤖 AI Development - Verification Speed and Value
 
 The rate of AI improvement is linked to how quickly its outputs can be verified. Different domains have varying verification timelines.
@@ -177,3 +158,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "VC Firms #240" on blogs.drix10.com](https://blogs.drix10.com/articles/vc-firms/resources-240)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/vc-firms/resources-240](https://blogs.drix10.com/articles/vc-firms/resources-240)
+- **GitHub Source File**: [VC Firms/resources-240.md](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-240.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

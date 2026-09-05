@@ -178,3 +178,18 @@ Key Points:
 🔗 Resources:
 • [Original post URL](https://x.com/SkyNews/status/2096160409241739265) - Original source
 • [Plane](https://x.com/SkyNews) - Aircraft
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "World News and Updates #203" on blogs.drix10.com](https://blogs.drix10.com/articles/world-news-and-updates/resources-203)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/world-news-and-updates/resources-203](https://blogs.drix10.com/articles/world-news-and-updates/resources-203)
+- **GitHub Source File**: [World News and Updates/resources-203.md](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-203.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)
