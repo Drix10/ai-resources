@@ -234,31 +234,23 @@ Key Points:
 ![Image](https://pbs.twimg.com/media/HIjSK-AXgAAX13g?format=jpg&name=900x900)
 
 ---
-### 💡 Weather Alert - Destructive Thunderstorm in Bay City
-
-This article reports a Destructive Severe Thunderstorm Warning for Bay City, Michigan. It highlights the presence of baseball-sized hail and urges immediate safety actions.
-
-Key Points:
-
-• Destructive Severe Thunderstorm Warning issued for Bay City, Michigan
-
-• The storm is currently producing baseball-sized hail
-
-• Immediate shelter is advised for residents in the area
-
-• Large hail can cause significant damage to property and pose danger
-
-🔗 Resources:
-
-• [Weathertrackus](https://x.com/weathertrackus) - Weather tracking and updates
-
-![Image](https://pbs.twimg.com/media/HIjRyz7a0AEm_ie?format=jpg&name=small)
-
-
----
-
 ### ⭐️ Support
 
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Climate and Weather Technology #187" on blogs.drix10.com](https://blogs.drix10.com/articles/climate-and-weather-technology/resources-187)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/climate-and-weather-technology/resources-187](https://blogs.drix10.com/articles/climate-and-weather-technology/resources-187)
+- **GitHub Source File**: [Climate and Weather Technology/resources-187.md](https://github.com/Drix10/ai-resources/blob/main/Climate%20and%20Weather%20Technology/resources-187.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

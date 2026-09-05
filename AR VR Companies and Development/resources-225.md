@@ -185,3 +185,18 @@ Key Points:
 🔗 Resources:
 • [Original post](https://x.com/carv_official/status/2094757166976745955) - Original source
 • [CARV](https://carv.org/) - CARV website
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "AR VR Companies and Development #225" on blogs.drix10.com](https://blogs.drix10.com/articles/ar-vr-companies-and-development/resources-225)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ar-vr-companies-and-development/resources-225](https://blogs.drix10.com/articles/ar-vr-companies-and-development/resources-225)
+- **GitHub Source File**: [AR VR Companies and Development/resources-225.md](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-225.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

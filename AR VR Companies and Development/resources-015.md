@@ -189,30 +189,6 @@ Key Points:
 
 ---
 
-### 🤖 Sevilla FC - AI-Driven Scout Advisor
-
-This article discusses Sevilla FC's use of an AI-driven scout advisor built with Llama and IBM watsonX to improve talent scouting efficiency.
-
-
-Key Points:
-
-• AI improves soccer talent scouting.
-
-
-• Reduced evaluation time with AI tools.
-
-
-• Advanced generative AI capabilities utilized.
-
-
-🔗 Resources:
-
-![Image](https://pbs.twimg.com/media/Gk5n1sMW0AAidWA?format=jpg&name=small)
-
-
-
----
-
 ### 🤖 VRNA - VR Training for CNA and EMS
 
 This article describes VRNA, a virtual reality training platform for CNA and EMS skills, highlighting its cost-effectiveness and engagement benefits.
@@ -260,3 +236,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "AR VR Companies and Development #15" on blogs.drix10.com](https://blogs.drix10.com/articles/ar-vr-companies-and-development/resources-015)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ar-vr-companies-and-development/resources-015](https://blogs.drix10.com/articles/ar-vr-companies-and-development/resources-015)
+- **GitHub Source File**: [AR VR Companies and Development/resources-015.md](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-015.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

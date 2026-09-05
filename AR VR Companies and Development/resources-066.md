@@ -180,30 +180,6 @@ Key Points:
 
 ---
 
-### 🚀 VR Baseball Game - GymClass VR and MLB Partnership
-
-This article announces a partnership between GymClass VR and Major League Baseball, adding official MLB team uniforms and ballpark sounds to their VR baseball game.
-
-
-Key Points:
-
-• Partnership between GymClass VR and Major League Baseball.
-
-
-• Addition of official MLB team uniforms and ballpark sounds.
-
-
-• Enhanced VR baseball game experience.
-
-
-
-🔗 Resources:
-
-![Image](https://pbs.twimg.com/amplify_video_thumb/1929879999584075776/img/e50DfBdwgal24Uqe.jpg)
-
-
----
-
 ### 🤖 VR Particle Simulation - OMG Particle Life in Somnium Space
 
 This article describes a new VR world, "OMG Particle Life," featuring a mind-blowing 10K particle interaction simulation within Somnium Space, overcoming initial performance limitations through the use of the Burst Compiler.
@@ -252,3 +228,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "AR VR Companies and Development #66" on blogs.drix10.com](https://blogs.drix10.com/articles/ar-vr-companies-and-development/resources-066)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ar-vr-companies-and-development/resources-066](https://blogs.drix10.com/articles/ar-vr-companies-and-development/resources-066)
+- **GitHub Source File**: [AR VR Companies and Development/resources-066.md](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-066.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

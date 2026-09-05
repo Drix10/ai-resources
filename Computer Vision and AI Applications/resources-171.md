@@ -105,25 +105,6 @@ Key Points:
 ![Image](https://pbs.twimg.com/amplify_video_thumb/2049156140622344192/img/OpxZwKfuglrOun3I.jpg)
 
 ---
-### 💡 Societal Trends - Parental Decisions and Public Figures
-
-This article raises a question regarding parental decisions among public figures concerning their children's gender identity. It addresses an observed trend within Hollywood celebrities and its implications.
-
-Key Points:
-
-• Highlights an observed trend among Hollywood stars.
-
-• Questions motivations behind parental decisions.
-
-• Implies a societal discussion around the topic.
-
-🔗 Resources:
-
-• [Original Tweet](https://x.com/myhiddenvalue/status/2048862561412817385) - Tweet discussing the observed trend among Hollywood stars
-
-![Image](https://pbs.twimg.com/ext_tw_video_thumb/2048862446367166464/pu/img/W7jaAtuePLIh45t0.jpg)
-
----
 ### 🤖 AI Economics - Cost of Frontier LLM Training
 
 This article discusses the significant financial investment required for training frontier large language models. It highlights the high cost of acquiring and maintaining necessary hardware, even for organizations with substantial valuations.
@@ -214,3 +195,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Computer Vision and AI Applications #171" on blogs.drix10.com](https://blogs.drix10.com/articles/computer-vision-and-ai-applications/resources-171)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/computer-vision-and-ai-applications/resources-171](https://blogs.drix10.com/articles/computer-vision-and-ai-applications/resources-171)
+- **GitHub Source File**: [Computer Vision and AI Applications/resources-171.md](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-171.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)
