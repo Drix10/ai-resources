@@ -1,24 +1,3 @@
-### ✨ Digital Marketing - Sports Partnerships
-
-This article discusses the collaboration between WhatsApp, Facebook, and Arsenal Football Club. It highlights their joint initiative to celebrate fan engagement through digital group chats.
-
-Key Points:
-
-• Partnership enhances fan interaction on social platforms.
-
-• Celebrates the role of group chats in sports communities.
-
-• Leverages popular messaging and social media platforms for outreach.
-
-🔗 Resources:
-
-• [Campaignmag](https://x.com/Campaignmag) - Campaign magazine's X profile
-
-• [Arsenal Celebration](https://x.com/Campaignmag/status/2042228055964344358) - Original tweet on the partnership
-
-• [Partnership Article](https://t.co/0yTbY6CtVk) - Article on the WhatsApp, Facebook, Arsenal collaboration
-
----
 ### 💡 Entertainment - Interactive Media Experience
 
 This article suggests that engaging with The Exit 8 game prior to watching its movie adaptation enhances the overall viewing experience. It implies a synergistic relationship between the two media formats.
@@ -225,3 +204,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "PR and Communications #143" on blogs.drix10.com](https://blogs.drix10.com/articles/pr-and-communications/resources-143)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/pr-and-communications/resources-143](https://blogs.drix10.com/articles/pr-and-communications/resources-143)
+- **GitHub Source File**: [PR and Communications/resources-143.md](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-143.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

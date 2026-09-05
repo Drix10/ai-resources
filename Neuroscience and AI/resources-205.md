@@ -110,3 +110,18 @@ Key Points:
 🔗 Resources:
 • [Original post URL](https://x.com/ScienceMagazine/status/2095738147057369344) - Original source
 • [Science Magazine](https://scim.ag/4cmJrJK) - In a new #SciencePerspective, researchers dig into the skin microbiome’s role in healthy skin aging
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Neuroscience and AI #205" on blogs.drix10.com](https://blogs.drix10.com/articles/neuroscience-and-ai/resources-205)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/neuroscience-and-ai/resources-205](https://blogs.drix10.com/articles/neuroscience-and-ai/resources-205)
+- **GitHub Source File**: [Neuroscience and AI/resources-205.md](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-205.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

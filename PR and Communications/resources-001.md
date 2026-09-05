@@ -49,26 +49,6 @@ Key Points:
 
 **Article 3**
 
-### ✨ Valentine's Day Event - Poetry at LAX
-
-This article highlights a Valentine's Day event at Los Angeles International Airport (LAX) featuring a poet laureate writing custom love poems.
-
-Key Points:
-
-• Free custom love poems written on-site.
-
-
-• West Hollywood's Poet Laureate, Brian Sonia-Wallace, is participating.
-
-
-• Event is being held at LAX.
-
-
-![Image](https://pbs.twimg.com/ext_tw_video_thumb/1890528969528684544/pu/img/xcIJNlsO-FDu72PY.jpg)
-
-
-**Article 4**
-
 ### 💔 Geopolitics - Sanctions on Russia
 
 This article discusses claims of the Trump administration's efforts to lift sanctions on Russia.
@@ -210,3 +190,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "PR and Communications #1" on blogs.drix10.com](https://blogs.drix10.com/articles/pr-and-communications/resources-001)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/pr-and-communications/resources-001](https://blogs.drix10.com/articles/pr-and-communications/resources-001)
+- **GitHub Source File**: [PR and Communications/resources-001.md](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-001.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

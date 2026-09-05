@@ -1,27 +1,3 @@
-### ⚾️ Baseball Biomechanics - Kinetic Chain Analysis
-
-This article discusses the importance of hip rotation in baseball pitching, focusing on how internal and external rotation impact velocity, efficiency, and injury prevention.  The provided video further illustrates these concepts.
-
-Key Points:
-
-• Hip rotation is crucial for generating power and velocity in pitching.
-
-
-• Understanding internal and external rotation improves pitching mechanics.
-
-
-• Proper hip rotation reduces the risk of pitching-related injuries.
-
-
-🔗 Resources:
-
-• [Driveline Baseball](https://x.com/DrivelineBB) - Baseball training and development
-
-
-![Image](https://pbs.twimg.com/ext_tw_video_thumb/1954638898191089667/pu/img/vfF3zFHXQZ8BHfob.jpg)
-
-
----
 ### 💡 Career Advice - Compensation for Skills
 
 This article emphasizes the importance of fair compensation for valuable skills and contributions in a professional setting.  It discourages working for free and highlights the need to value one's worth.
@@ -216,3 +192,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Founders and Entrepreneurs #91" on blogs.drix10.com](https://blogs.drix10.com/articles/founders-and-entrepreneurs/resources-091)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/founders-and-entrepreneurs/resources-091](https://blogs.drix10.com/articles/founders-and-entrepreneurs/resources-091)
+- **GitHub Source File**: [Founders and Entrepreneurs/resources-091.md](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-091.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

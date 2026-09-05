@@ -142,25 +142,23 @@ Key Points:
 
 ---
 
-### 🚀 MBP134 for Bundibugyo Virus Infection
-
-A case report shows that the monoclonal antibody cocktail MBP134, combined with remdesivir and supportive care, led to recovery from Bundibugyo virus infection in 22 days. This supports further evaluation of MBP134.
-
-Key Points:
-• A case report shows that MBP134 led to recovery from Bundibugyo virus infection in 22 days.
-• MBP134 was combined with remdesivir and supportive care.
-• The study supports further evaluation of MBP134.
-
-🔗 Resources:
-• [Original post](https://x.com/NatureMedicine/status/2092250947577856502) - Original source
-• [MBP134](https://x.com/NatureMedicine) - MBP134 information
-• ![Image](https://pbs.twimg.com/ext_tw_video_thumb/2092385673265266688/pu/img/2wLYYwXu71Ts1qaX.jpg) - MBP134 image
-
-
----
-
 ### ⭐️ Support
 
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Neuroscience and AI #201" on blogs.drix10.com](https://blogs.drix10.com/articles/neuroscience-and-ai/resources-201)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/neuroscience-and-ai/resources-201](https://blogs.drix10.com/articles/neuroscience-and-ai/resources-201)
+- **GitHub Source File**: [Neuroscience and AI/resources-201.md](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-201.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

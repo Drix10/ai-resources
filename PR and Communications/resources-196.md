@@ -127,23 +127,6 @@ Key Points:
 ![Image](https://pbs.twimg.com/media/HOi2l-8XYAA7yVn?format=jpg&name=small)
 
 ---
-### ✨ Brand Partnership - Zendaya Joins Prada Beauty
-
-Actress Zendaya has been named the new global brand ambassador for Prada Beauty. She will specifically represent the Prada Paradoxe fragrance line.
-
-Key Points:
-
-• Zendaya is the new global brand ambassador.
-
-• She represents Prada Beauty.
-
-• Her role focuses on the Prada Paradoxe fragrance line.
-
-🔗 Resources:
-• [Campaign TR Article](https://campaigntr.com/genel/zendaya-) - Article on Zendaya's ambassador role
-![Image](https://pbs.twimg.com/media/HOgiK67W0AE97wV?format=jpg&name=small)
-
----
 ### ✨ Corporate Merger - Omnicom's New Agency Name
 
 Omnicom has trademarked a new agency name following the merger of Hearts & Science and Mediahub. This consolidates their combined operations under a new identity.
@@ -168,3 +151,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "PR and Communications #196" on blogs.drix10.com](https://blogs.drix10.com/articles/pr-and-communications/resources-196)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/pr-and-communications/resources-196](https://blogs.drix10.com/articles/pr-and-communications/resources-196)
+- **GitHub Source File**: [PR and Communications/resources-196.md](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-196.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

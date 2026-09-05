@@ -141,3 +141,18 @@ Key Points:
 • [Original source](https://x.com/Beth_Kindig/status/2095286563269730597) - Original source
 • [AI growth rates](https://en.wikipedia.org/wiki/Artificial_intelligence) - Wikipedia article on artificial intelligence
 • [Revenue growth](https://en.wikipedia.org/wiki/Revenue_growth) - Wikipedia article on revenue growth
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Investors and Venture Capital #218" on blogs.drix10.com](https://blogs.drix10.com/articles/investors-and-venture-capital/resources-218)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/investors-and-venture-capital/resources-218](https://blogs.drix10.com/articles/investors-and-venture-capital/resources-218)
+- **GitHub Source File**: [Investors and Venture Capital/resources-218.md](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-218.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)

@@ -180,30 +180,6 @@ Key Points:
 
 ---
 
-### 💡 Film Review - Dead to Rights (Nanjing Zhao Xiang Guan)
-
-This article presents a Japanese viewer's review of the film "Dead to Rights" (Nanjing Zhao Xiang Guan), a movie about the Nanjing Massacre.  The review emphasizes the film's emotional impact and its potential to foster reflection.
-
-Key Points:
-
-•  A Japanese viewer shares their perspective on the film's emotional impact.
-
-
-•  The review emphasizes the film's potential for cross-cultural understanding.
-
-
-
-🔗 Resources:
-
-
-![Image](https://pbs.twimg.com/media/GyDo9rKboAA-nAl?format=jpg&name=small)
-
-
-![Image](https://pbs.twimg.com/media/GyDo9rQaoAARomd?format=jpg&name=small)
-
-
----
-
 ### 💡 Conspiracy Theories - Project Blue Beam
 
 This article discusses the Project Blue Beam conspiracy theory, using it as an example to illustrate the importance of critical thinking and discernment in evaluating information related to extraterrestrial life.
@@ -238,3 +214,18 @@ Key Points:
 If you liked reading this report, please star ⭐️ this repository and follow me on [Github](https://github.com/Drix10), [𝕏 (previously known as Twitter)](https://x.com/DRIX_10_) to help others discover these resources and regular updates.
 
 ---
+
+---
+
+### 🌐 Read on the AI Knowledge Hub & Connect
+> **Interactive Article & Live Reader View**: [Read "Interesting Finds #92" on blogs.drix10.com](https://blogs.drix10.com/articles/interesting-finds/resources-092)
+
+Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
+
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/interesting-finds/resources-092](https://blogs.drix10.com/articles/interesting-finds/resources-092)
+- **GitHub Source File**: [Interesting Finds/resources-092.md](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-092.md)
+- **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
+- **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
+- **Connect on LinkedIn**: [linkedin.com/in/drix10](https://www.linkedin.com/in/drix10)
+- **Follow on X / Twitter**: [@Drix_10](https://x.com/Drix_10)
+- **GitHub Repository**: [Drix10/ai-resources](https://github.com/Drix10/ai-resources)
