@@ -126,11 +126,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Developer Tools #233" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-developer-tools/resources-233)
+> **Interactive Article & Live Reader View**: [Read "AI Developer Tools #233" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-developer-tools/replit-design-integrated-design-systems-233)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-developer-tools/resources-233](https://blogs.drix10.com/articles/ai-developer-tools/resources-233)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-developer-tools/replit-design-integrated-design-systems-233](https://blogs.drix10.com/articles/ai-developer-tools/replit-design-integrated-design-systems-233)
 - **GitHub Source File**: [AI Developer Tools/resources-233.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-233.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

@@ -93,11 +93,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Developer Tools #252" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-developer-tools/resources-252)
+> **Interactive Article & Live Reader View**: [Read "AI Developer Tools #252" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-developer-tools/ai-agents-web-search-optimization-252)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-developer-tools/resources-252](https://blogs.drix10.com/articles/ai-developer-tools/resources-252)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-developer-tools/ai-agents-web-search-optimization-252](https://blogs.drix10.com/articles/ai-developer-tools/ai-agents-web-search-optimization-252)
 - **GitHub Source File**: [AI Developer Tools/resources-252.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-252.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

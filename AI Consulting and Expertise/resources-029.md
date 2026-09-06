@@ -240,11 +240,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Consulting and Expertise #29" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-consulting-and-expertise/resources-029)
+> **Interactive Article & Live Reader View**: [Read "AI Consulting and Expertise #29" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-consulting-and-expertise/model-normalization-latent-space-visualization-029)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-consulting-and-expertise/resources-029](https://blogs.drix10.com/articles/ai-consulting-and-expertise/resources-029)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-consulting-and-expertise/model-normalization-latent-space-visualization-029](https://blogs.drix10.com/articles/ai-consulting-and-expertise/model-normalization-latent-space-visualization-029)
 - **GitHub Source File**: [AI Consulting and Expertise/resources-029.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-029.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

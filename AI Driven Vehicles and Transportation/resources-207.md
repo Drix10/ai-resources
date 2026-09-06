@@ -58,11 +58,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Driven Vehicles and Transportation #207" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-driven-vehicles-and-transportation/resources-207)
+> **Interactive Article & Live Reader View**: [Read "AI Driven Vehicles and Transportation #207" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-driven-vehicles-and-transportation/ai-agents-grok-4-5-in-manufacturing-engineering-207)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-driven-vehicles-and-transportation/resources-207](https://blogs.drix10.com/articles/ai-driven-vehicles-and-transportation/resources-207)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-driven-vehicles-and-transportation/ai-agents-grok-4-5-in-manufacturing-engineering-207](https://blogs.drix10.com/articles/ai-driven-vehicles-and-transportation/ai-agents-grok-4-5-in-manufacturing-engineering-207)
 - **GitHub Source File**: [AI Driven Vehicles and Transportation/resources-207.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-207.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

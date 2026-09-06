@@ -177,11 +177,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Companies and Ventures #226" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-companies-and-ventures/resources-226)
+> **Interactive Article & Live Reader View**: [Read "AI Companies and Ventures #226" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-companies-and-ventures/kiro-ambassadors-community-engagement-226)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-companies-and-ventures/resources-226](https://blogs.drix10.com/articles/ai-companies-and-ventures/resources-226)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-companies-and-ventures/kiro-ambassadors-community-engagement-226](https://blogs.drix10.com/articles/ai-companies-and-ventures/kiro-ambassadors-community-engagement-226)
 - **GitHub Source File**: [AI Companies and Ventures/resources-226.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-226.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

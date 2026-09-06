@@ -205,11 +205,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Developer Tools #246" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-developer-tools/resources-246)
+> **Interactive Article & Live Reader View**: [Read "AI Developer Tools #246" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-developer-tools/observability-high-uptime-infrastructure-246)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-developer-tools/resources-246](https://blogs.drix10.com/articles/ai-developer-tools/resources-246)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-developer-tools/observability-high-uptime-infrastructure-246](https://blogs.drix10.com/articles/ai-developer-tools/observability-high-uptime-infrastructure-246)
 - **GitHub Source File**: [AI Developer Tools/resources-246.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-246.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
