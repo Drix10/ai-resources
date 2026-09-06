@@ -153,11 +153,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Powered Film and Media #238" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-powered-film-and-media/resources-238)
+> **Interactive Article & Live Reader View**: [Read "AI Powered Film and Media #238" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-powered-film-and-media/webauthn-standardization-238)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-powered-film-and-media/resources-238](https://blogs.drix10.com/articles/ai-powered-film-and-media/resources-238)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-powered-film-and-media/webauthn-standardization-238](https://blogs.drix10.com/articles/ai-powered-film-and-media/webauthn-standardization-238)
 - **GitHub Source File**: [AI Powered Film and Media/resources-238.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-238.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

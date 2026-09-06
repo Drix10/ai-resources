@@ -184,11 +184,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI in Real Estate and Property Tech #212" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-in-real-estate-and-property-tech/resources-212)
+> **Interactive Article & Live Reader View**: [Read "AI in Real Estate and Property Tech #212" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-in-real-estate-and-property-tech/ai-model-costs-perplexity-ceo-prediction-212)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-in-real-estate-and-property-tech/resources-212](https://blogs.drix10.com/articles/ai-in-real-estate-and-property-tech/resources-212)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-in-real-estate-and-property-tech/ai-model-costs-perplexity-ceo-prediction-212](https://blogs.drix10.com/articles/ai-in-real-estate-and-property-tech/ai-model-costs-perplexity-ceo-prediction-212)
 - **GitHub Source File**: [AI in Real Estate and Property Tech/resources-212.md](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-212.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

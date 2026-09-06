@@ -132,11 +132,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Policy and Ethical Considerations #236" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-policy-and-ethical-considerations/resources-236)
+> **Interactive Article & Live Reader View**: [Read "AI Policy and Ethical Considerations #236" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-policy-and-ethical-considerations/ai-systems-technical-expertise-is-optional-236)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-policy-and-ethical-considerations/resources-236](https://blogs.drix10.com/articles/ai-policy-and-ethical-considerations/resources-236)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-policy-and-ethical-considerations/ai-systems-technical-expertise-is-optional-236](https://blogs.drix10.com/articles/ai-policy-and-ethical-considerations/ai-systems-technical-expertise-is-optional-236)
 - **GitHub Source File**: [AI Policy and Ethical Considerations/resources-236.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-236.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
