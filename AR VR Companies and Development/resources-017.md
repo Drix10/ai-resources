@@ -243,11 +243,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AR VR Companies and Development #17" on blogs.drix10.com](https://blogs.drix10.com/articles/ar-vr-companies-and-development/resources-017)
+> **Interactive Article & Live Reader View**: [Read "AR VR Companies and Development #17" on blogs.drix10.com](https://blogs.drix10.com/articles/ar-vr-companies-and-development/ai-developer-profile-rosss-achievements-017)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ar-vr-companies-and-development/resources-017](https://blogs.drix10.com/articles/ar-vr-companies-and-development/resources-017)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ar-vr-companies-and-development/ai-developer-profile-rosss-achievements-017](https://blogs.drix10.com/articles/ar-vr-companies-and-development/ai-developer-profile-rosss-achievements-017)
 - **GitHub Source File**: [AR VR Companies and Development/resources-017.md](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-017.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

@@ -191,11 +191,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AR VR Companies and Development #204" on blogs.drix10.com](https://blogs.drix10.com/articles/ar-vr-companies-and-development/resources-204)
+> **Interactive Article & Live Reader View**: [Read "AR VR Companies and Development #204" on blogs.drix10.com](https://blogs.drix10.com/articles/ar-vr-companies-and-development/physical-ai-board-considerations-204)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ar-vr-companies-and-development/resources-204](https://blogs.drix10.com/articles/ar-vr-companies-and-development/resources-204)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ar-vr-companies-and-development/physical-ai-board-considerations-204](https://blogs.drix10.com/articles/ar-vr-companies-and-development/physical-ai-board-considerations-204)
 - **GitHub Source File**: [AR VR Companies and Development/resources-204.md](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-204.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

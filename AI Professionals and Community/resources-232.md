@@ -174,11 +174,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Professionals and Community #232" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-professionals-and-community/resources-232)
+> **Interactive Article & Live Reader View**: [Read "AI Professionals and Community #232" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-professionals-and-community/codex-for-comp-bio-operations-232)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-professionals-and-community/resources-232](https://blogs.drix10.com/articles/ai-professionals-and-community/resources-232)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-professionals-and-community/codex-for-comp-bio-operations-232](https://blogs.drix10.com/articles/ai-professionals-and-community/codex-for-comp-bio-operations-232)
 - **GitHub Source File**: [AI Professionals and Community/resources-232.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-232.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

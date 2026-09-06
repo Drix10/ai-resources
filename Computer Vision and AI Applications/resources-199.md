@@ -92,11 +92,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Computer Vision and AI Applications #199" on blogs.drix10.com](https://blogs.drix10.com/articles/computer-vision-and-ai-applications/resources-199)
+> **Interactive Article & Live Reader View**: [Read "Computer Vision and AI Applications #199" on blogs.drix10.com](https://blogs.drix10.com/articles/computer-vision-and-ai-applications/robotics-navigation-model-199)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/computer-vision-and-ai-applications/resources-199](https://blogs.drix10.com/articles/computer-vision-and-ai-applications/resources-199)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/computer-vision-and-ai-applications/robotics-navigation-model-199](https://blogs.drix10.com/articles/computer-vision-and-ai-applications/robotics-navigation-model-199)
 - **GitHub Source File**: [Computer Vision and AI Applications/resources-199.md](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-199.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
