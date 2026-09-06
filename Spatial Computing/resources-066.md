@@ -231,11 +231,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Spatial Computing #66" on blogs.drix10.com](https://blogs.drix10.com/articles/spatial-computing/resources-066)
+> **Interactive Article & Live Reader View**: [Read "Spatial Computing #66" on blogs.drix10.com](https://blogs.drix10.com/articles/spatial-computing/remembering-bill-atkinson-apple-pioneer-066)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/spatial-computing/resources-066](https://blogs.drix10.com/articles/spatial-computing/resources-066)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/spatial-computing/remembering-bill-atkinson-apple-pioneer-066](https://blogs.drix10.com/articles/spatial-computing/remembering-bill-atkinson-apple-pioneer-066)
 - **GitHub Source File**: [Spatial Computing/resources-066.md](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-066.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

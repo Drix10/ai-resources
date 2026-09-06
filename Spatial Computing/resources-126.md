@@ -257,11 +257,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Spatial Computing #126" on blogs.drix10.com](https://blogs.drix10.com/articles/spatial-computing/resources-126)
+> **Interactive Article & Live Reader View**: [Read "Spatial Computing #126" on blogs.drix10.com](https://blogs.drix10.com/articles/spatial-computing/widar-service-termination-information-126)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/spatial-computing/resources-126](https://blogs.drix10.com/articles/spatial-computing/resources-126)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/spatial-computing/widar-service-termination-information-126](https://blogs.drix10.com/articles/spatial-computing/widar-service-termination-information-126)
 - **GitHub Source File**: [Spatial Computing/resources-126.md](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-126.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

@@ -155,11 +155,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Spatial Computing #201" on blogs.drix10.com](https://blogs.drix10.com/articles/spatial-computing/resources-201)
+> **Interactive Article & Live Reader View**: [Read "Spatial Computing #201" on blogs.drix10.com](https://blogs.drix10.com/articles/spatial-computing/software-splat2mesh-201)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/spatial-computing/resources-201](https://blogs.drix10.com/articles/spatial-computing/resources-201)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/spatial-computing/software-splat2mesh-201](https://blogs.drix10.com/articles/spatial-computing/software-splat2mesh-201)
 - **GitHub Source File**: [Spatial Computing/resources-201.md](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-201.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

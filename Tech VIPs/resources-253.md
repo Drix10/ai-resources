@@ -153,11 +153,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Tech VIPs #253" on blogs.drix10.com](https://blogs.drix10.com/articles/tech-vips/resources-253)
+> **Interactive Article & Live Reader View**: [Read "Tech VIPs #253" on blogs.drix10.com](https://blogs.drix10.com/articles/tech-vips/omarchy-community-growth-253)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/tech-vips/resources-253](https://blogs.drix10.com/articles/tech-vips/resources-253)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/tech-vips/omarchy-community-growth-253](https://blogs.drix10.com/articles/tech-vips/omarchy-community-growth-253)
 - **GitHub Source File**: [Tech VIPs/resources-253.md](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-253.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

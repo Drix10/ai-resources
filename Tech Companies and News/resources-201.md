@@ -95,11 +95,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Tech Companies and News #201" on blogs.drix10.com](https://blogs.drix10.com/articles/tech-companies-and-news/resources-201)
+> **Interactive Article & Live Reader View**: [Read "Tech Companies and News #201" on blogs.drix10.com](https://blogs.drix10.com/articles/tech-companies-and-news/venture-capital-founders-fund-lessons-201)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/tech-companies-and-news/resources-201](https://blogs.drix10.com/articles/tech-companies-and-news/resources-201)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/tech-companies-and-news/venture-capital-founders-fund-lessons-201](https://blogs.drix10.com/articles/tech-companies-and-news/venture-capital-founders-fund-lessons-201)
 - **GitHub Source File**: [Tech Companies and News/resources-201.md](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-201.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
