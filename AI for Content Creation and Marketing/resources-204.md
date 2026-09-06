@@ -88,11 +88,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI for Content Creation and Marketing #204" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-for-content-creation-and-marketing/resources-204)
+> **Interactive Article & Live Reader View**: [Read "AI for Content Creation and Marketing #204" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-for-content-creation-and-marketing/framer-new-ai-models-sol-terra-luna-204)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-for-content-creation-and-marketing/resources-204](https://blogs.drix10.com/articles/ai-for-content-creation-and-marketing/resources-204)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-for-content-creation-and-marketing/framer-new-ai-models-sol-terra-luna-204](https://blogs.drix10.com/articles/ai-for-content-creation-and-marketing/framer-new-ai-models-sol-terra-luna-204)
 - **GitHub Source File**: [AI for Content Creation and Marketing/resources-204.md](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-204.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

@@ -227,11 +227,11 @@ Mesh Baker is a tool that generates 3D meshes locally in the browser. It is #Web
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Holodeck and Virtual Worlds #241" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/resources-241)
+> **Interactive Article & Live Reader View**: [Read "AI Holodeck and Virtual Worlds #241" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/ai-animation-gen-ai-for-animation-241)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/resources-241](https://blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/resources-241)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/ai-animation-gen-ai-for-animation-241](https://blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/ai-animation-gen-ai-for-animation-241)
 - **GitHub Source File**: [AI Holodeck and Virtual Worlds/resources-241.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-241.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

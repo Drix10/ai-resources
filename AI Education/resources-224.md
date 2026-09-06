@@ -119,11 +119,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Education #224" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-education/resources-224)
+> **Interactive Article & Live Reader View**: [Read "AI Education #224" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-education/ai-system-governance-financial-market-agents-224)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-education/resources-224](https://blogs.drix10.com/articles/ai-education/resources-224)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-education/ai-system-governance-financial-market-agents-224](https://blogs.drix10.com/articles/ai-education/ai-system-governance-financial-market-agents-224)
 - **GitHub Source File**: [AI Education/resources-224.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-224.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

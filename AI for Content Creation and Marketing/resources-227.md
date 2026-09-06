@@ -149,11 +149,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI for Content Creation and Marketing #227" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-for-content-creation-and-marketing/resources-227)
+> **Interactive Article & Live Reader View**: [Read "AI for Content Creation and Marketing #227" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-for-content-creation-and-marketing/ai-plugins-chatgpt-plugins-directory-227)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-for-content-creation-and-marketing/resources-227](https://blogs.drix10.com/articles/ai-for-content-creation-and-marketing/resources-227)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-for-content-creation-and-marketing/ai-plugins-chatgpt-plugins-directory-227](https://blogs.drix10.com/articles/ai-for-content-creation-and-marketing/ai-plugins-chatgpt-plugins-directory-227)
 - **GitHub Source File**: [AI for Content Creation and Marketing/resources-227.md](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-227.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

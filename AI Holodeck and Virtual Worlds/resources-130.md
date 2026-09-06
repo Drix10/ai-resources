@@ -227,11 +227,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI Holodeck and Virtual Worlds #130" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/resources-130)
+> **Interactive Article & Live Reader View**: [Read "AI Holodeck and Virtual Worlds #130" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/general-announcement-new-year-greeting-130)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/resources-130](https://blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/resources-130)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/general-announcement-new-year-greeting-130](https://blogs.drix10.com/articles/ai-holodeck-and-virtual-worlds/general-announcement-new-year-greeting-130)
 - **GitHub Source File**: [AI Holodeck and Virtual Worlds/resources-130.md](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-130.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

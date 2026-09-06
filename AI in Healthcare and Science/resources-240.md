@@ -134,11 +134,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "AI in Healthcare and Science #240" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-in-healthcare-and-science/resources-240)
+> **Interactive Article & Live Reader View**: [Read "AI in Healthcare and Science #240" on blogs.drix10.com](https://blogs.drix10.com/articles/ai-in-healthcare-and-science/health-climate-change-and-respiratory-health-240)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-in-healthcare-and-science/resources-240](https://blogs.drix10.com/articles/ai-in-healthcare-and-science/resources-240)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/ai-in-healthcare-and-science/health-climate-change-and-respiratory-health-240](https://blogs.drix10.com/articles/ai-in-healthcare-and-science/health-climate-change-and-respiratory-health-240)
 - **GitHub Source File**: [AI in Healthcare and Science/resources-240.md](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-240.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
