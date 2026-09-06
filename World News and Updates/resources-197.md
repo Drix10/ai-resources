@@ -179,11 +179,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "World News and Updates #197" on blogs.drix10.com](https://blogs.drix10.com/articles/world-news-and-updates/resources-197)
+> **Interactive Article & Live Reader View**: [Read "World News and Updates #197" on blogs.drix10.com](https://blogs.drix10.com/articles/world-news-and-updates/weather-update-tropical-storm-formation-197)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/world-news-and-updates/resources-197](https://blogs.drix10.com/articles/world-news-and-updates/resources-197)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/world-news-and-updates/weather-update-tropical-storm-formation-197](https://blogs.drix10.com/articles/world-news-and-updates/weather-update-tropical-storm-formation-197)
 - **GitHub Source File**: [World News and Updates/resources-197.md](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-197.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

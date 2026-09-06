@@ -203,11 +203,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "VC Firms #195" on blogs.drix10.com](https://blogs.drix10.com/articles/vc-firms/resources-195)
+> **Interactive Article & Live Reader View**: [Read "VC Firms #195" on blogs.drix10.com](https://blogs.drix10.com/articles/vc-firms/ai-agents-secure-application-access-195)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/vc-firms/resources-195](https://blogs.drix10.com/articles/vc-firms/resources-195)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/vc-firms/ai-agents-secure-application-access-195](https://blogs.drix10.com/articles/vc-firms/ai-agents-secure-application-access-195)
 - **GitHub Source File**: [VC Firms/resources-195.md](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-195.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
