@@ -167,11 +167,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Investors and Venture Capital #10" on blogs.drix10.com](https://blogs.drix10.com/articles/investors-and-venture-capital/resources-010)
+> **Interactive Article & Live Reader View**: [Read "Investors and Venture Capital #10" on blogs.drix10.com](https://blogs.drix10.com/articles/investors-and-venture-capital/urban-planning-slum-landlord-practices-in-nyc-010)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/investors-and-venture-capital/resources-010](https://blogs.drix10.com/articles/investors-and-venture-capital/resources-010)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/investors-and-venture-capital/urban-planning-slum-landlord-practices-in-nyc-010](https://blogs.drix10.com/articles/investors-and-venture-capital/urban-planning-slum-landlord-practices-in-nyc-010)
 - **GitHub Source File**: [Investors and Venture Capital/resources-010.md](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-010.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

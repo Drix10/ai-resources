@@ -198,11 +198,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Interesting Finds #6" on blogs.drix10.com](https://blogs.drix10.com/articles/interesting-finds/resources-006)
+> **Interactive Article & Live Reader View**: [Read "Interesting Finds #6" on blogs.drix10.com](https://blogs.drix10.com/articles/interesting-finds/autonomous-vehicles-waymos-expansion-into-amsterdam-006)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/interesting-finds/resources-006](https://blogs.drix10.com/articles/interesting-finds/resources-006)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/interesting-finds/autonomous-vehicles-waymos-expansion-into-amsterdam-006](https://blogs.drix10.com/articles/interesting-finds/autonomous-vehicles-waymos-expansion-into-amsterdam-006)
 - **GitHub Source File**: [Interesting Finds/resources-006.md](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-006.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

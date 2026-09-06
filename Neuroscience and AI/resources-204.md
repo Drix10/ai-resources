@@ -149,11 +149,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Neuroscience and AI #204" on blogs.drix10.com](https://blogs.drix10.com/articles/neuroscience-and-ai/resources-204)
+> **Interactive Article & Live Reader View**: [Read "Neuroscience and AI #204" on blogs.drix10.com](https://blogs.drix10.com/articles/neuroscience-and-ai/neurology-corticospinal-c5-motor-network-plasticity-204)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/neuroscience-and-ai/resources-204](https://blogs.drix10.com/articles/neuroscience-and-ai/resources-204)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/neuroscience-and-ai/neurology-corticospinal-c5-motor-network-plasticity-204](https://blogs.drix10.com/articles/neuroscience-and-ai/neurology-corticospinal-c5-motor-network-plasticity-204)
 - **GitHub Source File**: [Neuroscience and AI/resources-204.md](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-204.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

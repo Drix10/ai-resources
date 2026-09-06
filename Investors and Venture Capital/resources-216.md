@@ -207,11 +207,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Investors and Venture Capital #216" on blogs.drix10.com](https://blogs.drix10.com/articles/investors-and-venture-capital/resources-216)
+> **Interactive Article & Live Reader View**: [Read "Investors and Venture Capital #216" on blogs.drix10.com](https://blogs.drix10.com/articles/investors-and-venture-capital/math-implicit-math-subfield-ratings-216)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/investors-and-venture-capital/resources-216](https://blogs.drix10.com/articles/investors-and-venture-capital/resources-216)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/investors-and-venture-capital/math-implicit-math-subfield-ratings-216](https://blogs.drix10.com/articles/investors-and-venture-capital/math-implicit-math-subfield-ratings-216)
 - **GitHub Source File**: [Investors and Venture Capital/resources-216.md](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-216.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
