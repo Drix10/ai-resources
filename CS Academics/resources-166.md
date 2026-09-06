@@ -95,11 +95,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "CS Academics #166" on blogs.drix10.com](https://blogs.drix10.com/articles/cs-academics/resources-166)
+> **Interactive Article & Live Reader View**: [Read "CS Academics #166" on blogs.drix10.com](https://blogs.drix10.com/articles/cs-academics/home-decor-affordable-enhancements-166)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/cs-academics/resources-166](https://blogs.drix10.com/articles/cs-academics/resources-166)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/cs-academics/home-decor-affordable-enhancements-166](https://blogs.drix10.com/articles/cs-academics/home-decor-affordable-enhancements-166)
 - **GitHub Source File**: [CS Academics/resources-166.md](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-166.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

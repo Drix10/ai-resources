@@ -202,11 +202,11 @@ A Twitter thread discusses the issue of salary and RTO (Return to Office).
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Devs, Designers, DevRel #258" on blogs.drix10.com](https://blogs.drix10.com/articles/devs-designers-devrel/resources-258)
+> **Interactive Article & Live Reader View**: [Read "Devs, Designers, DevRel #258" on blogs.drix10.com](https://blogs.drix10.com/articles/devs-designers-devrel/guidelines-transforming-twitter-threads-linkedin-posts-258)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/devs-designers-devrel/resources-258](https://blogs.drix10.com/articles/devs-designers-devrel/resources-258)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/devs-designers-devrel/guidelines-transforming-twitter-threads-linkedin-posts-258](https://blogs.drix10.com/articles/devs-designers-devrel/guidelines-transforming-twitter-threads-linkedin-posts-258)
 - **GitHub Source File**: [Devs, Designers, DevRel/resources-258.md](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-258.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

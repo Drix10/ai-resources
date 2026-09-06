@@ -181,11 +181,11 @@ If you liked reading this report, please star ⭐️ this repository and follow 
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Devs, Designers, DevRel #87" on blogs.drix10.com](https://blogs.drix10.com/articles/devs-designers-devrel/resources-087)
+> **Interactive Article & Live Reader View**: [Read "Devs, Designers, DevRel #87" on blogs.drix10.com](https://blogs.drix10.com/articles/devs-designers-devrel/personal-update-chemo-treatment-087)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/devs-designers-devrel/resources-087](https://blogs.drix10.com/articles/devs-designers-devrel/resources-087)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/devs-designers-devrel/personal-update-chemo-treatment-087](https://blogs.drix10.com/articles/devs-designers-devrel/personal-update-chemo-treatment-087)
 - **GitHub Source File**: [Devs, Designers, DevRel/resources-087.md](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-087.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

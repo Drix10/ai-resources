@@ -91,11 +91,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "CS Academics #270" on blogs.drix10.com](https://blogs.drix10.com/articles/cs-academics/resources-270)
+> **Interactive Article & Live Reader View**: [Read "CS Academics #270" on blogs.drix10.com](https://blogs.drix10.com/articles/cs-academics/stitch-fix-vision-wins-best-use-of-ai-in-fashion-luxury-awar-270)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/cs-academics/resources-270](https://blogs.drix10.com/articles/cs-academics/resources-270)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/cs-academics/stitch-fix-vision-wins-best-use-of-ai-in-fashion-luxury-awar-270](https://blogs.drix10.com/articles/cs-academics/stitch-fix-vision-wins-best-use-of-ai-in-fashion-luxury-awar-270)
 - **GitHub Source File**: [CS Academics/resources-270.md](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-270.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)

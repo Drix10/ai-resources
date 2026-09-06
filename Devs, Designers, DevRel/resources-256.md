@@ -142,11 +142,11 @@ Key Points:
 ---
 
 ### 🌐 Read on the AI Knowledge Hub & Connect
-> **Interactive Article & Live Reader View**: [Read "Devs, Designers, DevRel #256" on blogs.drix10.com](https://blogs.drix10.com/articles/devs-designers-devrel/resources-256)
+> **Interactive Article & Live Reader View**: [Read "Devs, Designers, DevRel #256" on blogs.drix10.com](https://blogs.drix10.com/articles/devs-designers-devrel/technical-writing-best-practices-for-senior-engineers-256)
 
 Curated and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)** — Co-Founder @ PartPilot, 1x Acquired Serial Founder (ReeF), Canopy @ Founders, Inc., & Cybersecurity Researcher.
 
-- **Interactive Article Breakdown**: [blogs.drix10.com/articles/devs-designers-devrel/resources-256](https://blogs.drix10.com/articles/devs-designers-devrel/resources-256)
+- **Interactive Article Breakdown**: [blogs.drix10.com/articles/devs-designers-devrel/technical-writing-best-practices-for-senior-engineers-256](https://blogs.drix10.com/articles/devs-designers-devrel/technical-writing-best-practices-for-senior-engineers-256)
 - **GitHub Source File**: [Devs, Designers, DevRel/resources-256.md](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-256.md)
 - **Explore Full Knowledge Base**: [blogs.drix10.com](https://blogs.drix10.com)
 - **Personal Portfolio & Projects**: [drix10.com](https://drix10.com)
