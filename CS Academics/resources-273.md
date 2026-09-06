@@ -45,7 +45,7 @@ Key Points:
 
 ### Read More & Connect
 
-**Interactive version:** [blogs.drix10.com](https://blogs.drix10.com/articles/cs-academics/github-universe-next-gen-developer-workflows-273)
+**Interactive version:** [blogs.drix10.com](https://blogs.drix10.com/articles/cs-academics/github-universe-next-gen-developer-workflows-agentic-softwar-273)
 
 Written by **[Drishtant Ghosh (Drix10)](https://drix10.com)**, a technical founder and engineer working across AI systems, developer infrastructure, and cybersecurity.
 
