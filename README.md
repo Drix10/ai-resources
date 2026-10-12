@@ -94,7 +94,7 @@ flowchart LR
 
 ### Tech VIPs
 
-*   [Latest Update (#290)](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-290.md) - *Resources related to Tech VIPs*
+*   [Latest Update (#291)](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-291.md) - *Resources related to Tech VIPs*
 
 ### VC Firms
 
@@ -102,7 +102,7 @@ flowchart LR
 
 ### Devs, Designers, DevRel
 
-*   [Latest Update (#291)](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-291.md) - *Resources related to Devs, Designers, DevRel*
+*   [Latest Update (#292)](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-292.md) - *Resources related to Devs, Designers, DevRel*
 
 ### Tech Infrastructure
 
@@ -114,7 +114,7 @@ flowchart LR
 
 ### AI Organizations and Media
 
-*   [Latest Update (#280)](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-280.md) - *Resources related to AI Organizations and Media*
+*   [Latest Update (#281)](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-281.md) - *Resources related to AI Organizations and Media*
 
 ### AI Powered Film and Media
 
@@ -122,7 +122,7 @@ flowchart LR
 
 ### AI Holodeck and Virtual Worlds
 
-*   [Latest Update (#270)](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-270.md) - *Resources related to AI Holodeck and Virtual Worlds*
+*   [Latest Update (#271)](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-271.md) - *Resources related to AI Holodeck and Virtual Worlds*
 
 ### AI Artists and Creators
 
@@ -130,7 +130,7 @@ flowchart LR
 
 ### AI in Healthcare and Science
 
-*   [Latest Update (#272)](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-272.md) - *Resources related to AI in Healthcare and Science*
+*   [Latest Update (#273)](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-273.md) - *Resources related to AI in Healthcare and Science*
 
 ### AI Generated Music and Audio
 
@@ -154,23 +154,23 @@ flowchart LR
 
 ### AI and Robotics Applications
 
-*   [Latest Update (#267)](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-267.md) - *Resources related to AI and Robotics Applications*
+*   [Latest Update (#268)](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-268.md) - *Resources related to AI and Robotics Applications*
 
 ### AI Driven Vehicles and Transportation
 
-*   [Latest Update (#263)](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-263.md) - *Resources related to AI Driven Vehicles and Transportation*
+*   [Latest Update (#264)](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-264.md) - *Resources related to AI Driven Vehicles and Transportation*
 
 ### AI for Content Creation and Marketing
 
-*   [Latest Update (#259)](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-259.md) - *Resources related to AI for Content Creation and Marketing*
+*   [Latest Update (#260)](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-260.md) - *Resources related to AI for Content Creation and Marketing*
 
 ### AR VR Companies and Development
 
-*   [Latest Update (#257)](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-257.md) - *Resources related to AR VR Companies and Development*
+*   [Latest Update (#258)](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-258.md) - *Resources related to AR VR Companies and Development*
 
 ### AR VR Professionals and Community
 
-*   [Latest Update (#254)](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-254.md) - *Resources related to AR VR Professionals and Community*
+*   [Latest Update (#255)](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-255.md) - *Resources related to AR VR Professionals and Community*
 
 ### Climate and Weather Technology
 
@@ -194,7 +194,7 @@ flowchart LR
 
 ### AI Education
 
-*   [Latest Update (#267)](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-267.md) - *Resources related to AI Education*
+*   [Latest Update (#268)](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-268.md) - *Resources related to AI Education*
 
 ### AI in Enterprise Applications
 
@@ -214,11 +214,11 @@ flowchart LR
 
 ### Neuroscience and AI
 
-*   [Latest Update (#235)](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-235.md) - *Resources related to Neuroscience and AI*
+*   [Latest Update (#236)](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-236.md) - *Resources related to Neuroscience and AI*
 
 ### PR and Communications
 
-*   [Latest Update (#234)](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-234.md) - *Resources related to PR and Communications*
+*   [Latest Update (#235)](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-235.md) - *Resources related to PR and Communications*
 
 ### Quantum Computing
 
@@ -226,7 +226,7 @@ flowchart LR
 
 ### Spatial Computing
 
-*   [Latest Update (#232)](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-232.md) - *Resources related to Spatial Computing*
+*   [Latest Update (#233)](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-233.md) - *Resources related to Spatial Computing*
 
 ### Tech Companies and News
 
