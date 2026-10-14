@@ -41,7 +41,7 @@
 
 > This repository is the public knowledge base behind that work: a continuously updated, high-signal archive of AI systems, developer infrastructure, and security engineering breakdowns — no motivational fluff, no consultant larp, just mechanics and code reality.
 
-**Connect:** [Portfolio](https://drix10.com) • [Blog](https://blogs.drix10.com) • [GitHub](https://github.com/Drix10) • [LinkedIn](https://www.linkedin.com/in/drix10) • [X / Twitter](https://x.com/DrishtantGhosh) • [Peerlist](https://peerlist.io/drix10) • [DEV.to](https://dev.to/drix10) • [Medium](https://medium.com/@drix10)
+**Connect:** [Portfolio](https://drix10.com) • [Blog](https://blogs.drix10.com) • [GitHub](https://github.com/Drix10) • [LinkedIn](https://www.linkedin.com/in/drix10) • [X / Twitter](https://x.com/DrishtantGhosh) • [Peerlist](https://peerlist.io/drix10) • [Medium](https://medium.com/@ggdrishtant)
 
 ---
 
@@ -55,7 +55,7 @@ This is not a link dump. It is a **continuously regenerated technical archive** 
 | **📝 Scraped & Synthesized Articles** | Every `resources-NNN.md` file is generated from real X/Twitter list content and LinkedIn insights — deduplicated, ranked, and rewritten into dense technical breakdowns with concrete mechanics instead of hype. |
 | **🧠 LinkedIn Insights** | Long-form postmortems and engineering reflections (payment webhook failures, vector search tuning, struct padding, AST vs regex scanning, concurrency races) captured as standalone markdown. |
 | **✍️ Personal Essays** | Founder-journey and systems-thinking pieces — building autonomous AI systems, scaling and selling a startup, the memory-first mental model, and the signal-to-noise problem in AI resources. |
-| **🔗 Multi-Channel Syndication** | Every article is cross-published to [blogs.drix10.com](https://blogs.drix10.com) and [DEV.to](https://dev.to/drix10), each with a canonical SEO backlink and a Next.js 14 interactive version. |
+| **🔗 Multi-Channel Syndication** | Every article is published to [blogs.drix10.com](https://blogs.drix10.com) as a Next.js 14 interactive page with a canonical SEO URL; DEV.to cross-posting is optional. |
 | **⚙️ Zero-Slop Quality Gates** | Deterministic validation rejects any model output that lacks a real article, strips credentials/secrets, and bans motivational fluff and consultant larp before anything is committed. |
 
 ### 🔄 How It Works
