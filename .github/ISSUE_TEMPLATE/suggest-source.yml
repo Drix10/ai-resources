@@ -1,0 +1,45 @@
+name: Suggest a source
+description: An X account, list or site the digests should follow, or a new category.
+title: "[Source] "
+labels: ["source-suggestion"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Profile, list or site URL.
+      placeholder: https://x.com/...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - AI Developer Tools
+        - AI Leaders and Thinkers
+        - AI Companies and Ventures
+        - CS Academics
+        - Tech Infrastructure
+        - Cybersecurity and Tech
+        - AI in Healthcare and Science
+        - AI and Robotics Applications
+        - Founders and Entrepreneurs
+        - Investors and Venture Capital
+        - Another existing category (say which below)
+        - New category
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why it fits
+      description: Two or three recent posts that show the kind of concrete material it shares.
+    validations:
+      required: true
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Disclosure
+      options:
+        - label: This is my own account, company or product.

@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Search the archive
+    url: https://github.com/search?q=repo%3ADrix10%2Fai-resources&type=code
+    about: Check whether a topic is already covered before suggesting it.
+  - name: Improve the pipeline that writes the digests
+    url: https://github.com/Drix10/ai-resources-pipeline/issues
+    about: Bugs and ideas for fact checks, formatting and new outputs.
