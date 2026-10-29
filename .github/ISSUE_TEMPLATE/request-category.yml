@@ -1,0 +1,26 @@
+name: Request a category
+description: A new category of briefings, with the sources that would feed it.
+title: "[Category] "
+labels: ["new-source", "enhancement"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Category name
+      placeholder: AI Hardware and Chips
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: What it covers
+      description: What belongs in it, and why the existing 41 categories do not cover it.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources that would feed it
+      description: Five or more X accounts, X lists or sites, one per line, each with a recent example post.
+    validations:
+      required: true
