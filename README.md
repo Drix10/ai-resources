@@ -11,6 +11,7 @@
   <a href="https://github.com/Drix10/ai-resources/commits/main"><img src="https://img.shields.io/github/last-commit/Drix10/ai-resources?style=for-the-badge&color=5D6D7E&label=LAST_UPDATE" alt="Last updated" /></a>
   <img src="https://img.shields.io/badge/BRIEFINGS-100K%2B-8A2BE2?style=for-the-badge" alt="100,000+ briefings" />
   <img src="https://img.shields.io/badge/CATEGORIES-41-ff6f00?style=for-the-badge" alt="41 categories" />
+  <a href="https://www.npmjs.com/package/ai-resources-mcp"><img src="https://img.shields.io/npm/v/ai-resources-mcp?style=for-the-badge&logo=npm&color=cb3837&label=MCP%20SERVER" alt="MCP server on npm" /></a>
   <a href="https://blogs.drix10.com/rss.xml"><img src="https://img.shields.io/badge/RSS-FEED-orange?style=for-the-badge&logo=rss&logoColor=white" alt="RSS feed" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-CC_BY_4.0-2ea44f?style=for-the-badge" alt="License: CC BY 4.0" /></a>
 </p>
@@ -84,7 +85,7 @@ Ask Claude, Cursor, VS Code or Windsurf "what did Anthropic ship this week?" and
 
 | Path | What you get |
 | --- | --- |
-| **[MCP server](mcp/)** | `search_briefings`, `latest`, `get_briefing`, `list_categories` tools. `claude mcp add ai-resources -- npx -y ai-resources-mcp` once the npm package is out; [run it from a clone](USE-WITH-AI.md#mcp-server) until then. |
+| **[MCP server](mcp/)** | `search_briefings`, `latest`, `get_briefing`, `list_categories` tools. `claude mcp add ai-resources -- npx -y ai-resources-mcp` ([npm](https://www.npmjs.com/package/ai-resources-mcp), [setup for every client](USE-WITH-AI.md#mcp-server)). |
 | **[Agent Skill](skills/ai-news/SKILL.md)** | Copy `skills/ai-news` to `~/.claude/skills/` and Claude answers AI-news questions from the briefings, with citations. |
 | **[JSON API](USE-WITH-AI.md#json-api)** | `https://blogs.drix10.com/api/articles?q=…` and `/api/categories`. No key, CORS open. |
 | **[llms.txt](https://blogs.drix10.com/llms.txt)** | One index plus `/llms/<category>.txt` with the 50 newest briefings of each category. |

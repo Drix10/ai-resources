@@ -13,9 +13,7 @@ Every result ends with its source link and `Data: github.com/Drix10/ai-resources
 
 ## Install
 
-> The npm package `ai-resources-mcp` is not published yet. Until it is, run it from a clone:
-> `git clone --depth 1 https://github.com/Drix10/ai-resources && cd ai-resources/mcp && npm ci`,
-> then use `node /full/path/to/ai-resources/mcp/index.js` wherever the snippets below say `npx -y ai-resources-mcp`.
+[![npm](https://img.shields.io/npm/v/ai-resources-mcp?label=npm&color=cb3837)](https://www.npmjs.com/package/ai-resources-mcp) · in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.Drix10/ai-resources) as `io.github.Drix10/ai-resources`. Node.js 18+, no key, no account.
 
 **Claude Code**
 
