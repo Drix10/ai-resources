@@ -24,14 +24,7 @@ Code in [`mcp/`](mcp/). Tools:
 | `get_briefing(id)` | Full Markdown of one briefing (URL or slug), with every source link. |
 | `list_categories()` | Every category slug with its briefing count. |
 
-> **npm package coming soon.** `ai-resources-mcp` is not on npm yet, so `npx -y ai-resources-mcp` does not work today. Until it is published, run it from a clone:
->
-> ```bash
-> git clone --depth 1 https://github.com/Drix10/ai-resources
-> cd ai-resources/mcp && npm ci
-> ```
->
-> and in the snippets below replace `npx -y ai-resources-mcp` with `node /full/path/to/ai-resources/mcp/index.js` (in JSON: `"command": "node", "args": ["/full/path/to/ai-resources/mcp/index.js"]`).
+It is on npm as [`ai-resources-mcp`](https://www.npmjs.com/package/ai-resources-mcp) and in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.Drix10/ai-resources) as `io.github.Drix10/ai-resources`. It needs Node.js 18 or newer; no key, no account.
 
 **Claude Code**
 
