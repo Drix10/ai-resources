@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>What shipped in AI, who raised, and what the numbers were, with a link to the post it came from.</strong><br/>
-  100,000+ short, fact-checked briefings on models, dev tools, research, funding and the people behind them, in 41 categories.<br/>
+  100,000+ short briefings on models, dev tools, research, funding and the people behind them, in 41 categories. New ones are fact-checked against the post they came from and link to it.<br/>
   Plain Markdown. Free. CC BY 4.0. One <code>git clone</code> away.
 </p>
 
