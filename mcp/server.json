@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Drix10/ai-resources",
+  "description": "Search and read daily AI news briefings: models, companies, funding, tools. CC BY 4.0.",
+  "repository": {
+    "url": "https://github.com/Drix10/ai-resources",
+    "source": "github",
+    "subfolder": "mcp"
+  },
+  "websiteUrl": "https://blogs.drix10.com",
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "ai-resources-mcp",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "AI_RESOURCES_API_URL",
+          "description": "Base URL of the briefings API (default https://blogs.drix10.com)",
+          "isRequired": false,
+          "isSecret": false
+        }
+      ]
+    }
+  ]
+}
