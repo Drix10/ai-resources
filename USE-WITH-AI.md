@@ -1,5 +1,7 @@
 # Use AI Resources from your AI agent
 
+Translations: [हिन्दी](docs/i18n/USE-WITH-AI.hi.md)
+
 Give Claude, Cursor, VS Code, Windsurf or any agent a dated, sourced AI news layer: what shipped, who raised, what the numbers were, with the link to the post it came from. Pick the path that fits your tool. No key, no account.
 
 | Path | Best for | Setup |
