@@ -1,8 +1,11 @@
 blank_issues_enabled: true
 contact_links:
+  - name: Questions and ideas
+    url: https://github.com/Drix10/ai-resources/discussions
+    about: Ask how to use the briefings, share what you built, or float an idea before opening an issue.
+  - name: Use it from your AI agent
+    url: https://github.com/Drix10/ai-resources/blob/main/USE-WITH-AI.md
+    about: MCP server, Agent Skill, JSON API and llms.txt setup.
   - name: Search the archive
     url: https://github.com/search?q=repo%3ADrix10%2Fai-resources&type=code
     about: Check whether a topic is already covered before suggesting it.
-  - name: Improve the pipeline that writes the digests
-    url: https://github.com/Drix10/ai-resources-pipeline/issues
-    about: Bugs and ideas for fact checks, formatting and new outputs.

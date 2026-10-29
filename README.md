@@ -76,7 +76,7 @@ Every `resources-NNN.md` file is one digest of 5 to 12 briefings. A real one fro
 | Search | GitHub code search covers the whole archive: `repo:Drix10/ai-resources "MCP"`. Recent digests are also on [blogs.drix10.com/search](https://blogs.drix10.com/search). |
 | Ask it from Claude, Cursor or VS Code | Add the [MCP server or the Skill](USE-WITH-AI.md); see the next section. |
 | Feed it to an LLM | Point it at [llms.txt](https://blogs.drix10.com/llms.txt), or `git clone --depth 1 https://github.com/Drix10/ai-resources` and parse the Markdown. Attribution terms are in [LICENSE](LICENSE). |
-| Add a source or fix a briefing | [Open an issue](https://github.com/Drix10/ai-resources/issues/new/choose); see [CONTRIBUTING.md](CONTRIBUTING.md). |
+| Add a source or fix a briefing | [Open an issue](https://github.com/Drix10/ai-resources/issues/new/choose); see [Contribute](#contribute). |
 
 ## Use it from your AI agent
 
@@ -102,6 +102,16 @@ flowchart LR
 ```
 
 **Known limits:** briefings are machine-written from public posts and can still be wrong; check the linked source before you rely on a number. Part of the older archive (2024 to mid-2026) predates source links. Coverage follows the curated lists, blind spots included. Inclusion is not endorsement.
+
+## Contribute
+
+The briefings are generated, but the sources, the corrections and everything around them are made by people. Ways in:
+
+- **Pick up a [good first issue](https://github.com/Drix10/ai-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)**: MCP server tools, Skill phrasings, guides, examples, translations.
+- **[Suggest a source](https://github.com/Drix10/ai-resources/issues/new?template=suggest-source.yml)** (an X account, list or site) or **[report a wrong fact](https://github.com/Drix10/ai-resources/issues/new?template=wrong-fact.yml)** with the briefing link.
+- **Ask, share what you built, or float an idea** in [Discussions](https://github.com/Drix10/ai-resources/discussions).
+
+[CONTRIBUTING.md](CONTRIBUTING.md) has the details, including what not to edit by hand. Content is CC BY 4.0; the MCP server code is MIT. If you use the archive in research, [CITATION.cff](CITATION.cff) has the citation.
 
 ## Star history
 

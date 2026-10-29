@@ -1,0 +1,40 @@
+name: MCP server / Skill bug
+description: Something wrong with the MCP server in mcp/, the ai-news Skill or the public API.
+title: "[MCP/Skill] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: part
+    attributes:
+      label: Which part
+      options:
+        - MCP server (mcp/)
+        - ai-news Skill (skills/ai-news/)
+        - JSON API or llms.txt (blogs.drix10.com)
+    validations:
+      required: true
+  - type: input
+    id: client
+    attributes:
+      label: Client and version
+      placeholder: Claude Code, Claude Desktop, Cursor, VS Code, Windsurf...
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: OS and Node version
+      placeholder: macOS 15, Node 22
+  - type: textarea
+    id: config
+    attributes:
+      label: How you installed it
+      description: The command or JSON config you used. Remove any secrets.
+      render: json
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what you expected
+      description: The prompt or tool call, the output or error, and what it should have been.
+    validations:
+      required: true

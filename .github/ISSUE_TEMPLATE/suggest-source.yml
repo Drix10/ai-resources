@@ -1,7 +1,7 @@
 name: Suggest a source
-description: An X account, list or site the digests should follow, or a new category.
+description: An X account, X list or site the briefings should follow.
 title: "[Source] "
-labels: ["source-suggestion"]
+labels: ["new-source"]
 body:
   - type: input
     id: source
@@ -15,26 +15,56 @@ body:
     id: category
     attributes:
       label: Category
+      description: Need a category that does not exist yet? Use the "Request a category" form instead.
       options:
-        - AI Developer Tools
-        - AI Leaders and Thinkers
-        - AI Companies and Ventures
-        - CS Academics
-        - Tech Infrastructure
-        - Cybersecurity and Tech
-        - AI in Healthcare and Science
-        - AI and Robotics Applications
-        - Founders and Entrepreneurs
-        - Investors and Venture Capital
-        - Another existing category (say which below)
-        - New category
+        - "AI Artists and Creators"
+        - "AI Companies and Ventures"
+        - "AI Consulting and Expertise"
+        - "AI Developer Tools"
+        - "AI Driven Vehicles and Transportation"
+        - "AI Education"
+        - "AI Generated Music and Audio"
+        - "AI Holodeck and Virtual Worlds"
+        - "AI Leaders and Thinkers"
+        - "AI Organizations and Media"
+        - "AI Policy and Ethical Considerations"
+        - "AI Powered Film and Media"
+        - "AI Professionals and Community"
+        - "AI and Robotics Applications"
+        - "AI for Content Creation and Marketing"
+        - "AI in Enterprise Applications"
+        - "AI in Healthcare and Science"
+        - "AI in Real Estate and Property Tech"
+        - "AR VR Companies and Development"
+        - "AR VR Professionals and Community"
+        - "CS Academics"
+        - "Climate and Weather Technology"
+        - "Computer Vision and AI Applications"
+        - "Crypto and Web3"
+        - "Cybersecurity and Tech"
+        - "Decentralized AI"
+        - "Devs, Designers, DevRel"
+        - "Founders and Entrepreneurs"
+        - "Interesting Finds"
+        - "Investors and Venture Capital"
+        - "Neuroscience and AI"
+        - "PR and Communications"
+        - "Quantum Computing"
+        - "Spatial Computing"
+        - "Tech Companies and News"
+        - "Tech Infrastructure"
+        - "Tech Journalists and VIPs"
+        - "Tech VIPs"
+        - "The Exponential Future"
+        - "VC Firms"
+        - "World News and Updates"
     validations:
       required: true
   - type: textarea
     id: why
     attributes:
       label: Why it fits
-      description: Two or three recent posts that show the kind of concrete material it shares.
+      description: Link two or three recent posts that show the kind of concrete material it shares (releases, numbers, papers, code).
     validations:
       required: true
   - type: checkboxes
