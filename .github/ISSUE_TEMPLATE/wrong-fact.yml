@@ -1,0 +1,36 @@
+name: Wrong fact
+description: A wrong number, name, date, link or summary in a briefing.
+title: "[Wrong fact] "
+labels: ["data-quality"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks. Corrections need a source, so a maintainer can check and fix it quickly.
+  - type: input
+    id: briefing
+    attributes:
+      label: Briefing link
+      description: The resources-NNN.md file on GitHub or the article on blogs.drix10.com.
+      placeholder: https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-300.md
+    validations:
+      required: true
+  - type: input
+    id: item
+    attributes:
+      label: Item headline
+      description: The headline of the briefing item that is wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong, and the correct version
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source that shows the correct version
+      description: The original post, an official page or another primary source.
+    validations:
+      required: true
