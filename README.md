@@ -19,7 +19,7 @@
   <a href="#-resource-categories"><b>Browse the 41 categories</b></a> ·
   <a href="https://blogs.drix10.com"><b>Read on blogs.drix10.com</b></a> ·
   <a href="https://github.com/search?q=repo%3ADrix10%2Fai-resources+MCP&type=code"><b>Search the archive</b></a> ·
-  <a href="https://github.com/Drix10/ai-resources-pipeline"><b>See how it is built</b></a> ·
+  <a href="USE-WITH-AI.md"><b>Use it from your AI agent</b></a> ·
   <a href="COMPARISONS.md"><b>How it compares</b></a>
 </p>
 
@@ -35,7 +35,7 @@ Counted from this repository on 29 October 2026. The archive only grows.
 | ---: | --- |
 | **100,000+** | briefings: a headline, two or three sentences and the key numbers, one per post |
 | **10,800+** | digest files (`resources-NNN.md`) across **41 categories** |
-| **10,900+** | commits since November 2024, written by an [open-source pipeline](https://github.com/Drix10/ai-resources-pipeline), not a weekly editor |
+| **10,900+** | commits since November 2024, written by an automated pipeline, not a weekly editor |
 | **14,000+** | briefings that link both the original post and the page it points to (every briefing since mid-2026) |
 | **~2,000** | of them published as articles on [blogs.drix10.com](https://blogs.drix10.com) with search, topic pages, an [RSS feed](https://blogs.drix10.com/rss.xml) and [llms.txt](https://blogs.drix10.com/llms.txt) |
 
@@ -74,12 +74,24 @@ Every `resources-NNN.md` file is one digest of 5 to 12 briefings. A real one fro
 | Catch up on one area | Open its category below and read the newest digest (the list shows its headlines). |
 | Get new digests as they land | ⭐ Star and watch the repo, or subscribe to the [RSS feed](https://blogs.drix10.com/rss.xml). |
 | Search | GitHub code search covers the whole archive: `repo:Drix10/ai-resources "MCP"`. Recent digests are also on [blogs.drix10.com/search](https://blogs.drix10.com/search). |
+| Ask it from Claude, Cursor or VS Code | Add the [MCP server or the Skill](USE-WITH-AI.md); see the next section. |
 | Feed it to an LLM | Point it at [llms.txt](https://blogs.drix10.com/llms.txt), or `git clone --depth 1 https://github.com/Drix10/ai-resources` and parse the Markdown. Attribution terms are in [LICENSE](LICENSE). |
 | Add a source or fix a briefing | [Open an issue](https://github.com/Drix10/ai-resources/issues/new/choose); see [CONTRIBUTING.md](CONTRIBUTING.md). |
 
+## Use it from your AI agent
+
+Ask Claude, Cursor, VS Code or Windsurf "what did Anthropic ship this week?" and get dated answers with source links, from the same briefings. Setup for every path is in **[USE-WITH-AI.md](USE-WITH-AI.md)**.
+
+| Path | What you get |
+| --- | --- |
+| **[MCP server](mcp/)** | `search_briefings`, `latest`, `get_briefing`, `list_categories` tools. `claude mcp add ai-resources -- npx -y ai-resources-mcp` once the npm package is out; [run it from a clone](USE-WITH-AI.md#mcp-server) until then. |
+| **[Agent Skill](skills/ai-news/SKILL.md)** | Copy `skills/ai-news` to `~/.claude/skills/` and Claude answers AI-news questions from the briefings, with citations. |
+| **[JSON API](USE-WITH-AI.md#json-api)** | `https://blogs.drix10.com/api/articles?q=…` and `/api/categories`. No key, CORS open. |
+| **[llms.txt](https://blogs.drix10.com/llms.txt)** | One index plus `/llms/<category>.txt` with the 50 newest briefings of each category. |
+
 ## How it is built
 
-Nobody types these. The open-source **[ai-resources-pipeline](https://github.com/Drix10/ai-resources-pipeline)** (MIT) reads the curated X lists for each category, writes one briefing per strong post, runs the fact gates, strips secrets, de-duplicates across categories and commits the batch here. The same run refreshes the category list below and publishes to the blog. Fork it to run your own knowledge base on your own lists.
+Nobody types these. A pipeline reads the curated X lists for each category, writes one briefing per strong post, runs the fact gates, strips secrets, de-duplicates across categories and commits the batch here. The same run refreshes the category list below and publishes to the blog.
 
 ```mermaid
 flowchart LR
