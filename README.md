@@ -1,42 +1,63 @@
 <h1 align="center">AI Resources</h1>
 
 <p align="center">
-  <strong>Short, sourced briefings on AI tools, models, research, companies and the people building them.<br/>
-  100,000+ items across 41 categories, updated as the curated feeds move, each linked back to where it came from.</strong>
+  <strong>What shipped in AI, who raised, and what the numbers were, with a link to the post it came from.</strong><br/>
+  100,000+ short, fact-checked briefings on models, dev tools, research, funding and the people behind them, in 41 categories.<br/>
+  Plain Markdown. Free. CC BY 4.0. One <code>git clone</code> away.
 </p>
 
 <p align="center">
   <a href="https://github.com/Drix10/ai-resources/stargazers"><img src="https://img.shields.io/github/stars/Drix10/ai-resources?style=for-the-badge&color=yellow&label=STARS" alt="GitHub stars" /></a>
-  <img src="https://img.shields.io/github/last-commit/Drix10/ai-resources?style=for-the-badge&color=5D6D7E&label=LAST_UPDATE" alt="Last updated" />
-  <a href="https://blogs.drix10.com"><img src="https://img.shields.io/badge/READ_ON-BLOGS.DRIX10.COM-0077b5?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Read on blogs.drix10.com" /></a>
+  <a href="https://github.com/Drix10/ai-resources/commits/main"><img src="https://img.shields.io/github/last-commit/Drix10/ai-resources?style=for-the-badge&color=5D6D7E&label=LAST_UPDATE" alt="Last updated" /></a>
+  <img src="https://img.shields.io/badge/BRIEFINGS-100K%2B-8A2BE2?style=for-the-badge" alt="100,000+ briefings" />
+  <img src="https://img.shields.io/badge/CATEGORIES-41-ff6f00?style=for-the-badge" alt="41 categories" />
+  <a href="https://blogs.drix10.com/rss.xml"><img src="https://img.shields.io/badge/RSS-FEED-orange?style=for-the-badge&logo=rss&logoColor=white" alt="RSS feed" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-CC_BY_4.0-2ea44f?style=for-the-badge" alt="License: CC BY 4.0" /></a>
 </p>
 
 <p align="center">
-  <a href="#-resource-categories"><b>Browse the categories</b></a> ·
+  <a href="#-resource-categories"><b>Browse the 41 categories</b></a> ·
+  <a href="https://blogs.drix10.com"><b>Read on blogs.drix10.com</b></a> ·
   <a href="https://github.com/search?q=repo%3ADrix10%2Fai-resources+MCP&type=code"><b>Search the archive</b></a> ·
-  <a href="https://github.com/Drix10/ai-resources/issues/new/choose"><b>Suggest a source</b></a> ·
-  <a href="COMPARISONS.md"><b>How this compares</b></a>
+  <a href="https://github.com/Drix10/ai-resources-pipeline"><b>See how it is built</b></a> ·
+  <a href="COMPARISONS.md"><b>How it compares</b></a>
 </p>
 
-> ⭐ **If a digest saved you a scroll through X, star the repo.** It bookmarks the archive for you and helps other people find it.
+> ⭐ **Star the repo if a digest saved you a scroll through X.** It keeps the archive one click away for you and puts it in front of the next person looking for it.
 
 ---
 
-## Why this exists
+## By the numbers
 
-The useful AI news is spread across thousands of posts on X, most of them threads, hype or reposts. Awesome lists are great reference shelves but they move at the speed of pull requests; newsletters are fast but disappear into your inbox. This repo sits in between:
+Counted from this repository on 29 October 2026. The archive only grows.
 
-- **Small and dense.** Each item is a headline, two or three sentences and the key numbers. No intros, no "in today's fast-moving world".
-- **Sourced.** Current digests link every item to its original post and to any page that post points to. Numbers and names are checked against the post before anything is committed.
-- **Organized by who and what.** 41 categories, from AI Developer Tools and CS Academics to VC Firms, Quantum Computing and Climate Tech, each fed by its own hand-picked X lists.
-- **Plain Markdown in a public repo.** Read it on GitHub, clone it, grep it, or feed it to your own tools. Recent digests are also published with search and topic pages on [blogs.drix10.com](https://blogs.drix10.com).
+| | |
+| ---: | --- |
+| **100,000+** | briefings: a headline, two or three sentences and the key numbers, one per post |
+| **10,800+** | digest files (`resources-NNN.md`) across **41 categories** |
+| **10,900+** | commits since November 2024, written by an [open-source pipeline](https://github.com/Drix10/ai-resources-pipeline), not a weekly editor |
+| **14,000+** | briefings that link both the original post and the page it points to (every briefing since mid-2026) |
+| **~2,000** | of them published as articles on [blogs.drix10.com](https://blogs.drix10.com) with search, topic pages, an [RSS feed](https://blogs.drix10.com/rss.xml) and [llms.txt](https://blogs.drix10.com/llms.txt) |
 
-See [COMPARISONS.md](COMPARISONS.md) for how it stacks up against awesome lists and AI newsletters, including where they are the better choice.
+## Who it is for
 
-## What a digest looks like
+- **Engineers building with AI.** What changed in models, inference, agents, MCP and dev tools, with the benchmark number and the link, in [AI Developer Tools](#ai-developer-tools) and [Tech Infrastructure](#tech-infrastructure).
+- **Founders and investors.** Rounds, launches and revenue figures as they are announced, in [AI Companies and Ventures](#ai-companies-and-ventures), [VC Firms](#vc-firms) and [Founders and Entrepreneurs](#founders-and-entrepreneurs).
+- **Researchers and students.** What the people in the field are publishing and arguing about, in [CS Academics](#cs-academics) and [Neuroscience and AI](#neuroscience-and-ai).
+- **Anyone building RAG, agents or evals.** A 100,000-item corpus of dated, sourced AI news in plain Markdown under CC BY 4.0. Clone it and index it.
 
-Every `resources-NNN.md` file is one digest of 5 to 12 items. A real item from [AI Developer Tools #296](AI%20Developer%20Tools/resources-296.md):
+## Why it beats scrolling, newsletters and awesome lists
+
+- **It is checked, not just summarised.** Before a briefing is committed, code compares it with the source post: a number, unit, currency, model version or name that is not in the post gets the briefing rejected and rewritten. Links are copied from the post by code, never written by the model. Posts with nothing concrete are skipped, not padded.
+- **It is dense.** No intros, no "in today's fast-moving world". A headline, the facts, the numbers, the source.
+- **It is broad.** 41 categories, each fed by its own hand-picked X lists: tools and research, but also the companies, investors, founders, journalists and DevRel people who move the field, plus robotics, climate, quantum, security and crypto.
+- **It stays.** Newsletters vanish into your inbox and X timelines scroll away. Every digest stays here, greppable, with full git history.
+
+Awesome lists are still the better pick for a vetted shortlist, and a newsletter for five editor-picked minutes a day. [COMPARISONS.md](COMPARISONS.md) lays that out honestly.
+
+## What a briefing looks like
+
+Every `resources-NNN.md` file is one digest of 5 to 12 briefings. A real one from [AI Developer Tools #296](AI%20Developer%20Tools/resources-296.md):
 
 > ### 🤖 Nemotron 3.5 Super VL E2EE inference 500+ tokens/sec on one GPU
 >
@@ -51,25 +72,28 @@ Every `resources-NNN.md` file is one digest of 5 to 12 items. A real item from [
 | You want to… | Do this |
 | --- | --- |
 | Catch up on one area | Open its category below and read the newest digest (the list shows its headlines). |
-| Keep it handy | ⭐ Star it, or follow the [RSS feed](https://blogs.drix10.com/rss.xml) for new digests. |
+| Get new digests as they land | ⭐ Star and watch the repo, or subscribe to the [RSS feed](https://blogs.drix10.com/rss.xml). |
 | Search | GitHub code search covers the whole archive: `repo:Drix10/ai-resources "MCP"`. Recent digests are also on [blogs.drix10.com/search](https://blogs.drix10.com/search). |
-| Use the data | `git clone --depth 1 https://github.com/Drix10/ai-resources` and parse the Markdown. Attribution terms are in [LICENSE](LICENSE). |
-| Add a source or fix an item | [Open an issue](https://github.com/Drix10/ai-resources/issues/new/choose); see [CONTRIBUTING.md](CONTRIBUTING.md). |
+| Feed it to an LLM | Point it at [llms.txt](https://blogs.drix10.com/llms.txt), or `git clone --depth 1 https://github.com/Drix10/ai-resources` and parse the Markdown. Attribution terms are in [LICENSE](LICENSE). |
+| Add a source or fix a briefing | [Open an issue](https://github.com/Drix10/ai-resources/issues/new/choose); see [CONTRIBUTING.md](CONTRIBUTING.md). |
 
-## How it works
+## How it is built
 
-Digests are written by the open-source [ai-resources-pipeline](https://github.com/Drix10/ai-resources-pipeline): it reads curated X lists per category, writes one short briefing per strong post, rejects anything whose numbers or names are not in the source, strips secrets, and commits the batch here. The same run updates the category list below and publishes to the blog.
+Nobody types these. The open-source **[ai-resources-pipeline](https://github.com/Drix10/ai-resources-pipeline)** (MIT) reads the curated X lists for each category, writes one briefing per strong post, runs the fact gates, strips secrets, de-duplicates across categories and commits the batch here. The same run refreshes the category list below and publishes to the blog. Fork it to run your own knowledge base on your own lists.
 
 ```mermaid
 flowchart LR
     A["Curated X lists (41 categories)"] --> B["One briefing per post"]
-    B --> C["Fact gates: numbers and names must be in the post; links built in code"]
+    B --> C["Fact gates: numbers, units, versions and names must be in the post; links copied by code"]
     C --> D["resources-NNN.md committed here"]
-    D --> E["blogs.drix10.com (search + topic pages)"]
-    D --> F["DEV.to syndication"]
+    D --> E["blogs.drix10.com: search, topic pages, RSS, llms.txt"]
 ```
 
-**Known limits:** digests are machine-written from public posts and can be wrong; check the linked source before you rely on a number. Part of the older archive (2024 to mid-2026) predates source links. Inclusion is not endorsement.
+**Known limits:** briefings are machine-written from public posts and can still be wrong; check the linked source before you rely on a number. Part of the older archive (2024 to mid-2026) predates source links. Coverage follows the curated lists, blind spots included. Inclusion is not endorsement.
+
+## Star history
+
+<a href="https://star-history.com/#Drix10/ai-resources&Date"><img src="https://api.star-history.com/svg?repos=Drix10/ai-resources&type=Date" alt="Star history of Drix10/ai-resources" width="600" /></a>
 
 ## About the curator
 
@@ -91,6 +115,10 @@ Built and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)**, an A
 ---
 
 ## 📚 Resource Categories
+
+**10,858 digests in 41 categories.** Each category shows its newest headlines; jump to one:
+
+<sub>[AI Developer Tools](#ai-developer-tools) · [AI Leaders and Thinkers](#ai-leaders-and-thinkers) · [AI Companies and Ventures](#ai-companies-and-ventures) · [CS Academics](#cs-academics) · [Tech VIPs](#tech-vips) · [VC Firms](#vc-firms) · [Devs, Designers, DevRel](#devs-designers-devrel) · [Tech Infrastructure](#tech-infrastructure) · [Founders and Entrepreneurs](#founders-and-entrepreneurs) · [AI Organizations and Media](#ai-organizations-and-media) · [AI Powered Film and Media](#ai-powered-film-and-media) · [AI Holodeck and Virtual Worlds](#ai-holodeck-and-virtual-worlds) · [AI Artists and Creators](#ai-artists-and-creators) · [AI in Healthcare and Science](#ai-in-healthcare-and-science) · [AI Generated Music and Audio](#ai-generated-music-and-audio) · [AI Consulting and Expertise](#ai-consulting-and-expertise) · [AI Professionals and Community](#ai-professionals-and-community) · [AI Policy and Ethical Considerations](#ai-policy-and-ethical-considerations) · [AI in Real Estate and Property Tech](#ai-in-real-estate-and-property-tech) · [AI and Robotics Applications](#ai-and-robotics-applications) · [AI Driven Vehicles and Transportation](#ai-driven-vehicles-and-transportation) · [AI for Content Creation and Marketing](#ai-for-content-creation-and-marketing) · [AR VR Companies and Development](#ar-vr-companies-and-development) · [AR VR Professionals and Community](#ar-vr-professionals-and-community) · [Climate and Weather Technology](#climate-and-weather-technology) · [Computer Vision and AI Applications](#computer-vision-and-ai-applications) · [Crypto and Web3](#crypto-and-web3) · [Decentralized AI](#decentralized-ai) · [The Exponential Future](#the-exponential-future) · [AI Education](#ai-education) · [AI in Enterprise Applications](#ai-in-enterprise-applications) · [Interesting Finds](#interesting-finds) · [Investors and Venture Capital](#investors-and-venture-capital) · [Cybersecurity and Tech](#cybersecurity-and-tech) · [Neuroscience and AI](#neuroscience-and-ai) · [PR and Communications](#pr-and-communications) · [Quantum Computing](#quantum-computing) · [Spatial Computing](#spatial-computing) · [Tech Companies and News](#tech-companies-and-news) · [Tech Journalists and VIPs](#tech-journalists-and-vips) · [World News and Updates](#world-news-and-updates)</sub>
 
 ### AI Developer Tools
 
@@ -423,6 +451,8 @@ Built and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)**, an A
 <div align="center">
 
 **Found something useful?** ⭐ [Star the repo](https://github.com/Drix10/ai-resources) to keep it handy and help others find it, or [suggest a source](https://github.com/Drix10/ai-resources/issues/new/choose).
+
+[Read on the blog](https://blogs.drix10.com) · [RSS feed](https://blogs.drix10.com/rss.xml) · [How it is built](https://github.com/Drix10/ai-resources-pipeline)
 
 <sub>Summaries © Drishtant Ghosh, licensed [CC BY 4.0](LICENSE). Every digest links to its original post where one exists; the posts and linked pages belong to their authors.</sub>
 
