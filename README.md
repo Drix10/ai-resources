@@ -1,32 +1,209 @@
-<h1 align="center">AI Resources</h1>
+<div align="center">
 
-<p align="center">
-  <strong>What shipped in AI, who raised, and what the numbers were, with a link to the post it came from.</strong><br/>
-  100,000+ short briefings on models, dev tools, research, funding and the people behind them, in 41 categories. New ones are fact-checked against the post they came from and link to it.<br/>
-  Plain Markdown. Free. CC BY 4.0. One <code>git clone</code> away.
-</p>
+<a href="https://blogs.drix10.com"><img src="assets/readme/banner.jpg" alt="AI Resources: what shipped in AI, who raised and what the numbers were, every briefing checked against its source. 100,000+ briefings, 41 categories, 10,900+ commits since November 2024." width="100%"></a>
 
-<p align="center">
-  <a href="https://github.com/Drix10/ai-resources/stargazers"><img src="https://img.shields.io/github/stars/Drix10/ai-resources?style=for-the-badge&color=yellow&label=STARS" alt="GitHub stars" /></a>
-  <a href="https://github.com/Drix10/ai-resources/commits/main"><img src="https://img.shields.io/github/last-commit/Drix10/ai-resources?style=for-the-badge&color=5D6D7E&label=LAST_UPDATE" alt="Last updated" /></a>
-  <img src="https://img.shields.io/badge/BRIEFINGS-100K%2B-8A2BE2?style=for-the-badge" alt="100,000+ briefings" />
-  <img src="https://img.shields.io/badge/CATEGORIES-41-ff6f00?style=for-the-badge" alt="41 categories" />
-  <a href="https://www.npmjs.com/package/ai-resources-mcp"><img src="https://img.shields.io/npm/v/ai-resources-mcp?style=for-the-badge&logo=npm&color=cb3837&label=MCP%20SERVER" alt="MCP server on npm" /></a>
-  <a href="https://blogs.drix10.com/rss.xml"><img src="https://img.shields.io/badge/RSS-FEED-orange?style=for-the-badge&logo=rss&logoColor=white" alt="RSS feed" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/LICENSE-CC_BY_4.0-2ea44f?style=for-the-badge" alt="License: CC BY 4.0" /></a>
-</p>
+<a href="https://github.com/Drix10/ai-resources/stargazers"><img src="https://img.shields.io/github/stars/Drix10/ai-resources?style=flat-square&color=8b9cff&label=stars" alt="GitHub stars"></a>
+<a href="https://github.com/Drix10/ai-resources/commits/main"><img src="https://img.shields.io/github/last-commit/Drix10/ai-resources?style=flat-square&color=3ecf8e&label=updated" alt="Last updated"></a>
+<a href="https://www.npmjs.com/package/ai-resources-mcp"><img src="https://img.shields.io/npm/v/ai-resources-mcp?style=flat-square&logo=npm&color=cb3837&label=mcp%20server" alt="MCP server on npm"></a>
+<a href="https://blogs.drix10.com/rss.xml"><img src="https://img.shields.io/badge/rss-feed-f5b544?style=flat-square&logo=rss&logoColor=white" alt="RSS feed"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-262626?style=flat-square" alt="License: CC BY 4.0"></a>
 
-<p align="center">
-  <a href="#-resource-categories"><b>Browse the 41 categories</b></a> ·
-  <a href="https://blogs.drix10.com"><b>Read on blogs.drix10.com</b></a> ·
-  <a href="https://github.com/search?q=repo%3ADrix10%2Fai-resources+MCP&type=code"><b>Search the archive</b></a> ·
-  <a href="USE-WITH-AI.md"><b>Use it from your AI agent</b></a> ·
-  <a href="COMPARISONS.md"><b>How it compares</b></a>
-</p>
+<b><a href="https://blogs.drix10.com">Read it</a></b> · <b><a href="#-resource-categories">Browse 41 categories</a></b> · <b><a href="#use-it-from-your-ai-agent">Plug it into your agent</a></b> · <b><a href="https://github.com/search?q=repo%3ADrix10%2Fai-resources+MCP&type=code">Search the archive</a></b>
 
-> ⭐ **Star the repo if a digest saved you a scroll through X.** It keeps the archive one click away for you and puts it in front of the next person looking for it.
+</div>
 
----
+<table>
+<tr>
+<td width="25%" valign="top"><b>Checked, not just summarised</b><br><sub>A number, unit, model version or name that is not in the source post gets the briefing rejected and rewritten.</sub></td>
+<td width="25%" valign="top"><b>Every claim has a link</b><br><sub>The original post and the page it points to, copied by code, never written by the model.</sub></td>
+<td width="25%" valign="top"><b>41 categories</b><br><sub>Models, dev tools, research and funding, plus robotics, climate, quantum, security and crypto.</sub></td>
+<td width="25%" valign="top"><b>Ready for your agent</b><br><sub>MCP server, Agent Skill, JSON API and llms.txt. Plain Markdown under CC BY 4.0.</sub></td>
+</tr>
+</table>
+
+## Three ways in
+
+<table>
+<tr>
+<td width="55%"><a href="https://blogs.drix10.com"><img src="assets/readme/blog.jpg" alt="blogs.drix10.com: the newest digests first, a search box and every topic with its count" width="100%"></a></td>
+<td width="45%" valign="top">
+<h3><a href="https://blogs.drix10.com">Read it</a></h3>
+The newest digests on <a href="https://blogs.drix10.com">blogs.drix10.com</a>, with search, topic pages and an <a href="https://blogs.drix10.com/rss.xml">RSS feed</a>. Or open any category <a href="#-resource-categories">below</a> and read its latest digest here on GitHub.
+<br><br>
+⭐ Star and watch the repo to get new digests as they land.
+</td>
+</tr>
+<tr>
+<td width="55%"><a href="USE-WITH-AI.md"><img src="assets/readme/agent.jpg" alt="Claude Code with the ai-resources MCP server: search_briefings for 'anthropic' returns dated briefings, and the answer cites the source posts" width="100%"></a></td>
+<td width="45%" valign="top">
+<h3><a href="#use-it-from-your-ai-agent">Ask it from your agent</a></h3>
+Claude, Cursor, VS Code or Windsurf answer "what did Anthropic ship this week?" from the briefings, with dates and source links. No key, no account. <a href="#use-it-from-your-ai-agent">Setup for every client ↓</a>
+<br><br>
+<code>claude mcp add ai-resources -- npx -y ai-resources-mcp</code>
+</td>
+</tr>
+<tr>
+<td width="55%"><img src="assets/readme/clone.jpg" alt="Cloning the repo: one folder per category, grep across every briefing, and the first lines of a digest file" width="100%"></td>
+<td width="45%" valign="top">
+<h3>Clone it</h3>
+100,000+ dated, sourced briefings in plain Markdown for RAG, evals or an offline index. Every <code>resources-NNN.md</code> holds 5 to 12 of them, like <a href="AI%20Developer%20Tools/resources-296.md">this one</a>.
+<br><br>
+<code>git clone --depth 1 https://github.com/Drix10/ai-resources</code>
+</td>
+</tr>
+</table>
+
+## What a briefing looks like
+
+<a href="AI%20Developer%20Tools/resources-296.md"><img src="assets/readme/briefing.jpg" alt="Anatomy of a briefing: a headline with the number, two or three sentences of facts, the key figures pulled out, and links to the original post and the page it points to" width="100%"></a>
+<p align="center"><sub>A real briefing from <a href="AI%20Developer%20Tools/resources-296.md">AI Developer Tools #296</a>. Every digest file holds 5 to 12 of these.</sub></p>
+
+## Who it is for
+
+- **Engineers building with AI.** What changed in models, inference, agents, MCP and dev tools, with the benchmark number and the link, in [AI Developer Tools](#ai-developer-tools) and [Tech Infrastructure](#tech-infrastructure).
+- **Founders and investors.** Rounds, launches and revenue figures as they are announced, in [AI Companies and Ventures](#ai-companies-and-ventures), [VC Firms](#vc-firms) and [Founders and Entrepreneurs](#founders-and-entrepreneurs).
+- **Researchers and students.** What the people in the field are publishing and arguing about, in [CS Academics](#cs-academics) and [Neuroscience and AI](#neuroscience-and-ai).
+- **Anyone building RAG, agents or evals.** A 100,000-item corpus of dated, sourced AI news under CC BY 4.0.
+
+Awesome lists are still the better pick for a vetted shortlist, and a newsletter for five editor-picked minutes a day. [COMPARISONS.md](COMPARISONS.md) lays out where this fits.
+
+## Use it from your AI agent
+
+Five ways to plug the briefings into an agent or your own code. None needs a key or an account. Full reference: **[USE-WITH-AI.md](USE-WITH-AI.md)**.
+
+| Path | Best for | Setup |
+| --- | --- | --- |
+| [MCP server](#mcp-server) | Claude Code, Claude Desktop, Cursor, VS Code, Windsurf | one command or one JSON block |
+| [Agent Skill](#agent-skill) | Claude Code and other Skill-aware agents | copy one folder |
+| [JSON API](#json-api) | your own code, custom GPT actions, scripts | none, CORS open |
+| [llms.txt and RSS](#llmstxt-and-rss) | any LLM that reads a URL, feed readers, bots | none |
+| [Raw Markdown](#three-ways-in) | RAG, evals, offline indexes, all 100,000+ briefings | `git clone` |
+
+### MCP server
+
+<a href="https://www.npmjs.com/package/ai-resources-mcp"><img src="https://img.shields.io/npm/v/ai-resources-mcp?style=flat-square&logo=npm&color=cb3837&label=ai-resources-mcp" alt="ai-resources-mcp on npm"></a>
+<a href="https://registry.modelcontextprotocol.io/v0/servers?search=io.github.Drix10/ai-resources"><img src="https://img.shields.io/badge/MCP%20Registry-io.github.Drix10%2Fai--resources-8b9cff?style=flat-square" alt="In the official MCP Registry"></a>
+<img src="https://img.shields.io/badge/node-%3E%3D18-3ecf8e?style=flat-square&logo=node.js&logoColor=white" alt="Node.js 18 or newer">
+
+Published on npm as [`ai-resources-mcp`](https://www.npmjs.com/package/ai-resources-mcp) (MIT, code in [`mcp/`](mcp/)). `npx` fetches it on first run, so there is nothing to install by hand.
+
+| Tool | What it does |
+| --- | --- |
+| `search_briefings(query, category?, limit?, since?)` | Keyword search, newest first. All words must match. `since` is `YYYY-MM-DD`. |
+| `latest(category?, limit?)` | The newest briefings, overall or for one category. |
+| `get_briefing(id)` | Full Markdown of one briefing (URL or slug), with every source link. |
+| `list_categories()` | Every category slug with its briefing count. |
+
+Every result ends with its source link and `Data: github.com/Drix10/ai-resources (CC BY 4.0)`, so answers stay citable.
+
+**Claude Code**
+
+```bash
+claude mcp add ai-resources -- npx -y ai-resources-mcp
+```
+
+<details>
+<summary><b>Claude Desktop, Cursor, Windsurf</b></summary>
+
+<br>
+
+Add this to `claude_desktop_config.json` (Claude Desktop: Settings → Developer → Edit Config), `~/.cursor/mcp.json` or `.cursor/mcp.json` (Cursor), or `~/.codeium/windsurf/mcp_config.json` (Windsurf):
+
+```json
+{
+  "mcpServers": {
+    "ai-resources": { "command": "npx", "args": ["-y", "ai-resources-mcp"] }
+  }
+}
+```
+
+</details>
+
+<details>
+<summary><b>VS Code</b></summary>
+
+<br>
+
+In `.vscode/mcp.json`, or *MCP: Open User Configuration*:
+
+```json
+{
+  "servers": {
+    "ai-resources": { "type": "stdio", "command": "npx", "args": ["-y", "ai-resources-mcp"] }
+  }
+}
+```
+
+Or from a terminal:
+
+```bash
+code --add-mcp "{\"name\":\"ai-resources\",\"command\":\"npx\",\"args\":[\"-y\",\"ai-resources-mcp\"]}"
+```
+
+</details>
+
+<details>
+<summary><b>Windows, and other settings</b></summary>
+
+<br>
+
+If a client cannot start `npx` on Windows, use `"command": "cmd", "args": ["/c", "npx", "-y", "ai-resources-mcp"]`.
+
+`AI_RESOURCES_API_URL` sets the API base URL (default `https://blogs.drix10.com`).
+
+</details>
+
+Then ask, for example:
+
+- *"What did Anthropic announce this week? Cite the sources."*
+- *"Latest five briefings in AI Developer Tools."*
+- *"Who raised a Series A in AI this month, and how much?"*
+
+### Agent Skill
+
+[`skills/ai-news`](skills/ai-news/SKILL.md) teaches an agent when and how to answer "what's new in AI", "latest on &lt;model or company&gt;" and "who raised" questions from the briefings, with dates and citations. It uses the MCP tools when they are installed and falls back to the JSON API, then llms.txt, then raw Markdown on GitHub when they are not.
+
+```bash
+git clone --depth 1 https://github.com/Drix10/ai-resources
+mkdir -p ~/.claude/skills
+cp -r ai-resources/skills/ai-news ~/.claude/skills/
+```
+
+<details>
+<summary><b>One project only, Windows, other agents</b></summary>
+
+<br>
+
+- **One project:** copy it to `.claude/skills/ai-news/` inside that project instead.
+- **Windows (PowerShell):** `Copy-Item -Recurse ai-resources\skills\ai-news $HOME\.claude\skills\`
+- **Other agents** that read `SKILL.md` folders work the same way. For chat apps without Skills, paste the body of `SKILL.md` into the custom instructions.
+
+</details>
+
+### JSON API
+
+Base URL `https://blogs.drix10.com`. JSON, CORS open, no key. It covers the briefings published on the blog; the full archive is in this repository.
+
+| Request | Returns |
+| --- | --- |
+| `GET /api/articles?q=&category=&since=&limit=&page=` | `{ items, total, page, limit, totalPages, license }`, newest first. All words in `q` must match; every parameter is optional. |
+| `GET /api/articles?slug=<slug or URL>` | One item, plus `content` (the full Markdown). |
+| `GET /api/categories` | `{ items: [{ name, slug, count, url, llms }] }` |
+
+Each item has `title`, `url`, `slug`, `category`, `categorySlug`, `date`, `description`, `headlines` (every news item in the briefing) and `sources` (`[{ title, url }]`, the original posts).
+
+```bash
+curl "https://blogs.drix10.com/api/articles?q=anthropic&since=2026-10-01&limit=5"
+curl "https://blogs.drix10.com/api/categories"
+```
+
+### llms.txt and RSS
+
+- [`/llms.txt`](https://blogs.drix10.com/llms.txt): the index, linking every category.
+- `/llms/<category-slug>.txt`: the 50 newest briefings of one category, for example [`/llms/ai-developer-tools.txt`](https://blogs.drix10.com/llms/ai-developer-tools.txt).
+- [`/rss.xml`](https://blogs.drix10.com/rss.xml): for feed readers, Slack or Discord feed bots and email-digest services.
+
+When you show the data anywhere, credit it as `Data: github.com/Drix10/ai-resources (CC BY 4.0)`. The MCP server and the Skill add that line for you.
 
 ## By the numbers
 
@@ -39,56 +216,6 @@ Counted from this repository on 29 October 2026. The archive only grows.
 | **10,900+** | commits since November 2024, written by an automated pipeline, not a weekly editor |
 | **14,000+** | briefings that link both the original post and the page it points to (every briefing since mid-2026) |
 | **~2,000** | of them published as articles on [blogs.drix10.com](https://blogs.drix10.com) with search, topic pages, an [RSS feed](https://blogs.drix10.com/rss.xml) and [llms.txt](https://blogs.drix10.com/llms.txt) |
-
-## Who it is for
-
-- **Engineers building with AI.** What changed in models, inference, agents, MCP and dev tools, with the benchmark number and the link, in [AI Developer Tools](#ai-developer-tools) and [Tech Infrastructure](#tech-infrastructure).
-- **Founders and investors.** Rounds, launches and revenue figures as they are announced, in [AI Companies and Ventures](#ai-companies-and-ventures), [VC Firms](#vc-firms) and [Founders and Entrepreneurs](#founders-and-entrepreneurs).
-- **Researchers and students.** What the people in the field are publishing and arguing about, in [CS Academics](#cs-academics) and [Neuroscience and AI](#neuroscience-and-ai).
-- **Anyone building RAG, agents or evals.** A 100,000-item corpus of dated, sourced AI news in plain Markdown under CC BY 4.0. Clone it and index it.
-
-## Why it beats scrolling, newsletters and awesome lists
-
-- **It is checked, not just summarised.** Before a briefing is committed, code compares it with the source post: a number, unit, currency, model version or name that is not in the post gets the briefing rejected and rewritten. Links are copied from the post by code, never written by the model. Posts with nothing concrete are skipped, not padded.
-- **It is dense.** No intros, no "in today's fast-moving world". A headline, the facts, the numbers, the source.
-- **It is broad.** 41 categories, each fed by its own hand-picked X lists: tools and research, but also the companies, investors, founders, journalists and DevRel people who move the field, plus robotics, climate, quantum, security and crypto.
-- **It stays.** Newsletters vanish into your inbox and X timelines scroll away. Every digest stays here, greppable, with full git history.
-
-Awesome lists are still the better pick for a vetted shortlist, and a newsletter for five editor-picked minutes a day. [COMPARISONS.md](COMPARISONS.md) lays that out honestly.
-
-## What a briefing looks like
-
-Every `resources-NNN.md` file is one digest of 5 to 12 briefings. A real one from [AI Developer Tools #296](AI%20Developer%20Tools/resources-296.md):
-
-> ### 🤖 Nemotron 3.5 Super VL E2EE inference 500+ tokens/sec on one GPU
->
-> NVIDIA Nemotron 3.5 Super VL is an open multimodal model that runs with end-to-end encrypted inference at over 500 output tokens per second on a single NVIDIA B300 GPU. […]
->
-> **Key Points:** 500+ output tokens per second for a single request on one B300 GPU · 120B total parameters, 12B active MoE per token
->
-> 🔗 [Original post](https://x.com/blackboxai/status/2111177845292794036) · [Linked page](https://www.blackbox.ai/blog/nemotron-3-5-super-vl)
-
-## How to use it
-
-| You want to… | Do this |
-| --- | --- |
-| Catch up on one area | Open its category below and read the newest digest (the list shows its headlines). |
-| Get new digests as they land | ⭐ Star and watch the repo, or subscribe to the [RSS feed](https://blogs.drix10.com/rss.xml). |
-| Search | GitHub code search covers the whole archive: `repo:Drix10/ai-resources "MCP"`. Recent digests are also on [blogs.drix10.com/search](https://blogs.drix10.com/search). |
-| Ask it from Claude, Cursor or VS Code | Add the [MCP server or the Skill](USE-WITH-AI.md); see the next section. |
-| Feed it to an LLM | Point it at [llms.txt](https://blogs.drix10.com/llms.txt), or `git clone --depth 1 https://github.com/Drix10/ai-resources` and parse the Markdown. Attribution terms are in [LICENSE](LICENSE). |
-| Add a source or fix a briefing | [Open an issue](https://github.com/Drix10/ai-resources/issues/new/choose); see [Contribute](#contribute). |
-
-## Use it from your AI agent
-
-Ask Claude, Cursor, VS Code or Windsurf "what did Anthropic ship this week?" and get dated answers with source links, from the same briefings. Setup for every path is in **[USE-WITH-AI.md](USE-WITH-AI.md)**.
-
-| Path | What you get |
-| --- | --- |
-| **[MCP server](mcp/)** | `search_briefings`, `latest`, `get_briefing`, `list_categories` tools. `claude mcp add ai-resources -- npx -y ai-resources-mcp` ([npm](https://www.npmjs.com/package/ai-resources-mcp), [setup for every client](USE-WITH-AI.md#mcp-server)). |
-| **[Agent Skill](skills/ai-news/SKILL.md)** | Copy `skills/ai-news` to `~/.claude/skills/` and Claude answers AI-news questions from the briefings, with citations. |
-| **[JSON API](USE-WITH-AI.md#json-api)** | `https://blogs.drix10.com/api/articles?q=…` and `/api/categories`. No key, CORS open. |
-| **[llms.txt](https://blogs.drix10.com/llms.txt)** | One index plus `/llms/<category>.txt` with the 50 newest briefings of each category. |
 
 ## How it is built
 
