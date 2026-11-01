@@ -1,11 +1,15 @@
 # Cursor
 
-Cursor, the AI code editor. The 100 newest of 195 briefings that mention it, from every category, newest first.
+Cursor, the AI code editor. The 100 newest of 199 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-10-29 | [Vibecode adds app building from ChatGPT, Claude, Codex, Cursor](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-304.md#-vibecode-adds-app-building-from-chatgpt-claude-codex-cursor) | AI Developer Tools |
+| 2026-10-29 | [Vibecode adds multi-model app building from ChatGPT, Claude, Codex, Cursor](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-304.md#-vibecode-adds-multi-model-app-building-from-chatgpt-claude-codex-cursor) | AI Developer Tools |
+| 2026-10-29 | [Vibecode adds multi-model app building and in-chat preview](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-vibecode-adds-multi-model-app-building-and-in-chat-preview) | AI Developer Tools |
+| 2026-10-29 | [Cursor Agent mode works with API key on Terza Inference](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-256.md#-cursor-agent-mode-works-with-api-key-on-terza-inference) | Decentralized AI |
 | 2026-10-07 | [Headroom 1.5 Release Adds Menu Controls and Notifications](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-261.md#-headroom-15-release-adds-menu-controls-and-notifications) | AI Consulting and Expertise |
 | 2026-09-30 | [Tech - AI and Product Development](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-256.md#-tech---ai-and-product-development) | Founders and Entrepreneurs |
 | 2026-09-27 | [AI Engineering - Cursor's Code Search Shift](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-276.md#-ai-engineering---cursors-code-search-shift) | AI Leaders and Thinkers |
@@ -102,7 +106,3 @@ Cursor, the AI code editor. The 100 newest of 195 briefings that mention it, fro
 |  | [Cloud 100 Company - Anysphere and Cursor](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-120.md#--cloud-100-company---anysphere-and-cursor) | VC Firms |
 |  | [Cursor - Terminal Setup Issue](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-119.md#-cursor---terminal-setup-issue) | Devs, Designers, DevRel |
 |  | [MCP Rollout Plan - Cursor, Claude, and Codex](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-117.md#--mcp-rollout-plan---cursor-claude-and-codex) | AI Developer Tools |
-|  | [Supabase Integration - Automating Backend with MCP](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-111.md#-supabase-integration---automating-backend-with-mcp) | AI Consulting and Expertise |
-|  | [Codex Update - GPT-5 Code Editing and Cursor Integration](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-107.md#-codex-update---gpt-5-code-editing-and-cursor-integration) | Computer Vision and AI Applications |
-|  | [AI Development - Cursor Integration with LLM Code](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-106.md#-ai-development---cursor-integration-with-llm-code) | AI Powered Film and Media |
-|  | [No-Code App Development - Goodreads for Supplements](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-104.md#-no-code-app-development---goodreads-for-supplements) | AI Consulting and Expertise |

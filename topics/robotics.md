@@ -1,12 +1,25 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,411 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,424 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-01 | [Junfan Halloween Robotics Building Maker Arm for Dream Lab's Dream-1 10/31](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-289.md#-junfan-halloween-robotics-building-maker-arm-for-dream-labs-dream-1-1031) | AI Organizations and Media |
+| 2026-11-01 | [Meta Max prototype built in three months](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-276.md#-meta-max-prototype-built-in-three-months) | AI and Robotics Applications |
+| 2026-10-31 | [GoogleDeepMind AI agents design and build 12-DOF robot](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-306.md#-googledeepmind-ai-agents-design-and-build-12-dof-robot) | CS Academics |
+| 2026-10-31 | [Meta Max humanoid robot prototype built in 3 months](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-289.md#-meta-max-humanoid-robot-prototype-built-in-3-months) | AI Organizations and Media |
+| 2026-10-31 | [Lightberry Lumi robot priced at $39,990 with $20,000 annual software fee](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-237.md#-lightberry-lumi-robot-priced-at-39990-with-20000-annual-software-fee) | Tech Journalists and VIPs |
+| 2026-10-31 | [Odin Robotics launches AI-powered robot arms for factory automation](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-237.md#-odin-robotics-launches-ai-powered-robot-arms-for-factory-automation) | Tech Journalists and VIPs |
+| 2026-10-29 | [NVIDIA Robotics tutorial live event on Nov 5](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-303.md#-nvidia-robotics-tutorial-live-event-on-nov-5) | AI Developer Tools |
+| 2026-10-29 | [SO ARM 101 30 new kits shipped worldwide](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-292.md#-so-arm-101-30-new-kits-shipped-worldwide) | AI Companies and Ventures |
+| 2026-10-29 | [Galbot G1 opens bottles on Tsingtao demonstration](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-292.md#-galbot-g1-opens-bottles-on-tsingtao-demonstration) | AI Companies and Ventures |
+| 2026-10-29 | [Agentic Robotics – agents assemble robot programs, test in simulation, and iterate](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-291.md#-agentic-robotics--agents-assemble-robot-programs-test-in-simulation-and-iterate) | AI Companies and Ventures |
 | 2026-10-29 | [Axel Krieger talk Autonomous Robotic Surgery – 10:30-11:45](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-287.md#-axel-krieger-talk-autonomous-robotic-surgery--1030-1145) | AI Organizations and Media |
+| 2026-10-29 | [Unitree G1 humanoid state estimation trained on 1h data](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-275.md#-unitree-g1-humanoid-state-estimation-trained-on-1h-data) | AI and Robotics Applications |
+| 2026-10-29 | [One Scan is Enough: 85% success for language navigation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-275.md#-one-scan-is-enough-85-success-for-language-navigation) | AI and Robotics Applications |
+| 2026-10-29 | [DreamFAR released with real-time teleoperation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-275.md#-dreamfar-released-with-real-time-teleoperation) | AI and Robotics Applications |
 | 2026-10-29 | [Laika modular robotics kit converts into four robots for under $6k](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-274.md#-laika-modular-robotics-kit-converts-into-four-robots-for-under-6k) | AI and Robotics Applications |
 | 2026-10-29 | [FineART dataset release for robot learning tasks](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-274.md#-fineart-dataset-release-for-robot-learning-tasks) | AI and Robotics Applications |
 | 2026-10-29 | [DreamFAR announced world model trained from robot data](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-270.md#-dreamfar-announced-world-model-trained-from-robot-data) | AI Professionals and Community |
@@ -93,16 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,411 briefings that men
 | 2026-10-05 | [AI - Robotics Simulation](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-280.md#-ai---robotics-simulation) | AI Leaders and Thinkers |
 | 2026-10-05 | [Robotics - Humanoid Robots in Defense](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-279.md#-robotics---humanoid-robots-in-defense) | AI Companies and Ventures |
 | 2026-10-05 | [Coral Grow-out Robotic Assessment System (CGRAS)](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-276.md#-coral-grow-out-robotic-assessment-system-cgras) | AI Organizations and Media |
-| 2026-10-05 | [AI & Robotics - Deploying Robotics at Scale](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-267.md#-ai--robotics---deploying-robotics-at-scale) | AI Powered Film and Media |
-| 2026-10-05 | [AI & Robotics - AI Solving Open Mathematical Problems](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-267.md#-ai--robotics---ai-solving-open-mathematical-problems) | AI Powered Film and Media |
-| 2026-10-05 | [AI & Robotics - Coral Recruit Monitoring Through Robotics and Computer Vision](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-267.md#-ai--robotics---coral-recruit-monitoring-through-robotics-and-computer-vision) | AI Powered Film and Media |
-| 2026-10-05 | [AI & Robotics - Robot Evaluations](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-263.md#-ai--robotics---robot-evaluations) | AI and Robotics Applications |
-| 2026-10-05 | [AI & Robotics - Reservoir Farms](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-263.md#-ai--robotics---reservoir-farms) | AI and Robotics Applications |
-| 2026-10-05 | [AI & Robotics - OpenClaw](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-263.md#-ai--robotics---openclaw) | AI and Robotics Applications |
-| 2026-10-05 | [AI Model - Omni Model Breakthrough](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-250.md#-ai-model---omni-model-breakthrough) | The Exponential Future |
-| 2026-10-01 | [AI - Autonomous Excavators](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-263.md#-ai---autonomous-excavators) | AI and Robotics Applications |
-| 2026-10-01 | [Robotics - Robot Learning and Navigation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-262.md#-robotics---robot-learning-and-navigation) | AI and Robotics Applications |
-| 2026-10-01 | [Robotics - Humanoid Robots](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-262.md#-robotics---humanoid-robots) | AI and Robotics Applications |
-| 2026-10-01 | [Robotics - Autonomous Vehicles](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-262.md#-robotics---autonomous-vehicles) | AI and Robotics Applications |
-| 2026-10-01 | [Robotics - Robot Learning](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-262.md#-robotics---robot-learning) | AI and Robotics Applications |
-| 2026-10-01 | [Tech News - Investment Committee](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-262.md#-tech-news---investment-committee) | Tech Infrastructure |

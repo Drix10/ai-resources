@@ -1,11 +1,12 @@
 # DeepSeek
 
-DeepSeek and its open models. The 100 newest of 237 briefings that mention it, from every category, newest first.
+DeepSeek and its open models. The 100 newest of 238 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-10-29 | [Mistral Large 4 ranks second on Coding Agent Index](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-298.md#-mistral-large-4-ranks-second-on-coding-agent-index) | Devs, Designers, DevRel |
 | 2026-10-25 | [Deepseek Flash updates monthly, 10x cheaper than Sonnet](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-255.md#-deepseek-flash-updates-monthly-10x-cheaper-than-sonnet) | The Exponential Future |
 | 2026-10-19 | [DeepSeek Search and Fetch API pricing, open weights](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-266.md#-deepseek-search-and-fetch-api-pricing-open-weights) | AI Consulting and Expertise |
 | 2026-10-18 | [DeepSeek-V4.1-Flash-1017 launch with stronger benchmarks](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-290.md#-deepseek-v41-flash-1017-launch-with-stronger-benchmarks) | VC Firms |
@@ -105,4 +106,3 @@ DeepSeek and its open models. The 100 newest of 237 briefings that mention it, f
 |  | [AI Model Usage Trends - DeepSeek Flash and OpenCode Go](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-235.md#-ai-model-usage-trends---deepseek-flash-and-opencode-go) | AI Leaders and Thinkers |
 |  | [AI Model Availability - DeepSeek V4 Flash on Venice](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-230.md#-ai-model-availability---deepseek-v4-flash-on-venice) | AI Holodeck and Virtual Worlds |
 |  | [LLM Comparison - DeepSeek V4 Flash vs. Luna](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-228.md#-llm-comparison---deepseek-v4-flash-vs-luna) | AI Professionals and Community |
-|  | [DeepSeek v4 Flash - Model Performance Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-226.md#-deepseek-v4-flash---model-performance-update) | AI Leaders and Thinkers |

@@ -1,11 +1,13 @@
 # Amazon & AWS
 
-Amazon, AWS, Bedrock and Alexa. The 100 newest of 385 briefings that mention it, from every category, newest first.
+Amazon, AWS, Bedrock and Alexa. The 100 newest of 387 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-01 | [SpaceX Anthropic inference costs premium, $820M other clouds](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-spacex-anthropic-inference-costs-premium-820m-other-clouds) | The Exponential Future |
+| 2026-10-29 | [AMZN borrows $115B for AI, Q3 capex $77.3B, AWS up 39%](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-269.md#-amzn-borrows-115b-for-ai-q3-capex-773b-aws-up-39) | AI Consulting and Expertise |
 | 2026-10-29 | [Amazon AWS expects >40% growth in 2027 and 2028](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-257.md#-amazon-aws-expects-40-growth-in-2027-and-2028) | The Exponential Future |
 | 2026-10-29 | [Amazon reported booming cloud revenue but missed expectations](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-241.md#-amazon-reported-booming-cloud-revenue-but-missed-expectations) | PR and Communications |
 | 2026-10-26 | [Bedrock Robotics Series C $600M funding announced](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-292.md#-bedrock-robotics-series-c-600m-funding-announced) | VC Firms |
@@ -104,5 +106,3 @@ Amazon, AWS, Bedrock and Alexa. The 100 newest of 385 briefings that mention it,
 | 2026-04-15 | [Media Criticism - Project Hail Mary Perception](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-161.md#-media-criticism---project-hail-mary-perception) | Investors and Venture Capital |
 | 2026-04-09 | [Generative World Modeling - Efficient Frame Compression with Delta Tokens](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-166.md#-generative-world-modeling---efficient-frame-compression-with-delta-tokens) | AI Professionals and Community |
 | 2026-04-08 | [Logistics Innovation - Tesla Semi & Amazon](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-175.md#-logistics-innovation---tesla-semi--amazon) | VC Firms |
-| 2026-03-24 | [AI Platforms - ChatGPT's E-commerce Integration Challenges](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-138.md#-ai-platforms---chatgpts-e-commerce-integration-challenges) | PR and Communications |
-| 2026-03-23 | [Cloud Computing - Open-Source AWS Alternative](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-136.md#-cloud-computing---open-source-aws-alternative) | Tech Journalists and VIPs |

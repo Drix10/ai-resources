@@ -1,18 +1,35 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,146 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,163 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-10-31 | [GrokBot.Rocks directory launch with 8,230 public bots](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-grokbotrocks-directory-launch-with-8230-public-bots) | The Exponential Future |
+| 2026-10-31 | [Binance replenishes 90% of assets withdrawals Nov 1](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-257.md#-binance-replenishes-90-of-assets-withdrawals-nov-1) | Crypto and Web3 |
 | 2026-10-29 | [Serval raises $150M Series C at $3B valuation, expands team 10x](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-serval-raises-150m-series-c-at-3b-valuation-expands-team-10x) | AI Developer Tools |
+| 2026-10-29 | [Serval Series C funding $150M at $3B valuation](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-298.md#-serval-series-c-funding-150m-at-3b-valuation) | Devs, Designers, DevRel |
+| 2026-10-29 | [Wealthsimple growth funding round at CAD $13.8B valuation](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-295.md#-wealthsimple-growth-funding-round-at-cad-138b-valuation) | VC Firms |
 | 2026-10-29 | [Mochatradeapp raises $5.5M seed funding](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-293.md#-mochatradeapp-raises-55m-seed-funding) | VC Firms |
+| 2026-10-29 | [Bites raises $40M Series A to expand AI training platform](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-292.md#-bites-raises-40m-series-a-to-expand-ai-training-platform) | AI Companies and Ventures |
+| 2026-10-29 | [wabi raises $55M at $1.25B valuation round](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-292.md#-wabi-raises-55m-at-125b-valuation-round) | AI Leaders and Thinkers |
+| 2026-10-29 | [wabi raises $55M Series A at $1.25B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-292.md#-wabi-raises-55m-series-a-at-125b-valuation) | AI Leaders and Thinkers |
 | 2026-10-29 | [Dream introduces new models and raises $17M seed](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-291.md#-dream-introduces-new-models-and-raises-17m-seed) | AI Leaders and Thinkers |
 | 2026-10-29 | [Cohere Series E funding up to CAD $7B at $35.7B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-291.md#-cohere-series-e-funding-up-to-cad-7b-at-357b-valuation) | AI Leaders and Thinkers |
+| 2026-10-29 | [Nvidia invests $3B in Meta as Meta raises $95B for AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-278.md#-nvidia-invests-3b-in-meta-as-meta-raises-95b-for-ai) | AI Holodeck and Virtual Worlds |
+| 2026-10-29 | [ADT acquisition announced – essential service focus](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-275.md#-adt-acquisition-announced--essential-service-focus) | AI and Robotics Applications |
 | 2026-10-29 | [Dulo seed round $130m announced and mission stated](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-270.md#-dulo-seed-round-130m-announced-and-mission-stated) | AI Driven Vehicles and Transportation |
 | 2026-10-29 | [LivePerson chat inventor raises $10.3M to kill chat box](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-268.md#-liveperson-chat-inventor-raises-103m-to-kill-chat-box) | AI Consulting and Expertise |
+| 2026-10-29 | [Coveo acquires Anglera, adds product data enrichment](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-267.md#-coveo-acquires-anglera-adds-product-data-enrichment) | AI for Content Creation and Marketing |
+| 2026-10-29 | [Space Force seeks cislunar spacecraft by 2029](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-space-force-seeks-cislunar-spacecraft-by-2029) | Interesting Finds |
+| 2026-10-29 | [Dream AI world model launch with $17M seed funding](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-242.md#-dream-ai-world-model-launch-with-17m-seed-funding) | PR and Communications |
+| 2026-10-29 | [Nvidia Hugging Face purchase $12.93B faces inquiry](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-nvidia-hugging-face-purchase-1293b-faces-inquiry) | Spatial Computing |
 | 2026-10-29 | [Broccoli AI front office hits $60M ARR after $30M Series B](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-236.md#-broccoli-ai-front-office-hits-60m-arr-after-30m-series-b) | Tech Journalists and VIPs |
+| 2026-10-29 | [Collective raises $100M to build AI OS for solopreneurs](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-235.md#-collective-raises-100m-to-build-ai-os-for-solopreneurs) | Tech Companies and News |
+| 2026-10-29 | [Collective raises $100M to build AI-native financial OS](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-235.md#-collective-raises-100m-to-build-ai-native-financial-os) | Tech Companies and News |
+| 2026-10-29 | [Mintive launch with $11M funding announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-235.md#-mintive-launch-with-11m-funding-announced) | Tech Companies and News |
+| 2026-10-28 | [Ibis raises $250M structured credit facility](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-294.md#-ibis-raises-250m-structured-credit-facility) | VC Firms |
 | 2026-10-26 | [Neviswealth raises $70M Series B, total $110M funding](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-292.md#-neviswealth-raises-70m-series-b-total-110m-funding) | VC Firms |
 | 2026-10-26 | [Bedrock Robotics Series C $600M funding announced](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-292.md#-bedrock-robotics-series-c-600m-funding-announced) | VC Firms |
 | 2026-10-26 | [Bedrock raises $600M Series C for autonomous excavators](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-289.md#-bedrock-raises-600m-series-c-for-autonomous-excavators) | AI Companies and Ventures |
@@ -89,20 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,146 briefings that mention it, fro
 | 2026-09-19 | [Performative SF Guys](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-237.md#-performative-sf-guys) | The Exponential Future |
 | 2026-09-19 | [Instagram Acquisition](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-216.md#instagram-acquisition) | Spatial Computing |
 | 2026-09-18 | [Crusoe AI Enters Next Chapter with Series F Announcement](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-271.md#-crusoe-ai-enters-next-chapter-with-series-f-announcement) | Tech VIPs |
-| 2026-09-18 | [Congrats to WatneyRobotics on $80M Series A](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-266.md#-congrats-to-watneyrobotics-on-80m-series-a) | VC Firms |
-| 2026-09-18 | [Profound's $180M Series D](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-266.md#-profounds-180m-series-d) | VC Firms |
-| 2026-09-18 | [TemporalTechnologies' $550M Series E](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-266.md#-temporaltechnologies-550m-series-e) | VC Firms |
-| 2026-09-18 | [Portable Nuclear Microreactors and AI-Powered Robots](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-265.md#portable-nuclear-microreactors-and-ai-powered-robots) | VC Firms |
-| 2026-09-18 | [Politics - Greenland Acquisition](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-260.md#-politics---greenland-acquisition) | AI Leaders and Thinkers |
-| 2026-09-18 | [AI & Robotics - Treble Technologies Raises $18 Million](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-247.md#-ai--robotics---treble-technologies-raises-18-million) | AI and Robotics Applications |
-| 2026-09-18 | [YC Portfolio Company Angle Health Raises $200M Series C](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-216.md#-yc-portfolio-company-angle-health-raises-200m-series-c) | Tech Journalists and VIPs |
-| 2026-09-18 | [Kastle AI Raises $24M Series A](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-216.md#-kastle-ai-raises-24m-series-a) | Tech Journalists and VIPs |
-| 2026-09-18 | [Google's AI Acquisition Strategy: A Critical Analysis](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-215.md#-googles-ai-acquisition-strategy-a-critical-analysis) | Tech Companies and News |
-| 2026-09-17 | [$30B+ Valuation for CrusoeAI](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-264.md#-30b-valuation-for-crusoeai) | VC Firms |
-| 2026-09-17 | [AI Engineering - Beacon Holdings Acquisition](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-242.md#-ai-engineering---beacon-holdings-acquisition) | AI Consulting and Expertise |
-| 2026-09-16 | [Furl Raises $10M](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-263.md#-furl-raises-10m) | VC Firms |
-| 2026-09-16 | [AI in Education - Voice-First AI Tutor](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-246.md#-ai-in-education---voice-first-ai-tutor) | AI Education |
-| 2026-09-16 | [Tech - Membership Growth](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-237.md#-tech---membership-growth) | AR VR Companies and Development |
-| 2026-09-16 | [Crypto - Regulatory Updates](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-231.md#-crypto---regulatory-updates) | Crypto and Web3 |
-| 2026-09-14 | [Tech News - AI and Tech Acquisitions](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-262.md#-tech-news---ai-and-tech-acquisitions) | VC Firms |
-| 2026-09-14 | [Tech News - AI and Robotics](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-262.md#-tech-news---ai-and-robotics) | VC Firms |

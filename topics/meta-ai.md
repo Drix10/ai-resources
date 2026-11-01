@@ -1,11 +1,15 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 590 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 594 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-01 | [Meta Max prototype built in three months](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-276.md#-meta-max-prototype-built-in-three-months) | AI and Robotics Applications |
+| 2026-10-31 | [Meta Max humanoid robot prototype built in 3 months](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-289.md#-meta-max-humanoid-robot-prototype-built-in-3-months) | AI Organizations and Media |
+| 2026-10-29 | [Nvidia invests $3B in Meta as Meta raises $95B for AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-278.md#-nvidia-invests-3b-in-meta-as-meta-raises-95b-for-ai) | AI Holodeck and Virtual Worlds |
+| 2026-10-29 | [Microsoft layoffs 27,000 - workforce cut announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-235.md#-microsoft-layoffs-27000---workforce-cut-announced) | Tech Companies and News |
 | 2026-10-26 | [Anthropic S-1, Meta $95B raise, SpaceX debt, NEJM AI 3.2x](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-294.md#-anthropic-s-1-meta-95b-raise-spacex-debt-nejm-ai-32x) | Tech VIPs |
 | 2026-10-26 | [Meta VR Start Developer Competition awards $1M prizes](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-263.md#-meta-vr-start-developer-competition-awards-1m-prizes) | AR VR Companies and Development |
 | 2026-10-26 | [NordVPN Meta Quest usage up 10x lifetime users](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-263.md#-nordvpn-meta-quest-usage-up-10x-lifetime-users) | AR VR Companies and Development |
@@ -102,7 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 590 brie
 | 2026-09-11 | [Meta's Muse: A Powerful Tool for General Consumers](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-253.md#metas-muse-a-powerful-tool-for-general-consumers) | AI Leaders and Thinkers |
 | 2026-09-10 | [AI Transparency - A Breakthrough in Threat Disruption](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-240.md#-ai-transparency---a-breakthrough-in-threat-disruption) | AI Policy and Ethical Considerations |
 | 2026-09-10 | [VR Meetup](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-228.md#-vr-meetup) | AR VR Professionals and Community |
-| 2026-09-10 | [Meta's Project Phoenix Headset](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-208.md#-metas-project-phoenix-headset) | Spatial Computing |
-| 2026-09-07 | [AI/ML - Muse Spark 1.3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-259.md#-aiml---muse-spark-13) | AI Developer Tools |
-| 2026-09-07 | [Social Media - Child Safety](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-232.md#-social-media---child-safety) | Founders and Entrepreneurs |
-| 2026-09-07 | [Meta's Hype](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-207.md#-metas-hype) | Spatial Computing |

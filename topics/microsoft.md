@@ -1,13 +1,16 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 569 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 572 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-01 | [SpaceX Anthropic inference costs premium, $820M other clouds](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-spacex-anthropic-inference-costs-premium-820m-other-clouds) | The Exponential Future |
 | 2026-10-29 | [Read AI #1 independent globally in top four](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-290.md#-read-ai-1-independent-globally-in-top-four) | AI Companies and Ventures |
+| 2026-10-29 | [Microsoft delivers strong Q3, Azure up 48% and Cloud $63.9B](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-273.md#-microsoft-delivers-strong-q3-azure-up-48-and-cloud-639b) | Tech Infrastructure |
 | 2026-10-29 | [Microsoft Authenticator passkey enrollment – new CA exclusion method](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-237.md#-microsoft-authenticator-passkey-enrollment--new-ca-exclusion-method) | Cybersecurity and Tech |
+| 2026-10-29 | [Microsoft layoffs 27,000 - workforce cut announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-235.md#-microsoft-layoffs-27000---workforce-cut-announced) | Tech Companies and News |
 | 2026-10-26 | [Microsoft buyouts 60,000 employees Voluntary Exit Offer](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-295.md#-microsoft-buyouts-60000-employees-voluntary-exit-offer) | Devs, Designers, DevRel |
 | 2026-10-26 | [Microsoft buyouts to 60K workers VP level and below](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-273.md#-microsoft-buyouts-to-60k-workers-vp-level-and-below) | AI and Robotics Applications |
 | 2026-10-26 | [Microsoft MAI-DxO out-diagnoses doctors 83% of cases](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-microsoft-mai-dxo-out-diagnoses-doctors-83-of-cases) | AI Artists and Creators |
@@ -103,6 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 569 briefings
 | 2026-09-13 | [Category - Security Researchers and Microsoft](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-209.md#-category---security-researchers-and-microsoft) | Cybersecurity and Tech |
 | 2026-09-12 | [AI/ML - Persistent Memory Flaw in Autonomous Agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-244.md#-aiml---persistent-memory-flaw-in-autonomous-agents) | AI Powered Film and Media |
 | 2026-09-11 | [Security - CISO Keynote Announcement](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-212.md#-security---ciso-keynote-announcement) | Cybersecurity and Tech |
-| 2026-09-10 | [Invoice Fraud Campaign](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-238.md#-invoice-fraud-campaign) | Tech Infrastructure |
-| 2026-09-10 | [Microsoft Teams](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-234.md#-microsoft-teams) | Founders and Entrepreneurs |
-| 2026-09-08 | [Tech News - Kubernetes Co-Creation](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-238.md#-tech-news---kubernetes-co-creation) | Tech Infrastructure |

@@ -1,6 +1,6 @@
 # Hugging Face
 
-Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 213 briefings that mention it, from every category, newest first.
+Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 214 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
@@ -9,6 +9,7 @@ Hugging Face: the Hub, its libraries and the models shared there. The 100 newest
 | 2026-10-29 | [Le Chonk weights released; ranks #1 on FrontierCode](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-291.md#-le-chonk-weights-released-ranks-1-on-frontiercode) | AI Leaders and Thinkers |
 | 2026-10-29 | [FineART dataset release for robot learning tasks](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-274.md#-fineart-dataset-release-for-robot-learning-tasks) | AI and Robotics Applications |
 | 2026-10-29 | [OpenAI expands monitoring, catches frontier model breach](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-266.md#-openai-expands-monitoring-catches-frontier-model-breach) | AI for Content Creation and Marketing |
+| 2026-10-29 | [Nvidia Hugging Face purchase $12.93B faces inquiry](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-nvidia-hugging-face-purchase-1293b-faces-inquiry) | Spatial Computing |
 | 2026-10-25 | [HuggingFace Hub OpenUSD support, 2500+ SimReady assets](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-287.md#-huggingface-hub-openusd-support-2500-simready-assets) | AI Companies and Ventures |
 | 2026-10-19 | [Swarm Alignment Hackathon 6-8 Nov with $8,000 prizes](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-266.md#-swarm-alignment-hackathon-6-8-nov-with-8000-prizes) | AI Consulting and Expertise |
 | 2026-10-16 | [OpenMed – 2,277 open models and 26 datasets announced](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-275.md#-openmed--2277-open-models-and-26-datasets-announced) | AI in Healthcare and Science |
@@ -105,4 +106,3 @@ Hugging Face: the Hub, its libraries and the models shared there. The 100 newest
 |  | [AI Agent Security - Containment and Open Models](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-237.md#-ai-agent-security---containment-and-open-models) | Tech VIPs |
 |  | [AI Research - Birth, Life, and Death of AI Models](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-236.md#-ai-research---birth-life-and-death-of-ai-models) | Interesting Finds |
 |  | [AI - Open-Source AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-233.md#-ai---open-source-ai) | AI Professionals and Community |
-|  | [Tech News - NVIDIA Acquires Hugging Face](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-232.md#-tech-news---nvidia-acquires-hugging-face) | Tech Infrastructure |

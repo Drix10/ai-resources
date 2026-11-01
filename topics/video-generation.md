@@ -1,12 +1,19 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 792 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 799 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-01 | [L3G-World memory grows with scene, 9 fps real-time](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-295.md#-l3g-world-memory-grows-with-scene-9-fps-real-time) | AI Leaders and Thinkers |
+| 2026-10-31 | [Nano Banana Pro animation with Kling 4.0 doors](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-273.md#-nano-banana-pro-animation-with-kling-40-doors) | AI Artists and Creators |
+| 2026-10-31 | [L3G-World KAIST world model memory 3D Gaussians 9 fps](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-272.md#-l3g-world-kaist-world-model-memory-3d-gaussians-9-fps) | AI Driven Vehicles and Transportation |
+| 2026-10-29 | [Pika H3 Flex open weights launch with 4K, audio stems, real-time](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-294.md#-pika-h3-flex-open-weights-launch-with-4k-audio-stems-real-time) | AI Leaders and Thinkers |
+| 2026-10-29 | [Pika H3 Flex video generation speed and specs](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-292.md#-pika-h3-flex-video-generation-speed-and-specs) | AI Leaders and Thinkers |
 | 2026-10-29 | [seedance 2.5 and kling 4 added to h3 music video generator](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-277.md#-seedance-25-and-kling-4-added-to-h3-music-video-generator) | AI Generated Music and Audio |
+| 2026-10-29 | [Pika H3 Flex early access: 15s video in 7s](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-273.md#-pika-h3-flex-early-access-15s-video-in-7s) | AI Powered Film and Media |
+| 2026-10-29 | [Holo4D accepted to NeurIPS 2026, video reshoot capability](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-264.md#-holo4d-accepted-to-neurips-2026-video-reshoot-capability) | Computer Vision and AI Applications |
 | 2026-10-26 | [Weave adds image/video generation with Seedance](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-276.md#-weave-adds-imagevideo-generation-with-seedance) | AI Holodeck and Virtual Worlds |
 | 2026-10-26 | [Kling 4.0 now on Fotor – AI video generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-276.md#-kling-40-now-on-fotor--ai-video-generation) | AI Holodeck and Virtual Worlds |
 | 2026-10-25 | [Hy-Nomas video model released with 8-step inference](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-285.md#-hy-nomas-video-model-released-with-8-step-inference) | AI Organizations and Media |
@@ -99,10 +106,3 @@ Models and tools that make video. The 100 newest of 792 briefings that mention i
 | 2026-04-13 | [AI Video Creation - Efficient Ad Production with Runway](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-164.md#-ai-video-creation---efficient-ad-production-with-runway) | Computer Vision and AI Applications |
 | 2026-04-11 | [AI Applications - Video Models for On-Demand UI](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-161.md#-ai-applications---video-models-for-on-demand-ui) | Computer Vision and AI Applications |
 | 2026-04-10 | [AI Ethics - Sora 2 Misuse and Safety](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-161.md#-ai-ethics---sora-2-misuse-and-safety) | Tech Companies and News |
-| 2026-04-09 | [AI Tools - Text-to-Video Generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-168.md#-ai-tools---text-to-video-generation) | AI Holodeck and Virtual Worlds |
-| 2026-04-08 | [AI Art Tools - Creative Video Generation Workshop](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-180.md#-ai-art-tools---creative-video-generation-workshop) | AI Education |
-| 2026-04-07 | [AI Models - Multi-Image to Video Generation](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-175.md#-ai-models---multi-image-to-video-generation) | Tech VIPs |
-| 2026-04-05 | [AI Research - World Models and Multimodality](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-162.md#-ai-research---world-models-and-multimodality) | AI and Robotics Applications |
-| 2026-04-03 | [Community Events - Runway Meetup Tokyo](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-166.md#-community-events---runway-meetup-tokyo) | AI Powered Film and Media |
-| 2026-04-03 | [AI Video Generation - Content Transformation](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-166.md#-ai-video-generation---content-transformation) | AI Powered Film and Media |
-| 2026-04-03 | [AI Video Generation - Structured Execution](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-164.md#-ai-video-generation---structured-execution) | AI Organizations and Media |

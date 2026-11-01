@@ -1,12 +1,18 @@
 # xAI
 
-xAI and Grok. The 100 newest of 619 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 625 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-01 | [Multiplex.FM is up - new AI signal platform](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-multiplexfm-is-up---new-ai-signal-platform) | The Exponential Future |
+| 2026-10-31 | [GrokBot.Rocks directory launch with 8,230 public bots](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-grokbotrocks-directory-launch-with-8230-public-bots) | The Exponential Future |
+| 2026-10-29 | [Grok 4.7 improves Sincere, reduces Slop and Sycophantic](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-grok-47-improves-sincere-reduces-slop-and-sycophantic) | AI Developer Tools |
+| 2026-10-29 | [Shop account integration with Grok bot now available](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-293.md#-shop-account-integration-with-grok-bot-now-available) | AI Leaders and Thinkers |
+| 2026-10-29 | [Every Grok Bot: The Complete Directory – 7,539 public bots listed](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-258.md#-every-grok-bot-the-complete-directory--7539-public-bots-listed) | The Exponential Future |
 | 2026-10-29 | [Every Grok Bot: The Complete Directory launches with 7,539 bots](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-257.md#-every-grok-bot-the-complete-directory-launches-with-7539-bots) | The Exponential Future |
+| 2026-10-29 | [Grok Bot daily active users grow to over 600K in two months](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-252.md#-grok-bot-daily-active-users-grow-to-over-600k-in-two-months) | Investors and Venture Capital |
 | 2026-10-29 | [GBrain hosted – postgres with pgvector autoscaling](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-236.md#-gbrain-hosted--postgres-with-pgvector-autoscaling) | Tech Journalists and VIPs |
 | 2026-10-26 | [NVIDIA Vera Rubin GPUs financing $40 billion by SpaceX](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-nvidia-vera-rubin-gpus-financing-40-billion-by-spacex) | AI Artists and Creators |
 | 2026-10-26 | [Grok Bot goal keeper prompt with subscriber target](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-233.md#-grok-bot-goal-keeper-prompt-with-subscriber-target) | Tech Companies and News |
@@ -100,9 +106,3 @@ xAI and Grok. The 100 newest of 619 briefings that mention it, from every catego
 | 2026-05-19 | [AI Product Development - Open Source and Beta Status](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-199.md#-ai-product-development---open-source-and-beta-status) | AI Policy and Ethical Considerations |
 | 2026-05-17 | [Grok - Rapid User Adoption on X](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-210.md#-grok---rapid-user-adoption-on-x) | Tech VIPs |
 | 2026-05-17 | [Grok Imagine - Creative Expression](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-200.md#-grok-imagine---creative-expression) | AI Powered Film and Media |
-| 2026-05-17 | [Grok AI - CLI Support Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-197.md#-grok-ai---cli-support-release) | AI Leaders and Thinkers |
-| 2026-05-16 | [AI Platforms - Grok Content Update](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-187.md#-ai-platforms---grok-content-update) | The Exponential Future |
-| 2026-05-15 | [AI Industry - xAI's Market Position](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-212.md#-ai-industry---xais-market-position) | Devs, Designers, DevRel |
-| 2026-05-15 | [AI Art Generation - Tools and Platforms](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-206.md#-ai-art-generation---tools-and-platforms) | AI Artists and Creators |
-| 2026-05-14 | [AI/ML Content - Curating Technical Media](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-211.md#-aiml-content---curating-technical-media) | Devs, Designers, DevRel |
-| 2026-05-14 | [Grok SuperHeavy - CLI Access and Subscription](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-208.md#-grok-superheavy---cli-access-and-subscription) | Tech VIPs |

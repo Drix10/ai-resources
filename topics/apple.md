@@ -1,15 +1,19 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 645 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 649 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-01 | [Miso Spatial Cooking now on TestFlight for Apple Vision Pro](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-298.md#-miso-spatial-cooking-now-on-testflight-for-apple-vision-pro) | Tech VIPs |
+| 2026-10-31 | [Kin launches Apple Watch recording feature for visit summaries](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-281.md#-kin-launches-apple-watch-recording-feature-for-visit-summaries) | AI in Healthcare and Science |
 | 2026-10-29 | [MacBook Neo education price increase to $649](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-296.md#-macbook-neo-education-price-increase-to-649) | Devs, Designers, DevRel |
 | 2026-10-29 | [Riverside crossed $100M ARR, 2.3M creators, 16M+ guests, 40M+ conversations](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-295.md#-riverside-crossed-100m-arr-23m-creators-16m-guests-40m-conversations) | Tech VIPs |
 | 2026-10-29 | [Riverside crosses $100M ARR, creator and podcast stats](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-290.md#-riverside-crosses-100m-arr-creator-and-podcast-stats) | AI Companies and Ventures |
+| 2026-10-29 | [Riverside crosses $100M ARR milestone](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-278.md#-riverside-crosses-100m-arr-milestone) | AI Generated Music and Audio |
 | 2026-10-29 | [Vision Pro PCVR Streamer App enters TestFlight](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-255.md#-vision-pro-pcvr-streamer-app-enters-testflight) | Interesting Finds |
+| 2026-10-29 | [MacBook Pro touchscreen vs M6 launch details](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-macbook-pro-touchscreen-vs-m6-launch-details) | Spatial Computing |
 | 2026-10-29 | [Padre Terminal fake app linked to $23K Solana wallet theft](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-237.md#-padre-terminal-fake-app-linked-to-23k-solana-wallet-theft) | Cybersecurity and Tech |
 | 2026-10-26 | [iPhone Duo foldable smartphone reports hinge screen cracks](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-iphone-duo-foldable-smartphone-reports-hinge-screen-cracks) | AI Artists and Creators |
 | 2026-10-26 | [mlx-stump GPU time-series discovery on Apple Silicon](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-267.md#-mlx-stump-gpu-time-series-discovery-on-apple-silicon) | AI Policy and Ethical Considerations |
@@ -102,7 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 645 br
 | 2026-09-09 | [iPhone Duo - Designing for the Future](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-214.md#-iphone-duo---designing-for-the-future) | Spatial Computing |
 | 2026-09-08 | [Key App Developers for Apple's Siri AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-251.md#-key-app-developers-for-apples-siri-ai) | AI Organizations and Media |
 | 2026-09-08 | [Fitness - Live Heart Rate Data in VR Workouts](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-231.md#-fitness---live-heart-rate-data-in-vr-workouts) | AR VR Companies and Development |
-| 2026-09-08 | [AI - Around Me: A Map of Everyone You've Met](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-227.md#-ai---around-me-a-map-of-everyone-youve-met) | AR VR Professionals and Community |
-| 2026-09-08 | [Category - Technology](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-207.md#-category---technology) | PR and Communications |
-| 2026-09-08 | [Educational Experiences](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-207.md#-educational-experiences) | Spatial Computing |
-| 2026-09-07 | [Trade-in Program](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-222.md#-trade-in-program) | Investors and Venture Capital |

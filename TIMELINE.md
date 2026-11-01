@@ -1,15 +1,20 @@
 # AI release timeline
 
-Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 141, each linked to its briefing.
+Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 146, each linked to its briefing.
 
 ## October 2026
 
+- **Oct 31** · [Kin launches Apple Watch recording feature for visit summaries](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-281.md#-kin-launches-apple-watch-recording-feature-for-visit-summaries) <sub>AI in Healthcare and Science</sub>
+- **Oct 30** · [Gemini 4 Carbon debuts at #1 on APEX-Agents with 90%+ mean](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-306.md#-gemini-4-carbon-debuts-at-1-on-apex-agents-with-90-mean) <sub>CS Academics</sub>
 - **Oct 29** · [zml/llmd 20261029.0 release with Mistral Large 4, GLM 5.2/5.3, LFM 3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-zmlllmd-202610290-release-with-mistral-large-4-glm-5253-lfm-3) <sub>AI Developer Tools</sub>
+- **Oct 29** · [Shop account integration with Grok bot now available](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-293.md#-shop-account-integration-with-grok-bot-now-available) <sub>AI Leaders and Thinkers</sub>
+- **Oct 29** · [Qwen 4 – training confirmed, launch speculated next week](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-288.md#-qwen-4--training-confirmed-launch-speculated-next-week) <sub>AI Organizations and Media</sub>
 - **Oct 29** · [The Economics of Intelligence paper released – DeepMind research on AGI economics](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-270.md#-the-economics-of-intelligence-paper-released--deepmind-research-on-agi-economics) <sub>AI Driven Vehicles and Transportation</sub>
 - **Oct 29** · [Mistral Large 4 open weights release, 1.05T params](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-268.md#-mistral-large-4-open-weights-release-105t-params) <sub>AI Consulting and Expertise</sub>
 - **Oct 29** · [Kino launches video tool with Claude Code and Codex](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-266.md#-kino-launches-video-tool-with-claude-code-and-codex) <sub>AI for Content Creation and Marketing</sub>
 - **Oct 29** · [Every Grok Bot: The Complete Directory launches with 7,539 bots](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-257.md#-every-grok-bot-the-complete-directory-launches-with-7539-bots) <sub>The Exponential Future</sub>
 - **Oct 29** · [The Economics of Intelligence released by Google DeepMind](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-257.md#-the-economics-of-intelligence-released-by-google-deepmind) <sub>The Exponential Future</sub>
+- **Oct 29** · [Kino launch – end-to-end video editing with Claude Code and Codex](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-252.md#-kino-launch--end-to-end-video-editing-with-claude-code-and-codex) <sub>Investors and Venture Capital</sub>
 - **Oct 28** · [Gemini 4 Carbon launch, #1 on Artificial Analysis index](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-270.md#-gemini-4-carbon-launch-1-on-artificial-analysis-index) <sub>AI Professionals and Community</sub>
 - **Oct 26** · [Airtable Omni 2.0 launch on all plans](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-304.md#-airtable-omni-20-launch-on-all-plans) <sub>CS Academics</sub>
 - **Oct 26** · [PeePal 1.4 release adds permission prompt and offline guides](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-295.md#-peepal-14-release-adds-permission-prompt-and-offline-guides) <sub>Devs, Designers, DevRel</sub>

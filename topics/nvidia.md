@@ -1,12 +1,28 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 740 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 756 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-10-31 | [ScienceClaw Hackathon launched with sponsors](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-295.md#-scienceclaw-hackathon-launched-with-sponsors) | AI Leaders and Thinkers |
+| 2026-10-31 | [Meta Max humanoid robot prototype built in 3 months](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-289.md#-meta-max-humanoid-robot-prototype-built-in-3-months) | AI Organizations and Media |
+| 2026-10-31 | [NVIDIA Holoscan and CUDA-X used by SETI Institute](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-263.md#-nvidia-holoscan-and-cuda-x-used-by-seti-institute) | AI in Enterprise Applications |
+| 2026-10-31 | [Lightberry Lumi robot priced at $39,990 with $20,000 annual software fee](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-237.md#-lightberry-lumi-robot-priced-at-39990-with-20000-annual-software-fee) | Tech Journalists and VIPs |
+| 2026-10-29 | [NVIDIA Robotics tutorial live event on Nov 5](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-303.md#-nvidia-robotics-tutorial-live-event-on-nov-5) | AI Developer Tools |
+| 2026-10-29 | [NVIDIAAI xToken recipe boosts Nemotron 3.5 pass@1](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-nvidiaai-xtoken-recipe-boosts-nemotron-35-pass1) | AI Developer Tools |
+| 2026-10-29 | [IREN AI Cloud demo shows sovereign token flow](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-iren-ai-cloud-demo-shows-sovereign-token-flow) | AI Developer Tools |
+| 2026-10-29 | [Nemotron 3.5-transcribe benchmark 1.15% WER and speed](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-294.md#-nemotron-35-transcribe-benchmark-115-wer-and-speed) | AI Leaders and Thinkers |
+| 2026-10-29 | [Megawatt AI racks need 800 volts, sidecars](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-288.md#-megawatt-ai-racks-need-800-volts-sidecars) | AI Organizations and Media |
+| 2026-10-29 | [Nvidia invests $3B in Meta as Meta raises $95B for AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-278.md#-nvidia-invests-3b-in-meta-as-meta-raises-95b-for-ai) | AI Holodeck and Virtual Worlds |
+| 2026-10-29 | [Nvidia guarantees Nscale debt for 460MW data center in $45B Anthropic deal](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-269.md#-nvidia-guarantees-nscale-debt-for-460mw-data-center-in-45b-anthropic-deal) | AI Consulting and Expertise |
+| 2026-10-29 | [Into the Omniverse: Developers use AI agents with Omniverse](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-265.md#-into-the-omniverse-developers-use-ai-agents-with-omniverse) | AR VR Companies and Development |
+| 2026-10-29 | [KYEC new fab in Texas backed by $1.1B NVIDIA prepayment](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-kyec-new-fab-in-texas-backed-by-11b-nvidia-prepayment) | Interesting Finds |
+| 2026-10-29 | [NVIDIA NVDA talks to back billions of debt for NSCALE](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-nvidia-nvda-talks-to-back-billions-of-debt-for-nscale) | Interesting Finds |
 | 2026-10-29 | [Cohere investment up to $1.6B announced](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-240.md#-cohere-investment-up-to-16b-announced) | Quantum Computing |
+| 2026-10-29 | [Mac Studio 512GB RAM vs 1990s SGI $100k seat](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-mac-studio-512gb-ram-vs-1990s-sgi-100k-seat) | Spatial Computing |
+| 2026-10-29 | [Nvidia Hugging Face purchase $12.93B faces inquiry](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-nvidia-hugging-face-purchase-1293b-faces-inquiry) | Spatial Computing |
 | 2026-10-26 | [Anthropic IPO filing, $16.3B H1 2026 revenue, Claude voter data incident](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-anthropic-ipo-filing-163b-h1-2026-revenue-claude-voter-data-incident) | AI Artists and Creators |
 | 2026-10-26 | [NVIDIA Vera Rubin GPUs financing $40 billion by SpaceX](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-nvidia-vera-rubin-gpus-financing-40-billion-by-spacex) | AI Artists and Creators |
 | 2026-10-26 | [SpaceX $40B GPU financing lease announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-270.md#-spacex-40b-gpu-financing-lease-announced) | Tech Infrastructure |
@@ -90,19 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 740 briefin
 | 2026-09-13 | [Engineering - Latham & Watkins' In-House AI](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-235.md#-engineering---latham--watkins-in-house-ai) | AI for Content Creation and Marketing |
 | 2026-09-12 | [DeepSeek v4.1 Flash Support for NVIDIA H100, H200, B200, B300, GB200, and GB300](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-262.md#-deepseek-v41-flash-support-for-nvidia-h100-h200-b200-b300-gb200-and-gb300) | AI Developer Tools |
 | 2026-09-12 | [AI Industry - Open-Source AI Infrastructure](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-243.md#-ai-industry---open-source-ai-infrastructure) | AI Education |
-| 2026-09-11 | [Persimmon - Model of Human Conversation](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-259.md#-persimmon---model-of-human-conversation) | VC Firms |
-| 2026-09-10 | [Building Safe Physical AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-254.md#-building-safe-physical-ai) | AI Companies and Ventures |
-| 2026-09-10 | [AI Inference - d-Matrix and NVIDIA](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-239.md#-ai-inference---d-matrix-and-nvidia) | AI Professionals and Community |
-| 2026-09-10 | [AI & Tech Infrastructure - Supply Chain Complexity](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-233.md#-ai--tech-infrastructure---supply-chain-complexity) | AI in Enterprise Applications |
-| 2026-09-06 | [CEO Moves that Sound Illegal but Work](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-251.md#-ceo-moves-that-sound-illegal-but-work) | AI Companies and Ventures |
-| 2026-09-05 | [AI - Energy Efficiency](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-254.md#-ai---energy-efficiency) | VC Firms |
-| 2026-09-05 | [Hardware-Aware FP4 FlashAttention](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-238.md#-hardware-aware-fp4-flashattention) | AI Education |
-| 2026-09-05 | [AI Agent Security Scanner](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-238.md#-ai-agent-security-scanner) | AI Education |
-| 2026-09-05 | [Nvidia - Pricing Advantage](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-223.md#-nvidia---pricing-advantage) | The Exponential Future |
-| 2026-09-04 | [Tech News - AI Acquisition](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-203.md#-tech-news---ai-acquisition) | PR and Communications |
-| 2026-09-03 | [AI - Hugging Face Acquisition](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-254.md#-ai---hugging-face-acquisition) | Tech VIPs |
-| 2026-09-03 | [AI - NVIDIA and Hugging Face Partnership](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-254.md#-ai---nvidia-and-hugging-face-partnership) | Tech VIPs |
-| 2026-09-03 | [NVIDIA Buys Hugging Face](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-246.md#-nvidia-buys-hugging-face) | AI Organizations and Media |
-| 2026-09-03 | [NVIDIA and Hugging Face](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-246.md#-nvidia-and-hugging-face) | AI Organizations and Media |
-| 2026-09-03 | [NVIDIA and Hugging Face Acquisition News](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-233.md#-nvidia-and-hugging-face-acquisition-news) | AI and Robotics Applications |
-| 2026-09-03 | [Technology - Wayve and NVIDIA Autonomous Rides](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-220.md#-technology---wayve-and-nvidia-autonomous-rides) | Interesting Finds |

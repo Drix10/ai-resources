@@ -1,12 +1,15 @@
 # AI policy
 
-Laws, regulators and governments on AI. The 100 newest of 929 briefings that mention it, from every category, newest first.
+Laws, regulators and governments on AI. The 100 newest of 932 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-10-31 | [K2 Horizon release – largest truly open LLM with weights, data, pipeline, eval](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-275.md#-k2-horizon-release--largest-truly-open-llm-with-weights-data-pipeline-eval) | AI Education |
+| 2026-10-31 | [Claude watermark starts Nov 3, invisible text tag](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-257.md#-claude-watermark-starts-nov-3-invisible-text-tag) | Decentralized AI |
 | 2026-10-29 | [Schmidt Center and ETH show adhesome genes clustered in nucleus](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-279.md#-schmidt-center-and-eth-show-adhesome-genes-clustered-in-nucleus) | AI in Healthcare and Science |
+| 2026-10-29 | [Resonite AI policy drafts nearly complete, implementation begun](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-262.md#-resonite-ai-policy-drafts-nearly-complete-implementation-begun) | AR VR Professionals and Community |
 | 2026-10-12 | [Sparky answers AI‑policy questions after admin upload](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-268.md#-sparky-answers-aipolicy-questions-after-admin-upload) | AI Education |
 | 2026-10-09 | [Flock cuts ~270 jobs amid privacy backlash](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-279.md#-flock-cuts-270-jobs-amid-privacy-backlash) | AI Organizations and Media |
 | 2026-10-07 | [Regulatory Compliance - SR 26-2](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-280.md#-regulatory-compliance---sr-26-2) | AI Companies and Ventures |
@@ -103,6 +106,3 @@ Laws, regulators and governments on AI. The 100 newest of 929 briefings that men
 | 2026-09-16 | [AI Regulation - Key Developments and Concerns](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-245.md#-ai-regulation---key-developments-and-concerns) | AI Policy and Ethical Considerations |
 | 2026-09-16 | [AI Safety and Accountability](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-245.md#-ai-safety-and-accountability) | AI Policy and Ethical Considerations |
 | 2026-09-16 | [AI Regulation and the Law](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-245.md#-ai-regulation-and-the-law) | AI Policy and Ethical Considerations |
-| 2026-09-16 | [Crypto - Regulatory Updates](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-231.md#-crypto---regulatory-updates) | Crypto and Web3 |
-| 2026-09-16 | [Category - AI Regulation](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-213.md#-category---ai-regulation) | PR and Communications |
-| 2026-09-14 | [AI Strategy - Transformative AI in Europe](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-255.md#-ai-strategy---transformative-ai-in-europe) | AI Leaders and Thinkers |
