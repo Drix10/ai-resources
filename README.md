@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="25%" valign="top"><b>Checked, not just summarised</b><br><sub>A number, unit, model version or name that is not in the source post gets the briefing rejected and rewritten.</sub></td>
+<td width="25%" valign="top"><b>Checked against the source</b><br><sub>A number, unit, model version or name that is not in the source post gets the briefing rejected and rewritten.</sub></td>
 <td width="25%" valign="top"><b>Every claim has a link</b><br><sub>The original post and the page it points to, copied by code, never written by the model.</sub></td>
 <td width="25%" valign="top"><b>41 categories</b><br><sub>Models, dev tools, research and funding, plus robotics, climate, quantum, security and crypto.</sub></td>
 <td width="25%" valign="top"><b>Ready for your agent</b><br><sub>MCP server, Agent Skill, JSON API and llms.txt. Plain Markdown under CC BY 4.0.</sub></td>
@@ -30,7 +30,7 @@
 <h3><a href="https://blogs.drix10.com">Read it</a></h3>
 The newest digests on <a href="https://blogs.drix10.com">blogs.drix10.com</a>, with search, topic pages and an <a href="https://blogs.drix10.com/rss.xml">RSS feed</a>. Or open any category <a href="#-resource-categories">below</a> and read its latest digest here on GitHub.
 <br><br>
-⭐ Star and watch the repo to get new digests as they land.
+Star and watch the repo to get new digests as they land.
 </td>
 </tr>
 <tr>
@@ -213,27 +213,27 @@ Counted from this repository on 29 October 2026. The archive only grows.
 | ---: | --- |
 | **100,000+** | briefings: a headline, two or three sentences and the key numbers, one per post |
 | **10,800+** | digest files (`resources-NNN.md`) across **41 categories** |
-| **10,900+** | commits since November 2024, written by an automated pipeline, not a weekly editor |
+| **10,900+** | commits since November 2024, all made by an automated pipeline |
 | **14,000+** | briefings that link both the original post and the page it points to (every briefing since mid-2026) |
 | **~2,000** | of them published as articles on [blogs.drix10.com](https://blogs.drix10.com) with search, topic pages, an [RSS feed](https://blogs.drix10.com/rss.xml) and [llms.txt](https://blogs.drix10.com/llms.txt) |
 
 ## How it is built
 
-Nobody types these. A pipeline reads the curated X lists for each category, writes one briefing per strong post, runs the fact gates, strips secrets, de-duplicates across categories and commits the batch here. The same run refreshes the category list below and publishes to the blog.
+Nobody types these. A pipeline reads the hand-picked X lists for each category, writes one briefing per strong post, runs the fact gates, strips secrets, de-duplicates across categories and commits the batch here. The same run refreshes the category list below and publishes to the blog.
 
 ```mermaid
 flowchart LR
-    A["Curated X lists (41 categories)"] --> B["One briefing per post"]
+    A["Hand-picked X lists (41 categories)"] --> B["One briefing per post"]
     B --> C["Fact gates: numbers, units, versions and names must be in the post; links copied by code"]
     C --> D["resources-NNN.md committed here"]
     D --> E["blogs.drix10.com: search, topic pages, RSS, llms.txt"]
 ```
 
-**Known limits:** briefings are machine-written from public posts and can still be wrong; check the linked source before you rely on a number. Part of the older archive (2024 to mid-2026) predates source links. Coverage follows the curated lists, blind spots included. Inclusion is not endorsement.
+**Known limits:** briefings are machine-written from public posts and can still be wrong; check the linked source before you rely on a number. Part of the older archive (2024 to mid-2026) predates source links. Coverage follows the hand-picked lists, blind spots included. Inclusion is not endorsement.
 
 ## Contribute
 
-The briefings are generated, but the sources, the corrections and everything around them are made by people. Ways in:
+A pipeline writes the briefings. People pick the sources and fix what it gets wrong. Ways in:
 
 - **Pick up a [good first issue](https://github.com/Drix10/ai-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)**: MCP server tools, Skill phrasings, guides, examples, translations.
 - **[Suggest a source](https://github.com/Drix10/ai-resources/issues/new?template=suggest-source.yml)** (an X account, list or site) or **[report a wrong fact](https://github.com/Drix10/ai-resources/issues/new?template=wrong-fact.yml)** with the briefing link.

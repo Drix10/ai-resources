@@ -112,6 +112,6 @@ git clone --depth 1 https://github.com/Drix10/ai-resources
 
 One file: `https://raw.githubusercontent.com/Drix10/ai-resources/main/<Category Name>/resources-<N>.md` (spaces in the folder name as `%20`; a higher `N` is newer). Each file holds 5 to 12 briefings: a headline, a short summary, **Key Points** and the source links.
 
-## Something missing?
+## Requests and bugs
 
 Open an issue labelled [`mcp`](https://github.com/Drix10/ai-resources/issues?q=is%3Aissue+is%3Aopen+label%3Amcp) or [`skill`](https://github.com/Drix10/ai-resources/issues?q=is%3Aissue+is%3Aopen+label%3Askill), or pick one up; see [CONTRIBUTING.md](CONTRIBUTING.md).

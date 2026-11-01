@@ -1,6 +1,6 @@
 # Contributing
 
-Thanks for helping. AI Resources has two kinds of content, and they take help differently:
+AI Resources has two kinds of content, and each takes help in its own way:
 
 - **Generated digests** (`<Category>/resources-NNN.md` and the category list in the README) are written by an automated pipeline and refreshed several times a day. Help here comes mostly through **issues**: better sources, wrong facts, new categories.
 - **Everything else** (the [MCP server](mcp/), the [ai-news Skill](skills/ai-news/), [USE-WITH-AI.md](USE-WITH-AI.md), these docs, examples and guides) is written by hand. **Pull requests are welcome.**

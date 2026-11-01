@@ -1,6 +1,6 @@
 # How AI Resources compares
 
-People usually come here after trying an awesome list or an AI newsletter. They solve different problems, and for some jobs they are the better pick. This page lays out the differences plainly.
+People usually come here after trying an awesome list or an AI newsletter. They do different jobs, and for some of them they are the better pick.
 
 Details about other projects were checked against their public pages in October 2026 and may change.
 
@@ -9,7 +9,7 @@ Details about other projects were checked against their public pages in October 
 | | **AI Resources** (this repo) | **Awesome lists** (e.g. [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM), [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai), [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)) | **Daily AI newsletters** (e.g. [TLDR AI](https://tldr.tech/ai)) |
 | --- | --- | --- | --- |
 | What you get | Short briefings on individual posts: headline, 2–3 sentence summary, key numbers, source links | A link and a one-line description per tool, paper or course | A handful of stories per issue, each a short summary with a link |
-| Unit of content | 100,000+ items in ~10,700 digests | A curated set of links per list | A curated set of stories per issue, readable in about 5 minutes |
+| Unit of content | 100,000+ items in ~10,700 digests | A hand-picked set of links per list | A hand-picked set of stories per issue, readable in about 5 minutes |
 | Freshness | New digests on every pipeline run, often several a day | As fast as pull requests are reviewed | One issue each weekday |
 | Breadth | 41 categories: dev tools, research, companies, people, VC, robotics, climate, quantum, security and more | Usually one theme per list (LLMs, generative AI, agents) | AI news broadly, editor's choice |
 | Who picks | Hand-picked X lists per category; a pipeline writes the briefings and rejects any whose numbers or names are not in the source | Maintainers and community PRs, often with quality rules | Newsletter editors |
@@ -34,10 +34,10 @@ Details about other projects were checked against their public pages in October 
 - You want **five minutes a day, pushed to your inbox**, chosen by human editors.
 - You prefer **fewer items with editorial context** over broad coverage.
 
-## Honest limits of this repo
+## Limits of this repo
 
 - Briefings are machine-written from public posts. The fact gates catch invented numbers and names, but a summary can still miss nuance. Check the linked source before relying on a figure.
-- Coverage follows the curated X lists, so it reflects what those accounts post, including their blind spots.
+- Coverage follows the hand-picked X lists, so it reflects what those accounts post, including their blind spots.
 - Older digests (2024 to mid-2026) were written before source links were added.
 
 Found a better alternative, or a mistake on this page? [Open an issue](https://github.com/Drix10/ai-resources/issues/new/choose).
