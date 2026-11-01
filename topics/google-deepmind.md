@@ -1,16 +1,23 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 932 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 939 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-10-31 | [Qwenputer Qwen3.5-4B with RISC-V CPU inside weights](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-272.md#-qwenputer-qwen35-4b-with-risc-v-cpu-inside-weights) | AI Professionals and Community |
+| 2026-10-30 | [Gemini 4 Carbon debuts at #1 on APEX-Agents with 90%+ mean](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-306.md#-gemini-4-carbon-debuts-at-1-on-apex-agents-with-90-mean) | CS Academics |
+| 2026-10-30 | [Gemini 4 Argon vs Claude Opus 5.5 phone use – Argon won](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-305.md#-gemini-4-argon-vs-claude-opus-55-phone-use--argon-won) | AI Developer Tools |
 | 2026-10-29 | [Gemini adds document generation, preview and edit](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-305.md#-gemini-adds-document-generation-preview-and-edit) | CS Academics |
 | 2026-10-29 | [Phonic-1 2nd on MIVAS Bench, first non-big-lab top-3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-phonic-1-2nd-on-mivas-bench-first-non-big-lab-top-3) | AI Developer Tools |
+| 2026-10-29 | [Coding Agent token usage: 235-token default prompt](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-297.md#-coding-agent-token-usage-235-token-default-prompt) | Tech VIPs |
 | 2026-10-29 | [Gemini 4 Carbon benchmark 65.2% vs Claude Opus 5.5 66.4%](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-272.md#-gemini-4-carbon-benchmark-652-vs-claude-opus-55-664) | AI Powered Film and Media |
 | 2026-10-29 | [The Economics of Intelligence paper released – DeepMind research on AGI economics](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-270.md#-the-economics-of-intelligence-paper-released--deepmind-research-on-agi-economics) | AI Driven Vehicles and Transportation |
 | 2026-10-29 | [The Economics of Intelligence released by Google DeepMind](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-257.md#-the-economics-of-intelligence-released-by-google-deepmind) | The Exponential Future |
+| 2026-10-29 | [Cursor Agent mode works with API key on Terza Inference](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-256.md#-cursor-agent-mode-works-with-api-key-on-terza-inference) | Decentralized AI |
+| 2026-10-29 | [Gemini 4 Carbon announced as next frontier model](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-256.md#-gemini-4-carbon-announced-as-next-frontier-model) | Decentralized AI |
+| 2026-10-29 | [Reddit CEO says Google AI Mode does not drive traffic](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-242.md#-reddit-ceo-says-google-ai-mode-does-not-drive-traffic) | PR and Communications |
 | 2026-10-28 | [Gemini 4 Carbon launch, #1 on Artificial Analysis index](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-270.md#-gemini-4-carbon-launch-1-on-artificial-analysis-index) | AI Professionals and Community |
 | 2026-10-26 | [AI Biosecurity Lab launch with £100m funding in UK](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-294.md#-ai-biosecurity-lab-launch-with-100m-funding-in-uk) | Tech VIPs |
 | 2026-10-26 | [Kimi K3.1 Pro outperforms GPT-6 Astra, weights drop Nov 4](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-273.md#-kimi-k31-pro-outperforms-gpt-6-astra-weights-drop-nov-4) | AI Education |
@@ -99,10 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-09-11 | [AI/ML - Rebuilt Fruit Fly](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-240.md#-aiml---rebuilt-fruit-fly) | AI Professionals and Community |
 | 2026-09-05 | [AI Systems - Antigravity Features](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-234.md#-ai-systems---antigravity-features) | AI in Real Estate and Property Tech |
 | 2026-09-05 | [AI Agents and Math Problems](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-221.md#-ai-agents-and-math-problems) | Investors and Venture Capital |
-| 2026-09-03 | [Tech - AI/ML Tools](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-271.md#-tech---aiml-tools) | CS Academics |
-| 2026-09-03 | [AI Finance - Gemini 3.8 Flash Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-247.md#-ai-finance---gemini-38-flash-update) | AI Companies and Ventures |
-| 2026-09-03 | [AGI and Consciousness](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-234.md#-agi-and-consciousness) | AI Professionals and Community |
-| 2026-09-03 | [Gemini 3.8 Flash & 3.7 Flash](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-227.md#-gemini-38-flash--37-flash) | AI for Content Creation and Marketing |
-| 2026-08-31 | [Google AI Studio - Integration with Google Apps](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-251.md#-google-ai-studio---integration-with-google-apps) | AI Developer Tools |
-| 2026-08-31 | [AI/ML - Sword AI Summit](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-236.md#-aiml---sword-ai-summit) | AI in Healthcare and Science |
-| 2026-08-28 | [Video Generation - Gemini Omni 1.1 Flash Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-244.md#-video-generation---gemini-omni-11-flash-update) | AI Companies and Ventures |

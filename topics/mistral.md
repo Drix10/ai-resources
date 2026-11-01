@@ -1,12 +1,13 @@
 # Mistral AI
 
-Mistral AI and its models. All 54 briefings that mention it, from every category, newest first.
+Mistral AI and its models. All 55 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
 | 2026-10-29 | [zml/llmd 20261029.0 release with Mistral Large 4, GLM 5.2/5.3, LFM 3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-zmlllmd-202610290-release-with-mistral-large-4-glm-5253-lfm-3) | AI Developer Tools |
+| 2026-10-29 | [Mistral Large 4 ranks second on Coding Agent Index](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-298.md#-mistral-large-4-ranks-second-on-coding-agent-index) | Devs, Designers, DevRel |
 | 2026-10-29 | [Le Chonk weights released; ranks #1 on FrontierCode](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-291.md#-le-chonk-weights-released-ranks-1-on-frontiercode) | AI Leaders and Thinkers |
 | 2026-10-29 | [Le Chonk (Mistral Large 4) claims best open agentic coding model, 41% score](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-271.md#-le-chonk-mistral-large-4-claims-best-open-agentic-coding-model-41-score) | Tech Infrastructure |
 | 2026-10-29 | [Mistral Large 4 open weights release, 1.05T params](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-268.md#-mistral-large-4-open-weights-release-105t-params) | AI Consulting and Expertise |

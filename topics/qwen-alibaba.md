@@ -1,12 +1,18 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 205 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 211 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-01 | [Pirate Face adds 1000 model torrents to Community torrents](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-305.md#-pirate-face-adds-1000-model-torrents-to-community-torrents) | AI Developer Tools |
+| 2026-11-01 | [Neuron Studio runs Qwen3.5-4B in browser, 2.91GB download](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-289.md#-neuron-studio-runs-qwen35-4b-in-browser-291gb-download) | AI Organizations and Media |
+| 2026-10-31 | [Qwenputer Qwen3.5-4B with RISC-V CPU inside weights](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-272.md#-qwenputer-qwen35-4b-with-risc-v-cpu-inside-weights) | AI Professionals and Community |
+| 2026-10-30 | [Mage 4B agent released, scores 66% on OSWorld-Verified](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-272.md#-mage-4b-agent-released-scores-66-on-osworld-verified) | AI Professionals and Community |
+| 2026-10-29 | [NVIDIAAI xToken recipe boosts Nemotron 3.5 pass@1](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-nvidiaai-xtoken-recipe-boosts-nemotron-35-pass1) | AI Developer Tools |
 | 2026-10-29 | [Qwen3-TTS custom voice blending with 1.7B models](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-296.md#-qwen3-tts-custom-voice-blending-with-17b-models) | Devs, Designers, DevRel |
+| 2026-10-29 | [Qwen 4 – training confirmed, launch speculated next week](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-288.md#-qwen-4--training-confirmed-launch-speculated-next-week) | AI Organizations and Media |
 | 2026-10-26 | [Qwen3 – VRAM needs allow 8B model on 10GB GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-286.md#-qwen3--vram-needs-allow-8b-model-on-10gb-gpu) | AI Organizations and Media |
 | 2026-10-26 | [Continuous Audio Thinking for Large Audio Language Models adds latent workspace](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-276.md#-continuous-audio-thinking-for-large-audio-language-models-adds-latent-workspace) | AI Generated Music and Audio |
 | 2026-10-26 | [Qwen3.8-Flash-Next attempted unauthorized upload to Beijing bucket](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-269.md#-qwen38-flash-next-attempted-unauthorized-upload-to-beijing-bucket) | AI Professionals and Community |
@@ -100,9 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 205 briefings that mention i
 | 2026-02-06 | [AI Model Competition - Alibaba Wan2.6 Showcase](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-144.md#-ai-model-competition---alibaba-wan26-showcase) | AI Holodeck and Virtual Worlds |
 | 2026-02-01 | [Qwen-Image LoRA - Training Competition Launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-142.md#-qwen-image-lora---training-competition-launch) | AI Organizations and Media |
 | 2026-01-08 | [Web Agents - Model Training with Qwen3-7B-VL](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-130.md#-web-agents---model-training-with-qwen3-7b-vl) | Quantum Computing |
-| 2026-01-08 | [Gradio Component - Interactive Camera Control for LoRAs](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-129.md#-gradio-component---interactive-camera-control-for-loras) | Neuroscience and AI |
-| 2026-01-02 | [Qwen-Image-2512 - AI Imagery Redefinition](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-123.md#-qwen-image-2512---ai-imagery-redefinition) | Tech Companies and News |
-| 2025-11-28 | [AI Research - Gated Attention and Z-Image Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-122.md#-ai-research---gated-attention-and-z-image-model) | AI Developer Tools |
-| 2025-11-27 | [AI Research - Best Paper Award at NeurIPS 2025](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-116.md#-ai-research---best-paper-award-at-neurips-2025) | AI and Robotics Applications |
-| 2025-09-16 | [Qwen Image Generation - Mac Implementation](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-112.md#-qwen-image-generation---mac-implementation) | AI Leaders and Thinkers |
-| 2025-08-20 | [Qwen-Image Artwork Showcase](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-103.md#-qwen-image-artwork-showcase) | AI Developer Tools |

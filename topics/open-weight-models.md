@@ -1,12 +1,17 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 295 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 300 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-10-31 | [K2 Horizon release – largest truly open LLM with weights, data, pipeline, eval](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-275.md#-k2-horizon-release--largest-truly-open-llm-with-weights-data-pipeline-eval) | AI Education |
+| 2026-10-30 | [SingSync entry for open-source challenge released](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-278.md#-singsync-entry-for-open-source-challenge-released) | AI Generated Music and Audio |
+| 2026-10-30 | [Mage 4B agent released, scores 66% on OSWorld-Verified](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-272.md#-mage-4b-agent-released-scores-66-on-osworld-verified) | AI Professionals and Community |
 | 2026-10-29 | [joey-1 2B released, fastest decision model](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-joey-1-2b-released-fastest-decision-model) | AI Developer Tools |
+| 2026-10-29 | [Pika H3 Flex open weights launch with 4K, audio stems, real-time](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-294.md#-pika-h3-flex-open-weights-launch-with-4k-audio-stems-real-time) | AI Leaders and Thinkers |
+| 2026-10-29 | [Pika H3 Flex video generation speed and specs](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-292.md#-pika-h3-flex-video-generation-speed-and-specs) | AI Leaders and Thinkers |
 | 2026-10-29 | [Pika H3 Flex debut as #1 open weight model on DesignArena](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-291.md#-pika-h3-flex-debut-as-1-open-weight-model-on-designarena) | AI Leaders and Thinkers |
 | 2026-10-29 | [joey-1 released – third open-source model, 2B parameters](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-290.md#-joey-1-released--third-open-source-model-2b-parameters) | AI Companies and Ventures |
 | 2026-10-29 | [Drama 3 upgraded weights – #1 open-weight model](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-277.md#-drama-3-upgraded-weights--1-open-weight-model) | AI Generated Music and Audio |
@@ -101,8 +106,3 @@ Models whose weights anyone can download. The 100 newest of 295 briefings that m
 | 2026-04-08 | [Vulnerability Analysis - Open-Weight Model Capabilities](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-160.md#-vulnerability-analysis---open-weight-model-capabilities) | Computer Vision and AI Applications |
 | 2026-04-06 | [AI Model Development - Gemma 4's Open Source Potential](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-157.md#-ai-model-development---gemma-4s-open-source-potential) | Crypto and Web3 |
 | 2026-04-04 | [Software Development - The Inevitability of Open Source](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-174.md#-software-development---the-inevitability-of-open-source) | Tech VIPs |
-| 2026-04-02 | [AI Models - Gemma 4 Open-Source Release](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-177.md#-ai-models---gemma-4-open-source-release) | Devs, Designers, DevRel |
-| 2026-04-02 | [Gemma 4 Models - Open Weight AI for Edge Devices](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-167.md#-gemma-4-models---open-weight-ai-for-edge-devices) | AI Generated Music and Audio |
-| 2026-04-02 | [AI Models - Gemma 4 Open Weight Release](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-141.md#-ai-models---gemma-4-open-weight-release) | Cybersecurity and Tech |
-| 2026-03-29 | [Enterprise AI - Cost Efficiency and Open Source Models](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-155.md#-enterprise-ai---cost-efficiency-and-open-source-models) | Investors and Venture Capital |
-| 2026-03-04 | [LLM Refusal Removal - OBLITERATUS Toolkit](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-153.md#-llm-refusal-removal---obliteratus-toolkit) | AI Generated Music and Audio |

@@ -1,16 +1,25 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,009 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,018 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-01 | [Starcloud data centers cost $500 per kilo to orbit](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-293.md#-starcloud-data-centers-cost-500-per-kilo-to-orbit) | AI Companies and Ventures |
+| 2026-10-31 | [ernd_ai launch in Y Combinator F26 batch, priority GPUs coming](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-296.md#-ernd_ai-launch-in-y-combinator-f26-batch-priority-gpus-coming) | VC Firms |
+| 2026-10-30 | [Project Suncatcher hello world milestone, first response](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-306.md#-project-suncatcher-hello-world-milestone-first-response) | CS Academics |
+| 2026-10-30 | [torch.index_add_ fingerprint exact GPU identity](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-270.md#-torchindex_add_-fingerprint-exact-gpu-identity) | AI Consulting and Expertise |
 | 2026-10-29 | [Orion-like capsule hypersonic reentry in 10 min](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-279.md#-orion-like-capsule-hypersonic-reentry-in-10-min) | AI in Healthcare and Science |
+| 2026-10-29 | [FLUX 3 Image Klein – LoRA training guide released](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-278.md#-flux-3-image-klein--lora-training-guide-released) | AI Holodeck and Virtual Worlds |
 | 2026-10-29 | [Idol – open image-to-3D model with 600M params](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-277.md#-idol--open-image-to-3d-model-with-600m-params) | AI Holodeck and Virtual Worlds |
+| 2026-10-29 | [Distributed inference shifts data center fabric demands to 1.6 Tbps per GPU](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-273.md#-distributed-inference-shifts-data-center-fabric-demands-to-16-tbps-per-gpu) | Tech Infrastructure |
 | 2026-10-29 | [NetApp ONAIR explains GPU clusters and ONTAP A90](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-271.md#-netapp-onair-explains-gpu-clusters-and-ontap-a90) | Tech Infrastructure |
+| 2026-10-29 | [Nvidia guarantees Nscale debt for 460MW data center in $45B Anthropic deal](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-269.md#-nvidia-guarantees-nscale-debt-for-460mw-data-center-in-45b-anthropic-deal) | AI Consulting and Expertise |
 | 2026-10-29 | [Idol open image-to-3D model with 600M parameters runs on consumer GPUs](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-261.md#-idol-open-image-to-3d-model-with-600m-parameters-runs-on-consumer-gpus) | AR VR Professionals and Community |
 | 2026-10-29 | [Sandisk data center NAND bit demand to 55% by 2027](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-257.md#-sandisk-data-center-nand-bit-demand-to-55-by-2027) | The Exponential Future |
+| 2026-10-29 | [NVIDIA NVDA talks to back billions of debt for NSCALE](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-nvidia-nvda-talks-to-back-billions-of-debt-for-nscale) | Interesting Finds |
+| 2026-10-29 | [Mac Studio 512GB RAM vs 1990s SGI $100k seat](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-mac-studio-512gb-ram-vs-1990s-sgi-100k-seat) | Spatial Computing |
 | 2026-10-29 | [VirajAero turbine powers data centers, 40% more power](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-236.md#-virajaero-turbine-powers-data-centers-40-more-power) | Tech Journalists and VIPs |
 | 2026-10-26 | [Qwen3 – VRAM needs allow 8B model on 10GB GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-286.md#-qwen3--vram-needs-allow-8b-model-on-10gb-gpu) | AI Organizations and Media |
 | 2026-10-26 | [Anthropic IPO filing, $16.3B H1 2026 revenue, Claude voter data incident](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-anthropic-ipo-filing-163b-h1-2026-revenue-claude-voter-data-incident) | AI Artists and Creators |
@@ -97,12 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,009 briefings tha
 | 2026-09-22 | [Dynamic Pricing for Preemptible VMs on Nebius](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-278.md#dynamic-pricing-for-preemptible-vms-on-nebius) | AI Developer Tools |
 | 2026-09-22 | [Verda Cloud](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-274.md#-verda-cloud) | VC Firms |
 | 2026-09-22 | [NVIDIA Isaac ROS 5.0](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-266.md#-nvidia-isaac-ros-50) | AI Organizations and Media |
-| 2026-09-22 | [Data Center Opposition](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-253.md#-data-center-opposition) | Tech Infrastructure |
-| 2026-09-22 | [LUCI Desktop](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-246.md#-luci-desktop) | AI in Enterprise Applications |
-| 2026-09-22 | [Finance - Nvidia Price Targets](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-241.md#-finance---nvidia-price-targets) | The Exponential Future |
-| 2026-09-22 | [Data Centers - Disrupted in US](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-222.md#-data-centers---disrupted-in-us) | Quantum Computing |
-| 2026-09-21 | [Data Center Expansion](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-277.md#-data-center-expansion) | AI Developer Tools |
-| 2026-09-21 | [Training and Evaluation on Lambda GPU Infrastructure](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-276.md#-training-and-evaluation-on-lambda-gpu-infrastructure) | AI Developer Tools |
-| 2026-09-21 | [Accelerating Long-Context and Agentic Inference with NVFP4 KV Cache](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-274.md#-accelerating-long-context-and-agentic-inference-with-nvfp4-kv-cache) | AI Developer Tools |
-| 2026-09-21 | [Intel - CPU Side of AI](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-271.md#-intel---cpu-side-of-ai) | VC Firms |
-| 2026-09-21 | [AI & Robotics - AI Data Centers](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-258.md#-ai--robotics---ai-data-centers) | AI Driven Vehicles and Transportation |

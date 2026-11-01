@@ -1,12 +1,13 @@
 # Perplexity
 
-Perplexity and Comet. The 100 newest of 114 briefings that mention it, from every category, newest first.
+Perplexity and Comet. The 100 newest of 115 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
 | 2026-10-29 | [Parallel for Finance, 2x lower cost on FinSearchComp T3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-parallel-for-finance-2x-lower-cost-on-finsearchcomp-t3) | AI Developer Tools |
+| 2026-10-29 | [Perplexity vs ChatGPT: Pick by How They Fail](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-267.md#-perplexity-vs-chatgpt-pick-by-how-they-fail) | AI for Content Creation and Marketing |
 | 2026-10-18 | [Perplexity open-sourced SPACE AI agent security sandbox with test results](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-271.md#-perplexity-open-sourced-space-ai-agent-security-sandbox-with-test-results) | AI Education |
 | 2026-10-16 | [Gemini 4 Argon sets new SoTA on WANDR, now in Perplexity](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-266.md#-gemini-4-argon-sets-new-sota-on-wandr-now-in-perplexity) | AI Driven Vehicles and Transportation |
 | 2026-10-14 | [GPT-6 Astra and SOL 6.1 Ultrafast now available](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-269.md#-gpt-6-astra-and-sol-61-ultrafast-now-available) | AI Education |
@@ -105,4 +106,3 @@ Perplexity and Comet. The 100 newest of 114 briefings that mention it, from ever
 |  | [AI-Native Tools - Rapid Prototyping](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-029.md#-ai-native-tools---rapid-prototyping) | AI for Content Creation and Marketing |
 |  | [AI Tools - Perplexity AI Contest](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-027.md#-ai-tools---perplexity-ai-contest) | AI Education |
 |  | [Data Retrieval - Perplexity AI vs. OpenAI](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-020.md#-data-retrieval---perplexity-ai-vs-openai) | Founders and Entrepreneurs |
-|  | [Perplexity AI - Impressive User Growth and Revenue](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-012.md#-perplexity-ai---impressive-user-growth-and-revenue) | Investors and Venture Capital |
