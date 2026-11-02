@@ -1,11 +1,15 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 300 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 304 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [ML4 open-weight release, trained on 10 MW compute](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-273.md#-ml4-open-weight-release-trained-on-10-mw-compute) | AI Professionals and Community |
+| 2026-11-02 | [Le Chonk model efficiency claim, 10 megawatts compute](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-273.md#-le-chonk-model-efficiency-claim-10-megawatts-compute) | AI Professionals and Community |
+| 2026-11-02 | [Hydrogen-1.0 launch with benchmark scores](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-266.md#-hydrogen-10-launch-with-benchmark-scores) | Computer Vision and AI Applications |
+| 2026-11-02 | [Reshoot 4D Gaussian Splat tool launches with ComfyUI nodes](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-241.md#-reshoot-4d-gaussian-splat-tool-launches-with-comfyui-nodes) | Spatial Computing |
 | 2026-10-31 | [K2 Horizon release – largest truly open LLM with weights, data, pipeline, eval](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-275.md#-k2-horizon-release--largest-truly-open-llm-with-weights-data-pipeline-eval) | AI Education |
 | 2026-10-30 | [SingSync entry for open-source challenge released](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-278.md#-singsync-entry-for-open-source-challenge-released) | AI Generated Music and Audio |
 | 2026-10-30 | [Mage 4B agent released, scores 66% on OSWorld-Verified](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-272.md#-mage-4b-agent-released-scores-66-on-osworld-verified) | AI Professionals and Community |
@@ -102,7 +106,3 @@ Models whose weights anyone can download. The 100 newest of 300 briefings that m
 | 2026-04-17 | [AI Model Release Strategies - User Perception and Open-Weight Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-172.md#-ai-model-release-strategies---user-perception-and-open-weight-models) | AI Leaders and Thinkers |
 | 2026-04-15 | [Quantum Control - AI Automation with NVIDIA Ising](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-148.md#-quantum-control---ai-automation-with-nvidia-ising) | Quantum Computing |
 | 2026-04-14 | [AI Development - Open-Source Model Function Calling Challenges](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-170.md#-ai-development---open-source-model-function-calling-challenges) | AI Professionals and Community |
-| 2026-04-14 | [LLM Performance - Open Weights Models](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-168.md#-llm-performance---open-weights-models) | AI and Robotics Applications |
-| 2026-04-08 | [Vulnerability Analysis - Open-Weight Model Capabilities](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-160.md#-vulnerability-analysis---open-weight-model-capabilities) | Computer Vision and AI Applications |
-| 2026-04-06 | [AI Model Development - Gemma 4's Open Source Potential](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-157.md#-ai-model-development---gemma-4s-open-source-potential) | Crypto and Web3 |
-| 2026-04-04 | [Software Development - The Inevitability of Open Source](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-174.md#-software-development---the-inevitability-of-open-source) | Tech VIPs |

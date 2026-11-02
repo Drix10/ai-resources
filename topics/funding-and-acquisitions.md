@@ -1,11 +1,16 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,163 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,168 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [Applied Compute crosses $100M ARR, raises $350M](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-297.md#-applied-compute-crosses-100m-arr-raises-350m) | VC Firms |
+| 2026-11-02 | [Marvell acquire Lumentum definitive agreement](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-297.md#-marvell-acquire-lumentum-definitive-agreement) | VC Firms |
+| 2026-11-02 | [Tutor Intelligence raises $75M Series B, targets 1,000 robots by 2027](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-277.md#-tutor-intelligence-raises-75m-series-b-targets-1000-robots-by-2027) | AI and Robotics Applications |
+| 2026-11-02 | [Tutor Intelligence $75M Series B and AI interviews](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-266.md#-tutor-intelligence-75m-series-b-and-ai-interviews) | Founders and Entrepreneurs |
+| 2026-11-02 | [Elon Musk may acquire Boost Mobile, seeks new entry route](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-243.md#-elon-musk-may-acquire-boost-mobile-seeks-new-entry-route) | PR and Communications |
 | 2026-10-31 | [GrokBot.Rocks directory launch with 8,230 public bots](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-grokbotrocks-directory-launch-with-8230-public-bots) | The Exponential Future |
 | 2026-10-31 | [Binance replenishes 90% of assets withdrawals Nov 1](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-257.md#-binance-replenishes-90-of-assets-withdrawals-nov-1) | Crypto and Web3 |
 | 2026-10-29 | [Serval raises $150M Series C at $3B valuation, expands team 10x](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-serval-raises-150m-series-c-at-3b-valuation-expands-team-10x) | AI Developer Tools |
@@ -101,8 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,163 briefings that mention it, fro
 | 2026-09-21 | [AI Model Development](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-272.md#-ai-model-development) | VC Firms |
 | 2026-09-21 | [Autonomous Vehicles - Scaling Safety with AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-248.md#-autonomous-vehicles---scaling-safety-with-ai) | AI Driven Vehicles and Transportation |
 | 2026-09-21 | [Tech News - Weather Modification](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-235.md#-tech-news---weather-modification) | Investors and Venture Capital |
-| 2026-09-21 | [CatchBack Raises $8M](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-219.md#-catchback-raises-8m) | Tech Journalists and VIPs |
-| 2026-09-19 | [AI SaaS - Riding the Wave with JEV](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-264.md#-ai-saas---riding-the-wave-with-jev) | AI Leaders and Thinkers |
-| 2026-09-19 | [Performative SF Guys](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-237.md#-performative-sf-guys) | The Exponential Future |
-| 2026-09-19 | [Instagram Acquisition](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-216.md#instagram-acquisition) | Spatial Computing |
-| 2026-09-18 | [Crusoe AI Enters Next Chapter with Series F Announcement](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-271.md#-crusoe-ai-enters-next-chapter-with-series-f-announcement) | Tech VIPs |

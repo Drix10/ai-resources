@@ -1,11 +1,14 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 649 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 652 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [Apple revenue up 16-17% and iPhone sales >20%](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-260.md#-apple-revenue-up-16-17-and-iphone-sales-20) | The Exponential Future |
+| 2026-11-02 | [Germany says iPhones may be hacked with spyware](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-243.md#-germany-says-iphones-may-be-hacked-with-spyware) | PR and Communications |
+| 2026-11-02 | [Apple Vision Pro app pre-installed on iPhones in Spain](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-241.md#-apple-vision-pro-app-pre-installed-on-iphones-in-spain) | Spatial Computing |
 | 2026-11-01 | [Miso Spatial Cooking now on TestFlight for Apple Vision Pro](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-298.md#-miso-spatial-cooking-now-on-testflight-for-apple-vision-pro) | Tech VIPs |
 | 2026-10-31 | [Kin launches Apple Watch recording feature for visit summaries](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-281.md#-kin-launches-apple-watch-recording-feature-for-visit-summaries) | AI in Healthcare and Science |
 | 2026-10-29 | [MacBook Neo education price increase to $649](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-296.md#-macbook-neo-education-price-increase-to-649) | Devs, Designers, DevRel |
@@ -103,6 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 649 br
 | 2026-09-10 | [Apple Vision Pro - Fovii's New Platform](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-232.md#-apple-vision-pro---foviis-new-platform) | AR VR Companies and Development |
 | 2026-09-10 | [Tech Insights - Apple's iPhone Duo Pricing Strategy](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-228.md#-tech-insights---apples-iphone-duo-pricing-strategy) | AR VR Professionals and Community |
 | 2026-09-10 | [iPhone Duo Design Inspiration](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-208.md#-iphone-duo-design-inspiration) | Spatial Computing |
-| 2026-09-09 | [iPhone Duo - Designing for the Future](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-214.md#-iphone-duo---designing-for-the-future) | Spatial Computing |
-| 2026-09-08 | [Key App Developers for Apple's Siri AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-251.md#-key-app-developers-for-apples-siri-ai) | AI Organizations and Media |
-| 2026-09-08 | [Fitness - Live Heart Rate Data in VR Workouts](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-231.md#-fitness---live-heart-rate-data-in-vr-workouts) | AR VR Companies and Development |

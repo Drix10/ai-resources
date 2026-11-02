@@ -1,11 +1,15 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,018 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,022 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [Ryhla launch - grid modeling for faster connection](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-297.md#-ryhla-launch---grid-modeling-for-faster-connection) | VC Firms |
+| 2026-11-02 | [Lumentum and Marvell partner on ultra-low latency optical switches](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-290.md#-lumentum-and-marvell-partner-on-ultra-low-latency-optical-switches) | AI Organizations and Media |
+| 2026-11-02 | [Anthropic compute deals total $895B through 2045](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-269.md#-anthropic-compute-deals-total-895b-through-2045) | AI Policy and Ethical Considerations |
+| 2026-11-02 | [Y Combinator hardware startups 25% and deadline today](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-238.md#-y-combinator-hardware-startups-25-and-deadline-today) | Tech Journalists and VIPs |
 | 2026-11-01 | [Starcloud data centers cost $500 per kilo to orbit](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-293.md#-starcloud-data-centers-cost-500-per-kilo-to-orbit) | AI Companies and Ventures |
 | 2026-10-31 | [ernd_ai launch in Y Combinator F26 batch, priority GPUs coming](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-296.md#-ernd_ai-launch-in-y-combinator-f26-batch-priority-gpus-coming) | VC Firms |
 | 2026-10-30 | [Project Suncatcher hello world milestone, first response](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-306.md#-project-suncatcher-hello-world-milestone-first-response) | CS Academics |
@@ -102,7 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,018 briefings tha
 | 2026-09-24 | [Training a 100B Parameter Model Across Five Data Centres](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-240.md#-training-a-100b-parameter-model-across-five-data-centres) | Decentralized AI |
 | 2026-09-24 | [EdgeCloud GPU Deployment Resumes After Internet Outage](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-240.md#-edgecloud-gpu-deployment-resumes-after-internet-outage) | Decentralized AI |
 | 2026-09-23 | [AI for Good](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-275.md#-ai-for-good) | VC Firms |
-| 2026-09-23 | [CUDA Programming](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-254.md#-cuda-programming) | AI and Robotics Applications |
-| 2026-09-22 | [Dynamic Pricing for Preemptible VMs on Nebius](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-278.md#dynamic-pricing-for-preemptible-vms-on-nebius) | AI Developer Tools |
-| 2026-09-22 | [Verda Cloud](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-274.md#-verda-cloud) | VC Firms |
-| 2026-09-22 | [NVIDIA Isaac ROS 5.0](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-266.md#-nvidia-isaac-ros-50) | AI Organizations and Media |

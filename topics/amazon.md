@@ -1,11 +1,13 @@
 # Amazon & AWS
 
-Amazon, AWS, Bedrock and Alexa. The 100 newest of 387 briefings that mention it, from every category, newest first.
+Amazon, AWS, Bedrock and Alexa. The 100 newest of 389 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [AI developer platforms key thefts, 9 incidents in Oct](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-271.md#-ai-developer-platforms-key-thefts-9-incidents-in-oct) | AI Consulting and Expertise |
+| 2026-11-02 | [Tradecraft Tuesday Huntress SOC Event Nov 10](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-238.md#-tradecraft-tuesday-huntress-soc-event-nov-10) | Cybersecurity and Tech |
 | 2026-11-01 | [SpaceX Anthropic inference costs premium, $820M other clouds](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-spacex-anthropic-inference-costs-premium-820m-other-clouds) | The Exponential Future |
 | 2026-10-29 | [AMZN borrows $115B for AI, Q3 capex $77.3B, AWS up 39%](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-269.md#-amzn-borrows-115b-for-ai-q3-capex-773b-aws-up-39) | AI Consulting and Expertise |
 | 2026-10-29 | [Amazon AWS expects >40% growth in 2027 and 2028](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-257.md#-amazon-aws-expects-40-growth-in-2027-and-2028) | The Exponential Future |
@@ -104,5 +106,3 @@ Amazon, AWS, Bedrock and Alexa. The 100 newest of 387 briefings that mention it,
 | 2026-04-21 | [AWS Networking - Route 53 Private Hosted Zones](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-180.md#-aws-networking---route-53-private-hosted-zones) | AI Consulting and Expertise |
 | 2026-04-21 | [E-commerce Practices - Amazon Price Manipulation Allegations](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-150.md#-e-commerce-practices---amazon-price-manipulation-allegations) | Tech Journalists and VIPs |
 | 2026-04-15 | [Media Criticism - Project Hail Mary Perception](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-161.md#-media-criticism---project-hail-mary-perception) | Investors and Venture Capital |
-| 2026-04-09 | [Generative World Modeling - Efficient Frame Compression with Delta Tokens](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-166.md#-generative-world-modeling---efficient-frame-compression-with-delta-tokens) | AI Professionals and Community |
-| 2026-04-08 | [Logistics Innovation - Tesla Semi & Amazon](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-175.md#-logistics-innovation---tesla-semi--amazon) | VC Firms |

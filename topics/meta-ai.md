@@ -1,11 +1,20 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 594 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 603 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [Meta signs 20-year deal with Constellation, adds 30 MW](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-290.md#-meta-signs-20-year-deal-with-constellation-adds-30-mw) | AI Organizations and Media |
+| 2026-11-02 | [Meta Quest 2 & Pro final OS v2.13 by March 2027](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-meta-quest-2--pro-final-os-v213-by-march-2027) | AR VR Companies and Development |
+| 2026-11-02 | [KAT Walk C3 Ultra launch – larger platform, backward walking](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-kat-walk-c3-ultra-launch--larger-platform-backward-walking) | AR VR Companies and Development |
+| 2026-11-02 | [PAYDAY: Aces High launch in Meta Horizon+ on November 5](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-payday-aces-high-launch-in-meta-horizon-on-november-5) | AR VR Companies and Development |
+| 2026-11-02 | [PAYDAY: Aces High launch on Meta Horizon+ November 5](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-payday-aces-high-launch-on-meta-horizon-november-5) | AR VR Companies and Development |
+| 2026-11-02 | [Meta Quest 2 & Pro final OS v2.13 March 2027](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-263.md#-meta-quest-2--pro-final-os-v213-march-2027) | AR VR Professionals and Community |
+| 2026-11-02 | [Meta Quest 2 and Quest Pro final OS v2.13 by March 2027](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-263.md#-meta-quest-2-and-quest-pro-final-os-v213-by-march-2027) | AR VR Professionals and Community |
+| 2026-11-02 | [Meta Quest 2, Quest Pro end feature updates March 2027](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-241.md#-meta-quest-2-quest-pro-end-feature-updates-march-2027) | Spatial Computing |
+| 2026-11-02 | [Meta Quest 2 & Quest Pro end dev, v2.13 OS March 2027](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-241.md#-meta-quest-2--quest-pro-end-dev-v213-os-march-2027) | Spatial Computing |
 | 2026-11-01 | [Meta Max prototype built in three months](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-276.md#-meta-max-prototype-built-in-three-months) | AI and Robotics Applications |
 | 2026-10-31 | [Meta Max humanoid robot prototype built in 3 months](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-289.md#-meta-max-humanoid-robot-prototype-built-in-3-months) | AI Organizations and Media |
 | 2026-10-29 | [Nvidia invests $3B in Meta as Meta raises $95B for AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-278.md#-nvidia-invests-3b-in-meta-as-meta-raises-95b-for-ai) | AI Holodeck and Virtual Worlds |
@@ -97,12 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 594 brie
 | 2026-09-18 | [Muse and Meta VR CLI](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-214.md#-muse-and-meta-vr-cli) | Spatial Computing |
 | 2026-09-17 | [AI Governance - Autonomous Agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-250.md#-ai-governance---autonomous-agents) | AI Education |
 | 2026-09-17 | [AI and Engineering Interviews](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-232.md#ai-and-engineering-interviews) | Crypto and Web3 |
-| 2026-09-17 | [VR Headsets - SteamOS-Powered Devices](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-213.md#-vr-headsets---steamos-powered-devices) | Spatial Computing |
-| 2026-09-16 | [Personal Agents](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-243.md#-personal-agents) | Tech Infrastructure |
-| 2026-09-16 | [Meta Delays Shipping Muse](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-233.md#-meta-delays-shipping-muse) | AR VR Professionals and Community |
-| 2026-09-15 | [Meta AI's New Voice Transcription Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-257.md#-meta-ais-new-voice-transcription-model) | AI Leaders and Thinkers |
-| 2026-09-14 | [Tech News - Muse and Meta Ads](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-210.md#-tech-news---muse-and-meta-ads) | Spatial Computing |
-| 2026-09-13 | [AI Research - ICML'26 Paper](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-255.md#-ai-research---icml26-paper) | AI Organizations and Media |
-| 2026-09-11 | [Meta's Muse: A Powerful Tool for General Consumers](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-253.md#metas-muse-a-powerful-tool-for-general-consumers) | AI Leaders and Thinkers |
-| 2026-09-10 | [AI Transparency - A Breakthrough in Threat Disruption](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-240.md#-ai-transparency---a-breakthrough-in-threat-disruption) | AI Policy and Ethical Considerations |
-| 2026-09-10 | [VR Meetup](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-228.md#-vr-meetup) | AR VR Professionals and Community |

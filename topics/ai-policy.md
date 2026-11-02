@@ -1,11 +1,15 @@
 # AI policy
 
-Laws, regulators and governments on AI. The 100 newest of 932 briefings that mention it, from every category, newest first.
+Laws, regulators and governments on AI. The 100 newest of 936 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [Overtraining may disrupt the brain's dopamine regulation](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-282.md#-overtraining-may-disrupt-the-brains-dopamine-regulation) | AI in Healthcare and Science |
+| 2026-11-02 | [Paperclip Datasets launch live data collection tool](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-282.md#-paperclip-datasets-launch-live-data-collection-tool) | AI in Healthcare and Science |
+| 2026-11-02 | [Claude watermark starts Nov 3, invisible watermark added](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-269.md#-claude-watermark-starts-nov-3-invisible-watermark-added) | AI for Content Creation and Marketing |
+| 2026-11-02 | [Bispecific CCR8-CD3 antibody combats tumors](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-245.md#-bispecific-ccr8-cd3-antibody-combats-tumors) | Neuroscience and AI |
 | 2026-10-31 | [K2 Horizon release – largest truly open LLM with weights, data, pipeline, eval](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-275.md#-k2-horizon-release--largest-truly-open-llm-with-weights-data-pipeline-eval) | AI Education |
 | 2026-10-31 | [Claude watermark starts Nov 3, invisible text tag](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-257.md#-claude-watermark-starts-nov-3-invisible-text-tag) | Decentralized AI |
 | 2026-10-29 | [Schmidt Center and ETH show adhesome genes clustered in nucleus](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-279.md#-schmidt-center-and-eth-show-adhesome-genes-clustered-in-nucleus) | AI in Healthcare and Science |
@@ -102,7 +106,3 @@ Laws, regulators and governments on AI. The 100 newest of 932 briefings that men
 | 2026-09-17 | [Public Risk Hazards - Regulating Cars and Handguns](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-213.md#-public-risk-hazards---regulating-cars-and-handguns) | Tech Companies and News |
 | 2026-09-16 | [AI Governance - Decentralized Knowledge Graphs (DKGs)](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-254.md#-ai-governance---decentralized-knowledge-graphs-dkgs) | AI Education |
 | 2026-09-16 | [AI Governance - AI Regulation](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-247.md#-ai-governance---ai-regulation) | AI Policy and Ethical Considerations |
-| 2026-09-16 | [AI and Governance - AI Regulation](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-247.md#-ai-and-governance---ai-regulation) | AI Policy and Ethical Considerations |
-| 2026-09-16 | [AI Regulation - Key Developments and Concerns](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-245.md#-ai-regulation---key-developments-and-concerns) | AI Policy and Ethical Considerations |
-| 2026-09-16 | [AI Safety and Accountability](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-245.md#-ai-safety-and-accountability) | AI Policy and Ethical Considerations |
-| 2026-09-16 | [AI Regulation and the Law](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-245.md#-ai-regulation-and-the-law) | AI Policy and Ethical Considerations |

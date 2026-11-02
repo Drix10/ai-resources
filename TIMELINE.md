@@ -1,10 +1,20 @@
 # AI release timeline
 
-Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 146, each linked to its briefing.
+Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 153, each linked to its briefing.
+
+## November 2026
+
+- **Nov 2** · [OpusClip 4.0 launch adds Recipes editing feature](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-269.md#-opusclip-40-launch-adds-recipes-editing-feature) <sub>AI for Content Creation and Marketing</sub>
+- **Nov 2** · [PAYDAY: Aces High launch in Meta Horizon+ on November 5](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-payday-aces-high-launch-in-meta-horizon-on-november-5) <sub>AR VR Companies and Development</sub>
+- **Nov 2** · [PAYDAY: Aces High launch on Meta Horizon+ November 5](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-payday-aces-high-launch-on-meta-horizon-november-5) <sub>AR VR Companies and Development</sub>
+- **Nov 2** · [Hydrogen-1.0 launch with benchmark scores](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-266.md#-hydrogen-10-launch-with-benchmark-scores) <sub>Computer Vision and AI Applications</sub>
+- **Nov 2** · [Mac Monitor v3.0 release with 13 new features](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-238.md#-mac-monitor-v30-release-with-13-new-features) <sub>Cybersecurity and Tech</sub>
+- **Nov 2** · [Grok Efficiency Optimizer template launches, &lt;1% weekly use](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-236.md#-grok-efficiency-optimizer-template-launches-1-weekly-use) <sub>Tech Companies and News</sub>
 
 ## October 2026
 
 - **Oct 31** · [Kin launches Apple Watch recording feature for visit summaries](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-281.md#-kin-launches-apple-watch-recording-feature-for-visit-summaries) <sub>AI in Healthcare and Science</sub>
+- **Oct 31** · [RenderDoc v1.47 release – bugfixes and improvements](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-renderdoc-v147-release--bugfixes-and-improvements) <sub>AR VR Companies and Development</sub>
 - **Oct 30** · [Gemini 4 Carbon debuts at #1 on APEX-Agents with 90%+ mean](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-306.md#-gemini-4-carbon-debuts-at-1-on-apex-agents-with-90-mean) <sub>CS Academics</sub>
 - **Oct 29** · [zml/llmd 20261029.0 release with Mistral Large 4, GLM 5.2/5.3, LFM 3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-zmlllmd-202610290-release-with-mistral-large-4-glm-5253-lfm-3) <sub>AI Developer Tools</sub>
 - **Oct 29** · [Shop account integration with Grok bot now available](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-293.md#-shop-account-integration-with-grok-bot-now-available) <sub>AI Leaders and Thinkers</sub>
