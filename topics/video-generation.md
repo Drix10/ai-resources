@@ -1,11 +1,13 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 799 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 801 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [Runway Dev plugin adds AI video, image, audio generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-279.md#-runway-dev-plugin-adds-ai-video-image-audio-generation) | AI Holodeck and Virtual Worlds |
+| 2026-11-02 | [Runway is now on Cursor – single-plugin integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-274.md#-runway-is-now-on-cursor--single-plugin-integration) | AI Powered Film and Media |
 | 2026-11-01 | [L3G-World memory grows with scene, 9 fps real-time](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-295.md#-l3g-world-memory-grows-with-scene-9-fps-real-time) | AI Leaders and Thinkers |
 | 2026-10-31 | [Nano Banana Pro animation with Kling 4.0 doors](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-273.md#-nano-banana-pro-animation-with-kling-40-doors) | AI Artists and Creators |
 | 2026-10-31 | [L3G-World KAIST world model memory 3D Gaussians 9 fps](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-272.md#-l3g-world-kaist-world-model-memory-3d-gaussians-9-fps) | AI Driven Vehicles and Transportation |
@@ -104,5 +106,3 @@ Models and tools that make video. The 100 newest of 799 briefings that mention i
 | 2026-04-17 | [AI Development - Jon Barron Departs OpenAI](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-166.md#-ai-development---jon-barron-departs-openai) | Computer Vision and AI Applications |
 | 2026-04-14 | [AI Video Generation - Seedance 2.0 Scene Evolution](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-171.md#-ai-video-generation---seedance-20-scene-evolution) | AI Holodeck and Virtual Worlds |
 | 2026-04-13 | [AI Video Creation - Efficient Ad Production with Runway](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-164.md#-ai-video-creation---efficient-ad-production-with-runway) | Computer Vision and AI Applications |
-| 2026-04-11 | [AI Applications - Video Models for On-Demand UI](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-161.md#-ai-applications---video-models-for-on-demand-ui) | Computer Vision and AI Applications |
-| 2026-04-10 | [AI Ethics - Sora 2 Misuse and Safety](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-161.md#-ai-ethics---sora-2-misuse-and-safety) | Tech Companies and News |

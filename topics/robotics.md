@@ -1,11 +1,18 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,424 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,431 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [Conversations in Action episode #21 released](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-299.md#-conversations-in-action-episode-21-released) | Tech VIPs |
+| 2026-11-02 | [Optimus robots production forecast 50k units per year impact](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-297.md#-optimus-robots-production-forecast-50k-units-per-year-impact) | VC Firms |
+| 2026-11-02 | [Open Robotics build farm handles Rust dependencies](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-290.md#-open-robotics-build-farm-handles-rust-dependencies) | AI Organizations and Media |
+| 2026-11-02 | [3D World Simulator launches with 50+ FPS RTX 5090 performance](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-277.md#-3d-world-simulator-launches-with-50-fps-rtx-5090-performance) | AI and Robotics Applications |
+| 2026-11-02 | [Tutor Intelligence raises $75M Series B, targets 1,000 robots by 2027](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-277.md#-tutor-intelligence-raises-75m-series-b-targets-1000-robots-by-2027) | AI and Robotics Applications |
+| 2026-11-02 | [Robotics startup certificate hurdle, target Q1 2027](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-277.md#-robotics-startup-certificate-hurdle-target-q1-2027) | AI and Robotics Applications |
+| 2026-11-02 | [Y Combinator hardware startups 25% and deadline today](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-238.md#-y-combinator-hardware-startups-25-and-deadline-today) | Tech Journalists and VIPs |
 | 2026-11-01 | [Junfan Halloween Robotics Building Maker Arm for Dream Lab's Dream-1 10/31](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-289.md#-junfan-halloween-robotics-building-maker-arm-for-dream-labs-dream-1-1031) | AI Organizations and Media |
 | 2026-11-01 | [Meta Max prototype built in three months](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-276.md#-meta-max-prototype-built-in-three-months) | AI and Robotics Applications |
 | 2026-10-31 | [GoogleDeepMind AI agents design and build 12-DOF robot](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-306.md#-googledeepmind-ai-agents-design-and-build-12-dof-robot) | CS Academics |
@@ -99,10 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,424 briefings that men
 | 2026-10-05 | [AI & Robotics - Physical Intelligence](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-288.md#-ai--robotics---physical-intelligence) | AI Developer Tools |
 | 2026-10-05 | [AI & Robotics - Long Horizon Summit Speakers](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-288.md#-ai--robotics---long-horizon-summit-speakers) | AI Developer Tools |
 | 2026-10-05 | [AI & Robotics - Encord's Long Horizon Summit](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-288.md#-ai--robotics---encords-long-horizon-summit) | AI Developer Tools |
-| 2026-10-05 | [AI & Robotics - Humanoid Robotics Research](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-288.md#-ai--robotics---humanoid-robotics-research) | AI Developer Tools |
-| 2026-10-05 | [AI & Robotics - Humanoid Robot Anatomy Lesson](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-280.md#-ai--robotics---humanoid-robot-anatomy-lesson) | AI Leaders and Thinkers |
-| 2026-10-05 | [AI & Robotics - AI Agent Tasking](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-280.md#-ai--robotics---ai-agent-tasking) | AI Leaders and Thinkers |
-| 2026-10-05 | [AI & Robotics - Image Generation via Code](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-280.md#-ai--robotics---image-generation-via-code) | AI Leaders and Thinkers |
-| 2026-10-05 | [AI - Robotics Simulation](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-280.md#-ai---robotics-simulation) | AI Leaders and Thinkers |
-| 2026-10-05 | [Robotics - Humanoid Robots in Defense](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-279.md#-robotics---humanoid-robots-in-defense) | AI Companies and Ventures |
-| 2026-10-05 | [Coral Grow-out Robotic Assessment System (CGRAS)](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-276.md#-coral-grow-out-robotic-assessment-system-cgras) | AI Organizations and Media |

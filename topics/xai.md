@@ -1,11 +1,15 @@
 # xAI
 
-xAI and Grok. The 100 newest of 625 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 629 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [Grok Bot live dashboard setup with single prompt](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-263.md#-grok-bot-live-dashboard-setup-with-single-prompt) | AR VR Professionals and Community |
+| 2026-11-02 | [GrokBot.Rocks 8679 new Grok Bots landed](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-260.md#-grokbotrocks-8679-new-grok-bots-landed) | The Exponential Future |
+| 2026-11-02 | [Grok Bot What's New – feature list with timestamps](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-236.md#-grok-bot-whats-new--feature-list-with-timestamps) | Tech Companies and News |
+| 2026-11-02 | [Grok Efficiency Optimizer template launches, &lt;1% weekly use](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-236.md#-grok-efficiency-optimizer-template-launches-1-weekly-use) | Tech Companies and News |
 | 2026-11-01 | [Multiplex.FM is up - new AI signal platform](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-multiplexfm-is-up---new-ai-signal-platform) | The Exponential Future |
 | 2026-10-31 | [GrokBot.Rocks directory launch with 8,230 public bots](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-grokbotrocks-directory-launch-with-8230-public-bots) | The Exponential Future |
 | 2026-10-29 | [Grok 4.7 improves Sincere, reduces Slop and Sycophantic](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-grok-47-improves-sincere-reduces-slop-and-sycophantic) | AI Developer Tools |
@@ -102,7 +106,3 @@ xAI and Grok. The 100 newest of 625 briefings that mention it, from every catego
 | 2026-07-06 | [AI Architecture - Serving Large Models on GPUs](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-196.md#-ai-architecture---serving-large-models-on-gpus) | AR VR Professionals and Community |
 | 2026-06-28 | [AI Models - Grok v9 Performance and Development](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-221.md#-ai-models---grok-v9-performance-and-development) | Devs, Designers, DevRel |
 | 2026-06-26 | [General - AI Gratitude](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-204.md#-general---ai-gratitude) | AI in Healthcare and Science |
-| 2026-06-26 | [Financial Services - X Card Inquiry](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-204.md#-financial-services---x-card-inquiry) | AI in Healthcare and Science |
-| 2026-05-19 | [AI Product Development - Open Source and Beta Status](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-199.md#-ai-product-development---open-source-and-beta-status) | AI Policy and Ethical Considerations |
-| 2026-05-17 | [Grok - Rapid User Adoption on X](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-210.md#-grok---rapid-user-adoption-on-x) | Tech VIPs |
-| 2026-05-17 | [Grok Imagine - Creative Expression](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-200.md#-grok-imagine---creative-expression) | AI Powered Film and Media |

@@ -1,11 +1,12 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 406 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 407 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [Paper rich text editing landed in MCP, Snapshot, editor](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-279.md#-paper-rich-text-editing-landed-in-mcp-snapshot-editor) | AI Holodeck and Virtual Worlds |
 | 2026-10-31 | [Pictory AI MCP Server API connects AI tools with Pictory](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-268.md#-pictory-ai-mcp-server-api-connects-ai-tools-with-pictory) | AI for Content Creation and Marketing |
 | 2026-10-31 | [Gaussian splatting performance limit under 1M splats](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-266.md#-gaussian-splatting-performance-limit-under-1m-splats) | AR VR Companies and Development |
 | 2026-10-29 | [Vercel agents can send feedback via Vercel MCP](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-291.md#-vercel-agents-can-send-feedback-via-vercel-mcp) | AI Leaders and Thinkers |
@@ -105,4 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-04-17 | [Slashy MCP - Upcoming Release Announcement](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-172.md#-slashy-mcp---upcoming-release-announcement) | AI Leaders and Thinkers |
 | 2026-04-16 | [AI Agents and Data Catalogs - Leveraging Existing Data for Agent Memory](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-178.md#-ai-agents-and-data-catalogs---leveraging-existing-data-for-agent-memory) | AI Developer Tools |
 | 2026-03-27 | [AI in Science - Agentic Drug Discovery with Nanome](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-155.md#-ai-in-science---agentic-drug-discovery-with-nanome) | AR VR Companies and Development |
-| 2026-03-22 | [Web Frameworks - Starlette 1.0 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-164.md#-web-frameworks---starlette-10-release) | AI Consulting and Expertise |

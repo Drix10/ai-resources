@@ -1,11 +1,14 @@
 # Cursor
 
-Cursor, the AI code editor. The 100 newest of 199 briefings that mention it, from every category, newest first.
+Cursor, the AI code editor. The 100 newest of 202 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [Runway is now on Cursor – single-plugin integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-274.md#-runway-is-now-on-cursor--single-plugin-integration) | AI Powered Film and Media |
+| 2026-11-02 | [EntelligenceAI Memory launch with shared memory, 53% fewer repeat errors](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-236.md#-entelligenceai-memory-launch-with-shared-memory-53-fewer-repeat-errors) | Tech Companies and News |
+| 2026-11-02 | [3D OS by Scenario open-sources full 3D studio with 80 skills](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-236.md#-3d-os-by-scenario-open-sources-full-3d-studio-with-80-skills) | Tech Companies and News |
 | 2026-10-29 | [Vibecode adds app building from ChatGPT, Claude, Codex, Cursor](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-304.md#-vibecode-adds-app-building-from-chatgpt-claude-codex-cursor) | AI Developer Tools |
 | 2026-10-29 | [Vibecode adds multi-model app building from ChatGPT, Claude, Codex, Cursor](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-304.md#-vibecode-adds-multi-model-app-building-from-chatgpt-claude-codex-cursor) | AI Developer Tools |
 | 2026-10-29 | [Vibecode adds multi-model app building and in-chat preview](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-vibecode-adds-multi-model-app-building-and-in-chat-preview) | AI Developer Tools |
@@ -103,6 +106,3 @@ Cursor, the AI code editor. The 100 newest of 199 briefings that mention it, fro
 |  | [Software Development - Performance Tracing Tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-136.md#-software-development---performance-tracing-tools) | AI Leaders and Thinkers |
 |  | [AI Coding Assistants - Claude Code vs. Cursor Evaluation](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-134.md#-ai-coding-assistants---claude-code-vs-cursor-evaluation) | Computer Vision and AI Applications |
 |  | [AI Agents - Dynamic Context Management](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-129.md#-ai-agents---dynamic-context-management) | Computer Vision and AI Applications |
-|  | [Cloud 100 Company - Anysphere and Cursor](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-120.md#--cloud-100-company---anysphere-and-cursor) | VC Firms |
-|  | [Cursor - Terminal Setup Issue](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-119.md#-cursor---terminal-setup-issue) | Devs, Designers, DevRel |
-|  | [MCP Rollout Plan - Cursor, Claude, and Codex](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-117.md#--mcp-rollout-plan---cursor-claude-and-codex) | AI Developer Tools |

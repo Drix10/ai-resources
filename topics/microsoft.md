@@ -1,11 +1,14 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 572 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 575 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [Copilot UX components hosted in Microsoft 365 tenant](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-274.md#-copilot-ux-components-hosted-in-microsoft-365-tenant) | Tech Infrastructure |
+| 2026-11-02 | [GitHub app in Microsoft Teams now generally available](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-274.md#-github-app-in-microsoft-teams-now-generally-available) | Tech Infrastructure |
+| 2026-11-02 | [RRCfg Implant – DLL sideloading chain using signed sllauncher.exe](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-238.md#-rrcfg-implant--dll-sideloading-chain-using-signed-sllauncherexe) | Cybersecurity and Tech |
 | 2026-11-01 | [SpaceX Anthropic inference costs premium, $820M other clouds](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-spacex-anthropic-inference-costs-premium-820m-other-clouds) | The Exponential Future |
 | 2026-10-29 | [Read AI #1 independent globally in top four](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-290.md#-read-ai-1-independent-globally-in-top-four) | AI Companies and Ventures |
 | 2026-10-29 | [Microsoft delivers strong Q3, Azure up 48% and Cloud $63.9B](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-273.md#-microsoft-delivers-strong-q3-azure-up-48-and-cloud-639b) | Tech Infrastructure |
@@ -103,6 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 572 briefings
 | 2026-09-13 | [Debian 13 Image Comparison](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-245.md#-debian-13-image-comparison) | AI Powered Film and Media |
 | 2026-09-13 | [Enterprise AI - Governance Layer](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-244.md#-enterprise-ai---governance-layer) | AI Education |
 | 2026-09-13 | [Security - Living Off the Cloud: A Python Implant Hiding Its Entire C2 Inside Microsoft 365 & Azure](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-218.md#-security---living-off-the-cloud-a-python-implant-hiding-its-entire-c2-inside-microsoft-365--azure) | Cybersecurity and Tech |
-| 2026-09-13 | [Category - Security Researchers and Microsoft](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-209.md#-category---security-researchers-and-microsoft) | Cybersecurity and Tech |
-| 2026-09-12 | [AI/ML - Persistent Memory Flaw in Autonomous Agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-244.md#-aiml---persistent-memory-flaw-in-autonomous-agents) | AI Powered Film and Media |
-| 2026-09-11 | [Security - CISO Keynote Announcement](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-212.md#-security---ciso-keynote-announcement) | Cybersecurity and Tech |

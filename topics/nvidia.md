@@ -1,11 +1,13 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 756 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 758 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-02 | [NVIDIA DGX Spark kernel vulnerable to CVE-2026-98432](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-296.md#-nvidia-dgx-spark-kernel-vulnerable-to-cve-2026-98432) | AI Leaders and Thinkers |
+| 2026-11-02 | [Starcloud-1 anniversary, H100 in space, 3 launches](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-238.md#-starcloud-1-anniversary-h100-in-space-3-launches) | Tech Journalists and VIPs |
 | 2026-10-31 | [ScienceClaw Hackathon launched with sponsors](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-295.md#-scienceclaw-hackathon-launched-with-sponsors) | AI Leaders and Thinkers |
 | 2026-10-31 | [Meta Max humanoid robot prototype built in 3 months](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-289.md#-meta-max-humanoid-robot-prototype-built-in-3-months) | AI Organizations and Media |
 | 2026-10-31 | [NVIDIA Holoscan and CUDA-X used by SETI Institute](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-263.md#-nvidia-holoscan-and-cuda-x-used-by-seti-institute) | AI in Enterprise Applications |
@@ -104,5 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 756 briefin
 | 2026-09-14 | [Law Firms Adopting AI: Latham & Watkins Builds In-House AI Stack](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-237.md#-law-firms-adopting-ai-latham--watkins-builds-in-house-ai-stack) | Founders and Entrepreneurs |
 | 2026-09-13 | [AI - DGX Community Optimization](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-255.md#-ai---dgx-community-optimization) | AI Companies and Ventures |
 | 2026-09-13 | [Engineering - Latham & Watkins' In-House AI](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-235.md#-engineering---latham--watkins-in-house-ai) | AI for Content Creation and Marketing |
-| 2026-09-12 | [DeepSeek v4.1 Flash Support for NVIDIA H100, H200, B200, B300, GB200, and GB300](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-262.md#-deepseek-v41-flash-support-for-nvidia-h100-h200-b200-b300-gb200-and-gb300) | AI Developer Tools |
-| 2026-09-12 | [AI Industry - Open-Source AI Infrastructure](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-243.md#-ai-industry---open-source-ai-infrastructure) | AI Education |
