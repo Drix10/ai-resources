@@ -1,9 +1,19 @@
 # AI release timeline
 
-Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 153, each linked to its briefing.
+Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 163, each linked to its briefing.
 
 ## November 2026
 
+- **Nov 4** · [Roger 1.0 humanoid unveiled, oil & gas pilots fall, ops 2027](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-279.md#-roger-10-humanoid-unveiled-oil--gas-pilots-fall-ops-2027) <sub>AI and Robotics Applications</sub>
+- **Nov 4** · [XRift Azure Nook released with water effects](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-xrift-azure-nook-released-with-water-effects) <sub>AR VR Professionals and Community</sub>
+- **Nov 4** · [XRift Azure Nook released, smartphone compatible](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-xrift-azure-nook-released-smartphone-compatible) <sub>AR VR Professionals and Community</sub>
+- **Nov 4** · [XRift Azure Nook seaside pool world released with smartphone water shader](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-xrift-azure-nook-seaside-pool-world-released-with-smartphone-water-shader) <sub>AR VR Professionals and Community</sub>
+- **Nov 4** · [RogueGods library open, release Dec 3 on Meta Quest](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-roguegods-library-open-release-dec-3-on-meta-quest) <sub>AR VR Professionals and Community</sub>
+- **Nov 3** · [TMax v1.1 released with up to 6-point TB2 improvement](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-308.md#-tmax-v11-released-with-up-to-6-point-tb2-improvement) <sub>CS Academics</sub>
+- **Nov 3** · [Saga 5.0 – release announced for November](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-280.md#-saga-50--release-announced-for-november) <sub>AI Holodeck and Virtual Worlds</sub>
+- **Nov 3** · [IDC Quanta in Claude launch – available since July](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-275.md#-idc-quanta-in-claude-launch--available-since-july) <sub>Tech Infrastructure</sub>
+- **Nov 3** · [Synthesia plugin launches in ChatGPT at OpenAI Dev Day](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-271.md#-synthesia-plugin-launches-in-chatgpt-at-openai-dev-day) <sub>AI for Content Creation and Marketing</sub>
+- **Nov 2** · [LeVJEPA 1.5 Large launches with 5.6x less compute](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-308.md#-levjepa-15-large-launches-with-56x-less-compute) <sub>CS Academics</sub>
 - **Nov 2** · [OpusClip 4.0 launch adds Recipes editing feature](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-269.md#-opusclip-40-launch-adds-recipes-editing-feature) <sub>AI for Content Creation and Marketing</sub>
 - **Nov 2** · [PAYDAY: Aces High launch in Meta Horizon+ on November 5](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-payday-aces-high-launch-in-meta-horizon-on-november-5) <sub>AR VR Companies and Development</sub>
 - **Nov 2** · [PAYDAY: Aces High launch on Meta Horizon+ November 5](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-payday-aces-high-launch-on-meta-horizon-november-5) <sub>AR VR Companies and Development</sub>

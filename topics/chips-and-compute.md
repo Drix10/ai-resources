@@ -1,11 +1,27 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,022 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,038 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-04 | [Aethir prices GPU compute per use](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-276.md#-aethir-prices-gpu-compute-per-use) | Tech Infrastructure |
+| 2026-11-04 | [Ukraine and Russia trade hundreds of drones overnight](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-233.md#-ukraine-and-russia-trade-hundreds-of-drones-overnight) | World News and Updates |
+| 2026-11-03 | [Krea 3 diffusion transformer 6.9× faster on AMD Instinct MI355X](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-300.md#-krea-3-diffusion-transformer-69-faster-on-amd-instinct-mi355x) | Devs, Designers, DevRel |
+| 2026-11-03 | [Anthropic shipping zk proofs for AI inference, uses H100](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-300.md#-anthropic-shipping-zk-proofs-for-ai-inference-uses-h100) | Devs, Designers, DevRel |
+| 2026-11-03 | [Texas Election Impact on Data Centers – 474 GW Queue, 90% Data Centers](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-300.md#-texas-election-impact-on-data-centers--474-gw-queue-90-data-centers) | Tech VIPs |
+| 2026-11-03 | [Revolut moves 2,000 engineers to self-hosted GLM, uses 56 Nvidia B200s](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-297.md#-revolut-moves-2000-engineers-to-self-hosted-glm-uses-56-nvidia-b200s) | AI Leaders and Thinkers |
+| 2026-11-03 | [Elon Musk AI chips vs power wall by end of 2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-297.md#-elon-musk-ai-chips-vs-power-wall-by-end-of-2026) | AI Leaders and Thinkers |
+| 2026-11-03 | [8xMI300x GPU – $3.39/hr with 8-hour minimum](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-295.md#-8xmi300x-gpu--339hr-with-8-hour-minimum) | AI Companies and Ventures |
+| 2026-11-03 | [Formalizing PTX in Lean to Prove GPU Kernel Correctness](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-275.md#-formalizing-ptx-in-lean-to-prove-gpu-kernel-correctness) | AI Driven Vehicles and Transportation |
+| 2026-11-03 | [XLA from the Trenches: Correctness on TPU Workloads](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-275.md#-xla-from-the-trenches-correctness-on-tpu-workloads) | AI Driven Vehicles and Transportation |
+| 2026-11-03 | [Revolut moves 2k engineers to self-hosted GLM](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-275.md#-revolut-moves-2k-engineers-to-self-hosted-glm) | Tech Infrastructure |
+| 2026-11-03 | [vLLM platform layers added: tenant keys, routing, GPU scheduling](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-275.md#-vllm-platform-layers-added-tenant-keys-routing-gpu-scheduling) | Tech Infrastructure |
+| 2026-11-03 | [RedHat AI 3.5 priority serving with llm-d flow control](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-275.md#-redhat-ai-35-priority-serving-with-llm-d-flow-control) | Tech Infrastructure |
+| 2026-11-03 | [Nvidia data centre policy caps China compute at 49%](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-267.md#-nvidia-data-centre-policy-caps-china-compute-at-49) | Founders and Entrepreneurs |
+| 2026-11-03 | [Axolotl adds Mistral Large 4, QLoRA export to GGUF](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-261.md#-axolotl-adds-mistral-large-4-qlora-export-to-gguf) | AI in Real Estate and Property Tech |
+| 2026-11-03 | [ionet pushed ~416B tokens in Oct, 13.4B daily on GPU network](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-259.md#-ionet-pushed-416b-tokens-in-oct-134b-daily-on-gpu-network) | Decentralized AI |
 | 2026-11-02 | [Ryhla launch - grid modeling for faster connection](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-297.md#-ryhla-launch---grid-modeling-for-faster-connection) | VC Firms |
 | 2026-11-02 | [Lumentum and Marvell partner on ultra-low latency optical switches](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-290.md#-lumentum-and-marvell-partner-on-ultra-low-latency-optical-switches) | AI Organizations and Media |
 | 2026-11-02 | [Anthropic compute deals total $895B through 2045](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-269.md#-anthropic-compute-deals-total-895b-through-2045) | AI Policy and Ethical Considerations |
@@ -90,19 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,022 briefings tha
 | 2026-09-27 | [Finance - Blue-Collar AI Job Market](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-279.md#-finance---blue-collar-ai-job-market) | VC Firms |
 | 2026-09-27 | [AI in Medicine - OpenScience Harness](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-264.md#-ai-in-medicine---openscience-harness) | AI in Healthcare and Science |
 | 2026-09-27 | [Pessimism in Basic Research](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-250.md#-pessimism-in-basic-research) | Computer Vision and AI Applications |
-| 2026-09-26 | [New Web Experience with 1:1 Parity to Cap Desktop](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-262.md#-new-web-experience-with-11-parity-to-cap-desktop) | AI Holodeck and Virtual Worlds |
-| 2026-09-26 | [Strata: A High-Performance Inference Engine](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-260.md#-strata-a-high-performance-inference-engine) | AI Artists and Creators |
-| 2026-09-26 | [AI - The Real Risk: A Swarm of Collaborating Agents](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-252.md#-ai---the-real-risk-a-swarm-of-collaborating-agents) | Founders and Entrepreneurs |
-| 2026-09-26 | [AI & Robotics - New Direction for Zipcode](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-249.md#-ai--robotics---new-direction-for-zipcode) | AI in Real Estate and Property Tech |
-| 2026-09-26 | [AI & Robotics - Zipcode GPU Loans](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-249.md#-ai--robotics---zipcode-gpu-loans) | AI in Real Estate and Property Tech |
-| 2026-09-25 | [AI - GPU and Memory Bandwidth](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-281.md#-ai---gpu-and-memory-bandwidth) | AI Developer Tools |
-| 2026-09-25 | [AI Policy - Infrastructure and Regulation](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-269.md#-ai-policy---infrastructure-and-regulation) | AI Organizations and Media |
-| 2026-09-25 | [AI & ML - Real-time Video Generation on Trainium](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-261.md#-ai--ml---real-time-video-generation-on-trainium) | AI Holodeck and Virtual Worlds |
-| 2026-09-25 | [Powering the AI Decade](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-260.md#-powering-the-ai-decade) | AI Powered Film and Media |
-| 2026-09-25 | [AI - Reality Check](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-254.md#-ai---reality-check) | AI Consulting and Expertise |
-| 2026-09-25 | [Embeddings and Search Performance](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-243.md#-embeddings-and-search-performance) | Decentralized AI |
-| 2026-09-24 | [AI - Verda Raises $189M in Oversubscribed Series B](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-280.md#-ai---verda-raises-189m-in-oversubscribed-series-b) | AI Developer Tools |
-| 2026-09-24 | [AI Buildout - Labor Shortages and Construction Workers](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-261.md#-ai-buildout---labor-shortages-and-construction-workers) | AI in Healthcare and Science |
-| 2026-09-24 | [Training a 100B Parameter Model Across Five Data Centres](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-240.md#-training-a-100b-parameter-model-across-five-data-centres) | Decentralized AI |
-| 2026-09-24 | [EdgeCloud GPU Deployment Resumes After Internet Outage](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-240.md#-edgecloud-gpu-deployment-resumes-after-internet-outage) | Decentralized AI |
-| 2026-09-23 | [AI for Good](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-275.md#-ai-for-good) | VC Firms |

@@ -1,11 +1,19 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 407 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 415 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-04 | [WebMCP vs Browser vs MCP performance for AI agents – 4x faster, 90% token reduction](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-298.md#-webmcp-vs-browser-vs-mcp-performance-for-ai-agents--4x-faster-90-token-reduction) | AI Leaders and Thinkers |
+| 2026-11-04 | [Soundverse adds ChatGPT integration via custom MCP server](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-281.md#-soundverse-adds-chatgpt-integration-via-custom-mcp-server) | AI Generated Music and Audio |
+| 2026-11-03 | [Playwright browser security reminder – no bundled browsers, pinned test builds](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-307.md#-playwright-browser-security-reminder--no-bundled-browsers-pinned-test-builds) | AI Developer Tools |
+| 2026-11-03 | [Pally – launch of Zapier and MCP text integration](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-270.md#-pally--launch-of-zapier-and-mcp-text-integration) | AI for Content Creation and Marketing |
+| 2026-11-03 | [Pally Zapier MCP connector live, adds text integration](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-265.md#-pally-zapier-mcp-connector-live-adds-text-integration) | AI in Enterprise Applications |
+| 2026-11-03 | [OpenAI Work tab folds into Chat, Anthropic does same](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-265.md#-openai-work-tab-folds-into-chat-anthropic-does-same) | AI in Enterprise Applications |
+| 2026-11-03 | [Pally launches Zapier integration with 9,000+ apps](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-265.md#-pally-launches-zapier-integration-with-9000-apps) | AI in Enterprise Applications |
+| 2026-11-03 | [Claude auto-connect plugins when logging in](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-256.md#-claude-auto-connect-plugins-when-logging-in) | Investors and Venture Capital |
 | 2026-11-02 | [Paper rich text editing landed in MCP, Snapshot, editor](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-279.md#-paper-rich-text-editing-landed-in-mcp-snapshot-editor) | AI Holodeck and Virtual Worlds |
 | 2026-10-31 | [Pictory AI MCP Server API connects AI tools with Pictory](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-268.md#-pictory-ai-mcp-server-api-connects-ai-tools-with-pictory) | AI for Content Creation and Marketing |
 | 2026-10-31 | [Gaussian splatting performance limit under 1M splats](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-266.md#-gaussian-splatting-performance-limit-under-1m-splats) | AR VR Companies and Development |
@@ -98,11 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-05-13 | [AI Integration for Productivity - Mobbin MCP with Claude AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-196.md#-ai-integration-for-productivity---mobbin-mcp-with-claude-ai) | AI Holodeck and Virtual Worlds |
 | 2026-05-13 | [Xcode - MCP vs. XcodeBuildMCP](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-192.md#-xcode---mcp-vs-xcodebuildmcp) | AI Leaders and Thinkers |
 | 2026-05-12 | [Workflow Management - Coda MCP](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-185.md#-workflow-management---coda-mcp) | AI for Content Creation and Marketing |
-| 2026-05-08 | [Technical Communication - Simplifying Complex Concepts](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-183.md#-technical-communication---simplifying-complex-concepts) | AI and Robotics Applications |
-| 2026-05-05 | [AI Agent Development - PixelDojo MCP Toolkit](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-185.md#-ai-agent-development---pixeldojo-mcp-toolkit) | AI Leaders and Thinkers |
-| 2026-05-05 | [Superset.sh - CLI and MCP Enhancements](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-184.md#-supersetsh---cli-and-mcp-enhancements) | AI Leaders and Thinkers |
-| 2026-04-30 | [Tools - Beehiiv MCP v2 Features](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-157.md#-tools---beehiiv-mcp-v2-features) | Tech Companies and News |
-| 2026-04-20 | [Cybersecurity - Understanding MCP Insecurity](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-164.md#-cybersecurity---understanding-mcp-insecurity) | Investors and Venture Capital |
-| 2026-04-17 | [Slashy MCP - Upcoming Release Announcement](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-172.md#-slashy-mcp---upcoming-release-announcement) | AI Leaders and Thinkers |
-| 2026-04-16 | [AI Agents and Data Catalogs - Leveraging Existing Data for Agent Memory](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-178.md#-ai-agents-and-data-catalogs---leveraging-existing-data-for-agent-memory) | AI Developer Tools |
-| 2026-03-27 | [AI in Science - Agentic Drug Discovery with Nanome](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-155.md#-ai-in-science---agentic-drug-discovery-with-nanome) | AR VR Companies and Development |

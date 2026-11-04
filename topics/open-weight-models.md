@@ -1,11 +1,14 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 304 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 307 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-03 | [P-H3-Image open-source release 5× faster 8-step image gen](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-297.md#-p-h3-image-open-source-release-5-faster-8-step-image-gen) | AI Leaders and Thinkers |
+| 2026-11-03 | [SuperNinja Enterprise – Ninja agent runs on multiple models, model swapping is a setting](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-265.md#-superninja-enterprise--ninja-agent-runs-on-multiple-models-model-swapping-is-a-setting) | AI in Enterprise Applications |
+| 2026-11-03 | [LiteLLM Proxy - check fallback routes to avoid hidden](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-239.md#-litellm-proxy---check-fallback-routes-to-avoid-hidden) | Cybersecurity and Tech |
 | 2026-11-02 | [ML4 open-weight release, trained on 10 MW compute](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-273.md#-ml4-open-weight-release-trained-on-10-mw-compute) | AI Professionals and Community |
 | 2026-11-02 | [Le Chonk model efficiency claim, 10 megawatts compute](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-273.md#-le-chonk-model-efficiency-claim-10-megawatts-compute) | AI Professionals and Community |
 | 2026-11-02 | [Hydrogen-1.0 launch with benchmark scores](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-266.md#-hydrogen-10-launch-with-benchmark-scores) | Computer Vision and AI Applications |
@@ -103,6 +106,3 @@ Models whose weights anyone can download. The 100 newest of 304 briefings that m
 | 2026-04-24 | [MOSS-Audio - Unified Open-Source Audio Understanding](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-175.md#-moss-audio---unified-open-source-audio-understanding) | AI and Robotics Applications |
 | 2026-04-21 | [AI Models - Kimi 2.6 Benchmark Performance](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-165.md#-ai-models---kimi-26-benchmark-performance) | The Exponential Future |
 | 2026-04-20 | [AI Security - Open Source Advantage](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-167.md#-ai-security---open-source-advantage) | Computer Vision and AI Applications |
-| 2026-04-17 | [AI Model Release Strategies - User Perception and Open-Weight Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-172.md#-ai-model-release-strategies---user-perception-and-open-weight-models) | AI Leaders and Thinkers |
-| 2026-04-15 | [Quantum Control - AI Automation with NVIDIA Ising](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-148.md#-quantum-control---ai-automation-with-nvidia-ising) | Quantum Computing |
-| 2026-04-14 | [AI Development - Open-Source Model Function Calling Challenges](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-170.md#-ai-development---open-source-model-function-calling-challenges) | AI Professionals and Community |

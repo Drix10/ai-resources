@@ -1,12 +1,20 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 603 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 611 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-04 | [Meta VR Glasses hackathon announced for Unite Tokyo 2026](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-meta-vr-glasses-hackathon-announced-for-unite-tokyo-2026) | AR VR Professionals and Community |
+| 2026-11-04 | [RogueGods library open, release Dec 3 on Meta Quest](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-roguegods-library-open-release-dec-3-on-meta-quest) | AR VR Professionals and Community |
+| 2026-11-03 | [Perplexity Computer automates e-commerce operations](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-301.md#-perplexity-computer-automates-e-commerce-operations) | Tech VIPs |
+| 2026-11-03 | [Llama.cpp official account announced, new home Llama_app](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-296.md#-llamacpp-official-account-announced-new-home-llama_app) | AI Companies and Ventures |
+| 2026-11-03 | [Perplexity Computer automates e-commerce ads, email, Shopify](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-270.md#-perplexity-computer-automates-e-commerce-ads-email-shopify) | AI for Content Creation and Marketing |
+| 2026-11-03 | [XREAL Aura launch with $200 discount, Quest sales decline](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-268.md#-xreal-aura-launch-with-200-discount-quest-sales-decline) | AR VR Companies and Development |
+| 2026-11-03 | [Amazon Google Microsoft Meta CapEx Q3 $202B increase](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-261.md#-amazon-google-microsoft-meta-capex-q3-202b-increase) | The Exponential Future |
 | 2026-11-02 | [Meta signs 20-year deal with Constellation, adds 30 MW](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-290.md#-meta-signs-20-year-deal-with-constellation-adds-30-mw) | AI Organizations and Media |
+| 2026-11-02 | [Meta Quest 2 & Quest Pro final OS update March 2027](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-268.md#-meta-quest-2--quest-pro-final-os-update-march-2027) | AR VR Companies and Development |
 | 2026-11-02 | [Meta Quest 2 & Pro final OS v2.13 by March 2027](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-meta-quest-2--pro-final-os-v213-by-march-2027) | AR VR Companies and Development |
 | 2026-11-02 | [KAT Walk C3 Ultra launch – larger platform, backward walking](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-kat-walk-c3-ultra-launch--larger-platform-backward-walking) | AR VR Companies and Development |
 | 2026-11-02 | [PAYDAY: Aces High launch in Meta Horizon+ on November 5](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-267.md#-payday-aces-high-launch-in-meta-horizon-on-november-5) | AR VR Companies and Development |
@@ -98,11 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 603 brie
 | 2026-09-19 | [WhatsApp API - Agent Integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-249.md#-whatsapp-api---agent-integration) | AI Professionals and Community |
 | 2026-09-19 | [Tech News - AI-Powered Payments](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-217.md#-tech-news---ai-powered-payments) | Tech Journalists and VIPs |
 | 2026-09-18 | [Career Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-262.md#-career-update) | AI Organizations and Media |
-| 2026-09-18 | [Meta's Segment Anything Model (SAM) 3.1](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-241.md#-metas-segment-anything-model-sam-31) | Computer Vision and AI Applications |
-| 2026-09-18 | [Halloween Games - Bamboo Grove](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-236.md#-halloween-games---bamboo-grove) | AR VR Professionals and Community |
-| 2026-09-18 | [Meta's Muse: A Personal AI Agent](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-234.md#-metas-muse-a-personal-ai-agent) | The Exponential Future |
-| 2026-09-18 | [Security - HEIF Heist Investigation](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-216.md#-security---heif-heist-investigation) | Cybersecurity and Tech |
-| 2026-09-18 | [Long-Duration Batteries for AI Data Centers](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-216.md#-long-duration-batteries-for-ai-data-centers) | Quantum Computing |
-| 2026-09-18 | [Muse and Meta VR CLI](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-214.md#-muse-and-meta-vr-cli) | Spatial Computing |
-| 2026-09-17 | [AI Governance - Autonomous Agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-250.md#-ai-governance---autonomous-agents) | AI Education |
-| 2026-09-17 | [AI and Engineering Interviews](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-232.md#ai-and-engineering-interviews) | Crypto and Web3 |

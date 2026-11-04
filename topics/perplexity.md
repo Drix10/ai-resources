@@ -1,11 +1,13 @@
 # Perplexity
 
-Perplexity and Comet. The 100 newest of 115 briefings that mention it, from every category, newest first.
+Perplexity and Comet. The 100 newest of 117 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-03 | [Perplexity Computer automates e-commerce operations](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-301.md#-perplexity-computer-automates-e-commerce-operations) | Tech VIPs |
+| 2026-11-03 | [Perplexity Computer automates e-commerce ads, email, Shopify](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-270.md#-perplexity-computer-automates-e-commerce-ads-email-shopify) | AI for Content Creation and Marketing |
 | 2026-10-29 | [Parallel for Finance, 2x lower cost on FinSearchComp T3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-parallel-for-finance-2x-lower-cost-on-finsearchcomp-t3) | AI Developer Tools |
 | 2026-10-29 | [Perplexity vs ChatGPT: Pick by How They Fail](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-267.md#-perplexity-vs-chatgpt-pick-by-how-they-fail) | AI for Content Creation and Marketing |
 | 2026-10-18 | [Perplexity open-sourced SPACE AI agent security sandbox with test results](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-271.md#-perplexity-open-sourced-space-ai-agent-security-sandbox-with-test-results) | AI Education |
@@ -104,5 +106,3 @@ Perplexity and Comet. The 100 newest of 115 briefings that mention it, from ever
 |  | [AI Tutor API Platform - Free Access](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-032.md#-ai-tutor-api-platform---free-access) | AI Education |
 |  | [AI - Perplexity Sonar API Review](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-030.md#-ai---perplexity-sonar-api-review) | Cybersecurity and Tech |
 |  | [AI-Native Tools - Rapid Prototyping](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-029.md#-ai-native-tools---rapid-prototyping) | AI for Content Creation and Marketing |
-|  | [AI Tools - Perplexity AI Contest](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-027.md#-ai-tools---perplexity-ai-contest) | AI Education |
-|  | [Data Retrieval - Perplexity AI vs. OpenAI](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-020.md#-data-retrieval---perplexity-ai-vs-openai) | Founders and Entrepreneurs |

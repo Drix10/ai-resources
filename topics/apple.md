@@ -1,11 +1,17 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 652 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 658 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-04 | [Iris-3B Metal launches Mac app with 9.81 s 1024×1024 Turbo](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-262.md#-iris-3b-metal-launches-mac-app-with-981-s-10241024-turbo) | AI in Real Estate and Property Tech |
+| 2026-11-04 | [Apple Speech framework STT and on-device Phonon TTS in voice assistant UX](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-256.md#-apple-speech-framework-stt-and-on-device-phonon-tts-in-voice-assistant-ux) | Investors and Venture Capital |
+| 2026-11-03 | [Apple Create immersive media experiences for spatial computing November 11](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-264.md#-apple-create-immersive-media-experiences-for-spatial-computing-november-11) | AR VR Professionals and Community |
+| 2026-11-03 | [Apple best fiscal year ever with $114.5B revenue](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-244.md#-apple-best-fiscal-year-ever-with-1145b-revenue) | PR and Communications |
+| 2026-11-03 | [Can ad tech’s server-side shift save it from Apple and Google? – podcast announced](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-244.md#-can-ad-techs-server-side-shift-save-it-from-apple-and-google--podcast-announced) | PR and Communications |
+| 2026-11-03 | [Saber Academy° – visionOS 26.0 required app released](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-242.md#-saber-academy--visionos-260-required-app-released) | Spatial Computing |
 | 2026-11-02 | [Apple revenue up 16-17% and iPhone sales >20%](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-260.md#-apple-revenue-up-16-17-and-iphone-sales-20) | The Exponential Future |
 | 2026-11-02 | [Germany says iPhones may be hacked with spyware](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-243.md#-germany-says-iphones-may-be-hacked-with-spyware) | PR and Communications |
 | 2026-11-02 | [Apple Vision Pro app pre-installed on iPhones in Spain](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-241.md#-apple-vision-pro-app-pre-installed-on-iphones-in-spain) | Spatial Computing |
@@ -100,9 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 652 br
 | 2026-09-13 | [Bill Draper](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-260.md#-bill-draper) | VC Firms |
 | 2026-09-13 | [Disabling Apple Intelligence](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-256.md#-disabling-apple-intelligence) | AI Companies and Ventures |
 | 2026-09-13 | [AI - DGX Community Optimization](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-255.md#-ai---dgx-community-optimization) | AI Companies and Ventures |
-| 2026-09-12 | [Apple - Eavesdropping Feature](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-225.md#-apple---eavesdropping-feature) | Investors and Venture Capital |
-| 2026-09-12 | [Tech News - iPad Fold and MacBook Pro](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-210.md#-tech-news---ipad-fold-and-macbook-pro) | Spatial Computing |
-| 2026-09-11 | [Business - Steve Jobs](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-237.md#-business---steve-jobs) | AI Consulting and Expertise |
-| 2026-09-10 | [Apple Vision Pro - Fovii's New Platform](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-232.md#-apple-vision-pro---foviis-new-platform) | AR VR Companies and Development |
-| 2026-09-10 | [Tech Insights - Apple's iPhone Duo Pricing Strategy](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-228.md#-tech-insights---apples-iphone-duo-pricing-strategy) | AR VR Professionals and Community |
-| 2026-09-10 | [iPhone Duo Design Inspiration](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-208.md#-iphone-duo-design-inspiration) | Spatial Computing |

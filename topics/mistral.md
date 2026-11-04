@@ -1,11 +1,12 @@
 # Mistral AI
 
-Mistral AI and its models. All 55 briefings that mention it, from every category, newest first.
+Mistral AI and its models. All 56 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-03 | [Axolotl adds Mistral Large 4, QLoRA export to GGUF](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-261.md#-axolotl-adds-mistral-large-4-qlora-export-to-gguf) | AI in Real Estate and Property Tech |
 | 2026-10-29 | [zml/llmd 20261029.0 release with Mistral Large 4, GLM 5.2/5.3, LFM 3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-zmlllmd-202610290-release-with-mistral-large-4-glm-5253-lfm-3) | AI Developer Tools |
 | 2026-10-29 | [Mistral Large 4 ranks second on Coding Agent Index](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-298.md#-mistral-large-4-ranks-second-on-coding-agent-index) | Devs, Designers, DevRel |
 | 2026-10-29 | [Le Chonk weights released; ranks #1 on FrontierCode](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-291.md#-le-chonk-weights-released-ranks-1-on-frontiercode) | AI Leaders and Thinkers |

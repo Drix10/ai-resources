@@ -1,11 +1,17 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 801 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 807 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-04 | [Free Online AI Music Video Generator – fashion MV prompt launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-281.md#-free-online-ai-music-video-generator--fashion-mv-prompt-launch) | AI Holodeck and Virtual Worlds |
+| 2026-11-04 | [Daytona $100M annual run rate after $1M start](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-256.md#-daytona-100m-annual-run-rate-after-1m-start) | Investors and Venture Capital |
+| 2026-11-03 | [MiniMax-H3 converted to world-class image model](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-297.md#-minimax-h3-converted-to-world-class-image-model) | AI Leaders and Thinkers |
+| 2026-11-03 | [Pika H3 Flex faster video model with audio issues](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-281.md#-pika-h3-flex-faster-video-model-with-audio-issues) | AI Generated Music and Audio |
+| 2026-11-03 | [MiniMax P-H3-Image open-sourced, 5× faster 8 steps 4 MP](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-274.md#-minimax-p-h3-image-open-sourced-5-faster-8-steps-4-mp) | AI Artists and Creators |
+| 2026-11-03 | [daytonaio 37.5x growth to $100M run rate this year](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-255.md#-daytonaio-375x-growth-to-100m-run-rate-this-year) | Investors and Venture Capital |
 | 2026-11-02 | [Runway Dev plugin adds AI video, image, audio generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-279.md#-runway-dev-plugin-adds-ai-video-image-audio-generation) | AI Holodeck and Virtual Worlds |
 | 2026-11-02 | [Runway is now on Cursor – single-plugin integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-274.md#-runway-is-now-on-cursor--single-plugin-integration) | AI Powered Film and Media |
 | 2026-11-01 | [L3G-World memory grows with scene, 9 fps real-time](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-295.md#-l3g-world-memory-grows-with-scene-9-fps-real-time) | AI Leaders and Thinkers |
@@ -100,9 +106,3 @@ Models and tools that make video. The 100 newest of 801 briefings that mention i
 | 2026-04-23 | [Hera - AI Product Video Generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-178.md#-hera---ai-product-video-generation) | AI Holodeck and Virtual Worlds |
 | 2026-04-23 | [Vadoo AI - Kling 4K Video Mode](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-178.md#-vadoo-ai---kling-4k-video-mode) | AI Holodeck and Virtual Worlds |
 | 2026-04-23 | [AI Video Production - Storyboarding to Final Video](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-177.md#-ai-video-production---storyboarding-to-final-video) | AI Holodeck and Virtual Worlds |
-| 2026-04-22 | [World Model - Ultra Long Video Generation](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-168.md#-world-model---ultra-long-video-generation) | Computer Vision and AI Applications |
-| 2026-04-20 | [Video Generation - AI Recreation with Seedance 2](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-166.md#-video-generation---ai-recreation-with-seedance-2) | Decentralized AI |
-| 2026-04-17 | [Runway Seedance 2.0 - Character Replacement](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-182.md#-runway-seedance-20---character-replacement) | AI Artists and Creators |
-| 2026-04-17 | [AI Development - Jon Barron Departs OpenAI](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-166.md#-ai-development---jon-barron-departs-openai) | Computer Vision and AI Applications |
-| 2026-04-14 | [AI Video Generation - Seedance 2.0 Scene Evolution](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-171.md#-ai-video-generation---seedance-20-scene-evolution) | AI Holodeck and Virtual Worlds |
-| 2026-04-13 | [AI Video Creation - Efficient Ad Production with Runway](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-164.md#-ai-video-creation---efficient-ad-production-with-runway) | Computer Vision and AI Applications |
