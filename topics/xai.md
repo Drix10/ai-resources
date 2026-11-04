@@ -1,11 +1,12 @@
 # xAI
 
-xAI and Grok. The 100 newest of 629 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 630 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-04 | [Moby AI Trading desktop launch with plug-in AI](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-260.md#-moby-ai-trading-desktop-launch-with-plug-in-ai) | Decentralized AI |
 | 2026-11-02 | [Grok Bot live dashboard setup with single prompt](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-263.md#-grok-bot-live-dashboard-setup-with-single-prompt) | AR VR Professionals and Community |
 | 2026-11-02 | [GrokBot.Rocks 8679 new Grok Bots landed](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-260.md#-grokbotrocks-8679-new-grok-bots-landed) | The Exponential Future |
 | 2026-11-02 | [Grok Bot What's New – feature list with timestamps](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-236.md#-grok-bot-whats-new--feature-list-with-timestamps) | Tech Companies and News |
@@ -105,4 +106,3 @@ xAI and Grok. The 100 newest of 629 briefings that mention it, from every catego
 | 2026-07-08 | [AI Model Release - Grok 4.5 Overview](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-226.md#-ai-model-release---grok-45-overview) | Tech VIPs |
 | 2026-07-06 | [AI Architecture - Serving Large Models on GPUs](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-196.md#-ai-architecture---serving-large-models-on-gpus) | AR VR Professionals and Community |
 | 2026-06-28 | [AI Models - Grok v9 Performance and Development](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-221.md#-ai-models---grok-v9-performance-and-development) | Devs, Designers, DevRel |
-| 2026-06-26 | [General - AI Gratitude](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-204.md#-general---ai-gratitude) | AI in Healthcare and Science |

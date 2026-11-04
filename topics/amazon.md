@@ -1,11 +1,12 @@
 # Amazon & AWS
 
-Amazon, AWS, Bedrock and Alexa. The 100 newest of 389 briefings that mention it, from every category, newest first.
+Amazon, AWS, Bedrock and Alexa. The 100 newest of 390 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-03 | [Amazon Google Microsoft Meta CapEx Q3 $202B increase](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-261.md#-amazon-google-microsoft-meta-capex-q3-202b-increase) | The Exponential Future |
 | 2026-11-02 | [AI developer platforms key thefts, 9 incidents in Oct](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-271.md#-ai-developer-platforms-key-thefts-9-incidents-in-oct) | AI Consulting and Expertise |
 | 2026-11-02 | [Tradecraft Tuesday Huntress SOC Event Nov 10](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-238.md#-tradecraft-tuesday-huntress-soc-event-nov-10) | Cybersecurity and Tech |
 | 2026-11-01 | [SpaceX Anthropic inference costs premium, $820M other clouds](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-spacex-anthropic-inference-costs-premium-820m-other-clouds) | The Exponential Future |
@@ -105,4 +106,3 @@ Amazon, AWS, Bedrock and Alexa. The 100 newest of 389 briefings that mention it,
 | 2026-04-24 | [E-commerce Personalization - Effective Product Recommendations](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-164.md#-e-commerce-personalization---effective-product-recommendations) | Tech Companies and News |
 | 2026-04-21 | [AWS Networking - Route 53 Private Hosted Zones](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-180.md#-aws-networking---route-53-private-hosted-zones) | AI Consulting and Expertise |
 | 2026-04-21 | [E-commerce Practices - Amazon Price Manipulation Allegations](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-150.md#-e-commerce-practices---amazon-price-manipulation-allegations) | Tech Journalists and VIPs |
-| 2026-04-15 | [Media Criticism - Project Hail Mary Perception](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-161.md#-media-criticism---project-hail-mary-perception) | Investors and Venture Capital |

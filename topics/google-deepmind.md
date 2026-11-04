@@ -1,11 +1,14 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 940 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 943 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-04 | [Google hasn’t figured out how to make AI pay like its search engine](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-245.md#-google-hasnt-figured-out-how-to-make-ai-pay-like-its-search-engine) | PR and Communications |
+| 2026-11-03 | [Gemini 4 Carbon – #1 on Artificial Analysis Index, 59 score](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-291.md#-gemini-4-carbon--1-on-artificial-analysis-index-59-score) | AI Organizations and Media |
+| 2026-11-03 | [Gemini Argon used to build and edit video on vintage CRT TV](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-272.md#-gemini-argon-used-to-build-and-edit-video-on-vintage-crt-tv) | AI Consulting and Expertise |
 | 2026-11-02 | [suicide-memory-bench v01.1: 2,048 eval, 89.8% failure](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-236.md#-suicide-memory-bench-v011-2048-eval-898-failure) | Tech Companies and News |
 | 2026-10-31 | [Qwenputer Qwen3.5-4B with RISC-V CPU inside weights](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-272.md#-qwenputer-qwen35-4b-with-risc-v-cpu-inside-weights) | AI Professionals and Community |
 | 2026-10-30 | [Gemini 4 Carbon debuts at #1 on APEX-Agents with 90%+ mean](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-306.md#-gemini-4-carbon-debuts-at-1-on-apex-agents-with-90-mean) | CS Academics |
@@ -103,6 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-09-14 | [Deep Research Gemini Live](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-279.md#deep-research-gemini-live) | CS Academics |
 | 2026-09-14 | [AI Safety & Ethics - AGI Alignment Concerns](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-246.md#-ai-safety--ethics---agi-alignment-concerns) | AI Artists and Creators |
 | 2026-09-14 | [AI Research - Multimodal Generative Models](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-234.md#-ai-research---multimodal-generative-models) | Computer Vision and AI Applications |
-| 2026-09-14 | [Canlı Anı Yapay Zekâyla Canlandırıldı](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-211.md#-canlı-anı-yapay-zekâyla-canlandırıldı) | PR and Communications |
-| 2026-09-11 | [AI/ML - Rebuilt Fruit Fly](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-240.md#-aiml---rebuilt-fruit-fly) | AI Professionals and Community |
-| 2026-09-05 | [AI Systems - Antigravity Features](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-234.md#-ai-systems---antigravity-features) | AI in Real Estate and Property Tech |

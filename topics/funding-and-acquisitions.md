@@ -1,16 +1,35 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,168 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,187 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-04 | [Lumentum acquisition gains UHP lasers and InP capacity 2028](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-299.md#-lumentum-acquisition-gains-uhp-lasers-and-inp-capacity-2028) | VC Firms |
+| 2026-11-04 | [Fiddler AI - CrowdStrike acquisition](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-268.md#-fiddler-ai---crowdstrike-acquisition) | Founders and Entrepreneurs |
+| 2026-11-03 | [Palo Alto Networks $3.35B acquisition of Chronosphere](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-300.md#-palo-alto-networks-335b-acquisition-of-chronosphere) | Tech VIPs |
+| 2026-11-03 | [CrowdStrike acquire Dreadnode, leader in cybersecurity evaluations for frontier AI](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-298.md#-crowdstrike-acquire-dreadnode-leader-in-cybersecurity-evaluations-for-frontier-ai) | VC Firms |
+| 2026-11-03 | [Phare Labs smart smoke alarm launch in USA](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-298.md#-phare-labs-smart-smoke-alarm-launch-in-usa) | VC Firms |
+| 2026-11-03 | [Lume bySyncere raises $11M pre-seed funding round](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-298.md#-lume-bysyncere-raises-11m-pre-seed-funding-round) | VC Firms |
+| 2026-11-03 | [Traversal Series B $120M funding and AI SRE rollout](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-295.md#-traversal-series-b-120m-funding-and-ai-sre-rollout) | AI Companies and Ventures |
+| 2026-11-03 | [Spendrule seed round raises $4M from Radical and ZealVC](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-284.md#-spendrule-seed-round-raises-4m-from-radical-and-zealvc) | AI in Healthcare and Science |
+| 2026-11-03 | [Legora raises $550M; Kleros puts AI agent on trial](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-277.md#-legora-raises-550m-kleros-puts-ai-agent-on-trial) | AI Education |
+| 2026-11-03 | [National Defence Drone Headquarters creates drone unit](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-274.md#-national-defence-drone-headquarters-creates-drone-unit) | AI Driven Vehicles and Transportation |
+| 2026-11-03 | [Fiddler AI acquisition by CrowdStrike announced](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-267.md#-fiddler-ai-acquisition-by-crowdstrike-announced) | Founders and Entrepreneurs |
+| 2026-11-03 | [e2e company rename and $8M seed round announced](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-264.md#-e2e-company-rename-and-8m-seed-round-announced) | AR VR Professionals and Community |
+| 2026-11-03 | [Recon Weather fundraiser exceeds daily goal, raises $2,150](https://github.com/Drix10/ai-resources/blob/main/Climate%20and%20Weather%20Technology/resources-263.md#-recon-weather-fundraiser-exceeds-daily-goal-raises-2150) | Climate and Weather Technology |
+| 2026-11-03 | [traversal_ai raises $120M at $1B valuation now](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-261.md#-traversal_ai-raises-120m-at-1b-valuation-now) | The Exponential Future |
+| 2026-11-03 | [Salesforce Cresta acquisition reported for $2.7B](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-258.md#-salesforce-cresta-acquisition-reported-for-27b) | Interesting Finds |
+| 2026-11-03 | [Cresta acquisition $2.7B by Salesforce announced](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-258.md#-cresta-acquisition-27b-by-salesforce-announced) | Interesting Finds |
+| 2026-11-03 | [Specific Biologics advances gene-editing ALS therapy, raises $35M](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-244.md#-specific-biologics-advances-gene-editing-als-therapy-raises-35m) | Quantum Computing |
+| 2026-11-03 | [TesterArmy brand identity and $8M seed round](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-239.md#-testerarmy-brand-identity-and-8m-seed-round) | Tech Journalists and VIPs |
 | 2026-11-02 | [Applied Compute crosses $100M ARR, raises $350M](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-297.md#-applied-compute-crosses-100m-arr-raises-350m) | VC Firms |
 | 2026-11-02 | [Marvell acquire Lumentum definitive agreement](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-297.md#-marvell-acquire-lumentum-definitive-agreement) | VC Firms |
 | 2026-11-02 | [Tutor Intelligence raises $75M Series B, targets 1,000 robots by 2027](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-277.md#-tutor-intelligence-raises-75m-series-b-targets-1000-robots-by-2027) | AI and Robotics Applications |
 | 2026-11-02 | [Tutor Intelligence $75M Series B and AI interviews](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-266.md#-tutor-intelligence-75m-series-b-and-ai-interviews) | Founders and Entrepreneurs |
 | 2026-11-02 | [Elon Musk may acquire Boost Mobile, seeks new entry route](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-243.md#-elon-musk-may-acquire-boost-mobile-seeks-new-entry-route) | PR and Communications |
+| 2026-11-02 | [Company $15.75B raises Series D with Accel without a pitch deck](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-237.md#-company-1575b-raises-series-d-with-accel-without-a-pitch-deck) | Tech Companies and News |
 | 2026-10-31 | [GrokBot.Rocks directory launch with 8,230 public bots](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-259.md#-grokbotrocks-directory-launch-with-8230-public-bots) | The Exponential Future |
 | 2026-10-31 | [Binance replenishes 90% of assets withdrawals Nov 1](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-257.md#-binance-replenishes-90-of-assets-withdrawals-nov-1) | Crypto and Web3 |
 | 2026-10-29 | [Serval raises $150M Series C at $3B valuation, expands team 10x](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-serval-raises-150m-series-c-at-3b-valuation-expands-team-10x) | AI Developer Tools |
@@ -87,22 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,168 briefings that mention it, fro
 | 2026-09-28 | [Tech News - AMD Acquisition](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-249.md#-tech-news---amd-acquisition) | AR VR Professionals and Community |
 | 2026-09-28 | [Tech News - AI² and Acquisition Strategy](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-243.md#-tech-news---ai²-and-acquisition-strategy) | Investors and Venture Capital |
 | 2026-09-26 | [Tech News - Ethereum Supply Control](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-284.md#-tech-news---ethereum-supply-control) | Devs, Designers, DevRel |
-| 2026-09-26 | [Island - Browser and AI Platform](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-278.md#-island---browser-and-ai-platform) | VC Firms |
-| 2026-09-25 | [Robotics Funding - August 2026](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-256.md#-robotics-funding---august-2026) | AI and Robotics Applications |
-| 2026-09-24 | [AI - Verda Raises $189M in Oversubscribed Series B](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-280.md#-ai---verda-raises-189m-in-oversubscribed-series-b) | AI Developer Tools |
-| 2026-09-24 | [Funding - Evernorth's $45M Equity Raise](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-278.md#-funding---evernorths-45m-equity-raise) | Tech VIPs |
-| 2026-09-24 | [$6.2M Seed Round for Prototyping.io](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-222.md#-62m-seed-round-for-prototypingio) | Tech Journalists and VIPs |
-| 2026-09-24 | [Gusto's $1B+ Revenue: AI-Powered M&A](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-222.md#-gustos-1b-revenue-ai-powered-ma) | Tech Journalists and VIPs |
-| 2026-09-23 | [Financials - Acquisition and Revenue](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-246.md#-financials---acquisition-and-revenue) | AI in Real Estate and Property Tech |
-| 2026-09-23 | [Emilia AI](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-241.md#-emilia-ai) | Interesting Finds |
-| 2026-09-23 | [Elemind Acquisition](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-238.md#-elemind-acquisition) | Investors and Venture Capital |
-| 2026-09-23 | [Hubble Satellite Network](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-221.md#-hubble-satellite-network) | Tech Journalists and VIPs |
-| 2026-09-22 | [Verda Cloud](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-274.md#-verda-cloud) | VC Firms |
-| 2026-09-22 | [AI Engineering - Gatik AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-250.md#-ai-engineering---gatik-ai) | AI Driven Vehicles and Transportation |
-| 2026-09-22 | [Knowledge Library - Alexandria](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-220.md#-knowledge-library---alexandria) | Tech Journalists and VIPs |
-| 2026-09-22 | [Andreessen Academy - $42M Funding](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-220.md#-andreessen-academy---42m-funding) | Tech Journalists and VIPs |
-| 2026-09-22 | [Almost Every Founder Has to Survive Some Version of What Gabe Describes Here](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-219.md#-almost-every-founder-has-to-survive-some-version-of-what-gabe-describes-here) | Tech Companies and News |
-| 2026-09-21 | [Space Technology](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-272.md#-space-technology) | VC Firms |
-| 2026-09-21 | [AI Model Development](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-272.md#-ai-model-development) | VC Firms |
-| 2026-09-21 | [Autonomous Vehicles - Scaling Safety with AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-248.md#-autonomous-vehicles---scaling-safety-with-ai) | AI Driven Vehicles and Transportation |
-| 2026-09-21 | [Tech News - Weather Modification](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-235.md#-tech-news---weather-modification) | Investors and Venture Capital |

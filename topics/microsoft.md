@@ -1,11 +1,18 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 575 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 582 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-04 | [Microsoft AI Agent Management Platforms Leader in 2026 Gartner Magic Quadrant](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-276.md#-microsoft-ai-agent-management-platforms-leader-in-2026-gartner-magic-quadrant) | Tech Infrastructure |
+| 2026-11-04 | [Zernio API adds Google and Microsoft account support](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-271.md#-zernio-api-adds-google-and-microsoft-account-support) | AI for Content Creation and Marketing |
+| 2026-11-04 | [XRift Azure Nook released with water effects](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-xrift-azure-nook-released-with-water-effects) | AR VR Professionals and Community |
+| 2026-11-04 | [XRift Azure Nook released, smartphone compatible](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-xrift-azure-nook-released-smartphone-compatible) | AR VR Professionals and Community |
+| 2026-11-04 | [XRift Azure Nook seaside pool world released with smartphone water shader](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-xrift-azure-nook-seaside-pool-world-released-with-smartphone-water-shader) | AR VR Professionals and Community |
+| 2026-11-04 | [ARTEX testing round 2 with MDE on W11 and caching gateway](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-240.md#-artex-testing-round-2-with-mde-on-w11-and-caching-gateway) | Cybersecurity and Tech |
+| 2026-11-03 | [Amazon Google Microsoft Meta CapEx Q3 $202B increase](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-261.md#-amazon-google-microsoft-meta-capex-q3-202b-increase) | The Exponential Future |
 | 2026-11-02 | [Copilot UX components hosted in Microsoft 365 tenant](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-274.md#-copilot-ux-components-hosted-in-microsoft-365-tenant) | Tech Infrastructure |
 | 2026-11-02 | [GitHub app in Microsoft Teams now generally available](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-274.md#-github-app-in-microsoft-teams-now-generally-available) | Tech Infrastructure |
 | 2026-11-02 | [RRCfg Implant – DLL sideloading chain using signed sllauncher.exe](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-238.md#-rrcfg-implant--dll-sideloading-chain-using-signed-sllauncherexe) | Cybersecurity and Tech |
@@ -99,10 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 575 briefings
 | 2026-09-16 | [Session Host Configuration Bug](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-243.md#-session-host-configuration-bug) | Tech Infrastructure |
 | 2026-09-16 | [Technology - AI Safety](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-232.md#-technology---ai-safety) | The Exponential Future |
 | 2026-09-16 | [Security - Microsoft's Active Directory Monopoly](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-212.md#-security---microsofts-active-directory-monopoly) | Cybersecurity and Tech |
-| 2026-09-16 | [Security - Azure/Entra Meeting](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-212.md#-security---azureentra-meeting) | Cybersecurity and Tech |
-| 2026-09-16 | [AI - AI Rights and Feelings](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-212.md#-ai---ai-rights-and-feelings) | World News and Updates |
-| 2026-09-14 | [AI for Wildlife Conservation](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-234.md#-ai-for-wildlife-conservation) | Computer Vision and AI Applications |
-| 2026-09-14 | [Security - Forensic Analysis](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-210.md#-security---forensic-analysis) | Cybersecurity and Tech |
-| 2026-09-13 | [Debian 13 Image Comparison](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-245.md#-debian-13-image-comparison) | AI Powered Film and Media |
-| 2026-09-13 | [Enterprise AI - Governance Layer](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-244.md#-enterprise-ai---governance-layer) | AI Education |
-| 2026-09-13 | [Security - Living Off the Cloud: A Python Implant Hiding Its Entire C2 Inside Microsoft 365 & Azure](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-218.md#-security---living-off-the-cloud-a-python-implant-hiding-its-entire-c2-inside-microsoft-365--azure) | Cybersecurity and Tech |

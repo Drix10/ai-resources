@@ -1,20 +1,24 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 227 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 231 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-04 | [Qwen3.8-Flash-Next benchmarks 188 tps on code edits](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-296.md#-qwen38-flash-next-benchmarks-188-tps-on-code-edits) | AI Companies and Ventures |
+| 2026-11-03 | [Qwen3.5-0.8B weight edit improves math 6x](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-308.md#-qwen35-08b-weight-edit-improves-math-6x) | CS Academics |
+| 2026-11-03 | [GPT-6 Astra paper, Qwen 3.8 27B matches in 45 min](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-274.md#-gpt-6-astra-paper-qwen-38-27b-matches-in-45-min) | AI Professionals and Community |
+| 2026-11-03 | [Qwen3.5-0.8B Weight-Space Programming improves math 6×](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-267.md#-qwen35-08b-weight-space-programming-improves-math-6) | Computer Vision and AI Applications |
+| 2026-11-03 | [Qwen Image 2.1 textured an entire street in Blender](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-264.md#-qwen-image-21-textured-an-entire-street-in-blender) | AR VR Professionals and Community |
+| 2026-11-02 | [GPT-6 Astra edits Qwen3.5-0.8B weights, 0.016% change improves math 6x](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-308.md#-gpt-6-astra-edits-qwen35-08b-weights-0016-change-improves-math-6x) | CS Academics |
 | 2026-11-02 | [Weight-Space Programming: Astra edits Qwen3.5-0.8B, 6x math](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-296.md#-weight-space-programming-astra-edits-qwen35-08b-6x-math) | AI Leaders and Thinkers |
 | 2026-11-02 | [GPT-6 Astra edits Qwen3.5-0.8B weights, 0.016% change](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-296.md#-gpt-6-astra-edits-qwen35-08b-weights-0016-change) | AI Leaders and Thinkers |
 | 2026-11-02 | [Weight-Space Programming – edit Qwen3.5-0.8B weights, 0.016% change](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-296.md#-weight-space-programming--edit-qwen35-08b-weights-0016-change) | AI Leaders and Thinkers |
 | 2026-11-02 | [GPT-6 Astra edits Qwen3.5-0.8B weights, 0.016% change boosts math 6x](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-296.md#-gpt-6-astra-edits-qwen35-08b-weights-0016-change-boosts-math-6x) | AI Leaders and Thinkers |
-| 2026-11-02 | [Qwen3.5-0.8B weight edit improves math 6x](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-277.md#-qwen35-08b-weight-edit-improves-math-6x) | AI and Robotics Applications |
 | 2026-11-02 | [Qwen3.5-0.8B Weight-Space Programming improves math 6×, instruction following 3×](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-277.md#-qwen35-08b-weight-space-programming-improves-math-6-instruction-following-3) | AI and Robotics Applications |
 | 2026-11-02 | [Cross-Model KV Cache Transfer in LLM Families](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-273.md#-cross-model-kv-cache-transfer-in-llm-families) | AI Professionals and Community |
 | 2026-11-02 | [Qwen3.5-0.8B weight edit boosts math 6x, instruction 3x](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-271.md#-qwen35-08b-weight-edit-boosts-math-6x-instruction-3x) | AI Consulting and Expertise |
-| 2026-11-02 | [Qwen3.5-0.8B Weight-Space Programming improves math 6×](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-266.md#-qwen35-08b-weight-space-programming-improves-math-6) | Computer Vision and AI Applications |
 | 2026-11-02 | [GPT-6 Astra edits Qwen3.5-0.8B weights, improves math 6x](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-266.md#-gpt-6-astra-edits-qwen35-08b-weights-improves-math-6x) | Computer Vision and AI Applications |
 | 2026-11-02 | [Astra weight edit improves Qwen3.5-0.8B math 6x](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-266.md#-astra-weight-edit-improves-qwen35-08b-math-6x) | Computer Vision and AI Applications |
 | 2026-11-02 | [GPT-6 Astra edits Qwen3.5-0.8B weights, improves math 6×](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-266.md#-gpt-6-astra-edits-qwen35-08b-weights-improves-math-6) | Computer Vision and AI Applications |
@@ -102,7 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 227 briefings that mention i
 | 2026-05-11 | [Community Engagement - Alibaba Qwen Ambassador Program](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-183.md#-community-engagement---alibaba-qwen-ambassador-program) | Computer Vision and AI Applications |
 | 2026-05-07 | [AI Development - Local Game Creation](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-188.md#-ai-development---local-game-creation) | AI Leaders and Thinkers |
 | 2026-04-30 | [AI Models - Qwen-Scope Sparse Autoencoders](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-185.md#-ai-models---qwen-scope-sparse-autoencoders) | AI Professionals and Community |
-| 2026-04-26 | [LLM Optimization - Self-Configuration on Local Hardware](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-167.md#-llm-optimization---self-configuration-on-local-hardware) | Investors and Venture Capital |
-| 2026-04-22 | [AI Models - Qwen3.6-35B-A3B Trends](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-180.md#-ai-models---qwen36-35b-a3b-trends) | AI Developer Tools |
-| 2026-04-21 | [AI Model Training - Qwen 3.6 with Hermes](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-166.md#-ai-model-training---qwen-36-with-hermes) | Decentralized AI |
-| 2026-04-20 | [Large Language Models - Multi-GPU Deployment on NVIDIA RTX](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-166.md#-large-language-models---multi-gpu-deployment-on-nvidia-rtx) | Decentralized AI |
