@@ -1,11 +1,18 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 763 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 770 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [PyTorch MoE grouped execution reduces kernel launches](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-310.md#-pytorch-moe-grouped-execution-reduces-kernel-launches) | CS Academics |
+| 2026-11-05 | [Moonshot seeks Nvidia Blackwell access in Europe, 8,000+ GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-276.md#-moonshot-seeks-nvidia-blackwell-access-in-europe-8000-gpus) | AI Driven Vehicles and Transportation |
+| 2026-11-05 | [Meta Quest Link driver freeze fixed in NVIDIA v621.01](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-269.md#-meta-quest-link-driver-freeze-fixed-in-nvidia-v62101) | AR VR Companies and Development |
+| 2026-11-05 | [DGX Spark rack shows 8-node configuration with mixed vendors](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-266.md#-dgx-spark-rack-shows-8-node-configuration-with-mixed-vendors) | AR VR Professionals and Community |
+| 2026-11-05 | [Voice AI Benchmarks - Cekura Bench launched for STT/TTS](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-262.md#-voice-ai-benchmarks---cekura-bench-launched-for-stttts) | The Exponential Future |
+| 2026-11-05 | [MAG 7 ARE DOWN $800 BILLION so far today](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-261.md#-mag-7-are-down-800-billion-so-far-today) | Decentralized AI |
+| 2026-11-04 | [Ripple-65B Preview release new 65B dense LLM](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-310.md#-ripple-65b-preview-release-new-65b-dense-llm) | CS Academics |
 | 2026-11-03 | [J2.3 model upgrade and comparison to Nvidia FLORA](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-307.md#-j23-model-upgrade-and-comparison-to-nvidia-flora) | AI Developer Tools |
 | 2026-11-03 | [Revolut moves 2,000 engineers to self-hosted GLM, uses 56 Nvidia B200s](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-297.md#-revolut-moves-2000-engineers-to-self-hosted-glm-uses-56-nvidia-b200s) | AI Leaders and Thinkers |
 | 2026-11-03 | [Brooklyn AI-Native 6G Summit live AI-RAN demo](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-283.md#-brooklyn-ai-native-6g-summit-live-ai-ran-demo) | AI in Healthcare and Science |
@@ -99,10 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 763 briefin
 | 2026-09-18 | [NVIDIA - AI Ecosystem](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-253.md#-nvidia---ai-ecosystem) | AI in Healthcare and Science |
 | 2026-09-18 | [NScale IPO](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-248.md#-nscale-ipo) | Tech Infrastructure |
 | 2026-09-18 | [Self-Evolving Agent Harnesses](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-241.md#-self-evolving-agent-harnesses) | Computer Vision and AI Applications |
-| 2026-09-18 | [3D Reconstruction & Scene Authoring](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-239.md#-3d-reconstruction--scene-authoring) | AR VR Companies and Development |
-| 2026-09-18 | [Tech News - Nvidia AI Actress Glitch](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-230.md#-tech-news---nvidia-ai-actress-glitch) | Investors and Venture Capital |
-| 2026-09-17 | [AI Education - Donations and Robotics Kits](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-250.md#-ai-education---donations-and-robotics-kits) | AI Education |
-| 2026-09-17 | [AI Infrastructure - 30B Nemotron Model](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-244.md#-ai-infrastructure---30b-nemotron-model) | Tech Infrastructure |
-| 2026-09-17 | [AI Infrastructure - AgentWorks Hackathon](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-244.md#-ai-infrastructure---agentworks-hackathon) | Tech Infrastructure |
-| 2026-09-16 | [Business - Apple's Return to Server Market](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-265.md#-business---apples-return-to-server-market) | Tech VIPs |
-| 2026-09-16 | [Apple Eyes NVIDIA's NVLink Fusion](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-233.md#-apple-eyes-nvidias-nvlink-fusion) | AR VR Professionals and Community |

@@ -1,14 +1,18 @@
 # Anthropic
 
-Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,547 briefings that mention it, from every category, newest first.
+Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,551 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [Meta buys coding app, OpenAI buys Codex diffs team](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-299.md#-meta-buys-coding-app-openai-buys-codex-diffs-team) | AI Leaders and Thinkers |
+| 2026-11-05 | [Claude add four hit effects with timing and displacement](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-282.md#-claude-add-four-hit-effects-with-timing-and-displacement) | AI Holodeck and Virtual Worlds |
 | 2026-11-04 | [WebMCP vs Browser vs MCP performance for AI agents – 4x faster, 90% token reduction](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-298.md#-webmcp-vs-browser-vs-mcp-performance-for-ai-agents--4x-faster-90-token-reduction) | AI Leaders and Thinkers |
 | 2026-11-04 | [VideoMemBench released: 326 videos, 2,476 dialogue turns](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-292.md#-videomembench-released-326-videos-2476-dialogue-turns) | AI Organizations and Media |
 | 2026-11-04 | [Anthropic report: AI guidance sways experts, 6% vs 55% error](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-279.md#-anthropic-report-ai-guidance-sways-experts-6-vs-55-error) | AI and Robotics Applications |
+| 2026-11-04 | [Claude maps first 3D structure of bacterial vault particle](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-269.md#-claude-maps-first-3d-structure-of-bacterial-vault-particle) | AR VR Companies and Development |
+| 2026-11-04 | [You don't need long context – compaction cuts context to 8K tokens](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-269.md#-you-dont-need-long-context--compaction-cuts-context-to-8k-tokens) | Computer Vision and AI Applications |
 | 2026-11-04 | [LLM weight editing paper audit, Claude Code plugins, training toggles](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-240.md#-llm-weight-editing-paper-audit-claude-code-plugins-training-toggles) | Tech Journalists and VIPs |
 | 2026-11-03 | [Anthropic zk proofs for AI inference uses rollup style](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-300.md#-anthropic-zk-proofs-for-ai-inference-uses-rollup-style) | Devs, Designers, DevRel |
 | 2026-11-03 | [Anthropic shipping zk proofs for AI inference, uses H100](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-300.md#-anthropic-shipping-zk-proofs-for-ai-inference-uses-h100) | Devs, Designers, DevRel |
@@ -102,7 +106,3 @@ Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,547 b
 | 2026-10-25 | [Claude Code and Codex follow outdated docs, 79/80 conflict notices](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-237.md#-claude-code-and-codex-follow-outdated-docs-7980-conflict-notices) | Spatial Computing |
 | 2026-10-24 | [Firecrawl Government & Legal Index launch adds 30M+ government pages](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-272.md#-firecrawl-government--legal-index-launch-adds-30m-government-pages) | AI Education |
 | 2026-10-19 | [Claude creates kinetic typography HUD from 30-sec clip](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-269.md#-claude-creates-kinetic-typography-hud-from-30-sec-clip) | AI Artists and Creators |
-| 2026-10-19 | [Anthropic Public Benefit Fund – 5% share donation](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-260.md#-anthropic-public-benefit-fund--5-share-donation) | Computer Vision and AI Applications |
-| 2026-10-19 | [Anthropic Public Benefit Fund shares commitment announcement](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-260.md#-anthropic-public-benefit-fund-shares-commitment-announcement) | Computer Vision and AI Applications |
-| 2026-10-19 | [Roam AI cuts selected Claude and GPT model prices by 90%](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-253.md#-roam-ai-cuts-selected-claude-and-gpt-model-prices-by-90) | Decentralized AI |
-| 2026-10-19 | [Anthropic Public Benefit Fund commits 5% of shares](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-253.md#-anthropic-public-benefit-fund-commits-5-of-shares) | Decentralized AI |

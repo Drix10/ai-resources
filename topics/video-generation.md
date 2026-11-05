@@ -1,11 +1,13 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 807 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 809 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [SoundBoost Music Video Generator adds auto retakes for lip sync](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-282.md#-soundboost-music-video-generator-adds-auto-retakes-for-lip-sync) | AI Generated Music and Audio |
+| 2026-11-05 | [Gemini Omni 1.2 Flash adds 15-second video, $0.07/s](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-269.md#-gemini-omni-12-flash-adds-15-second-video-007s) | Computer Vision and AI Applications |
 | 2026-11-04 | [Free Online AI Music Video Generator – fashion MV prompt launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-281.md#-free-online-ai-music-video-generator--fashion-mv-prompt-launch) | AI Holodeck and Virtual Worlds |
 | 2026-11-04 | [Daytona $100M annual run rate after $1M start](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-256.md#-daytona-100m-annual-run-rate-after-1m-start) | Investors and Venture Capital |
 | 2026-11-03 | [MiniMax-H3 converted to world-class image model](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-297.md#-minimax-h3-converted-to-world-class-image-model) | AI Leaders and Thinkers |
@@ -104,5 +106,3 @@ Models and tools that make video. The 100 newest of 807 briefings that mention i
 | 2026-04-25 | [AI Features - Grok Imagine Lip Sync](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-153.md#-ai-features---grok-imagine-lip-sync) | Tech Companies and News |
 | 2026-04-24 | [AI Video Generation - Cursor and Scenario](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-178.md#-ai-video-generation---cursor-and-scenario) | AI Holodeck and Virtual Worlds |
 | 2026-04-23 | [Hera - AI Product Video Generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-178.md#-hera---ai-product-video-generation) | AI Holodeck and Virtual Worlds |
-| 2026-04-23 | [Vadoo AI - Kling 4K Video Mode](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-178.md#-vadoo-ai---kling-4k-video-mode) | AI Holodeck and Virtual Worlds |
-| 2026-04-23 | [AI Video Production - Storyboarding to Final Video](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-177.md#-ai-video-production---storyboarding-to-final-video) | AI Holodeck and Virtual Worlds |

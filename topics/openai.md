@@ -1,11 +1,22 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,231 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,242 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [Meta buys coding app, OpenAI buys Codex diffs team](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-299.md#-meta-buys-coding-app-openai-buys-codex-diffs-team) | AI Leaders and Thinkers |
+| 2026-11-05 | [OpenAI AI Model Discovers 948 Linux Kernel Vulnerabilities](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-280.md#-openai-ai-model-discovers-948-linux-kernel-vulnerabilities) | AI and Robotics Applications |
+| 2026-11-05 | [GPT-6 Astra misalignment monitoring turned off in user case](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-276.md#-gpt-6-astra-misalignment-monitoring-turned-off-in-user-case) | AI Professionals and Community |
+| 2026-11-05 | [GPT Image 2.6 live on Creatify with GIF generation](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-272.md#-gpt-image-26-live-on-creatify-with-gif-generation) | AI for Content Creation and Marketing |
+| 2026-11-05 | [Codex voice reduces tool latency by streaming to harness](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-269.md#-codex-voice-reduces-tool-latency-by-streaming-to-harness) | AR VR Companies and Development |
+| 2026-11-05 | [GPT-6 Cyber launch scores 48.5% on ExploitGym](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-267.md#-gpt-6-cyber-launch-scores-485-on-exploitgym) | AI in Enterprise Applications |
+| 2026-11-05 | [GPT-6 Cyber announced, available to select Daybreak Red customers](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-267.md#-gpt-6-cyber-announced-available-to-select-daybreak-red-customers) | AI in Enterprise Applications |
+| 2026-11-05 | [Artisan – multi-agent pipeline for articulated 3D assets, $15 budget per case](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-263.md#-artisan--multi-agent-pipeline-for-articulated-3d-assets-15-budget-per-case) | AI in Real Estate and Property Tech |
+| 2026-11-05 | [Voice AI Benchmarks - Cekura Bench launched for STT/TTS](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-262.md#-voice-ai-benchmarks---cekura-bench-launched-for-stttts) | The Exponential Future |
+| 2026-11-05 | [GPT-6 Cyber announced, powers Linux kernel research](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-260.md#-gpt-6-cyber-announced-powers-linux-kernel-research) | Crypto and Web3 |
+| 2026-11-05 | [ChatGPT Search 20% of Google Search announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-239.md#-chatgpt-search-20-of-google-search-announced) | Tech Companies and News |
 | 2026-11-04 | [Soundverse adds ChatGPT integration via custom MCP server](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-281.md#-soundverse-adds-chatgpt-integration-via-custom-mcp-server) | AI Generated Music and Audio |
 | 2026-11-03 | [FlashAttention – Fast and Memory-Efficient Exact Attention with IO-Awareness](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-309.md#-flashattention--fast-and-memory-efficient-exact-attention-with-io-awareness) | CS Academics |
 | 2026-11-03 | [OpenAI sprint with Cathedral Systems, $172k bounty](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-308.md#-openai-sprint-with-cathedral-systems-172k-bounty) | CS Academics |
@@ -95,14 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,231 briefings t
 | 2026-10-15 | [Dropbox for AI memory live on Virtuals Protocol launch](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-251.md#-dropbox-for-ai-memory-live-on-virtuals-protocol-launch) | Decentralized AI |
 | 2026-10-15 | [AI Leaders Gaming Post-Disaster Scenarios, Hundreds of Billions Damage](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-236.md#-ai-leaders-gaming-post-disaster-scenarios-hundreds-of-billions-damage) | PR and Communications |
 | 2026-10-14 | [ESMO 2026 AI-native KOL insights collection 373 posts 185 accounts](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-274.md#-esmo-2026-ai-native-kol-insights-collection-373-posts-185-accounts) | AI in Healthcare and Science |
-| 2026-10-14 | [GPT-6 Astra and SOL 6.1 Ultrafast now available](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-269.md#-gpt-6-astra-and-sol-61-ultrafast-now-available) | AI Education |
-| 2026-10-14 | [Circleboom AI search visits and revenue 1.6%](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-261.md#-circleboom-ai-search-visits-and-revenue-16) | AI for Content Creation and Marketing |
-| 2026-10-14 | [Astra and Opus theoretical physics scores reported](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-235.md#-astra-and-opus-theoretical-physics-scores-reported) | Quantum Computing |
-| 2026-10-14 | [OpenAI Find Fix Verify released to everyone](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-231.md#-openai-find-fix-verify-released-to-everyone) | Tech Journalists and VIPs |
-| 2026-10-13 | [InstructMesh tool enables editing and 3D printing of AI-generated models](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-283.md#-instructmesh-tool-enables-editing-and-3d-printing-of-ai-generated-models) | AI Organizations and Media |
-| 2026-10-12 | [Cybersecurity vendors citation stats – 73% zero ChatGPT mentions](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-260.md#-cybersecurity-vendors-citation-stats--73-zero-chatgpt-mentions) | AI for Content Creation and Marketing |
-| 2026-10-10 | [AI Writing Classifier Detects AI Text 98% of the Time](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-235.md#-ai-writing-classifier-detects-ai-text-98-of-the-time) | PR and Communications |
-| 2026-10-10 | [OpenAI to test visual ads in ChatGPT image generation](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-234.md#-openai-to-test-visual-ads-in-chatgpt-image-generation) | PR and Communications |
-| 2026-10-09 | [Claude Code and Codex API evaluation reveals leaders](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-294.md#-claude-code-and-codex-api-evaluation-reveals-leaders) | Devs, Designers, DevRel |
-| 2026-10-09 | [OpenAI IPO valuation odds drop to 58%](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-234.md#-openai-ipo-valuation-odds-drop-to-58) | Quantum Computing |
-| 2026-10-09 | [OpenAI releases ~400 AI-generated mathematical results](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-233.md#-openai-releases-400-ai-generated-mathematical-results) | PR and Communications |

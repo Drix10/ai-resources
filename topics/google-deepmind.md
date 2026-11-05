@@ -1,11 +1,14 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 943 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 946 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [Google $40 free API credits per month for Gemini](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-293.md#-google-40-free-api-credits-per-month-for-gemini) | AI Organizations and Media |
+| 2026-11-05 | [Gemini Omni 1.2 Flash adds 15-second video, $0.07/s](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-269.md#-gemini-omni-12-flash-adds-15-second-video-007s) | Computer Vision and AI Applications |
+| 2026-11-05 | [TurboFieldfare runs Gemma 4 26B on 8GB Mac with ~2GB RAM](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-263.md#-turbofieldfare-runs-gemma-4-26b-on-8gb-mac-with-2gb-ram) | AI in Real Estate and Property Tech |
 | 2026-11-04 | [Google hasn’t figured out how to make AI pay like its search engine](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-245.md#-google-hasnt-figured-out-how-to-make-ai-pay-like-its-search-engine) | PR and Communications |
 | 2026-11-03 | [Gemini 4 Carbon – #1 on Artificial Analysis Index, 59 score](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-291.md#-gemini-4-carbon--1-on-artificial-analysis-index-59-score) | AI Organizations and Media |
 | 2026-11-03 | [Gemini Argon used to build and edit video on vintage CRT TV](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-272.md#-gemini-argon-used-to-build-and-edit-video-on-vintage-crt-tv) | AI Consulting and Expertise |
@@ -103,6 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-09-16 | [AI - DeepMind's Alpha-Fold and Open-Source Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-241.md#-ai---deepminds-alpha-fold-and-open-source-model) | AI Driven Vehicles and Transportation |
 | 2026-09-16 | [Integrating Meeting Context with Gemini](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-238.md#-integrating-meeting-context-with-gemini) | AI for Content Creation and Marketing |
 | 2026-09-15 | [AI News - Google Gemini 3.8 Live](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-280.md#-ai-news---google-gemini-38-live) | CS Academics |
-| 2026-09-14 | [Deep Research Gemini Live](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-279.md#deep-research-gemini-live) | CS Academics |
-| 2026-09-14 | [AI Safety & Ethics - AGI Alignment Concerns](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-246.md#-ai-safety--ethics---agi-alignment-concerns) | AI Artists and Creators |
-| 2026-09-14 | [AI Research - Multimodal Generative Models](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-234.md#-ai-research---multimodal-generative-models) | Computer Vision and AI Applications |

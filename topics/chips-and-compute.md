@@ -1,11 +1,20 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,038 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,047 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [VFlash delivers 12x faster decoding, 5.1x robot speedup](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-302.md#-vflash-delivers-12x-faster-decoding-51x-robot-speedup) | Tech VIPs |
+| 2026-11-05 | [Lightning AI CEO steps down, $2.5B merger, 25k H200 fleet launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-299.md#-lightning-ai-ceo-steps-down-25b-merger-25k-h200-fleet-launch) | AI Leaders and Thinkers |
+| 2026-11-05 | [XGBoost-metal on M5 Pro Mac mini speeds training 2.56x](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-299.md#-xgboost-metal-on-m5-pro-mac-mini-speeds-training-256x) | AI Leaders and Thinkers |
+| 2026-11-05 | [SF Compute makes GPU hour loan collateral](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-297.md#-sf-compute-makes-gpu-hour-loan-collateral) | AI Companies and Ventures |
+| 2026-11-05 | [Moonshot seeks Nvidia Blackwell access in Europe, 8,000+ GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-276.md#-moonshot-seeks-nvidia-blackwell-access-in-europe-8000-gpus) | AI Driven Vehicles and Transportation |
+| 2026-11-05 | [Aeva expands Optical Connectivity product portfolio](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-269.md#-aeva-expands-optical-connectivity-product-portfolio) | Computer Vision and AI Applications |
+| 2026-11-05 | [Qubic science team releases 155,192 evolved AI brains](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-261.md#-qubic-science-team-releases-155192-evolved-ai-brains) | Decentralized AI |
+| 2026-11-05 | [Oak Ridge, IBM and AMD launch co-design platform with 120-qubit Nighthawk](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-246.md#-oak-ridge-ibm-and-amd-launch-co-design-platform-with-120-qubit-nighthawk) | Quantum Computing |
+| 2026-11-05 | [Umbra co-design platform launch with IBM and ORNL](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-246.md#-umbra-co-design-platform-launch-with-ibm-and-ornl) | Quantum Computing |
 | 2026-11-04 | [Aethir prices GPU compute per use](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-276.md#-aethir-prices-gpu-compute-per-use) | Tech Infrastructure |
 | 2026-11-04 | [Ukraine and Russia trade hundreds of drones overnight](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-233.md#-ukraine-and-russia-trade-hundreds-of-drones-overnight) | World News and Updates |
 | 2026-11-03 | [Krea 3 diffusion transformer 6.9× faster on AMD Instinct MI355X](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-300.md#-krea-3-diffusion-transformer-69-faster-on-amd-instinct-mi355x) | Devs, Designers, DevRel |
@@ -97,12 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,038 briefings tha
 | 2026-09-30 | [Technology - Chip Location Verification](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-262.md#-technology---chip-location-verification) | AI Policy and Ethical Considerations |
 | 2026-09-30 | [AI Systems - AI Factories and Data Centers](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-261.md#-ai-systems---ai-factories-and-data-centers) | AI Professionals and Community |
 | 2026-09-30 | [Compute - GPU Availability Outside the US](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-247.md#-compute---gpu-availability-outside-the-us) | Crypto and Web3 |
-| 2026-09-30 | [Weather Forecasting with GPUs](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-226.md#-weather-forecasting-with-gpus) | Tech Companies and News |
-| 2026-09-28 | [Tech Insights - Lunch Money Games and Unity](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-295.md#-tech-insights---lunch-money-games-and-unity) | CS Academics |
-| 2026-09-28 | [Data Centers and Electricity Costs - Data Center Energy Efficiency](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-261.md#-data-centers-and-electricity-costs---data-center-energy-efficiency) | AI Policy and Ethical Considerations |
-| 2026-09-28 | [AI in GPU Vendor Linux Driver Code Bases](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-259.md#-ai-in-gpu-vendor-linux-driver-code-bases) | AI Professionals and Community |
-| 2026-09-28 | [US-China AI Competition](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-259.md#-us-china-ai-competition) | AI Professionals and Community |
-| 2026-09-28 | [Cross-Platform GPU Acceleration](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-251.md#-cross-platform-gpu-acceleration) | Computer Vision and AI Applications |
-| 2026-09-27 | [Finance - Blue-Collar AI Job Market](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-279.md#-finance---blue-collar-ai-job-market) | VC Firms |
-| 2026-09-27 | [AI in Medicine - OpenScience Harness](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-264.md#-ai-in-medicine---openscience-harness) | AI in Healthcare and Science |
-| 2026-09-27 | [Pessimism in Basic Research](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-250.md#-pessimism-in-basic-research) | Computer Vision and AI Applications |

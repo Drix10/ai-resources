@@ -1,11 +1,13 @@
 # xAI
 
-xAI and Grok. The 100 newest of 630 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 632 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [Grok Imagine song creation and Grok Bot video 2:58](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-275.md#-grok-imagine-song-creation-and-grok-bot-video-258) | AI Artists and Creators |
+| 2026-11-05 | [Grok Bot degraded performance Nov 4, resolved](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-260.md#-grok-bot-degraded-performance-nov-4-resolved) | Crypto and Web3 |
 | 2026-11-04 | [Moby AI Trading desktop launch with plug-in AI](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-260.md#-moby-ai-trading-desktop-launch-with-plug-in-ai) | Decentralized AI |
 | 2026-11-02 | [Grok Bot live dashboard setup with single prompt](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-263.md#-grok-bot-live-dashboard-setup-with-single-prompt) | AR VR Professionals and Community |
 | 2026-11-02 | [GrokBot.Rocks 8679 new Grok Bots landed](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-260.md#-grokbotrocks-8679-new-grok-bots-landed) | The Exponential Future |
@@ -104,5 +106,3 @@ xAI and Grok. The 100 newest of 630 briefings that mention it, from every catego
 | 2026-07-08 | [AI Model - Grok 4.5 Development](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-229.md#-ai-model---grok-45-development) | Devs, Designers, DevRel |
 | 2026-07-08 | [AI Model Capability - Grok's Legal Reasoning](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-226.md#-ai-model-capability---groks-legal-reasoning) | Tech VIPs |
 | 2026-07-08 | [AI Model Release - Grok 4.5 Overview](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-226.md#-ai-model-release---grok-45-overview) | Tech VIPs |
-| 2026-07-06 | [AI Architecture - Serving Large Models on GPUs](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-196.md#-ai-architecture---serving-large-models-on-gpus) | AR VR Professionals and Community |
-| 2026-06-28 | [AI Models - Grok v9 Performance and Development](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-221.md#-ai-models---grok-v9-performance-and-development) | Devs, Designers, DevRel |
