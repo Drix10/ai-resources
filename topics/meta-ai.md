@@ -1,11 +1,16 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 611 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 616 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [Llama adds d1-Omni multimodal and d3-flash support](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-310.md#-llama-adds-d1-omni-multimodal-and-d3-flash-support) | CS Academics |
+| 2026-11-05 | [Meta buys coding app, OpenAI buys Codex diffs team](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-299.md#-meta-buys-coding-app-openai-buys-codex-diffs-team) | AI Leaders and Thinkers |
+| 2026-11-05 | [Meta Quest Link driver freeze fixed in NVIDIA v621.01](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-269.md#-meta-quest-link-driver-freeze-fixed-in-nvidia-v62101) | AR VR Companies and Development |
+| 2026-11-05 | [MAG 7 ARE DOWN $800 BILLION so far today](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-261.md#-mag-7-are-down-800-billion-so-far-today) | Decentralized AI |
+| 2026-11-05 | [Cubiques now free on Meta Store with 70 puzzles](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-243.md#-cubiques-now-free-on-meta-store-with-70-puzzles) | Spatial Computing |
 | 2026-11-04 | [Meta VR Glasses hackathon announced for Unite Tokyo 2026](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-meta-vr-glasses-hackathon-announced-for-unite-tokyo-2026) | AR VR Professionals and Community |
 | 2026-11-04 | [RogueGods library open, release Dec 3 on Meta Quest](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-roguegods-library-open-release-dec-3-on-meta-quest) | AR VR Professionals and Community |
 | 2026-11-03 | [Perplexity Computer automates e-commerce operations](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-301.md#-perplexity-computer-automates-e-commerce-operations) | Tech VIPs |
@@ -101,8 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 611 brie
 | 2026-09-20 | [Meta's Muse: AI-Powered Data Analysis](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-263.md#-metas-muse-ai-powered-data-analysis) | AI Organizations and Media |
 | 2026-09-20 | [Meta’s Muse Turns Data into AI Gold, Nudging for Bank Emails and Passports](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-254.md#-metas-muse-turns-data-into-ai-gold-nudging-for-bank-emails-and-passports) | AI Powered Film and Media |
 | 2026-09-19 | [AI Infrastructure - Meta's Muse Product](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-269.md#-ai-infrastructure---metas-muse-product) | VC Firms |
-| 2026-09-19 | [AI Audio Processing - Muse and Audioscrape](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-264.md#-ai-audio-processing---muse-and-audioscrape) | AI Leaders and Thinkers |
-| 2026-09-19 | [AI Finance - Muse Unlocking Revenue](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-261.md#-ai-finance---muse-unlocking-revenue) | AI Organizations and Media |
-| 2026-09-19 | [WhatsApp API - Agent Integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-249.md#-whatsapp-api---agent-integration) | AI Professionals and Community |
-| 2026-09-19 | [Tech News - AI-Powered Payments](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-217.md#-tech-news---ai-powered-payments) | Tech Journalists and VIPs |
-| 2026-09-18 | [Career Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-262.md#-career-update) | AI Organizations and Media |

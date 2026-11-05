@@ -1,9 +1,13 @@
 # AI release timeline
 
-Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 163, each linked to its briefing.
+Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 167, each linked to its briefing.
 
 ## November 2026
 
+- **Nov 5** · [HyperBEAM v0.11 releases fixes and speed improvements](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-309.md#-hyperbeam-v011-releases-fixes-and-speed-improvements) <sub>AI Developer Tools</sub>
+- **Nov 5** · [Perplexity Teammates launch personal agents for work](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-276.md#-perplexity-teammates-launch-personal-agents-for-work) <sub>AI Professionals and Community</sub>
+- **Nov 5** · [GPT-6 Cyber launch scores 48.5% on ExploitGym](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-267.md#-gpt-6-cyber-launch-scores-485-on-exploitgym) <sub>AI in Enterprise Applications</sub>
+- **Nov 4** · [GPT Image 2.6 now available on fal – new features listed](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-300.md#-gpt-image-26-now-available-on-fal--new-features-listed) <sub>VC Firms</sub>
 - **Nov 4** · [Roger 1.0 humanoid unveiled, oil & gas pilots fall, ops 2027](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-279.md#-roger-10-humanoid-unveiled-oil--gas-pilots-fall-ops-2027) <sub>AI and Robotics Applications</sub>
 - **Nov 4** · [XRift Azure Nook released with water effects](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-xrift-azure-nook-released-with-water-effects) <sub>AR VR Professionals and Community</sub>
 - **Nov 4** · [XRift Azure Nook released, smartphone compatible](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-265.md#-xrift-azure-nook-released-smartphone-compatible) <sub>AR VR Professionals and Community</sub>

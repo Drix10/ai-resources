@@ -1,11 +1,15 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 307 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 311 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [VerneRobotics V0.5 released, leads LIBERO benchmark](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-280.md#-vernerobotics-v05-released-leads-libero-benchmark) | AI and Robotics Applications |
+| 2026-11-04 | [Ripple-65B Preview release new 65B dense LLM](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-310.md#-ripple-65b-preview-release-new-65b-dense-llm) | CS Academics |
+| 2026-11-04 | [Verda Inference preview offers day-0 Kimi K3.1 Pro access](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-282.md#-verda-inference-preview-offers-day-0-kimi-k31-pro-access) | AI Generated Music and Audio |
+| 2026-11-04 | [You don't need long context – compaction cuts context to 8K tokens](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-269.md#-you-dont-need-long-context--compaction-cuts-context-to-8k-tokens) | Computer Vision and AI Applications |
 | 2026-11-03 | [P-H3-Image open-source release 5× faster 8-step image gen](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-297.md#-p-h3-image-open-source-release-5-faster-8-step-image-gen) | AI Leaders and Thinkers |
 | 2026-11-03 | [SuperNinja Enterprise – Ninja agent runs on multiple models, model swapping is a setting](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-265.md#-superninja-enterprise--ninja-agent-runs-on-multiple-models-model-swapping-is-a-setting) | AI in Enterprise Applications |
 | 2026-11-03 | [LiteLLM Proxy - check fallback routes to avoid hidden](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-239.md#-litellm-proxy---check-fallback-routes-to-avoid-hidden) | Cybersecurity and Tech |
@@ -102,7 +106,3 @@ Models whose weights anyone can download. The 100 newest of 307 briefings that m
 | 2026-04-28 | [AI Models - Kimi K2.6 Benchmark Results](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-186.md#-ai-models---kimi-k26-benchmark-results) | AI Developer Tools |
 | 2026-04-28 | [AI Models - Kimi K2.6 Coding Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-186.md#-ai-models---kimi-k26-coding-performance) | AI Developer Tools |
 | 2026-04-26 | [AI in 3D Modeling - Image to 3D Asset Generation](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-169.md#-ai-in-3d-modeling---image-to-3d-asset-generation) | Tech Infrastructure |
-| 2026-04-26 | [AI Policy - Open Source Model Development](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-167.md#-ai-policy---open-source-model-development) | Investors and Venture Capital |
-| 2026-04-24 | [MOSS-Audio - Unified Open-Source Audio Understanding](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-175.md#-moss-audio---unified-open-source-audio-understanding) | AI and Robotics Applications |
-| 2026-04-21 | [AI Models - Kimi 2.6 Benchmark Performance](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-165.md#-ai-models---kimi-26-benchmark-performance) | The Exponential Future |
-| 2026-04-20 | [AI Security - Open Source Advantage](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-167.md#-ai-security---open-source-advantage) | Computer Vision and AI Applications |

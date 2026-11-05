@@ -1,11 +1,13 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 658 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 660 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [MAG 7 ARE DOWN $800 BILLION so far today](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-261.md#-mag-7-are-down-800-billion-so-far-today) | Decentralized AI |
+| 2026-11-04 | [JITEngine custom Apple Silicon engine up to 2.7× faster](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-310.md#-jitengine-custom-apple-silicon-engine-up-to-27-faster) | CS Academics |
 | 2026-11-04 | [Iris-3B Metal launches Mac app with 9.81 s 1024×1024 Turbo](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-262.md#-iris-3b-metal-launches-mac-app-with-981-s-10241024-turbo) | AI in Real Estate and Property Tech |
 | 2026-11-04 | [Apple Speech framework STT and on-device Phonon TTS in voice assistant UX](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-256.md#-apple-speech-framework-stt-and-on-device-phonon-tts-in-voice-assistant-ux) | Investors and Venture Capital |
 | 2026-11-03 | [Apple Create immersive media experiences for spatial computing November 11](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-264.md#-apple-create-immersive-media-experiences-for-spatial-computing-november-11) | AR VR Professionals and Community |
@@ -104,5 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 658 br
 | 2026-09-14 | [Tech News - iPhone Duo Development](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-210.md#-tech-news---iphone-duo-development) | Spatial Computing |
 | 2026-09-14 | [Tech News - iPhone Duo Group Lab Sessions](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-210.md#-tech-news---iphone-duo-group-lab-sessions) | Spatial Computing |
 | 2026-09-13 | [Bill Draper](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-260.md#-bill-draper) | VC Firms |
-| 2026-09-13 | [Disabling Apple Intelligence](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-256.md#-disabling-apple-intelligence) | AI Companies and Ventures |
-| 2026-09-13 | [AI - DGX Community Optimization](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-255.md#-ai---dgx-community-optimization) | AI Companies and Ventures |

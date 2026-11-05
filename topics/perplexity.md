@@ -1,11 +1,12 @@
 # Perplexity
 
-Perplexity and Comet. The 100 newest of 117 briefings that mention it, from every category, newest first.
+Perplexity and Comet. The 100 newest of 118 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [Perplexity Teammates launch personal agents for work](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-276.md#-perplexity-teammates-launch-personal-agents-for-work) | AI Professionals and Community |
 | 2026-11-03 | [Perplexity Computer automates e-commerce operations](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-301.md#-perplexity-computer-automates-e-commerce-operations) | Tech VIPs |
 | 2026-11-03 | [Perplexity Computer automates e-commerce ads, email, Shopify](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-270.md#-perplexity-computer-automates-e-commerce-ads-email-shopify) | AI for Content Creation and Marketing |
 | 2026-10-29 | [Parallel for Finance, 2x lower cost on FinSearchComp T3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-parallel-for-finance-2x-lower-cost-on-finsearchcomp-t3) | AI Developer Tools |
@@ -105,4 +106,3 @@ Perplexity and Comet. The 100 newest of 117 briefings that mention it, from ever
 |  | [Geospatial AI - Existing Models](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-035.md#-geospatial-ai---existing-models) | Spatial Computing |
 |  | [AI Tutor API Platform - Free Access](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-032.md#-ai-tutor-api-platform---free-access) | AI Education |
 |  | [AI - Perplexity Sonar API Review](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-030.md#-ai---perplexity-sonar-api-review) | Cybersecurity and Tech |
-|  | [AI-Native Tools - Rapid Prototyping](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-029.md#-ai-native-tools---rapid-prototyping) | AI for Content Creation and Marketing |

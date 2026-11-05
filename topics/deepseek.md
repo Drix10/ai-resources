@@ -1,11 +1,13 @@
 # DeepSeek
 
-DeepSeek and its open models. The 100 newest of 241 briefings that mention it, from every category, newest first.
+DeepSeek and its open models. The 100 newest of 243 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [Relace AI partnership on Concentrate – live integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-309.md#-relace-ai-partnership-on-concentrate--live-integration) | AI Developer Tools |
+| 2026-11-05 | [DeepSeek v4.1 Flash 3D retro TV built in 3h20m for under $1](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-267.md#-deepseek-v41-flash-3d-retro-tv-built-in-3h20m-for-under-1) | AI in Enterprise Applications |
 | 2026-11-04 | [DeepSeek V4.1 Flash 1017 Abliterated – 1K+ tps, low token cost](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-308.md#-deepseek-v41-flash-1017-abliterated--1k-tps-low-token-cost) | AI Developer Tools |
 | 2026-11-04 | [OpenDesign Creator Mode open-sourced in OpenDesign](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-308.md#-opendesign-creator-mode-open-sourced-in-opendesign) | AI Developer Tools |
 | 2026-11-02 | [DeepSeek Harness Creator Mode announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-308.md#-deepseek-harness-creator-mode-announced) | AI Developer Tools |
@@ -104,5 +106,3 @@ DeepSeek and its open models. The 100 newest of 241 briefings that mention it, f
 |  | [AI Models - DeepSeek V4 Flash Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-239.md#-ai-models---deepseek-v4-flash-performance) | AI Developer Tools |
 |  | [DeepSeek V4-Flash - API Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-237.md#-deepseek-v4-flash---api-update) | AI Companies and Ventures |
 |  | [DeepSeek-V4-Flash-High - Frontend Code Arena Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-237.md#-deepseek-v4-flash-high---frontend-code-arena-performance) | AI Organizations and Media |
-|  | [DeepSeek V4 Flash - Model Update in Command Code](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-236.md#-deepseek-v4-flash---model-update-in-command-code) | AI Developer Tools |
-|  | [DeepSeek OCR - Document Processing Application](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-235.md#-deepseek-ocr---document-processing-application) | AI Leaders and Thinkers |

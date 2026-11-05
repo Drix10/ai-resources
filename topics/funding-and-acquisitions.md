@@ -1,11 +1,25 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,187 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,201 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-05 | [Zipline raises $1.5B, signs Walmart contract for 300 supercenters](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-302.md#-zipline-raises-15b-signs-walmart-contract-for-300-supercenters) | Tech VIPs |
+| 2026-11-05 | [Zipline raises $1.5b at $21.5b valuation](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-302.md#-zipline-raises-15b-at-215b-valuation) | Tech VIPs |
+| 2026-11-05 | [Tractian raises $130M Series D at $1.4B valuation](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-300.md#-tractian-raises-130m-series-d-at-14b-valuation) | VC Firms |
+| 2026-11-05 | [Siggy raises $6M pre-seed for AI mental health service](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-300.md#-siggy-raises-6m-pre-seed-for-ai-mental-health-service) | VC Firms |
+| 2026-11-05 | [Humble Robotics Series A $51M funding round](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-300.md#-humble-robotics-series-a-51m-funding-round) | VC Firms |
+| 2026-11-05 | [LionBio nasal spray GLP-1 gets $6M pre-seed funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-299.md#-lionbio-nasal-spray-glp-1-gets-6m-pre-seed-funding) | AI Leaders and Thinkers |
+| 2026-11-05 | [Shield to acquire Echodyne in a $5.3B transaction](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-276.md#-shield-to-acquire-echodyne-in-a-53b-transaction) | AI Driven Vehicles and Transportation |
+| 2026-11-05 | [Shield AI valuation $28.8B and Echodyne acquisition $5.3B](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-276.md#-shield-ai-valuation-288b-and-echodyne-acquisition-53b) | AI Driven Vehicles and Transportation |
+| 2026-11-05 | [Zipline raised $1.5 billion funding for drone network](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-276.md#-zipline-raised-15-billion-funding-for-drone-network) | AI Driven Vehicles and Transportation |
+| 2026-11-05 | [Zipline raised $1.5 billion, building nationwide drone delivery network](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-259.md#-zipline-raised-15-billion-building-nationwide-drone-delivery-network) | Interesting Finds |
+| 2026-11-05 | [Axiom Math formally verified Stacks Project, 16 million lines](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-246.md#-axiom-math-formally-verified-stacks-project-16-million-lines) | PR and Communications |
+| 2026-11-05 | [Entropica Labs letter of intent to acquire signed](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-246.md#-entropica-labs-letter-of-intent-to-acquire-signed) | Quantum Computing |
+| 2026-11-05 | [Daytonaio hits $100M run rate, raises $60M at $1B](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-241.md#-daytonaio-hits-100m-run-rate-raises-60m-at-1b) | Tech Journalists and VIPs |
+| 2026-11-05 | [Drip acquisition announcement – Drip acquired by unknown buyer, also Sleeknote acquired](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-239.md#-drip-acquisition-announcement--drip-acquired-by-unknown-buyer-also-sleeknote-acquired) | Tech Companies and News |
 | 2026-11-04 | [Lumentum acquisition gains UHP lasers and InP capacity 2028](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-299.md#-lumentum-acquisition-gains-uhp-lasers-and-inp-capacity-2028) | VC Firms |
 | 2026-11-04 | [Fiddler AI - CrowdStrike acquisition](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-268.md#-fiddler-ai---crowdstrike-acquisition) | Founders and Entrepreneurs |
 | 2026-11-03 | [Palo Alto Networks $3.35B acquisition of Chronosphere](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-300.md#-palo-alto-networks-335b-acquisition-of-chronosphere) | Tech VIPs |
@@ -92,17 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,187 briefings that mention it, fro
 | 2026-10-05 | [Business - Valon's $150M Series D Funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-264.md#-business---valons-150m-series-d-funding) | AI Policy and Ethical Considerations |
 | 2026-10-05 | [ValonOS - $150M Series D Funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-264.md#-valonos---150m-series-d-funding) | AI Policy and Ethical Considerations |
 | 2026-10-01 | [Competitive Intelligence Skills Open-Sourced](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-285.md#-competitive-intelligence-skills-open-sourced) | Tech VIPs |
-| 2026-10-01 | [AI-Assisted Content Workflows - Clinical and Regulatory Writing Consultancy](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-278.md#-ai-assisted-content-workflows---clinical-and-regulatory-writing-consultancy) | AI Companies and Ventures |
-| 2026-10-01 | [Warpdotco's Series B Funding](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-254.md#-warpdotcos-series-b-funding) | AI in Enterprise Applications |
-| 2026-10-01 | [AI Trading and Robotics News](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-246.md#-ai-trading-and-robotics-news) | Decentralized AI |
-| 2026-10-01 | [Halluminate Raises $3M to Build Future of Growth](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-228.md#-halluminate-raises-3m-to-build-future-of-growth) | Tech Journalists and VIPs |
-| 2026-10-01 | [Revnu App Raises $3M to Automate GTM Stack](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-228.md#-revnu-app-raises-3m-to-automate-gtm-stack) | Tech Journalists and VIPs |
-| 2026-09-30 | [7. 🚀 Primary Wave's $2.2B Fund](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-257.md#7--primary-waves-22b-fund) | Founders and Entrepreneurs |
-| 2026-09-30 | [Tech News - The New Round is Anticipated to be the Company's Last Before its Delayed 2027 Public Debut](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-229.md#-tech-news---the-new-round-is-anticipated-to-be-the-companys-last-before-its-delayed-2027-public-debut) | PR and Communications |
-| 2026-09-29 | [AI & ML - World Models](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-287.md#-ai--ml---world-models) | Devs, Designers, DevRel |
-| 2026-09-29 | [IPOs - SpaceX Raises $75B in Largest IPO Ever](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-281.md#-ipos---spacex-raises-75b-in-largest-ipo-ever) | VC Firms |
-| 2026-09-28 | [AI Mergers and Acquisitions - AMD Acquires World Labs](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-283.md#-ai-mergers-and-acquisitions---amd-acquires-world-labs) | Tech VIPs |
-| 2026-09-28 | [Instinct Series C](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-281.md#-instinct-series-c) | VC Firms |
-| 2026-09-28 | [Tech News - AMD Acquisition](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-249.md#-tech-news---amd-acquisition) | AR VR Professionals and Community |
-| 2026-09-28 | [Tech News - AI² and Acquisition Strategy](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-243.md#-tech-news---ai²-and-acquisition-strategy) | Investors and Venture Capital |
-| 2026-09-26 | [Tech News - Ethereum Supply Control](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-284.md#-tech-news---ethereum-supply-control) | Devs, Designers, DevRel |
