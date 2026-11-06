@@ -99,13 +99,14 @@ export function createServer({ base = process.env.AI_RESOURCES_API_URL || DEFAUL
     },
     guard(async ({ limit = 10 }) => {
       const data = await api('api/signals');
-      const items = (data.movements || []).slice(0, limit);
+      if (!data || !Array.isArray(data.movements)) return fail(`unexpected /api/signals response shape${data && data.builtOn ? ` (built ${data.builtOn})` : ''}`);
+      const items = data.movements.slice(0, limit);
       if (!items.length) return text(`No movement is accelerating right now (computed ${data.builtOn || 'recently'}.)\nSource: ${base}/signals\n${DATA_LINE}`);
       const body = items.map((m, i) => [
         `${i + 1}. [${String(m.stage).toUpperCase()}] ${m.title} (${m.category}, ${m.briefings} briefings over ${m.days}d, weeks [${(m.ladder || []).join(', ')}])`,
         ...m.samples.map((sm) => `   ${sm.date} \u2014 ${sm.headline}${sm.url ? `\n   ${sm.url}` : ''}`),
       ].join('\n')).join('\n\n');
-      return text(`${items.length} accelerating topic(s), computed ${data.builtOn}: \n\n${body}\n\nSource: ${base}/signals\n${DATA_LINE}`);
+      return text(`${items.length} topic(s) accelerating or on watch, computed ${data.builtOn}: \n\n${body}\n\nSource: ${base}/signals\n${DATA_LINE}`);
     }),
   );
 

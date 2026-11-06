@@ -123,3 +123,12 @@ test('trending_movements reports an empty week honestly', async () => {
   const r = await call('trending_movements', {});
   assert.match(r.text, /No movement is accelerating right now/);
 });
+
+test('trending_movements rejects a malformed signals response', async () => {
+  for (const body of [{ builtOn: '2026-11-05', movements: 'oops' }, { builtOn: '2026-11-05' }]) {
+    const { call } = await connect({ '/api/signals': [200, body] });
+    const r = await call('trending_movements', {});
+    assert.equal(r.isError, true);
+    assert.match(r.text, /unexpected \/api\/signals response shape/);
+  }
+});
