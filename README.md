@@ -93,6 +93,7 @@ Published on npm as [`ai-resources-mcp`](https://www.npmjs.com/package/ai-resour
 | `latest(category?, limit?)` | The newest briefings, overall or for one category. |
 | `get_briefing(id)` | Full Markdown of one briefing (URL or slug), with every source link. |
 | `list_categories()` | Every category slug with its briefing count. |
+| `trending_movements(limit?)` | Topics accelerating week over week (rising) or hot for one week (watch), with sample headlines and source links. |
 
 Every result ends with its source link and `Data: github.com/Drix10/ai-resources (CC BY 4.0)`, so answers stay citable.
 

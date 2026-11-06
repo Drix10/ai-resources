@@ -1,6 +1,6 @@
 {
   "name": "ai-resources-mcp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "mcpName": "io.github.Drix10/ai-resources",
   "description": "MCP server for the AI Resources knowledge base: search and read daily AI news briefings (models, companies, funding, tools) from any AI agent.",
   "license": "MIT",
