@@ -58,6 +58,14 @@ Claude, Cursor, VS Code or Windsurf answer "what did Anthropic ship this week?" 
 <a href="AI%20Developer%20Tools/resources-296.md"><img src="assets/readme/briefing.jpg" alt="Anatomy of a briefing: a headline with the number, two or three sentences of facts, the key figures pulled out, and links to the original post and the page it points to" width="100%"></a>
 <p align="center"><sub>A real briefing from <a href="AI%20Developer%20Tools/resources-296.md">AI Developer Tools #296</a>. Every digest file holds 5 to 12 of these.</sub></p>
 
+
+## Signals: what is accelerating in AI
+
+<a href="https://blogs.drix10.com/signals"><img src="assets/readme/signals.jpg" alt="Signals page: topics whose briefing coverage climbs week over week, each with sample headlines and source links, plus the counting method" width="100%"></a>
+<p align="center"><sub><a href="https://blogs.drix10.com/signals">Signals</a>, computed weekly: topics whose coverage climbs three weeks running. Trajectories, not predictions — and nothing on it is written by a model.</sub></p>
+
+Briefings tell you what happened. Signals tells you what it means: which topics are accelerating, with the sample headlines and source links behind every call. Computed from counts only (one briefing = one vote), in the open: [`MOVEMENTS.md`](MOVEMENTS.md) in this repo, [`/api/signals`](https://blogs.drix10.com/api/signals) for code, and the `trending_movements` MCP tool for agents.
+
 ## Who it is for
 
 - **Engineers building with AI.** What changed in models, inference, agents, MCP and dev tools, with the benchmark number and the link, in [AI Developer Tools](#ai-developer-tools) and [Tech Infrastructure](#tech-infrastructure).
