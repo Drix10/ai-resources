@@ -86,12 +86,14 @@ Base URL `https://blogs.drix10.com`. JSON, CORS open, no key. It covers the brie
 | `GET /api/articles?q=<words>&category=<slug>&since=YYYY-MM-DD&limit=<n>&page=<n>` | `{ items, total, page, limit, totalPages, license }`, newest first. All words in `q` must match; every parameter is optional. |
 | `GET /api/articles?slug=<slug or article URL>` | One item, plus `content` (the full Markdown). |
 | `GET /api/categories` | `{ items: [{ name, slug, count, url, llms }] }` |
+| `GET /api/signals?category=<slug>&limit=<n>` | `{ builtOn, movements: [{ key, title, category, stage, ladder, briefings, days, latest, samples }] }` — topics accelerating week over week, computed from counts only. |
 
 Each item: `title`, `url`, `slug`, `category`, `categorySlug`, `date`, `description`, `headlines` (every news item in the briefing) and `sources` (`[{ title, url }]`, the original posts).
 
 ```bash
 curl "https://blogs.drix10.com/api/articles?q=anthropic&since=2026-10-01&limit=5"
 curl "https://blogs.drix10.com/api/categories"
+curl "https://blogs.drix10.com/api/signals?limit=5"
 ```
 
 ## llms.txt

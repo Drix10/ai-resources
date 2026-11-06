@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:2560px; height:1200px; background:#0B1120; color:#F2F5FA; font-family:"Segoe UI",system-ui,sans-serif; overflow:hidden; display:flex; align-items:center; justify-content:center; gap:70px; }
+  .card { width:1310px; background:#131A30; border:1px solid #28314F; border-radius:28px; padding:44px 68px; }
+  .meta { display:flex; align-items:center; justify-content:space-between; border-bottom:1px solid #232B47; padding-bottom:34px; font-family:"Cascadia Code",Consolas,monospace; font-size:29px; color:#8B94A9; }
+  .ok { color:#3ED598; border:1px solid #1F5C44; background:#12281F; border-radius:14px; padding:12px 26px; font-size:27px; }
+  h2 { font-size:57px; font-weight:800; line-height:1.24; margin:32px 0 26px; letter-spacing:-1px; }
+  .side { position:relative; padding-left:78px; margin:22px 0; }
+  .side .n { position:absolute; left:0; top:2px; width:52px; height:52px; border-radius:50%; background:#8B93FF; color:#0B1120; font-weight:800; font-size:30px; display:flex; align-items:center; justify-content:center; }
+  .side p { font-family:Georgia,serif; font-size:36px; line-height:1.6; color:#C3CCDF; }
+  .kp { font-size:29px; color:#8B94A9; margin:28px 0 16px; }
+  .bul { font-family:Georgia,serif; font-size:34px; line-height:1.6; color:#C3CCDF; margin-left:34px; }
+  .bul b { color:#F5B544; font-family:"Cascadia Code",Consolas,monospace; font-weight:700; }
+  .link { font-family:"Cascadia Code",Consolas,monospace; font-size:30px; color:#8B94A9; margin-top:22px; }
+  .link a { color:#8B93FF; text-decoration:none; }
+  .right { width:640px; padding-top:6px; }
+  .step { display:flex; gap:24px; margin-bottom:44px; }
+  .step .n { flex:none; width:58px; height:58px; border-radius:50%; background:#8B93FF; color:#0B1120; font-weight:800; font-size:32px; display:flex; align-items:center; justify-content:center; }
+  .step h4 { font-size:36px; font-weight:700; margin-bottom:8px; }
+  .step p { font-size:30px; line-height:1.48; color:#8B94A9; }
+  .gate { border:1px solid #1F5C44; background:#0F241B; border-radius:22px; padding:30px 34px; font-size:30px; line-height:1.5; color:#C3CCDF; }
+  .gate b { color:#3ED598; }
+</style></head>
+<body>
+<div class="card">
+  <div class="meta"><span>AI Developer Tools / resources-296.md</span><span class="ok">&#10003; passed fact gates</span></div>
+  <h2>&#129302; Nemotron 3.5 Super VL E2EE inference 500+ tokens/sec on one GPU</h2>
+  <div class="side"><span class="n">1</span><p>NVIDIA Nemotron 3.5 Super VL is an open multimodal model that runs with end-to-end encrypted inference at over 500 output tokens per second on a single NVIDIA B300 GPU. It reads documents, screenshots, images and video, reasons over them and calls tools through an OpenAI-compatible API.</p></div>
+  <div class="side"><span class="n">2</span><div class="kp">Key Points</div><div class="bul">▪ <b>500+</b> output tokens per second for a single request on one <b>B300</b> GPU.<br>▪ <b>120B</b> total parameters, <b>12B</b> active MoE per token, with built-in Multi-Token Prediction.</div></div>
+  <div class="side"><span class="n">4</span><div class="link"><a>&#8599; Original post</a> · x.com/blackboxai/status/2111177845292794036<br><a>&#8599; Linked page</a> · blackbox.ai/blog/nemotron-3-5-super-vl</div></div>
+</div>
+<div class="right">
+  <div class="step"><span class="n">1</span><div><h4>A headline with the number in it</h4><p>You know what happened before you open anything.</p></div></div>
+  <div class="step"><span class="n">2</span><div><h4>Two or three sentences of facts</h4><p>No intro, no hype, no &ldquo;in today&rsquo;s fast-moving world&rdquo;.</p></div></div>
+  <div class="step"><span class="n">3</span><div><h4>The figures, pulled out</h4><p>Benchmarks, prices, rounds, parameter counts.</p></div></div>
+  <div class="step"><span class="n">4</span><div><h4>The post it came from</h4><p>And the page it points to. Links are copied by code, never written by the model.</p></div></div>
+  <div class="gate"><b>Fact gate:</b> a number, unit, currency, model version or name that is not in the source post gets the briefing rejected and rewritten before it is committed.</div>
+</div></body></html>

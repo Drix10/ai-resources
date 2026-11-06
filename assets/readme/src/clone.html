@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:2200px; height:1040px; background:#0B1120; color:#F2F5FA; font-family:"Cascadia Code","Cascadia Mono",Consolas,monospace; overflow:hidden; display:flex; align-items:center; justify-content:center; }
+  .term { width:2060px; background:#0E1428; border:1px solid #28314F; border-radius:28px; overflow:hidden; }
+  .bar { display:flex; align-items:center; gap:18px; padding:24px 36px; border-bottom:1px solid #28314F; }
+  .d { width:24px; height:24px; border-radius:50%; background:#3A4360; }
+  .title { margin-left:14px; font-size:28px; color:#8B94A9; }
+  .body { padding:46px 60px 54px; font-size:33px; line-height:1.62; }
+  .cmd { color:#F2F5FA; } .cmd .p { color:#3ED598; }
+  .dirs { color:#8B93FF; margin:18px 0 18px 0; columns:2; }
+  .dirs div { break-inside:avoid; }
+  .dim { color:#5E6880; }
+  .out { color:#C3CCDF; }
+  .gap { height:26px; }
+</style></head>
+<body>
+<div class="term">
+  <div class="bar"><span class="d"></span><span class="d"></span><span class="d"></span><span class="title">bash — ~</span></div>
+  <div class="body">
+    <div class="cmd"><span class="p">$</span> git clone --depth 1 https://github.com/Drix10/ai-resources</div>
+    <div class="cmd"><span class="p">$</span> ls ai-resources</div>
+    <div class="dirs"><div>AI Developer Tools/</div><div>AI Companies and Ventures/</div><div>AI Leaders and Thinkers/</div><div>CS Academics/</div><div>Tech Infrastructure/</div><div>VC Firms/</div><div>Founders and Entrepreneurs/</div><div class="dim">… 41 categories</div></div>
+    <div class="cmd"><span class="p">$</span> grep -rl "Nemotron" ai-resources | head -3</div>
+    <div class="out">ai-resources/AI Developer Tools/resources-296.md</div>
+    <div class="dim">…</div>
+    <div class="cmd"><span class="p">$</span> head -3 "ai-resources/AI Developer Tools/resources-310.md"</div>
+    <div class="out">### &#128640; ERNIE 5.5 Flash Base open source with 280B parameters</div>
+    <div class="gap"></div>
+    <div class="out">ERNIE 5.5 Flash Base is now open source, a 280B-parameter model with 14B active per token&hellip;</div>
+  </div>
+</div></body></html>

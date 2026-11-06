@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:2200px; height:1116px; background:#0B1120; color:#F2F5FA; font-family:"Cascadia Code","Cascadia Mono",Consolas,monospace; overflow:hidden; display:flex; align-items:center; justify-content:center; }
+  .term { width:2040px; background:#0E1428; border:1px solid #28314F; border-radius:28px; overflow:hidden; }
+  .bar { display:flex; align-items:center; gap:18px; padding:20px 36px; border-bottom:1px solid #28314F; }
+  .d { width:26px; height:26px; border-radius:50%; background:#3A4360; }
+  .title { margin-left:14px; font-size:30px; color:#8B94A9; }
+  .body { padding:30px 64px 36px; font-size:32px; line-height:1.45; }
+  .cmd { color:#F2F5FA; } .cmd .p { color:#3ED598; }
+  .qbox { border:1px solid #3A4480; border-radius:18px; padding:20px 40px; margin:26px 0 22px; color:#F2F5FA; }
+  .qbox .q { color:#8B93FF; }
+  .tool { color:#F2F5FA; margin:8px 0 4px; } .tool .b { color:#8B93FF; } .tool .k { color:#F5B544; }
+  .res { border-left:2px solid #3A4480; margin:20px 0 20px 8px; padding-left:36px; color:#8B94A9; }
+  .res div { margin:10px 0; } .res .d2 { color:#5E6880; }
+  .ans { font-family:Georgia,serif; font-size:31px; line-height:1.55; color:#DBE1EE; margin-top:22px; }
+  .ans sup { color:#8B93FF; font-size:22px; }
+  .src { margin-top:22px; font-size:29px; color:#8B94A9; } .src .n { color:#8B93FF; }
+  .data { margin-top:10px; font-size:29px; color:#5E6880; }
+</style></head>
+<body>
+<div class="term">
+  <div class="bar"><span class="d"></span><span class="d"></span><span class="d"></span><span class="title">claude — ~/projects</span></div>
+  <div class="body">
+    <div class="cmd"><span class="p">$</span> claude mcp add ai-resources -- npx -y ai-resources-mcp</div>
+    <div class="qbox"><span class="q">&gt;</span> What is heating up in AI right now? Cite the sources.</div>
+    <div class="tool"><span class="b">●</span> ai-resources &nbsp;·&nbsp; trending_movements(<span class="k">limit</span>: 3)</div>
+    <div class="res">
+      <div>1 accelerating topic, computed 2026-10-15:</div>
+      <div>&nbsp;</div>
+      <div>[WATCH] Odyssey-3 foundation world model (cross-category, 5 briefings over 3d, weeks [0, 0, 4])</div>
+      <div><span class="d2">10-10</span> Odyssey-3 launch – new foundation world model announced</div>
+      <div><span class="d2">10-08</span> Odyssey-3 foundation world model launched</div>
+      <div><span class="d2">10-08</span> Odyssey-3 launch – new foundation world model</div>
+    </div>
+    <p class="ans">Odyssey-3, a new foundation world model, is heating up: 5 briefings in 3 days across vehicles, vision and venture tracks<sup>[1]</sup>. Still early — one hot week, needs a second to confirm<sup>[2]</sup>.</p>
+    <div class="src"><span class="n">[1]</span> blogs.drix10.com/articles/ai-driven-vehicles-and-transportation/waymo-raises-5-billion-debt-adds-to-16-billion-equity-263</div>
+    <div class="src"><span class="n">[2]</span> blogs.drix10.com/signals</div>
+    <div class="data">Data: github.com/Drix10/ai-resources (CC BY 4.0)</div>
+  </div>
+</div></body></html>
