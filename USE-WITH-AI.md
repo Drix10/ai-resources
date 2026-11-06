@@ -25,6 +25,7 @@ Code in [`mcp/`](mcp/). Tools:
 | `latest(category?, limit?)` | The newest briefings, overall or for one category. |
 | `get_briefing(id)` | Full Markdown of one briefing (URL or slug), with every source link. |
 | `list_categories()` | Every category slug with its briefing count. |
+| `trending_movements(limit?)` | Topics accelerating week over week (rising) or hot for one week (watch), with sample headlines and source links. |
 
 It is on npm as [`ai-resources-mcp`](https://www.npmjs.com/package/ai-resources-mcp) and in the [official MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.Drix10/ai-resources) as `io.github.Drix10/ai-resources`. It needs Node.js 18 or newer; no key, no account.
 

@@ -41,7 +41,7 @@ const list = { '/api/articles': [200, { items: [ITEM], total: 7 }] };
 test('lists the four tools', async () => {
   const { client } = await connect({});
   const { tools } = await client.listTools();
-  assert.deepEqual(tools.map((t) => t.name).sort(), ['get_briefing', 'latest', 'list_categories', 'search_briefings']);
+  assert.deepEqual(tools.map((t) => t.name).sort(), ['get_briefing', 'latest', 'list_categories', 'search_briefings', 'trending_movements']);
 });
 
 test('search_briefings passes the query and ends with the source line', async () => {
@@ -101,4 +101,25 @@ test('empty results and network failures do not throw', async () => {
   const r = await client.callTool({ name: 'latest', arguments: {} });
   assert.equal(r.isError, true);
   assert.match(r.content[0].text, /offline/);
+});
+
+const MOVEMENT = {
+  key: 'gauss+splat', title: 'Gaussian splatting breakthroughs', category: 'cross-category',
+  stage: 'rising', ladder: [1, 2, 4], briefings: 7, days: 19, latest: '2026-11-04',
+  samples: [{ headline: 'QuantumNet ships feature D', date: '2026-11-04', category: 'Dev', url: 'https://x.com/q' }],
+};
+
+test('trending_movements lists accelerating topics with samples', async () => {
+  const { call } = await connect({ '/api/signals': [200, { builtOn: '2026-11-05', movements: [MOVEMENT] }] });
+  const r = await call('trending_movements', {});
+  assert.match(r.text, /\[RISING\] Gaussian splatting breakthroughs/);
+  assert.match(r.text, /weeks \[1, 2, 4\]/);
+  assert.match(r.text, /https:\/\/x\.com\/q/);
+  assert.match(r.text, /Source: https:\/\/example\.test\/signals/);
+});
+
+test('trending_movements reports an empty week honestly', async () => {
+  const { call } = await connect({ '/api/signals': [200, { builtOn: '2026-11-05', movements: [] }] });
+  const r = await call('trending_movements', {});
+  assert.match(r.text, /No movement is accelerating right now/);
 });

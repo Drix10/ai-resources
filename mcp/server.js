@@ -1,7 +1,7 @@
 import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
 import { z } from 'zod';
 
-export const VERSION = '1.0.0';
+export const VERSION = '1.1.0';
 export const DATA_LINE = 'Data: github.com/Drix10/ai-resources (CC BY 4.0)';
 export const DEFAULT_BASE = 'https://blogs.drix10.com';
 
@@ -87,6 +87,25 @@ export function createServer({ base = process.env.AI_RESOURCES_API_URL || DEFAUL
       const a = (await api('api/articles', { slug: id })).items?.[0];
       if (!a) return fail(`No briefing found for "${id}".`);
       return text(`# ${a.title}\n${a.date} | ${a.category}\n\n${a.content || a.description}\n\nSource: ${a.url}\n${DATA_LINE}`);
+    }),
+  );
+
+  server.registerTool(
+    'trending_movements',
+    {
+      title: 'What is accelerating in AI',
+      description: 'Topics whose briefing coverage climbs week over week (rising) or had one hot week (watch), each with sample headlines and source links. Use for "what is trending / heating up in AI" questions. Computed from counts only; trajectories, not predictions.',
+      inputSchema: { limit },
+    },
+    guard(async ({ limit = 10 }) => {
+      const data = await api('api/signals');
+      const items = (data.movements || []).slice(0, limit);
+      if (!items.length) return text(`No movement is accelerating right now (computed ${data.builtOn || 'recently'}.)\nSource: ${base}/signals\n${DATA_LINE}`);
+      const body = items.map((m, i) => [
+        `${i + 1}. [${String(m.stage).toUpperCase()}] ${m.title} (${m.category}, ${m.briefings} briefings over ${m.days}d, weeks [${(m.ladder || []).join(', ')}])`,
+        ...m.samples.map((sm) => `   ${sm.date} \u2014 ${sm.headline}${sm.url ? `\n   ${sm.url}` : ''}`),
+      ].join('\n')).join('\n\n');
+      return text(`${items.length} accelerating topic(s), computed ${data.builtOn}: \n\n${body}\n\nSource: ${base}/signals\n${DATA_LINE}`);
     }),
   );
 
