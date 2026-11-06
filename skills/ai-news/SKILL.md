@@ -11,6 +11,7 @@ The AI Resources knowledge base publishes daily briefings on AI models, companie
 
 1. **MCP server installed** (tools named `search_briefings`, `latest`, `get_briefing`, `list_categories`, `trending_movements`): use those tools and skip the rest of this section.
    - For "what is trending / heating up in AI" questions, use `trending_movements` (rising or one-hot-week topics with sample headlines and sources).
+   - If the installed server predates v1.1.0 and has no `trending_movements` tool, use `/api/signals` below for trending questions instead of skipping them.
 2. **Otherwise use web fetch on the JSON API** (no key, CORS open):
    - Search: `https://blogs.drix10.com/api/articles?q=<words>&limit=10`
      - all words must match; keep queries to 1-3 distinctive words (`anthropic`, `series a`, `gemini`)
@@ -18,14 +19,14 @@ The AI Resources knowledge base publishes daily briefings on AI models, companie
    - Latest: `https://blogs.drix10.com/api/articles?limit=10` (add `category=<slug>` for one topic)
    - One briefing in full Markdown: `https://blogs.drix10.com/api/articles?slug=<slug or briefing URL>` (the item's `content`)
    - Categories and slugs: `https://blogs.drix10.com/api/categories`
-   - Accelerating topics: `https://blogs.drix10.com/api/signals` (`?category=<slug>&limit=<n>`) — topics whose coverage climbs week over week, with sample headlines and links. Use it for "trending" questions.
+   - Accelerating topics: `https://blogs.drix10.com/api/signals` — topics whose coverage climbs week over week, with sample headlines and links. Use it for "trending" questions; add `?category=<slug>` for one topic and `?limit=<n>` to see past the default first 10.
    - Each list item has `title`, `url`, `date`, `category`, `description`, `headlines` (every item in the briefing) and `sources` (`{title, url}`).
 3. **Plain text instead of JSON**: `https://blogs.drix10.com/llms/<category-slug>.txt` lists a category's 50 newest briefings; `https://blogs.drix10.com/llms.txt` links them all.
 4. **API down**: read raw Markdown on GitHub, `https://raw.githubusercontent.com/Drix10/ai-resources/main/<Category Name>/resources-<N>.md` (category folder names with spaces as `%20`; a higher N is newer). List a folder with `https://api.github.com/repos/Drix10/ai-resources/contents/<Category%20Name>`.
 
 ## How to answer
 
-- For "latest"/"this week" questions, use `latest` or `since=` with a date about 7 days back. For "trending"/"heating up" questions, use `trending_movements` (or `/api/signals`); report the stage (rising vs watch) and never present a watch item as confirmed. For a named model, company or person, search its name first, then a broader term if nothing matches.
+- For "latest"/"this week" questions, use `latest` or `since=` with a date about 7 days back. For "trending"/"heating up" questions, use `trending_movements` (or `/api/signals`, with `?category=` for one topic); report the stage (rising vs watch) and never present a watch item as confirmed. For a named model, company or person, search its name first, then a broader term if nothing matches.
 - Search matches item titles and each briefing's opening text, so a match may sit in `headlines` rather than the title. Fetch the full briefing (`slug=`) before quoting details from it.
 - Report what the briefings say with their dates. Do not fill gaps from memory; say when the briefings do not cover something.
 - Cite every claim: link the briefing `url`, and the original post from `sources` when there is one.
