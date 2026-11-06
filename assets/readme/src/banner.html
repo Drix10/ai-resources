@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { width:2560px; height:880px; background:#0B1120; color:#F2F5FA; font-family:"Segoe UI",system-ui,sans-serif; overflow:hidden; }
+  .grid { position:absolute; inset:0; background-image:linear-gradient(rgba(148,163,184,.05) 1px,transparent 1px),linear-gradient(90deg,rgba(148,163,184,.05) 1px,transparent 1px); background-size:72px 72px; mask-image:radial-gradient(ellipse 90% 90% at 40% 40%, black 30%, transparent 75%); }
+  .wrap { position:relative; display:flex; height:100%; padding:64px 130px; gap:60px; }
+  .left { width:1120px; padding-top:8px; }
+  .eyebrow { font-family:"Cascadia Code",Consolas,monospace; font-size:30px; letter-spacing:6px; color:#AEB6C9; }
+  .dot { display:inline-block; width:26px; height:26px; border-radius:50%; background:#3ED598; margin-right:22px; box-shadow:0 0 24px #3ED598; vertical-align:baseline; }
+  h1 { font-size:138px; font-weight:800; letter-spacing:-4px; margin:22px 0 20px; }
+  .sub { font-family:Georgia,serif; font-size:37px; line-height:1.48; color:#C3CCDF; max-width:1060px; }
+  .stats { display:flex; gap:90px; margin-top:38px; }
+  .stat b { display:block; font-size:58px; font-weight:800; letter-spacing:-1px; }
+  .stat span { font-size:28px; color:#8B94A9; }
+  .right { flex:1; position:relative; }
+  .card { position:absolute; width:980px; background:#131A30; border:1px solid #28314F; border-radius:26px; padding:30px 44px; }
+  .card.c1 { top:0; right:0; opacity:.92; }
+  .card.c2 { top:196px; right:60px; }
+  .card.c3 { top:420px; right:120px; }
+  .pill { display:inline-block; font-family:"Cascadia Code",Consolas,monospace; font-size:24px; color:#8B93FF; border:1px solid #3A4480; background:#1A2140; border-radius:12px; padding:10px 22px; }
+  .date { float:right; font-family:"Cascadia Code",Consolas,monospace; font-size:24px; color:#5E6880; padding-top:12px; }
+  .card h3 { font-size:36px; font-weight:700; margin:20px 0 10px; line-height:1.3; }
+  .card p { font-family:Georgia,serif; font-size:27px; line-height:1.5; color:#9AA3B8; }
+  .check { margin-top:18px; font-family:"Cascadia Code",Consolas,monospace; font-size:26px; color:#3ED598; }
+  .check a { color:#8B93FF; text-decoration:none; margin-left:18px; }
+</style></head>
+<body><div class="grid"></div>
+<div class="wrap">
+  <div class="left">
+    <div class="eyebrow"><span class="dot"></span>OPEN ARCHIVE &nbsp;·&nbsp; CC BY 4.0</div>
+    <h1>AI Resources</h1>
+    <p class="sub">Your agent&rsquo;s memory of AI: what shipped, who raised and what the numbers were — plus what&rsquo;s accelerating. Every briefing is checked against the post it came from, and links to it.</p>
+    <div class="stats">
+      <div class="stat"><b>100,000+</b><span>briefings</span></div>
+      <div class="stat"><b>41</b><span>categories</span></div>
+      <div class="stat"><b>10,900+</b><span>commits since<br>Nov 2024</span></div>
+    </div>
+  </div>
+  <div class="right">
+    <div class="card c1"><span class="pill">Tech Companies and News</span><span class="date">2026-10-26</span><h3>Colare raises $2.5M pre-seed for simulation hiring</h3></div>
+    <div class="card c2"><span class="pill">Tech Infrastructure</span><span class="date">2026-10-30</span><h3>Chainguard Harness beta waitlist opens today</h3><p>Lets Anthropic Claude Mythos 5.1 probe live apps for exploitable&hellip;</p></div>
+    <div class="card c3"><span class="pill">AI Developer Tools</span><span class="date">2026-10-30</span><h3>Parallel for Finance, 2x lower cost on FinSearchComp T3</h3><p>Most accurate search API on FinSearchComp&rsquo;s hardest tier, at up to 2x lower cost than Exa and Perplexity.</p><div class="check">&#10003; checked against source <a>&#8599; Original post</a></div></div>
+  </div>
+</div></body></html>

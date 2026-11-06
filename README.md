@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://blogs.drix10.com"><img src="assets/readme/banner.jpg" alt="AI Resources: what shipped in AI, who raised and what the numbers were, every briefing checked against its source. 100,000+ briefings, 41 categories, 10,900+ commits since November 2024." width="100%"></a>
+<a href="https://blogs.drix10.com"><img src="assets/readme/banner.jpg" alt="AI Resources: your agent's memory of AI — what shipped, who raised, what the numbers were, plus what is accelerating. Every briefing checked against its source. 100,000+ briefings, 41 categories, 10,900+ commits since November 2024." width="100%"></a>
 
 <a href="https://github.com/Drix10/ai-resources/stargazers"><img src="https://img.shields.io/github/stars/Drix10/ai-resources?style=flat-square&color=8b9cff&label=stars" alt="GitHub stars"></a>
 <a href="https://github.com/Drix10/ai-resources/commits/main"><img src="https://img.shields.io/github/last-commit/Drix10/ai-resources?style=flat-square&color=3ecf8e&label=updated" alt="Last updated"></a>
@@ -34,7 +34,7 @@ Star and watch the repo to get new digests as they land.
 </td>
 </tr>
 <tr>
-<td width="55%"><a href="USE-WITH-AI.md"><img src="assets/readme/agent.jpg" alt="Claude Code with the ai-resources MCP server: search_briefings for 'anthropic' returns dated briefings, and the answer cites the source posts" width="100%"></a></td>
+<td width="55%"><a href="USE-WITH-AI.md"><img src="assets/readme/agent.jpg" alt="Claude Code with the ai-resources MCP server: trending_movements answers what is heating up in AI, with sample headlines and source links" width="100%"></a></td>
 <td width="45%" valign="top">
 <h3><a href="#use-it-from-your-ai-agent">Ask it from your agent</a></h3>
 Claude, Cursor, VS Code or Windsurf answer "what did Anthropic ship this week?" from the briefings, with dates and source links. No key, no account. <a href="#use-it-from-your-ai-agent">Setup for every client ↓</a>
