@@ -275,73 +275,72 @@ Built and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)**, an A
 
 ## 📚 Resource Categories
 
-**11,114 digests in 41 categories.** Each category shows its newest headlines; jump to one:
+**11,152 digests in 41 categories.** Each category shows its newest headlines; jump to one:
 
 <sub>[AI Developer Tools](#ai-developer-tools) · [AI Leaders and Thinkers](#ai-leaders-and-thinkers) · [AI Companies and Ventures](#ai-companies-and-ventures) · [CS Academics](#cs-academics) · [Tech VIPs](#tech-vips) · [VC Firms](#vc-firms) · [Devs, Designers, DevRel](#devs-designers-devrel) · [Tech Infrastructure](#tech-infrastructure) · [Founders and Entrepreneurs](#founders-and-entrepreneurs) · [AI Organizations and Media](#ai-organizations-and-media) · [AI Powered Film and Media](#ai-powered-film-and-media) · [AI Holodeck and Virtual Worlds](#ai-holodeck-and-virtual-worlds) · [AI Artists and Creators](#ai-artists-and-creators) · [AI in Healthcare and Science](#ai-in-healthcare-and-science) · [AI Generated Music and Audio](#ai-generated-music-and-audio) · [AI Consulting and Expertise](#ai-consulting-and-expertise) · [AI Professionals and Community](#ai-professionals-and-community) · [AI Policy and Ethical Considerations](#ai-policy-and-ethical-considerations) · [AI in Real Estate and Property Tech](#ai-in-real-estate-and-property-tech) · [AI and Robotics Applications](#ai-and-robotics-applications) · [AI Driven Vehicles and Transportation](#ai-driven-vehicles-and-transportation) · [AI for Content Creation and Marketing](#ai-for-content-creation-and-marketing) · [AR VR Companies and Development](#ar-vr-companies-and-development) · [AR VR Professionals and Community](#ar-vr-professionals-and-community) · [Climate and Weather Technology](#climate-and-weather-technology) · [Computer Vision and AI Applications](#computer-vision-and-ai-applications) · [Crypto and Web3](#crypto-and-web3) · [Decentralized AI](#decentralized-ai) · [The Exponential Future](#the-exponential-future) · [AI Education](#ai-education) · [AI in Enterprise Applications](#ai-in-enterprise-applications) · [Interesting Finds](#interesting-finds) · [Investors and Venture Capital](#investors-and-venture-capital) · [Cybersecurity and Tech](#cybersecurity-and-tech) · [Neuroscience and AI](#neuroscience-and-ai) · [PR and Communications](#pr-and-communications) · [Quantum Computing](#quantum-computing) · [Spatial Computing](#spatial-computing) · [Tech Companies and News](#tech-companies-and-news) · [Tech Journalists and VIPs](#tech-journalists-and-vips) · [World News and Updates](#world-news-and-updates)</sub>
 
 ### AI Developer Tools
 
-<sub>306 digests · [latest: #309](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-309.md) · [read on the blog](https://blogs.drix10.com/categories/ai-developer-tools)</sub>
+<sub>307 digests · [latest: #310](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md) · [read on the blog](https://blogs.drix10.com/categories/ai-developer-tools)</sub>
 
-*   Meridian Air CivoE launches, 12B scores 85.5
-*   HyperBEAM v0.11 releases fixes and speed improvements
-*   AIsa creator search adds 329 creators, shortlists 12 US blanket sellers
+*   Underdog Woof releases 31.7MB TTS model
+*   Underdog Woof 31.7MB TTS model released
+*   OCRia-1 launched as best general purpose document parser
 
 ### AI Leaders and Thinkers
 
-<sub>299 digests · [latest: #299](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-299.md) · [read on the blog](https://blogs.drix10.com/categories/ai-leaders-and-thinkers)</sub>
+<sub>300 digests · [latest: #300](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-300.md) · [read on the blog](https://blogs.drix10.com/categories/ai-leaders-and-thinkers)</sub>
 
-*   Lightning AI CEO steps down, $2.5B merger, 25k H200 fleet launch
-*   t3mp3st AI war machine scores 90.1% on xbow suite
-*   XGBoost-metal on M5 Pro Mac mini speeds training 2.56x
+*   sandbox-mcp - fresh Windows test machines in 35 s
+*   Shinkei AI robot spikes fish brains to extend shelf life 3x
+*   Confident AI eval runs typical size 10 cases, noise stats
 
 ### AI Companies and Ventures
 
-<sub>297 digests · [latest: #297](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-297.md) · [read on the blog](https://blogs.drix10.com/categories/ai-companies-and-ventures)</sub>
+<sub>298 digests · [latest: #298](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-298.md) · [read on the blog](https://blogs.drix10.com/categories/ai-companies-and-ventures)</sub>
 
-*   Autonomous vulnerability pipeline validates 948 LPE bugs
-*   Grand Challenges – five challenges with $1M prize
-*   Stacks Project 16M-line formalization released
+*   Warden Token Terminal adds trap checks, October updates
+*   JUWEL Sapphire custom 72B model BF16 weights released
+*   Aave Labs buys Avon team for $30B+ fixed-rate lending
 
 ### CS Academics
 
-<sub>310 digests · [latest: #310](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-310.md) · [read on the blog](https://blogs.drix10.com/categories/cs-academics)</sub>
+<sub>311 digests · [latest: #311](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-311.md) · [read on the blog](https://blogs.drix10.com/categories/cs-academics)</sub>
 
-*   ERNIE 5.5 Flash Base open source with 280B parameters
-*   JITEngine custom Apple Silicon engine up to 2.7× faster
-*   frax.ik high-performance humanoid retargeting library announced, >100k FPS
+*   Inkling 2 Small to release weights next week, ARC-AGI
+*   Anthropic AECI scores grew 1.9x since Oct 2025
+*   BioBasicsBench benchmark released with 100 wet-lab tasks
 
 ### Tech VIPs
 
-<sub>302 digests · [latest: #302](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-302.md) · [read on the blog](https://blogs.drix10.com/categories/tech-vips)</sub>
+<sub>303 digests · [latest: #303](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-303.md) · [read on the blog](https://blogs.drix10.com/categories/tech-vips)</sub>
 
-*   Zipline raises $1.5B, signs Walmart contract for 300 supercenters
-*   VFlash delivers 12x faster decoding, 5.1x robot speedup
-*   slashapp crosses $500m revenue with under 100 staff
+*   Aside Computer Use launches, 2.7x faster
+*   Anthropic moral-dilemma token study cuts malicious behavior to 0%
+*   Opus 5.5 removes /investigate skill in agent skill set
 
 ### VC Firms
 
-<sub>300 digests · [latest: #300](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-300.md) · [read on the blog](https://blogs.drix10.com/categories/vc-firms)</sub>
+<sub>301 digests · [latest: #301](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-301.md) · [read on the blog](https://blogs.drix10.com/categories/vc-firms)</sub>
 
-*   Tractian raises $130M Series D at $1.4B valuation
-*   Agility begins trading on Nasdaq under ticker AGLT
-*   GPT Image 2.6 now available on fal – new features listed
+*   Rippling added over $150mm nnARR in Q3 quarter
+*   vibe launchpad audits completed – no critical risks
 
 ### Devs, Designers, DevRel
 
-<sub>302 digests · [latest: #302](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-302.md) · [read on the blog](https://blogs.drix10.com/categories/devs-designers-devrel)</sub>
+<sub>303 digests · [latest: #303](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-303.md) · [read on the blog](https://blogs.drix10.com/categories/devs-designers-devrel)</sub>
 
-*   Phonon key-up latency 65 ms on M4 Max vs 520 ms Wispr Flow
-*   REA for Growth – reverse-engineer any company's growth, $0.58 teardown
-*   Isometric SF map released covering 1,300+ square miles
+*   gpt-2 running in CSS 124m parameters 15 sec per token
+*   Adobe After Effects 2027 rolling out to users
+*   SenseNova 6.8 Code2Video model makes videos from prompts
 
 ### Tech Infrastructure
 
-<sub>277 digests · [latest: #277](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-277.md) · [read on the blog](https://blogs.drix10.com/categories/tech-infrastructure)</sub>
+<sub>278 digests · [latest: #278](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-278.md) · [read on the blog](https://blogs.drix10.com/categories/tech-infrastructure)</sub>
 
-*   Linux kernel local privilege escalation pipeline validates 948 bugs
-*   Vertical Pod Autoscaler – team debugged critical incident
-*   Airspace London 2026 event video release
+*   Vork 3D engine 2,500-token API renders 1M birds in 97 s
+*   Starship Flight 15 catch of booster and upper stage
+*   Cellebrite phone cloning software purchased by NIA and Indian police
 
 ### Founders and Entrepreneurs
 
@@ -353,50 +352,50 @@ Built and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)**, an A
 
 ### AI Organizations and Media
 
-<sub>293 digests · [latest: #293](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-293.md) · [read on the blog](https://blogs.drix10.com/categories/ai-organizations-and-media)</sub>
+<sub>294 digests · [latest: #294](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-294.md) · [read on the blog](https://blogs.drix10.com/categories/ai-organizations-and-media)</sub>
 
-*   MoPort view-aware 2D interface achieves R@1 0.5674 on HumanML3D
-*   Google $40 free API credits per month for Gemini
-*   CSA astronaut Joshua Kutryk spacewalk installs roll-out solar array
+*   CORA O-RAN adaptation raises recall to 0.771
+*   Sequential Recovery Updates for Learned Controllers adds 62 recoveries
+*   A Hybrid Visitor Prediction Framework – MAE reduced 9.82%
 
 ### AI Powered Film and Media
 
-<sub>276 digests · [latest: #276](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-276.md) · [read on the blog](https://blogs.drix10.com/categories/ai-powered-film-and-media)</sub>
+<sub>277 digests · [latest: #277](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-277.md) · [read on the blog](https://blogs.drix10.com/categories/ai-powered-film-and-media)</sub>
 
-*   4DAnyone creates 4D humans from single video, Turbo checkpoint 27 s per 121-frame
-*   Incremental path to a software factory, levels 0-8
+*   GomSpace NanoCom AX100 radio hijack risk on 28 of 64 missions
+*   MiniMax H3 Reference-to-Video style LoRA trained on Dell tower
+*   KLARA AND THE SUN box office $1.2M domestic, $17 per theater
 
 ### AI Holodeck and Virtual Worlds
 
-<sub>282 digests · [latest: #282](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-282.md) · [read on the blog](https://blogs.drix10.com/categories/ai-holodeck-and-virtual-worlds)</sub>
+<sub>283 digests · [latest: #283](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-283.md) · [read on the blog](https://blogs.drix10.com/categories/ai-holodeck-and-virtual-worlds)</sub>
 
-*   Claude add four hit effects with timing and displacement
-*   GPT Image 2.6 on Pixazo API with Flare and Sunburst
-*   YouMind Skill Paper Cutout Video Explainer – New Skill Launch
+*   HyperFlow H3 Flash speed comparison with Pika and Larry
+*   Solo verifies unique humans in 7 sec without government ID
+*   Dimocap Real-time motion capture software free download
 
 ### AI Artists and Creators
 
-<sub>275 digests · [latest: #275](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-275.md) · [read on the blog](https://blogs.drix10.com/categories/ai-artists-and-creators)</sub>
+<sub>276 digests · [latest: #276](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-276.md) · [read on the blog](https://blogs.drix10.com/categories/ai-artists-and-creators)</sub>
 
-*   Tesla Optimus and MicroDuck size contrast demo
-*   Dreamina Seedance 2.5 used for AI music video creation
-*   Grok Imagine song creation and Grok Bot video 2:58
+*   Miracle post-production technology launch
+*   RouterHub offers Kimi, DeepSeek, GLM models and 15% referral bonus
 
 ### AI in Healthcare and Science
 
-<sub>285 digests · [latest: #285](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-285.md) · [read on the blog](https://blogs.drix10.com/categories/ai-in-healthcare-and-science)</sub>
+<sub>286 digests · [latest: #286](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-286.md) · [read on the blog](https://blogs.drix10.com/categories/ai-in-healthcare-and-science)</sub>
 
-*   Heart artery plaque shrinkage 21.1% vs 13.6% statin
-*   tarlatamab in SCLC real-world data shows rw-PFS 2.3 mo
-*   GSK showcases progress in liver portfolio at AASLD 2026
+*   lutetium Lu 177 vipivotide tetraxetan FDA approved for prostate cancer
+*   lirafugratinib FDA approval for FGFR2-positive cholangiocarcinoma
+*   sevabertinib accelerated approval for HER2-mutated NSCLC
 
 ### AI Generated Music and Audio
 
-<sub>282 digests · [latest: #282](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-282.md) · [read on the blog](https://blogs.drix10.com/categories/ai-generated-music-and-audio)</sub>
+<sub>283 digests · [latest: #283](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-283.md) · [read on the blog](https://blogs.drix10.com/categories/ai-generated-music-and-audio)</sub>
 
-*   Kimi K3.1 Pro on AMD Instinct MI355X – 2.8T params
-*   GPT-Live 1 (Terra, low) ranks high overall despite low audio score
-*   ElevenLabs uses Silencio for consent-cleared voice data
+*   E-Gaborformer – strictly causal speech recognizer with 19MB constant streaming state
+*   Decode Before You Hear: Speculative Listening speeds up full-duplex speech models
+*   SubRoformer: Subband Time-Domain code released
 
 ### AI Consulting and Expertise
 
@@ -408,66 +407,67 @@ Built and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)**, an A
 
 ### AI Professionals and Community
 
-<sub>276 digests · [latest: #276](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-276.md) · [read on the blog](https://blogs.drix10.com/categories/ai-professionals-and-community)</sub>
+<sub>277 digests · [latest: #277](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-277.md) · [read on the blog](https://blogs.drix10.com/categories/ai-professionals-and-community)</sub>
 
-*   Flatiron Research Fellowship – 10 days left, 2-3 yr
-*   Visual Token Routing up to 5.8x fewer visual tokens
-*   Perplexity Teammates launch personal agents for work
+*   Mochi 535B finished pretraining 18T tokens, release pending
+*   The Ultimate MoE Training Handbook released, 800k GPU hours
+*   Anthropic valuation comparison with Google IPO valuation
 
 ### AI Policy and Ethical Considerations
 
-<sub>270 digests · [latest: #270](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-270.md) · [read on the blog](https://blogs.drix10.com/categories/ai-policy-and-ethical-considerations)</sub>
+<sub>271 digests · [latest: #271](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-271.md) · [read on the blog](https://blogs.drix10.com/categories/ai-policy-and-ethical-considerations)</sub>
 
-*   NSF X-labs From Sequence to Function funding opportunity announced
-*   Astra 10 billion tokens builds 3D embassy models
+*   You Can't See Everything: Perceptual Attacks 100% harmful
+*   s³ paper – multi-agent RL lets LLM swarms self-organize, beat best-of-N
+*   Senator Becker bill requires AI compute reporting
 
 ### AI in Real Estate and Property Tech
 
-<sub>263 digests · [latest: #263](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-263.md) · [read on the blog](https://blogs.drix10.com/categories/ai-in-real-estate-and-property-tech)</sub>
+<sub>264 digests · [latest: #264](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-264.md) · [read on the blog](https://blogs.drix10.com/categories/ai-in-real-estate-and-property-tech)</sub>
 
-*   TurboFieldfare runs Gemma 4 26B on 8GB Mac with ~2GB RAM
-*   Strata 0.2.11 adds auto split engine, decode 186.8 tps
-*   Jeff Studio Scene adds 24-hour cycle and nine building styles
+*   Aside Computer Use, 2.7x faster, 65% fewer tokens
+*   Sprite Fusion Pixel Snapper adds CLI with default 16-color palette
+*   blender-kiln – plugin creates real-size editable Blender models
 
 ### AI and Robotics Applications
 
-<sub>280 digests · [latest: #280](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-280.md) · [read on the blog](https://blogs.drix10.com/categories/ai-and-robotics-applications)</sub>
+<sub>281 digests · [latest: #281](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-281.md) · [read on the blog](https://blogs.drix10.com/categories/ai-and-robotics-applications)</sub>
 
-*   Anchor 1 Precise and Stable Humanoid Control – 30–80% error reduction
-*   VerneRobotics V0.5 released, leads LIBERO benchmark
-*   OpenAI AI Model Discovers 948 Linux Kernel Vulnerabilities
+*   W2A achieves 95.9% success and 21× faster inference
+*   Claude Opus 5.5 edits π₀.₅ weights, 30% less task time
+*   Agentic robot control runs 2.5 h after 30 s recharge
 
 ### AI Driven Vehicles and Transportation
 
-<sub>276 digests · [latest: #276](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-276.md) · [read on the blog](https://blogs.drix10.com/categories/ai-driven-vehicles-and-transportation)</sub>
+<sub>277 digests · [latest: #277](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-277.md) · [read on the blog](https://blogs.drix10.com/categories/ai-driven-vehicles-and-transportation)</sub>
 
-*   Shield to acquire Echodyne in a $5.3B transaction
-*   Shield AI valuation $28.8B and Echodyne acquisition $5.3B
-*   Moonshot seeks Nvidia Blackwell access in Europe, 8,000+ GPUs
+*   Atlas Frameboy demo released with up to 15 fps streaming
+*   JITEngine custom inference engine for Apple Silicon up to 2.7× faster
+*   AD-Memo language-based memory driving agent announced
 
 ### AI for Content Creation and Marketing
 
-<sub>272 digests · [latest: #272](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-272.md) · [read on the blog](https://blogs.drix10.com/categories/ai-for-content-creation-and-marketing)</sub>
+<sub>273 digests · [latest: #273](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-273.md) · [read on the blog](https://blogs.drix10.com/categories/ai-for-content-creation-and-marketing)</sub>
 
-*   Qlero 8.5× Google impressions with Okara
-*   Bustle Digital Group AI Search playbook results
-*   Teammates available now for Max subscribers on the web
+*   Robinhood Agentic Trading accounts open 150,000 users
+*   Notion agents now post progress in comment replies
+*   Agentic canvas playground built in a few hours for team
 
 ### AR VR Companies and Development
 
-<sub>269 digests · [latest: #269](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-269.md) · [read on the blog](https://blogs.drix10.com/categories/ar-vr-companies-and-development)</sub>
+<sub>270 digests · [latest: #270](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-270.md) · [read on the blog](https://blogs.drix10.com/categories/ar-vr-companies-and-development)</sub>
 
-*   Meta Quest Link driver freeze fixed in NVIDIA v621.01
-*   Claude maps first 3D structure of bacterial vault particle
-*   Omarchy 4.5 adds full compatibility for M1 M2 M3 Neo
+*   GPT Image 2.6 now in Runway, 50% faster generation
+*   NVIDIA driver fix for Meta Quest Link freezing issue, v621.01 release
+*   Insta360 3.2m stick capture produces 1M-splats .ply model
 
 ### AR VR Professionals and Community
 
-<sub>266 digests · [latest: #266](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-266.md) · [read on the blog](https://blogs.drix10.com/categories/ar-vr-professionals-and-community)</sub>
+<sub>267 digests · [latest: #267](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-267.md) · [read on the blog](https://blogs.drix10.com/categories/ar-vr-professionals-and-community)</sub>
 
-*   Higgsfield AI – 34 lighting styles guide released
-*   CROPS Guide live on ETHBEAT adds Uniswap, safe, TornadoCash
-*   ArcBrush node-based image editor with painting and 3D preview
+*   Arete-27B – post-trained Qwen3.8-27B with Western values, 803-prompt eval
+*   PETAFAB on Steam for $9.99, PC Mac Steam Deck 90Hz OLED
+*   TrialGPT – award-winning LLM framework for trial matching
 
 ### Climate and Weather Technology
 
@@ -478,128 +478,129 @@ Built and maintained by **[Drishtant Ghosh (Drix10)](https://drix10.com)**, an A
 
 ### Computer Vision and AI Applications
 
-<sub>269 digests · [latest: #269](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-269.md) · [read on the blog](https://blogs.drix10.com/categories/computer-vision-and-ai-applications)</sub>
+<sub>270 digests · [latest: #270](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-270.md) · [read on the blog](https://blogs.drix10.com/categories/computer-vision-and-ai-applications)</sub>
 
-*   Blinkit Ambulance charges non-emergency transfers ₹2,500
-*   Gemini Omni 1.2 Flash adds 15-second video, $0.07/s
-*   You don't need long context – compaction cuts context to 8K tokens
+*   HALO — Perceptive Humanoid Motion released, 91% success
+*   XMimic trains one policy on 40 LAFAN1 clips in 54 seconds
+*   MedHEB benchmark released with 107 tasks and MedEmb baseline
 
 ### Crypto and Web3
 
-<sub>260 digests · [latest: #260](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-260.md) · [read on the blog](https://blogs.drix10.com/categories/crypto-and-web3)</sub>
+<sub>261 digests · [latest: #261](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-261.md) · [read on the blog](https://blogs.drix10.com/categories/crypto-and-web3)</sub>
 
-*   Robinhood tokenized stocks on Morpho see 2x weekend price
-*   Offline Protocol joins Zebra PartnerConnect
-*   Leap mobile trading app launches early access today
+*   Bitcoin Spot ETFs Net Outflows $412M, Ethereum Spot ETFs Outflows $93.19M
+*   BLAKE3 stream API sketch adds incremental multithreaded batching
+*   Singapore MAS urges caution after Binance hack
 
 ### Decentralized AI
 
-<sub>261 digests · [latest: #261](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-261.md) · [read on the blog](https://blogs.drix10.com/categories/decentralized-ai)</sub>
+<sub>262 digests · [latest: #262](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-262.md) · [read on the blog](https://blogs.drix10.com/categories/decentralized-ai)</sub>
 
-*   Qubic science team releases 155,192 evolved AI brains
-*   GEODNET network enables cm-level RTK for parking spaces
-*   Firelight first layer of protection on LidoFinance EarnETH vaults 5.7% $12.1M
+*   Arete-27B fine-tuned Qwen3.8-27B cuts propaganda to 1%
+*   Making Agents More Consistent: Skills Should Form Habits for Repeat Tasks
+*   Tom Lee says AI infrastructure spend $30T, total build-out $35T
 
 ### The Exponential Future
 
-<sub>262 digests · [latest: #262](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-262.md) · [read on the blog](https://blogs.drix10.com/categories/the-exponential-future)</sub>
+<sub>263 digests · [latest: #263](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-263.md) · [read on the blog](https://blogs.drix10.com/categories/the-exponential-future)</sub>
 
-*   Inovio Pharmaceuticals long trade returns 118%
-*   US midterms market ended close to start after sharp swings
-*   Nasdaq 100 extends losses to -5.5%, near bear market
+*   Thinking Machines ships open-weight model; Inkling 2 Small 31
+*   GBrain Teams now asks before teammate AI uses account
+*   Kardashev stack – SpaceX rockets, nuclear reactors, AI chips
 
 ### AI Education
 
-<sub>277 digests · [latest: #277](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-277.md) · [read on the blog](https://blogs.drix10.com/categories/ai-education)</sub>
+<sub>278 digests · [latest: #278](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-278.md) · [read on the blog](https://blogs.drix10.com/categories/ai-education)</sub>
 
-*   Clemson launches Great Books department 120 scholarships
-*   Free K–12 Curriculum for Digital Fluency – new activity drop 11/16
-*   Descript Updates: Animate Text, Layouts, Search, and Skills
+*   Ripple-65B released with 65B params, Apache 2.0, $32M training
+*   Affirm transformer underwriting model lifts conversion 3.4%
+*   Marble beta launch on App Store with 15,000 waitlist
 
 ### AI in Enterprise Applications
 
-<sub>267 digests · [latest: #267](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-267.md) · [read on the blog](https://blogs.drix10.com/categories/ai-in-enterprise-applications)</sub>
+<sub>268 digests · [latest: #268](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-268.md) · [read on the blog](https://blogs.drix10.com/categories/ai-in-enterprise-applications)</sub>
 
-*   Agentic Extraction 27 invoices to 494 rows in 73 s
-*   GPT-6 Cyber launch scores 48.5% on ExploitGym
-*   DeepSeek v4.1 Flash 3D retro TV built in 3h20m for under $1
+*   RuntimeWire AI newsroom reaches 5,537 stories
+*   RuntimeWire AI newsroom publishes 5,537 stories
+*   Accessibility.getFullAXTree finds 227 clickable nodes
 
 ### Interesting Finds
 
-<sub>259 digests · [latest: #259](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-259.md) · [read on the blog](https://blogs.drix10.com/categories/interesting-finds)</sub>
+<sub>260 digests · [latest: #260](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-260.md) · [read on the blog](https://blogs.drix10.com/categories/interesting-finds)</sub>
 
-*   Zipline raised $1.5 billion, building nationwide drone delivery network
-*   Regent Viceroy prototype high-cadence flight testing expands envelope
+*   Product Hunt 13th birthday shows 3x maker launches, 25% unicorn founders
+*   Supabase Founder Friends Singapore event announced
 
 ### Investors and Venture Capital
 
-<sub>257 digests · [latest: #257](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-257.md) · [read on the blog](https://blogs.drix10.com/categories/investors-and-venture-capital)</sub>
+<sub>258 digests · [latest: #258](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-258.md) · [read on the blog](https://blogs.drix10.com/categories/investors-and-venture-capital)</sub>
 
-*   Venture funds 10,000 new 2019-2022, most won’t raise second
-*   Astra $500 tokens chip-level logic FPGA Satellite TV receiver
+*   Kimi K3.1 Pro on 8xMI350X reaches 300 tok/s
+*   Gemma 4 fine-tuned classifier latency 35ms, F1 0.902
+*   Inferact token traffic reaches 7 trillion daily
 
 ### Cybersecurity and Tech
 
-<sub>240 digests · [latest: #240](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-240.md) · [read on the blog](https://blogs.drix10.com/categories/cybersecurity-and-tech)</sub>
+<sub>241 digests · [latest: #241](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-241.md) · [read on the blog](https://blogs.drix10.com/categories/cybersecurity-and-tech)</sub>
 
-*   InsecureNature to speak on Stolen API Keys Fuel Model Distillation at NahamCon November 20
-*   ARTEX testing round 2 with MDE on W11 and caching gateway
-*   OffSec Learn Enterprise moves beyond one-and-done training
+*   MPTCP vulnerability allows full takeover of exposed Linux servers
+*   The PampaLeaks Scapegoat presentation shows forensic breakdown
 
 ### Neuroscience and AI
 
-<sub>248 digests · [latest: #248](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-248.md) · [read on the blog](https://blogs.drix10.com/categories/neuroscience-and-ai)</sub>
+<sub>249 digests · [latest: #249](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-249.md) · [read on the blog](https://blogs.drix10.com/categories/neuroscience-and-ai)</sub>
 
-*   Castration extends male mouse lifespan by >30%
-*   Imaging exoplanets below the telescope stability limit – 2–15× sensitivity gain
-*   MayoClinic study finds crafting cuts risk 42% of mild cognitive impairment
+*   Tenecteplase approved for acute ischemic stroke in 2025
+*   Foodome project uses AI to catalog food molecules
+*   Science Immunology November 2026 issue live
 
 ### PR and Communications
 
-<sub>246 digests · [latest: #246](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-246.md) · [read on the blog](https://blogs.drix10.com/categories/pr-and-communications)</sub>
+<sub>247 digests · [latest: #247](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-247.md) · [read on the blog](https://blogs.drix10.com/categories/pr-and-communications)</sub>
 
-*   Axiom Math formally verified Stacks Project, 16 million lines
-*   Lele Sadoughi brand launches 38-piece Ulta line
-*   Camp Snap CS-8 Mini launch with 2.7K video and $149.99 price
+*   U.S. employers added 165,000 jobs, part-time workers rose 339,000
+*   OpenAI valued at $1.25 trillion, safety focus over IPO
+*   Sequoia shutting down its Scouts program marks the end of an era
 
 ### Quantum Computing
 
-<sub>246 digests · [latest: #246](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-246.md) · [read on the blog](https://blogs.drix10.com/categories/quantum-computing)</sub>
+<sub>247 digests · [latest: #247](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-247.md) · [read on the blog](https://blogs.drix10.com/categories/quantum-computing)</sub>
 
-*   Xanadu QROM dense encoding cuts compute 4x
-*   Quantum teleportation 1,200 km Earth-satellite link (2017)
-*   Quantinuum Nexus roadmap unveiled for fault-tolerant era
+*   Adaptive Self-Optimization cuts NV thermometer heating 44%
+*   Hybrid Quantum--Classical Pauli-Correlator Architecture for Image Reconstruction announced
+*   Broken-Symmetry Reference States for SQD reach near-DMRG
 
 ### Spatial Computing
 
-<sub>243 digests · [latest: #243](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-243.md) · [read on the blog](https://blogs.drix10.com/categories/spatial-computing)</sub>
+<sub>244 digests · [latest: #244](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-244.md) · [read on the blog](https://blogs.drix10.com/categories/spatial-computing)</sub>
 
-*   Cubiques now free on Meta Store with 70 puzzles
-*   Gracia Plugin for Unreal Engine adds 4D Gaussian Splatting
-*   Opus 5.5 build on PICO new device in hours
+*   Steam Frame Beta adds Room View retention, mixed reality OpenXR support
+*   SteamVR new chroma key pipeline enables Room View on Vision Pro
+*   LODGE XR Talk Vol.45 announces four content pieces and open-call exhibit
 
 ### Tech Companies and News
 
-<sub>239 digests · [latest: #239](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-239.md) · [read on the blog](https://blogs.drix10.com/categories/tech-companies-and-news)</sub>
+<sub>240 digests · [latest: #240](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-240.md) · [read on the blog](https://blogs.drix10.com/categories/tech-companies-and-news)</sub>
 
-*   Eon Yukon launch: serverless engine at 1M events/sec
-*   RAMBO air-gapped PC data exfiltration 1000 bits per second
-*   Drip acquisition announcement – Drip acquired by unknown buyer, also Sleeknote acquired
+*   Muse and Meta Al models add Active Memory, Focus
+*   Anthropic IPO valuation pushback, Apple record quarter, OpenAI raise adjustment
+*   Europe grid dip every 60 s tied to battery checks
 
 ### Tech Journalists and VIPs
 
-<sub>241 digests · [latest: #241](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-241.md) · [read on the blog](https://blogs.drix10.com/categories/tech-journalists-and-vips)</sub>
+<sub>242 digests · [latest: #242](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-242.md) · [read on the blog](https://blogs.drix10.com/categories/tech-journalists-and-vips)</sub>
 
-*   Daytonaio hits $100M run rate, raises $60M at $1B
-*   Grand Challenges in Material Science announced, $1M prize
-*   Polemos launch – AI-guided networked precision strike system
+*   Anthropic run rate tops $80 billion end of October
+*   DoorDash AI agents generate several hundred orders, ~0.0001% share
+*   Airbnb AI agents consumer behavior details 500k bookings daily
 
 ### World News and Updates
 
-<sub>234 digests · [latest: #234](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-234.md) · [read on the blog](https://blogs.drix10.com/categories/world-news-and-updates)</sub>
+<sub>235 digests · [latest: #235](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-235.md) · [read on the blog](https://blogs.drix10.com/categories/world-news-and-updates)</sub>
 
-*   LIV Golf shutdown pending bankruptcy as rescue fails
-*   LIV Golf to liquidate after investor pulls funding
+*   Tesla Cybertruck production to wind down mid-2027
+*   Melania, The Series announced, airing Nov 20 on Prime Video
+*   Retatrutide illegal sale, UK hospital case
 
 ---
 
