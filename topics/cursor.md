@@ -1,11 +1,14 @@
 # Cursor
 
-Cursor, the AI code editor. The 100 newest of 202 briefings that mention it, from every category, newest first.
+Cursor, the AI code editor. The 100 newest of 205 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-07 | [proto_ide designer IDE announced with early access signups](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-311.md#-proto_ide-designer-ide-announced-with-early-access-signups) | CS Academics |
+| 2026-11-07 | [Membase shared long-term memory layer announced, free and multi-model support](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-membase-shared-long-term-memory-layer-announced-free-and-multi-model-support) | AI Developer Tools |
+| 2026-11-06 | [Swarms Skills released with 2 agent skills for marketplace access](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-273.md#-swarms-skills-released-with-2-agent-skills-for-marketplace-access) | AI for Content Creation and Marketing |
 | 2026-11-02 | [Runway is now on Cursor – single-plugin integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-274.md#-runway-is-now-on-cursor--single-plugin-integration) | AI Powered Film and Media |
 | 2026-11-02 | [EntelligenceAI Memory launch with shared memory, 53% fewer repeat errors](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-236.md#-entelligenceai-memory-launch-with-shared-memory-53-fewer-repeat-errors) | Tech Companies and News |
 | 2026-11-02 | [3D OS by Scenario open-sources full 3D studio with 80 skills](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-236.md#-3d-os-by-scenario-open-sources-full-3d-studio-with-80-skills) | Tech Companies and News |
@@ -103,6 +106,3 @@ Cursor, the AI code editor. The 100 newest of 202 briefings that mention it, fro
 |  | [AI Agents - Web Navigation Skill](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-146.md#-ai-agents---web-navigation-skill) | AI in Enterprise Applications |
 |  | [AI Tools - Cursor Long-Running Agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-142.md#-ai-tools---cursor-long-running-agents) | AI Driven Vehicles and Transportation |
 |  | [AI Coding Agents - High-Throughput Development](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-140.md#-ai-coding-agents---high-throughput-development) | AI Driven Vehicles and Transportation |
-|  | [Software Development - Performance Tracing Tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-136.md#-software-development---performance-tracing-tools) | AI Leaders and Thinkers |
-|  | [AI Coding Assistants - Claude Code vs. Cursor Evaluation](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-134.md#-ai-coding-assistants---claude-code-vs-cursor-evaluation) | Computer Vision and AI Applications |
-|  | [AI Agents - Dynamic Context Management](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-129.md#-ai-agents---dynamic-context-management) | Computer Vision and AI Applications |

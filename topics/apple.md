@@ -1,11 +1,18 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 660 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 667 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-07 | [Coinbase CEO backs tokenizing COIN stock, 67 firms object to tokenized shares](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-261.md#-coinbase-ceo-backs-tokenizing-coin-stock-67-firms-object-to-tokenized-shares) | Crypto and Web3 |
+| 2026-11-07 | [Keplr unauthorized transactions flagged to Web3Auth](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-261.md#-keplr-unauthorized-transactions-flagged-to-web3auth) | Crypto and Web3 |
+| 2026-11-07 | [SteamVR new chroma key pipeline enables Room View on Vision Pro](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-244.md#-steamvr-new-chroma-key-pipeline-enables-room-view-on-vision-pro) | Spatial Computing |
+| 2026-11-07 | [Anthropic IPO valuation pushback, Apple record quarter, OpenAI raise adjustment](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-240.md#-anthropic-ipo-valuation-pushback-apple-record-quarter-openai-raise-adjustment) | Tech Companies and News |
+| 2026-11-06 | [JITEngine custom inference engine for Apple Silicon up to 2.7× faster](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-277.md#-jitengine-custom-inference-engine-for-apple-silicon-up-to-27-faster) | AI Driven Vehicles and Transportation |
+| 2026-11-06 | [Pegasus spyware iPhone infection via fake GIF](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-267.md#-pegasus-spyware-iphone-infection-via-fake-gif) | AR VR Professionals and Community |
+| 2026-11-06 | [Result iOS agent launches with on-device cards, passwords, Apple Pay](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-242.md#-result-ios-agent-launches-with-on-device-cards-passwords-apple-pay) | Tech Journalists and VIPs |
 | 2026-11-05 | [MAG 7 ARE DOWN $800 BILLION so far today](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-261.md#-mag-7-are-down-800-billion-so-far-today) | Decentralized AI |
 | 2026-11-04 | [JITEngine custom Apple Silicon engine up to 2.7× faster](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-310.md#-jitengine-custom-apple-silicon-engine-up-to-27-faster) | CS Academics |
 | 2026-11-04 | [Iris-3B Metal launches Mac app with 9.81 s 1024×1024 Turbo](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-262.md#-iris-3b-metal-launches-mac-app-with-981-s-10241024-turbo) | AI in Real Estate and Property Tech |
@@ -99,10 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 660 br
 | 2026-09-16 | [Apple Reference Image: A New Approach for Verified Photography](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-212.md#-apple-reference-image-a-new-approach-for-verified-photography) | Spatial Computing |
 | 2026-09-16 | [Apple's PCC and Computational Photography](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-212.md#-apples-pcc-and-computational-photography) | Spatial Computing |
 | 2026-09-15 | [Reality Composer Pro 2 to Version 3 Migration Guide](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-212.md#-reality-composer-pro-2-to-version-3-migration-guide) | Spatial Computing |
-| 2026-09-14 | [Apple Software Updates](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-238.md#-apple-software-updates) | Founders and Entrepreneurs |
-| 2026-09-14 | [Databricks' Enterprise Customers](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-212.md#-databricks-enterprise-customers) | Tech Journalists and VIPs |
-| 2026-09-14 | [Tech News - Farframe](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-211.md#-tech-news---farframe) | Spatial Computing |
-| 2026-09-14 | [MacOS 27 / Golden Gate](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-211.md#-macos-27--golden-gate) | Tech Companies and News |
-| 2026-09-14 | [Tech News - iPhone Duo Development](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-210.md#-tech-news---iphone-duo-development) | Spatial Computing |
-| 2026-09-14 | [Tech News - iPhone Duo Group Lab Sessions](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-210.md#-tech-news---iphone-duo-group-lab-sessions) | Spatial Computing |
-| 2026-09-13 | [Bill Draper](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-260.md#-bill-draper) | VC Firms |

@@ -1,11 +1,19 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 616 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 624 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-07 | [Coinbase CEO backs tokenizing COIN stock, 67 firms object to tokenized shares](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-261.md#-coinbase-ceo-backs-tokenizing-coin-stock-67-firms-object-to-tokenized-shares) | Crypto and Web3 |
+| 2026-11-07 | [Meta VR Glasses e-book announced with eye and hand interaction guide](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-244.md#-meta-vr-glasses-e-book-announced-with-eye-and-hand-interaction-guide) | Spatial Computing |
+| 2026-11-06 | [Jellypod connects to Buffer, adds TikTok Instagram Facebook](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-278.md#-jellypod-connects-to-buffer-adds-tiktok-instagram-facebook) | AI Education |
+| 2026-11-06 | [NVIDIA driver fix for Meta Quest Link freezing issue, v621.01 release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-270.md#-nvidia-driver-fix-for-meta-quest-link-freezing-issue-v62101-release) | AR VR Companies and Development |
+| 2026-11-06 | [Build XR with Unity: Meta XR e-book announced](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-270.md#-build-xr-with-unity-meta-xr-e-book-announced) | AR VR Companies and Development |
+| 2026-11-06 | [Runway Ads Lab: San Francisco event announced November 19](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-270.md#-runway-ads-lab-san-francisco-event-announced-november-19) | AR VR Companies and Development |
+| 2026-11-06 | [Georgia vs Ole Miss immersive 180° on Meta Quest](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-270.md#-georgia-vs-ole-miss-immersive-180-on-meta-quest) | AR VR Companies and Development |
+| 2026-11-06 | [Muse and Meta Al models add Active Memory, Focus](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-240.md#-muse-and-meta-al-models-add-active-memory-focus) | Tech Companies and News |
 | 2026-11-05 | [Llama adds d1-Omni multimodal and d3-flash support](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-310.md#-llama-adds-d1-omni-multimodal-and-d3-flash-support) | CS Academics |
 | 2026-11-05 | [Meta buys coding app, OpenAI buys Codex diffs team](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-299.md#-meta-buys-coding-app-openai-buys-codex-diffs-team) | AI Leaders and Thinkers |
 | 2026-11-05 | [Meta Quest Link driver freeze fixed in NVIDIA v621.01](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-269.md#-meta-quest-link-driver-freeze-fixed-in-nvidia-v62101) | AR VR Companies and Development |
@@ -98,11 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 616 brie
 | 2026-09-22 | [AI - GPT-6 for Meta Ads](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-245.md#-ai---gpt-6-for-meta-ads) | AI for Content Creation and Marketing |
 | 2026-09-22 | [AI - Meta's Muse AI](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-240.md#-ai---metas-muse-ai) | Interesting Finds |
 | 2026-09-22 | [AI - Muse AI's Security and Privacy Concerns](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-240.md#-ai---muse-ais-security-and-privacy-concerns) | Interesting Finds |
-| 2026-09-22 | [AI - Muse AI's Integration with Human Call Centers](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-240.md#-ai---muse-ais-integration-with-human-call-centers) | Interesting Finds |
-| 2026-09-22 | [AI - Muse and Meta](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-236.md#-ai---muse-and-meta) | Investors and Venture Capital |
-| 2026-09-21 | [AI - Meta's AI Stack](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-236.md#-ai---metas-ai-stack) | Investors and Venture Capital |
-| 2026-09-21 | [Finance - Distribution Edge](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-236.md#-finance---distribution-edge) | Investors and Venture Capital |
-| 2026-09-21 | [Meta and Instagram Stories](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-219.md#-meta-and-instagram-stories) | Spatial Computing |
-| 2026-09-20 | [Meta's Muse: AI-Powered Data Analysis](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-263.md#-metas-muse-ai-powered-data-analysis) | AI Organizations and Media |
-| 2026-09-20 | [Meta’s Muse Turns Data into AI Gold, Nudging for Bank Emails and Passports](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-254.md#-metas-muse-turns-data-into-ai-gold-nudging-for-bank-emails-and-passports) | AI Powered Film and Media |
-| 2026-09-19 | [AI Infrastructure - Meta's Muse Product](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-269.md#-ai-infrastructure---metas-muse-product) | VC Firms |

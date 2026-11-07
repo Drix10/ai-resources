@@ -1,11 +1,14 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,201 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,204 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-06 | [Reprompt AI acquired by Rippling – new AI agents](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-303.md#-reprompt-ai-acquired-by-rippling--new-ai-agents) | Tech VIPs |
+| 2026-11-06 | [AlphaGo founder raises $1.1B and free RL course 10 lectures](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-258.md#-alphago-founder-raises-11b-and-free-rl-course-10-lectures) | Investors and Venture Capital |
+| 2026-11-06 | [OpenAI valued at $1.25 trillion, safety focus over IPO](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-247.md#-openai-valued-at-125-trillion-safety-focus-over-ipo) | PR and Communications |
 | 2026-11-05 | [Zipline raises $1.5B, signs Walmart contract for 300 supercenters](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-302.md#-zipline-raises-15b-signs-walmart-contract-for-300-supercenters) | Tech VIPs |
 | 2026-11-05 | [Zipline raises $1.5b at $21.5b valuation](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-302.md#-zipline-raises-15b-at-215b-valuation) | Tech VIPs |
 | 2026-11-05 | [Tractian raises $130M Series D at $1.4B valuation](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-300.md#-tractian-raises-130m-series-d-at-14b-valuation) | VC Firms |
@@ -103,6 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,201 briefings that mention it, fro
 | 2026-10-07 | [Hermes Agent raises Series B funding](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-229.md#-hermes-agent-raises-series-b-funding) | Tech Journalists and VIPs |
 | 2026-10-07 | [Vitalize Care raises $31M Series A for AI staffing OS](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-229.md#-vitalize-care-raises-31m-series-a-for-ai-staffing-os) | Tech Journalists and VIPs |
 | 2026-10-06 | [PiccardScience founded, raises pre‑seed round led by FirstMarkCap](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-285.md#-piccardscience-founded-raises-preseed-round-led-by-firstmarkcap) | VC Firms |
-| 2026-10-05 | [Business - Valon's $150M Series D Funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-264.md#-business---valons-150m-series-d-funding) | AI Policy and Ethical Considerations |
-| 2026-10-05 | [ValonOS - $150M Series D Funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-264.md#-valonos---150m-series-d-funding) | AI Policy and Ethical Considerations |
-| 2026-10-01 | [Competitive Intelligence Skills Open-Sourced](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-285.md#-competitive-intelligence-skills-open-sourced) | Tech VIPs |

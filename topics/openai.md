@@ -1,11 +1,17 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,242 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,248 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-07 | [Membase shared long-term memory layer announced, free and multi-model support](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-membase-shared-long-term-memory-layer-announced-free-and-multi-model-support) | AI Developer Tools |
+| 2026-11-07 | [Aside Computer Use launches, 2.7x faster](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-303.md#-aside-computer-use-launches-27x-faster) | Tech VIPs |
+| 2026-11-07 | [OpenAI March 2028 RSI target, Anthropic 2027 RSI target](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-270.md#-openai-march-2028-rsi-target-anthropic-2027-rsi-target) | Computer Vision and AI Applications |
+| 2026-11-07 | [Anthropic IPO valuation pushback, Apple record quarter, OpenAI raise adjustment](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-240.md#-anthropic-ipo-valuation-pushback-apple-record-quarter-openai-raise-adjustment) | Tech Companies and News |
+| 2026-11-06 | [Swarms Skills released with 2 agent skills for marketplace access](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-273.md#-swarms-skills-released-with-2-agent-skills-for-marketplace-access) | AI for Content Creation and Marketing |
+| 2026-11-06 | [OpenAI valued at $1.25 trillion, safety focus over IPO](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-247.md#-openai-valued-at-125-trillion-safety-focus-over-ipo) | PR and Communications |
 | 2026-11-05 | [Meta buys coding app, OpenAI buys Codex diffs team](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-299.md#-meta-buys-coding-app-openai-buys-codex-diffs-team) | AI Leaders and Thinkers |
 | 2026-11-05 | [OpenAI AI Model Discovers 948 Linux Kernel Vulnerabilities](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-280.md#-openai-ai-model-discovers-948-linux-kernel-vulnerabilities) | AI and Robotics Applications |
 | 2026-11-05 | [GPT-6 Astra misalignment monitoring turned off in user case](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-276.md#-gpt-6-astra-misalignment-monitoring-turned-off-in-user-case) | AI Professionals and Community |
@@ -100,9 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,242 briefings t
 | 2026-10-15 | [Codex definitive history released, 8k word draft](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-284.md#-codex-definitive-history-released-8k-word-draft) | AI Leaders and Thinkers |
 | 2026-10-15 | [GPT-6 solves NIST assembly board for $3.98 (partial)](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-269.md#-gpt-6-solves-nist-assembly-board-for-398-partial) | AI and Robotics Applications |
 | 2026-10-15 | [Gemini-4 Argon hits 81.9% on RoboVista robotics benchmark](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-267.md#-gemini-4-argon-hits-819-on-robovista-robotics-benchmark) | AI Professionals and Community |
-| 2026-10-15 | [MAI-Image-2.6 on Vercel AI Gateway launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-264.md#-mai-image-26-on-vercel-ai-gateway-launch) | AI Consulting and Expertise |
-| 2026-10-15 | [invideo Remote Agents – AI video editor integration](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-259.md#-invideo-remote-agents--ai-video-editor-integration) | Founders and Entrepreneurs |
-| 2026-10-15 | [Syndrome, Synergy, and Safety improves TCM prescription](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-251.md#-syndrome-synergy-and-safety-improves-tcm-prescription) | Decentralized AI |
-| 2026-10-15 | [Dropbox for AI memory live on Virtuals Protocol launch](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-251.md#-dropbox-for-ai-memory-live-on-virtuals-protocol-launch) | Decentralized AI |
-| 2026-10-15 | [AI Leaders Gaming Post-Disaster Scenarios, Hundreds of Billions Damage](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-236.md#-ai-leaders-gaming-post-disaster-scenarios-hundreds-of-billions-damage) | PR and Communications |
-| 2026-10-14 | [ESMO 2026 AI-native KOL insights collection 373 posts 185 accounts](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-274.md#-esmo-2026-ai-native-kol-insights-collection-373-posts-185-accounts) | AI in Healthcare and Science |

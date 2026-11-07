@@ -1,11 +1,12 @@
 # Amazon & AWS
 
-Amazon, AWS, Bedrock and Alexa. The 100 newest of 392 briefings that mention it, from every category, newest first.
+Amazon, AWS, Bedrock and Alexa. The 100 newest of 393 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-07 | [Amazon Bee Frontier adds daily recap feed](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-244.md#-amazon-bee-frontier-adds-daily-recap-feed) | Spatial Computing |
 | 2026-11-05 | [Uber Eats on Amazon $0 delivery for Prime over $25](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-276.md#-uber-eats-on-amazon-0-delivery-for-prime-over-25) | AI Driven Vehicles and Transportation |
 | 2026-11-05 | [MAG 7 ARE DOWN $800 BILLION so far today](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-261.md#-mag-7-are-down-800-billion-so-far-today) | Decentralized AI |
 | 2026-11-03 | [Amazon Google Microsoft Meta CapEx Q3 $202B increase](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-261.md#-amazon-google-microsoft-meta-capex-q3-202b-increase) | The Exponential Future |
@@ -105,4 +106,3 @@ Amazon, AWS, Bedrock and Alexa. The 100 newest of 392 briefings that mention it,
 | 2026-04-28 | [Cloud Services - Identifying AWS Offerings](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-186.md#-cloud-services---identifying-aws-offerings) | AI Developer Tools |
 | 2026-04-26 | [Climate Science - Carbon Storage](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-188.md#-climate-science---carbon-storage) | Tech VIPs |
 | 2026-04-24 | [Cloud Computing - AWS Graviton for AI](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-201.md#-cloud-computing---aws-graviton-for-ai) | CS Academics |
-| 2026-04-24 | [E-commerce Personalization - Effective Product Recommendations](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-164.md#-e-commerce-personalization---effective-product-recommendations) | Tech Companies and News |

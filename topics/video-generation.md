@@ -1,11 +1,14 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 809 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 812 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-07 | [W2A achieves 95.9% success and 21× faster inference](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-281.md#-w2a-achieves-959-success-and-21-faster-inference) | AI and Robotics Applications |
+| 2026-11-06 | [GPT Image 2.6 now in Runway, 50% faster generation](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-270.md#-gpt-image-26-now-in-runway-50-faster-generation) | AR VR Companies and Development |
+| 2026-11-06 | [Runway Ads Lab: San Francisco event announced November 19](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-270.md#-runway-ads-lab-san-francisco-event-announced-november-19) | AR VR Companies and Development |
 | 2026-11-05 | [SoundBoost Music Video Generator adds auto retakes for lip sync](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-282.md#-soundboost-music-video-generator-adds-auto-retakes-for-lip-sync) | AI Generated Music and Audio |
 | 2026-11-05 | [Gemini Omni 1.2 Flash adds 15-second video, $0.07/s](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-269.md#-gemini-omni-12-flash-adds-15-second-video-007s) | Computer Vision and AI Applications |
 | 2026-11-04 | [Free Online AI Music Video Generator – fashion MV prompt launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-281.md#-free-online-ai-music-video-generator--fashion-mv-prompt-launch) | AI Holodeck and Virtual Worlds |
@@ -103,6 +106,3 @@ Models and tools that make video. The 100 newest of 809 briefings that mention i
 | 2026-05-08 | [AI Video Generation - Controllable Elements](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-189.md#-ai-video-generation---controllable-elements) | AI Holodeck and Virtual Worlds |
 | 2026-05-07 | [AI Video Generation - Consistent Character Animation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-187.md#-ai-video-generation---consistent-character-animation) | AI Holodeck and Virtual Worlds |
 | 2026-05-05 | [Google I/O - Anticipated Announcements](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-184.md#-google-io---anticipated-announcements) | AI Leaders and Thinkers |
-| 2026-04-25 | [AI Features - Grok Imagine Lip Sync](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-153.md#-ai-features---grok-imagine-lip-sync) | Tech Companies and News |
-| 2026-04-24 | [AI Video Generation - Cursor and Scenario](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-178.md#-ai-video-generation---cursor-and-scenario) | AI Holodeck and Virtual Worlds |
-| 2026-04-23 | [Hera - AI Product Video Generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-178.md#-hera---ai-product-video-generation) | AI Holodeck and Virtual Worlds |

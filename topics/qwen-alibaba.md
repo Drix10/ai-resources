@@ -1,11 +1,13 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 232 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 234 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-06 | [Arete-27B – post-trained Qwen3.8-27B with Western values, 803-prompt eval](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-267.md#-arete-27b--post-trained-qwen38-27b-with-western-values-803-prompt-eval) | AR VR Professionals and Community |
+| 2026-11-06 | [Arete-27B fine-tuned Qwen3.8-27B cuts propaganda to 1%](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-262.md#-arete-27b-fine-tuned-qwen38-27b-cuts-propaganda-to-1) | Decentralized AI |
 | 2026-11-05 | [Strata 0.2.11 adds auto split engine, decode 186.8 tps](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-263.md#-strata-0211-adds-auto-split-engine-decode-1868-tps) | AI in Real Estate and Property Tech |
 | 2026-11-04 | [Qwen3.8-Flash-Next benchmarks 188 tps on code edits](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-296.md#-qwen38-flash-next-benchmarks-188-tps-on-code-edits) | AI Companies and Ventures |
 | 2026-11-03 | [Qwen3.5-0.8B weight edit improves math 6x](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-308.md#-qwen35-08b-weight-edit-improves-math-6x) | CS Academics |
@@ -104,5 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 232 briefings that mention i
 | 2026-06-27 | [Decentralized Compute - AI Inference Market Share](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-192.md#-decentralized-compute---ai-inference-market-share) | Decentralized AI |
 | 2026-05-30 | [Alibaba - New Product Announcement](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-188.md#-alibaba---new-product-announcement) | The Exponential Future |
 | 2026-05-29 | [AI Models - Fine-tuned Qwen3 32B for Tezos](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-202.md#-ai-models---fine-tuned-qwen3-32b-for-tezos) | AI Powered Film and Media |
-| 2026-05-11 | [Community Engagement - Alibaba Qwen Ambassador Program](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-183.md#-community-engagement---alibaba-qwen-ambassador-program) | Computer Vision and AI Applications |
-| 2026-05-07 | [AI Development - Local Game Creation](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-188.md#-ai-development---local-game-creation) | AI Leaders and Thinkers |
