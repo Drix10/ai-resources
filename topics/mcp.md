@@ -1,11 +1,16 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 415 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 420 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-07 | [Membase shared long-term memory layer announced, free and multi-model support](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-membase-shared-long-term-memory-layer-announced-free-and-multi-model-support) | AI Developer Tools |
+| 2026-11-07 | [ScreensDesign MCP server launches, Full Pro required](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-screensdesign-mcp-server-launches-full-pro-required) | AI Developer Tools |
+| 2026-11-07 | [sandbox-mcp - fresh Windows test machines in 35 s](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-300.md#-sandbox-mcp---fresh-windows-test-machines-in-35-s) | AI Leaders and Thinkers |
+| 2026-11-07 | [Rainbrand Review API and MCP tool launch announced](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-273.md#-rainbrand-review-api-and-mcp-tool-launch-announced) | AI for Content Creation and Marketing |
+| 2026-11-06 | [Swarms Skills released with 2 agent skills for marketplace access](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-273.md#-swarms-skills-released-with-2-agent-skills-for-marketplace-access) | AI for Content Creation and Marketing |
 | 2026-11-04 | [WebMCP vs Browser vs MCP performance for AI agents – 4x faster, 90% token reduction](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-298.md#-webmcp-vs-browser-vs-mcp-performance-for-ai-agents--4x-faster-90-token-reduction) | AI Leaders and Thinkers |
 | 2026-11-04 | [Soundverse adds ChatGPT integration via custom MCP server](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-281.md#-soundverse-adds-chatgpt-integration-via-custom-mcp-server) | AI Generated Music and Audio |
 | 2026-11-03 | [Playwright browser security reminder – no bundled browsers, pinned test builds](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-307.md#-playwright-browser-security-reminder--no-bundled-browsers-pinned-test-builds) | AI Developer Tools |
@@ -101,8 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-06-27 | [AI Integration - Engineering Software Connectivity](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-197.md#-ai-integration---engineering-software-connectivity) | Tech Infrastructure |
 | 2026-05-28 | [AI Integration - FlutterFlow Development](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-193.md#-ai-integration---flutterflow-development) | AI for Content Creation and Marketing |
 | 2026-05-16 | [AI Configuration - Streamlined Bot Setup](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-205.md#-ai-configuration---streamlined-bot-setup) | AI Companies and Ventures |
-| 2026-05-15 | [Basedash - MCP Connector Integration](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-169.md#-basedash---mcp-connector-integration) | Tech Journalists and VIPs |
-| 2026-05-13 | [AI Tools - Consensus Platform Integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-209.md#-ai-tools---consensus-platform-integration) | AI Education |
-| 2026-05-13 | [AI Integration for Productivity - Mobbin MCP with Claude AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-196.md#-ai-integration-for-productivity---mobbin-mcp-with-claude-ai) | AI Holodeck and Virtual Worlds |
-| 2026-05-13 | [Xcode - MCP vs. XcodeBuildMCP](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-192.md#-xcode---mcp-vs-xcodebuildmcp) | AI Leaders and Thinkers |
-| 2026-05-12 | [Workflow Management - Coda MCP](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-185.md#-workflow-management---coda-mcp) | AI for Content Creation and Marketing |

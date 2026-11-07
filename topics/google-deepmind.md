@@ -1,11 +1,15 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 946 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 950 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-07 | [Membase shared long-term memory layer announced, free and multi-model support](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-membase-shared-long-term-memory-layer-announced-free-and-multi-model-support) | AI Developer Tools |
+| 2026-11-07 | [Ima Studio – AI Media Agent workflow announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-283.md#-ima-studio--ai-media-agent-workflow-announced) | AI Holodeck and Virtual Worlds |
+| 2026-11-06 | [Gemma 4 fine-tuned classifier latency 35ms, F1 0.902](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-258.md#-gemma-4-fine-tuned-classifier-latency-35ms-f1-0902) | Investors and Venture Capital |
+| 2026-11-06 | [AlphaGo founder raises $1.1B and free RL course 10 lectures](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-258.md#-alphago-founder-raises-11b-and-free-rl-course-10-lectures) | Investors and Venture Capital |
 | 2026-11-05 | [Google $40 free API credits per month for Gemini](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-293.md#-google-40-free-api-credits-per-month-for-gemini) | AI Organizations and Media |
 | 2026-11-05 | [Gemini Omni 1.2 Flash adds 15-second video, $0.07/s](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-269.md#-gemini-omni-12-flash-adds-15-second-video-007s) | Computer Vision and AI Applications |
 | 2026-11-05 | [TurboFieldfare runs Gemma 4 26B on 8GB Mac with ~2GB RAM](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-263.md#-turbofieldfare-runs-gemma-4-26b-on-8gb-mac-with-2gb-ram) | AI in Real Estate and Property Tech |
@@ -102,7 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-09-16 | [Google AI Plans for Students](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-280.md#-google-ai-plans-for-students) | CS Academics |
 | 2026-09-16 | [Free Gemini Accounts](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-269.md#-free-gemini-accounts) | Devs, Designers, DevRel |
 | 2026-09-16 | [Recursive Self-Improvement through Evolving Worlds](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-257.md#-recursive-self-improvement-through-evolving-worlds) | AI Leaders and Thinkers |
-| 2026-09-16 | [AI and Governance - AI Regulation](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-247.md#-ai-and-governance---ai-regulation) | AI Policy and Ethical Considerations |
-| 2026-09-16 | [AI - DeepMind's Alpha-Fold and Open-Source Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-241.md#-ai---deepminds-alpha-fold-and-open-source-model) | AI Driven Vehicles and Transportation |
-| 2026-09-16 | [Integrating Meeting Context with Gemini](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-238.md#-integrating-meeting-context-with-gemini) | AI for Content Creation and Marketing |
-| 2026-09-15 | [AI News - Google Gemini 3.8 Live](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-280.md#-ai-news---google-gemini-38-live) | CS Academics |

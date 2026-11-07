@@ -4,26 +4,26 @@ Briefings from every category, gathered by company and theme. Each page lists th
 
 | Topic | Briefings | Newest |
 | --- | ---: | --- |
-| [OpenAI](openai.md) | 2,242 | 2026-11-05 |
-| [Anthropic](anthropic.md) | 1,551 | 2026-11-05 |
-| [Google DeepMind](google-deepmind.md) | 946 | 2026-11-05 |
-| [Meta AI](meta-ai.md) | 616 | 2026-11-05 |
+| [OpenAI](openai.md) | 2,248 | 2026-11-07 |
+| [Anthropic](anthropic.md) | 1,568 | 2026-11-07 |
+| [Google DeepMind](google-deepmind.md) | 950 | 2026-11-07 |
+| [Meta AI](meta-ai.md) | 624 | 2026-11-07 |
 | [xAI](xai.md) | 632 | 2026-11-05 |
 | [Mistral AI](mistral.md) | 56 | 2026-11-03 |
-| [NVIDIA](nvidia.md) | 770 | 2026-11-05 |
-| [Microsoft](microsoft.md) | 583 | 2026-11-05 |
-| [Apple](apple.md) | 660 | 2026-11-05 |
-| [Amazon & AWS](amazon.md) | 392 | 2026-11-05 |
-| [DeepSeek](deepseek.md) | 243 | 2026-11-05 |
-| [Qwen & Alibaba](qwen-alibaba.md) | 232 | 2026-11-05 |
-| [Hugging Face](hugging-face.md) | 214 | 2026-10-29 |
+| [NVIDIA](nvidia.md) | 776 | 2026-11-07 |
+| [Microsoft](microsoft.md) | 584 | 2026-11-06 |
+| [Apple](apple.md) | 667 | 2026-11-07 |
+| [Amazon & AWS](amazon.md) | 393 | 2026-11-07 |
+| [DeepSeek](deepseek.md) | 244 | 2026-11-07 |
+| [Qwen & Alibaba](qwen-alibaba.md) | 234 | 2026-11-06 |
+| [Hugging Face](hugging-face.md) | 215 | 2026-11-07 |
 | [Perplexity](perplexity.md) | 118 | 2026-11-05 |
-| [Cursor](cursor.md) | 202 | 2026-11-02 |
-| [AI agents](ai-agents.md) | 5,327 | 2026-11-05 |
-| [MCP](mcp.md) | 415 | 2026-11-04 |
-| [Open-weight models](open-weight-models.md) | 311 | 2026-11-05 |
-| [Funding & acquisitions](funding-and-acquisitions.md) | 1,201 | 2026-11-05 |
-| [Robotics](robotics.md) | 2,454 | 2026-11-05 |
-| [AI policy](ai-policy.md) | 938 | 2026-11-04 |
-| [Chips & compute](chips-and-compute.md) | 1,047 | 2026-11-05 |
-| [Video generation](video-generation.md) | 809 | 2026-11-05 |
+| [Cursor](cursor.md) | 205 | 2026-11-07 |
+| [AI agents](ai-agents.md) | 5,357 | 2026-11-07 |
+| [MCP](mcp.md) | 420 | 2026-11-07 |
+| [Open-weight models](open-weight-models.md) | 315 | 2026-11-07 |
+| [Funding & acquisitions](funding-and-acquisitions.md) | 1,204 | 2026-11-06 |
+| [Robotics](robotics.md) | 2,462 | 2026-11-07 |
+| [AI policy](ai-policy.md) | 939 | 2026-11-06 |
+| [Chips & compute](chips-and-compute.md) | 1,061 | 2026-11-07 |
+| [Video generation](video-generation.md) | 812 | 2026-11-07 |

@@ -1,6 +1,6 @@
 # What's accelerating in AI
 
-<sub>Computed 2026-11-05 from 19226 dated briefings. Trajectories, not predictions: a movement is 3+ briefings from 2+ sources whose weekly counts climb three weeks running. Titles are the briefings' own shared words; every item links its source. See [Method](#method).</sub>
+<sub>Computed 2026-11-07 from 19208 dated briefings. Trajectories, not predictions: a movement is 3+ briefings from 2+ sources whose weekly counts climb three weeks running. Titles are the briefings' own shared words; every item links its source. See [Method](#method).</sub>
 
 _No movement is accelerating right now. The baseline keeps accruing; check back after the next runs._
 
@@ -12,7 +12,6 @@ _No movement is accelerating right now. The baseline keeps accruing; check back 
 - SoundHound AI Shoptalk Fall — peaked 2026-10-01 (3 briefings)
 - World Congress — peaked 2026-09-28 (3 briefings)
 - Robotics Project — peaked 2026-09-26 (3 briefings)
-- FDA Approvals — peaked 2026-09-23 (4 briefings)
 - Celebrates Women — peaked 2026-09-22 (3 briefings)
 - Vocabulary Word — peaked 2026-09-20 (9 briefings)
 - Salesforce's Strategy — peaked 2026-09-18 (3 briefings)

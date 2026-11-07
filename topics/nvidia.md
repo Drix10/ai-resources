@@ -1,11 +1,17 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 770 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 776 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-07 | [MiniMax H3 Reference-to-Video style LoRA trained on Dell tower](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-277.md#-minimax-h3-reference-to-video-style-lora-trained-on-dell-tower) | AI Powered Film and Media |
+| 2026-11-07 | [NVIDIA TEE inference on H200, Tier 3+ partner](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-262.md#-nvidia-tee-inference-on-h200-tier-3-partner) | Decentralized AI |
+| 2026-11-07 | [Coinbase CEO backs tokenizing COIN stock, 67 firms object to tokenized shares](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-261.md#-coinbase-ceo-backs-tokenizing-coin-stock-67-firms-object-to-tokenized-shares) | Crypto and Web3 |
+| 2026-11-06 | [E-Gaborformer – strictly causal speech recognizer with 19MB constant streaming state](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-283.md#-e-gaborformer--strictly-causal-speech-recognizer-with-19mb-constant-streaming-state) | AI Generated Music and Audio |
+| 2026-11-06 | [Vork 3D engine 2,500-token API renders 1M birds in 97 s](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-278.md#-vork-3d-engine-2500-token-api-renders-1m-birds-in-97-s) | Tech Infrastructure |
+| 2026-11-06 | [NVIDIA driver fix for Meta Quest Link freezing issue, v621.01 release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-270.md#-nvidia-driver-fix-for-meta-quest-link-freezing-issue-v62101-release) | AR VR Companies and Development |
 | 2026-11-05 | [PyTorch MoE grouped execution reduces kernel launches](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-310.md#-pytorch-moe-grouped-execution-reduces-kernel-launches) | CS Academics |
 | 2026-11-05 | [Moonshot seeks Nvidia Blackwell access in Europe, 8,000+ GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-276.md#-moonshot-seeks-nvidia-blackwell-access-in-europe-8000-gpus) | AI Driven Vehicles and Transportation |
 | 2026-11-05 | [Meta Quest Link driver freeze fixed in NVIDIA v621.01](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-269.md#-meta-quest-link-driver-freeze-fixed-in-nvidia-v62101) | AR VR Companies and Development |
@@ -100,9 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 770 briefin
 | 2026-09-22 | [AI Training - Human Video Data Collection](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-238.md#-ai-training---human-video-data-collection) | Decentralized AI |
 | 2026-09-21 | [Qwen3.8-27B: Unsupervised CUDA Inference Engine](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-278.md#-qwen38-27b-unsupervised-cuda-inference-engine) | Devs, Designers, DevRel |
 | 2026-09-21 | [Intel - CPU Side of AI](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-271.md#-intel---cpu-side-of-ai) | VC Firms |
-| 2026-09-21 | [Autonomous Trucking Advancements](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-264.md#-autonomous-trucking-advancements) | AI Organizations and Media |
-| 2026-09-21 | [Autonomous Vehicles - Einride and NVIDIA Partner to Advance Autonomous Trucking](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-255.md#-autonomous-vehicles---einride-and-nvidia-partner-to-advance-autonomous-trucking) | AI Powered Film and Media |
-| 2026-09-18 | [Frontier AI Agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-268.md#-frontier-ai-agents) | AI Developer Tools |
-| 2026-09-18 | [NVIDIA - AI Ecosystem](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-253.md#-nvidia---ai-ecosystem) | AI in Healthcare and Science |
-| 2026-09-18 | [NScale IPO](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-248.md#-nscale-ipo) | Tech Infrastructure |
-| 2026-09-18 | [Self-Evolving Agent Harnesses](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-241.md#-self-evolving-agent-harnesses) | Computer Vision and AI Applications |

@@ -1,11 +1,12 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 583 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 584 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-06 | [Microsoft winding down Oracle AI cloud compute deal](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-258.md#-microsoft-winding-down-oracle-ai-cloud-compute-deal) | Investors and Venture Capital |
 | 2026-11-05 | [MAG 7 ARE DOWN $800 BILLION so far today](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-261.md#-mag-7-are-down-800-billion-so-far-today) | Decentralized AI |
 | 2026-11-04 | [Microsoft AI Agent Management Platforms Leader in 2026 Gartner Magic Quadrant](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-276.md#-microsoft-ai-agent-management-platforms-leader-in-2026-gartner-magic-quadrant) | Tech Infrastructure |
 | 2026-11-04 | [Zernio API adds Google and Microsoft account support](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-271.md#-zernio-api-adds-google-and-microsoft-account-support) | AI for Content Creation and Marketing |
@@ -105,4 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 583 briefings
 | 2026-09-17 | [AI Research - ProgramDistill: Turning Web Apps into Verifiable Coding Tasks](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-249.md#-ai-research---programdistill-turning-web-apps-into-verifiable-coding-tasks) | AI Powered Film and Media |
 | 2026-09-16 | [Azure Session Host Configuration](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-243.md#-azure-session-host-configuration) | Tech Infrastructure |
 | 2026-09-16 | [Session Host Configuration Bug](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-243.md#-session-host-configuration-bug) | Tech Infrastructure |
-| 2026-09-16 | [Technology - AI Safety](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-232.md#-technology---ai-safety) | The Exponential Future |

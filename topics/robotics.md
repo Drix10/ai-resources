@@ -1,11 +1,19 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,454 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,462 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-07 | [Social Humanoid framework deployed on Unitree G1 robot](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-294.md#-social-humanoid-framework-deployed-on-unitree-g1-robot) | AI Organizations and Media |
+| 2026-11-07 | [Energy-Based Policy Orchestration paper announced at CoRL 2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-294.md#-energy-based-policy-orchestration-paper-announced-at-corl-2026) | AI Organizations and Media |
+| 2026-11-06 | [Shinkei AI robot spikes fish brains to extend shelf life 3x](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-300.md#-shinkei-ai-robot-spikes-fish-brains-to-extend-shelf-life-3x) | AI Leaders and Thinkers |
+| 2026-11-06 | [Agentic robot control runs 2.5 h after 30 s recharge](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-281.md#-agentic-robot-control-runs-25-h-after-30-s-recharge) | AI and Robotics Applications |
+| 2026-11-06 | [Reflex humanoid control catches objects without falling, 1.6M rendered steps](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-281.md#-reflex-humanoid-control-catches-objects-without-falling-16m-rendered-steps) | AI and Robotics Applications |
+| 2026-11-06 | [AIR humanoid launch by EmbodiedAI in Switzerland](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-281.md#-air-humanoid-launch-by-embodiedai-in-switzerland) | AI and Robotics Applications |
+| 2026-11-06 | [HALO — Perceptive Humanoid Motion released, 91% success](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-270.md#-halo--perceptive-humanoid-motion-released-91-success) | Computer Vision and AI Applications |
+| 2026-11-06 | [Ctrl-F Force as an Interface for Humanoid Loco-Manipulation announced](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-270.md#-ctrl-f-force-as-an-interface-for-humanoid-loco-manipulation-announced) | Computer Vision and AI Applications |
 | 2026-11-05 | [frax.ik high-performance humanoid retargeting library announced, >100k FPS](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-310.md#-fraxik-high-performance-humanoid-retargeting-library-announced-100k-fps) | CS Academics |
 | 2026-11-05 | [VFlash delivers 12x faster decoding, 5.1x robot speedup](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-302.md#-vflash-delivers-12x-faster-decoding-51x-robot-speedup) | Tech VIPs |
 | 2026-11-05 | [Humble Robotics Series A $51M funding round](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-300.md#-humble-robotics-series-a-51m-funding-round) | VC Firms |
@@ -98,11 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,454 briefings that men
 | 2026-10-15 | [Gracia World Reconstruction Model enables 3D replay from 4 cameras](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-259.md#-gracia-world-reconstruction-model-enables-3d-replay-from-4-cameras) | AR VR Companies and Development |
 | 2026-10-15 | [Primo humanoid robot 30 DOF; Sprite 31-joint design](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-252.md#-primo-humanoid-robot-30-dof-sprite-31-joint-design) | Crypto and Web3 |
 | 2026-10-14 | [Rhoda tactile sensor – new robot touch capability announced](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-269.md#-rhoda-tactile-sensor--new-robot-touch-capability-announced) | AI and Robotics Applications |
-| 2026-10-14 | [SONIC on full-size humanoids AgitBot A3 and Walker C1](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-265.md#-sonic-on-full-size-humanoids-agitbot-a3-and-walker-c1) | AI Driven Vehicles and Transportation |
-| 2026-10-12 | [Arts & Robotics session call for contributions ICRA'27](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-268.md#-arts--robotics-session-call-for-contributions-icra27) | AI and Robotics Applications |
-| 2026-10-12 | [EgoHumanoid-V2 announced for human-to-humanoid whole-body skill transfer](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-264.md#-egohumanoid-v2-announced-for-human-to-humanoid-whole-body-skill-transfer) | AI Driven Vehicles and Transportation |
-| 2026-10-10 | [VeriFine framework announced for scaling verification in embodied reasoning](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-280.md#-verifine-framework-announced-for-scaling-verification-in-embodied-reasoning) | AI Organizations and Media |
-| 2026-10-10 | [Berlin labs on October 22 – BioNeMo and Isaac for Healthcare](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-272.md#-berlin-labs-on-october-22--bionemo-and-isaac-for-healthcare) | AI in Healthcare and Science |
-| 2026-10-10 | [MobileVISTA announced for pose generalization from a single base pose](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-267.md#-mobilevista-announced-for-pose-generalization-from-a-single-base-pose) | AI and Robotics Applications |
-| 2026-10-10 | [Odyssey-3 launch – new foundation world model announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-263.md#-odyssey-3-launch--new-foundation-world-model-announced) | AI Driven Vehicles and Transportation |
-| 2026-10-10 | [Claude Opus 5.5 snake robot – 20 joints, 1,087 parts](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-257.md#-claude-opus-55-snake-robot--20-joints-1087-parts) | AI in Enterprise Applications |

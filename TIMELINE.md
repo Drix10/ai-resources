@@ -1,9 +1,12 @@
 # AI release timeline
 
-Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 167, each linked to its briefing.
+Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 170, each linked to its briefing.
 
 ## November 2026
 
+- **Nov 6** · [Ripple-65B released with 65B params, Apache 2.0, $32M training](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-278.md#-ripple-65b-released-with-65b-params-apache-20-32m-training) <sub>AI Education</sub>
+- **Nov 6** · [NVIDIA driver fix for Meta Quest Link freezing issue, v621.01 release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-270.md#-nvidia-driver-fix-for-meta-quest-link-freezing-issue-v62101-release) <sub>AR VR Companies and Development</sub>
+- **Nov 6** · [Result iOS agent launches with on-device cards, passwords, Apple Pay](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-242.md#-result-ios-agent-launches-with-on-device-cards-passwords-apple-pay) <sub>Tech Journalists and VIPs</sub>
 - **Nov 5** · [HyperBEAM v0.11 releases fixes and speed improvements](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-309.md#-hyperbeam-v011-releases-fixes-and-speed-improvements) <sub>AI Developer Tools</sub>
 - **Nov 5** · [Perplexity Teammates launch personal agents for work](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-276.md#-perplexity-teammates-launch-personal-agents-for-work) <sub>AI Professionals and Community</sub>
 - **Nov 5** · [GPT-6 Cyber launch scores 48.5% on ExploitGym](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-267.md#-gpt-6-cyber-launch-scores-485-on-exploitgym) <sub>AI in Enterprise Applications</sub>
