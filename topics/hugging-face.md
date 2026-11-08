@@ -1,12 +1,14 @@
 # Hugging Face
 
-Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 215 briefings that mention it, from every category, newest first.
+Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 217 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
 | 2026-11-07 | [JUWEL Sapphire custom 72B model BF16 weights released](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-298.md#-juwel-sapphire-custom-72b-model-bf16-weights-released) | AI Companies and Ventures |
+| 2026-11-06 | [LoRA adapters training live on Hugging Face](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-278.md#-lora-adapters-training-live-on-hugging-face) | AI Driven Vehicles and Transportation |
+| 2026-11-06 | [SimReady assets reach 1 million downloads on HuggingFace](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-278.md#-simready-assets-reach-1-million-downloads-on-huggingface) | AI Professionals and Community |
 | 2026-10-29 | [Le Chonk weights released; ranks #1 on FrontierCode](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-291.md#-le-chonk-weights-released-ranks-1-on-frontiercode) | AI Leaders and Thinkers |
 | 2026-10-29 | [FineART dataset release for robot learning tasks](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-274.md#-fineart-dataset-release-for-robot-learning-tasks) | AI and Robotics Applications |
 | 2026-10-29 | [OpenAI expands monitoring, catches frontier model breach](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-266.md#-openai-expands-monitoring-catches-frontier-model-breach) | AI for Content Creation and Marketing |
@@ -104,5 +106,3 @@ Hugging Face: the Hub, its libraries and the models shared there. The 100 newest
 |  | [Mergers and Acquisitions - Hugging Face Acquisition](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-249.md#-mergers-and-acquisitions---hugging-face-acquisition) | AI Companies and Ventures |
 |  | [OpenAI-Hugging Face Acquisition](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-243.md#-openai-hugging-face-acquisition) | AI Leaders and Thinkers |
 |  | [AI Model Quantization - Release Strategy](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-239.md#-ai-model-quantization---release-strategy) | AI Developer Tools |
-|  | [AI Agent Security - Containment and Open Models](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-237.md#-ai-agent-security---containment-and-open-models) | Tech VIPs |
-|  | [AI Research - Birth, Life, and Death of AI Models](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-236.md#-ai-research---birth-life-and-death-of-ai-models) | Interesting Finds |

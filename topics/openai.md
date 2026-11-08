@@ -1,14 +1,21 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,248 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,255 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-08 | [Orca build workflow creates 9 PRs in morning](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-311.md#-orca-build-workflow-creates-9-prs-in-morning) | AI Developer Tools |
+| 2026-11-08 | [Learning When to Think Aloud in Latent Reasoning shows 9.6% accuracy gain on GPT-2](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-295.md#-learning-when-to-think-aloud-in-latent-reasoning-shows-96-accuracy-gain-on-gpt-2) | AI Organizations and Media |
+| 2026-11-08 | [Break Point: Xeno Tour, built with Crayon + GPT-6 Sol](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-284.md#-break-point-xeno-tour-built-with-crayon--gpt-6-sol) | AI Holodeck and Virtual Worlds |
+| 2026-11-08 | [3D fish model giveaway with animation and creation guide](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-268.md#-3d-fish-model-giveaway-with-animation-and-creation-guide) | AR VR Professionals and Community |
+| 2026-11-08 | [Cairn – solved 54/54 problems, placed 3rd at Tencent Cloud Hackathon](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-242.md#-cairn--solved-5454-problems-placed-3rd-at-tencent-cloud-hackathon) | Cybersecurity and Tech |
 | 2026-11-07 | [Membase shared long-term memory layer announced, free and multi-model support](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-membase-shared-long-term-memory-layer-announced-free-and-multi-model-support) | AI Developer Tools |
 | 2026-11-07 | [Aside Computer Use launches, 2.7x faster](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-303.md#-aside-computer-use-launches-27x-faster) | Tech VIPs |
 | 2026-11-07 | [OpenAI March 2028 RSI target, Anthropic 2027 RSI target](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-270.md#-openai-march-2028-rsi-target-anthropic-2027-rsi-target) | Computer Vision and AI Applications |
+| 2026-11-07 | [OpenAI models turn-based vs continuous listening claim, 20 ms response chunks](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-269.md#-openai-models-turn-based-vs-continuous-listening-claim-20-ms-response-chunks) | Founders and Entrepreneurs |
+| 2026-11-07 | [Momentum – pre-release AI agent workspace with cross-provider memory](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-264.md#-momentum--pre-release-ai-agent-workspace-with-cross-provider-memory) | The Exponential Future |
 | 2026-11-07 | [Anthropic IPO valuation pushback, Apple record quarter, OpenAI raise adjustment](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-240.md#-anthropic-ipo-valuation-pushback-apple-record-quarter-openai-raise-adjustment) | Tech Companies and News |
 | 2026-11-06 | [Swarms Skills released with 2 agent skills for marketplace access](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-273.md#-swarms-skills-released-with-2-agent-skills-for-marketplace-access) | AI for Content Creation and Marketing |
 | 2026-11-06 | [OpenAI valued at $1.25 trillion, safety focus over IPO](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-247.md#-openai-valued-at-125-trillion-safety-focus-over-ipo) | PR and Communications |
@@ -99,10 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,248 briefings t
 | 2026-10-16 | [GPT-6.1 Sol uses 53% fewer credits than Gemini 4 Argon](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-296.md#-gpt-61-sol-uses-53-fewer-credits-than-gemini-4-argon) | AI Developer Tools |
 | 2026-10-16 | [HeyGen MCP new content workflow with HyperFrames Studio](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-285.md#-heygen-mcp-new-content-workflow-with-hyperframes-studio) | AI Companies and Ventures |
 | 2026-10-16 | [OpenAI models success rate rises to 35% in 16 months](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-283.md#-openai-models-success-rate-rises-to-35-in-16-months) | AI Organizations and Media |
-| 2026-10-16 | [GPT-6 Pro upgrade with faster responses and parallel agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-270.md#-gpt-6-pro-upgrade-with-faster-responses-and-parallel-agents) | AI Powered Film and Media |
-| 2026-10-16 | [GLM-5.3 scores 160, beats GPT-5.4 on Cyber ECI](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-265.md#-glm-53-scores-160-beats-gpt-54-on-cyber-eci) | AI Policy and Ethical Considerations |
-| 2026-10-16 | [OpenAI 372 problems solved, biggest day in math](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-252.md#-openai-372-problems-solved-biggest-day-in-math) | Interesting Finds |
-| 2026-10-16 | [GLM-5.3 beats GPT-5.4 with score 160 on Cyber ECI](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-235.md#-glm-53-beats-gpt-54-with-score-160-on-cyber-eci) | Spatial Computing |
-| 2026-10-15 | [Codex definitive history released, 8k word draft](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-284.md#-codex-definitive-history-released-8k-word-draft) | AI Leaders and Thinkers |
-| 2026-10-15 | [GPT-6 solves NIST assembly board for $3.98 (partial)](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-269.md#-gpt-6-solves-nist-assembly-board-for-398-partial) | AI and Robotics Applications |
-| 2026-10-15 | [Gemini-4 Argon hits 81.9% on RoboVista robotics benchmark](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-267.md#-gemini-4-argon-hits-819-on-robovista-robotics-benchmark) | AI Professionals and Community |

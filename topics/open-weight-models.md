@@ -1,11 +1,13 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 315 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 317 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-08 | [Shruti by udgamlabs supports 22 languages under 30MB](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-301.md#-shruti-by-udgamlabs-supports-22-languages-under-30mb) | AI Leaders and Thinkers |
+| 2026-11-08 | [MiniMax H3 2K video generator announced with 4-15 s render](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-284.md#-minimax-h3-2k-video-generator-announced-with-4-15-s-render) | AI Holodeck and Virtual Worlds |
 | 2026-11-07 | [Underdog Woof 31.7MB TTS model released](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-underdog-woof-317mb-tts-model-released) | AI Developer Tools |
 | 2026-11-07 | [Thinking Machines ships open-weight model; Inkling 2 Small 31](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-263.md#-thinking-machines-ships-open-weight-model-inkling-2-small-31) | The Exponential Future |
 | 2026-11-06 | [Inkling 2 Small to release weights next week, ARC-AGI](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-311.md#-inkling-2-small-to-release-weights-next-week-arc-agi) | CS Academics |
@@ -104,5 +106,3 @@ Models whose weights anyone can download. The 100 newest of 315 briefings that m
 | 2026-05-13 | [AI Development - Open Source vs. Restriction](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-194.md#-ai-development---open-source-vs-restriction) | AI Policy and Ethical Considerations |
 | 2026-05-07 | [Open Source AI - Proprietary Model Performance](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-160.md#-open-source-ai---proprietary-model-performance) | Cybersecurity and Tech |
 | 2026-05-05 | [Robotics - Open-Source MolmoAct 2 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-185.md#-robotics---open-source-molmoact-2-release) | AI Organizations and Media |
-| 2026-05-03 | [Open Source Models - General Overview](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-183.md#-open-source-models---general-overview) | AI Professionals and Community |
-| 2026-04-29 | [Open-Weight LLMs - Recent Releases and Market Impact](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-205.md#-open-weight-llms---recent-releases-and-market-impact) | AI Education |

@@ -1,11 +1,12 @@
 # AI policy
 
-Laws, regulators and governments on AI. The 100 newest of 939 briefings that mention it, from every category, newest first.
+Laws, regulators and governments on AI. The 100 newest of 940 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-07 | [Starship Flight 15 launch targeting November 13](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-243.md#-starship-flight-15-launch-targeting-november-13) | Tech Journalists and VIPs |
 | 2026-11-06 | [Senator Becker bill requires AI compute reporting](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-271.md#-senator-becker-bill-requires-ai-compute-reporting) | AI Policy and Ethical Considerations |
 | 2026-11-04 | [Emirates attestation form for US travel November 4](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-276.md#-emirates-attestation-form-for-us-travel-november-4) | Tech Infrastructure |
 | 2026-11-03 | [Trump executive order creates women’s health task force](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-246.md#-trump-executive-order-creates-womens-health-task-force) | Neuroscience and AI |
@@ -105,4 +106,3 @@ Laws, regulators and governments on AI. The 100 newest of 939 briefings that men
 | 2026-09-17 | [AI Governance - AI Safety Redlines](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-246.md#-ai-governance---ai-safety-redlines) | AI Policy and Ethical Considerations |
 | 2026-09-17 | [Palantir CEO Alex Karp on Regulation and Nationalization](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-239.md#-palantir-ceo-alex-karp-on-regulation-and-nationalization) | AI in Enterprise Applications |
 | 2026-09-17 | [AI & Security](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-214.md#-ai--security) | PR and Communications |
-| 2026-09-17 | [Driverless Cars - Regulating Dogs as a Public Risk Hazard](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-213.md#-driverless-cars---regulating-dogs-as-a-public-risk-hazard) | Tech Companies and News |

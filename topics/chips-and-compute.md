@@ -1,11 +1,13 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,061 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,064 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-08 | [CoreWeave CEO letter to Texas governor-elect on data centers](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-263.md#-coreweave-ceo-letter-to-texas-governor-elect-on-data-centers) | Decentralized AI |
+| 2026-11-07 | [GPU without Linux enables GUI under a second startup](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-278.md#-gpu-without-linux-enables-gui-under-a-second-startup) | AI Driven Vehicles and Transportation |
 | 2026-11-07 | [H200x8 node post-training under 4 hours using 8 H200 GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-277.md#-h200x8-node-post-training-under-4-hours-using-8-h200-gpus) | AI Driven Vehicles and Transportation |
 | 2026-11-07 | [XMimic trains one policy on 40 LAFAN1 clips in 54 seconds](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-270.md#-xmimic-trains-one-policy-on-40-lafan1-clips-in-54-seconds) | Computer Vision and AI Applications |
 | 2026-11-07 | [Claude Opus 5.5 built campus, 1 GW fits 413,712 GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-268.md#-claude-opus-55-built-campus-1-gw-fits-413712-gpus) | AI in Enterprise Applications |
@@ -64,6 +66,7 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,061 briefings tha
 | 2026-10-29 | [NVIDIA NVDA talks to back billions of debt for NSCALE](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-nvidia-nvda-talks-to-back-billions-of-debt-for-nscale) | Interesting Finds |
 | 2026-10-29 | [Mac Studio 512GB RAM vs 1990s SGI $100k seat](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-mac-studio-512gb-ram-vs-1990s-sgi-100k-seat) | Spatial Computing |
 | 2026-10-29 | [VirajAero turbine powers data centers, 40% more power](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-236.md#-virajaero-turbine-powers-data-centers-40-more-power) | Tech Journalists and VIPs |
+| 2026-10-27 | [Zephyr project released, enables GPU on bare metal](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-278.md#-zephyr-project-released-enables-gpu-on-bare-metal) | AI Driven Vehicles and Transportation |
 | 2026-10-26 | [Qwen3 – VRAM needs allow 8B model on 10GB GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-286.md#-qwen3--vram-needs-allow-8b-model-on-10gb-gpu) | AI Organizations and Media |
 | 2026-10-26 | [Anthropic IPO filing, $16.3B H1 2026 revenue, Claude voter data incident](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-anthropic-ipo-filing-163b-h1-2026-revenue-claude-voter-data-incident) | AI Artists and Creators |
 | 2026-10-26 | [NVIDIA Vera Rubin GPUs financing $40 billion by SpaceX](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-nvidia-vera-rubin-gpus-financing-40-billion-by-spacex) | AI Artists and Creators |
@@ -103,6 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,061 briefings tha
 | 2026-10-08 | [LVMH partners with Analog Devices on AI grape spoilage sensor](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-257.md#-lvmh-partners-with-analog-devices-on-ai-grape-spoilage-sensor) | AI for Content Creation and Marketing |
 | 2026-10-08 | [ProjectDiscovery fine‑tunes model with LoRA for under $50](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-229.md#-projectdiscovery-finetunes-model-with-lora-for-under-50) | Tech Companies and News |
 | 2026-10-07 | [First TPUs to be launched into orbit](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-301.md#-first-tpus-to-be-launched-into-orbit) | CS Academics |
-| 2026-10-07 | [Project Suncatcher prototype satellite test in orbit](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-301.md#-project-suncatcher-prototype-satellite-test-in-orbit) | CS Academics |
-| 2026-10-07 | [DatologyAI releases Zephon data loader; GPU count impacts eval scores](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-285.md#-datologyai-releases-zephon-data-loader-gpu-count-impacts-eval-scores) | VC Firms |
-| 2026-10-07 | [McKinsey predicts 24% annual data center power demand growth to 2030](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-277.md#-mckinsey-predicts-24-annual-data-center-power-demand-growth-to-2030) | AI Organizations and Media |
