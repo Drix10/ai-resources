@@ -1,11 +1,14 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 776 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 779 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-08 | [NVIDIA plans investments in four German AI firms](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-259.md#-nvidia-plans-investments-in-four-german-ai-firms) | Investors and Venture Capital |
+| 2026-11-08 | [TSMC considers 3D DRAM production at Nvidia's request](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-241.md#-tsmc-considers-3d-dram-production-at-nvidias-request) | Tech Companies and News |
+| 2026-11-07 | [AutoAlign open-sourced by NVIDIA, no benchmarks shipped](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-279.md#-autoalign-open-sourced-by-nvidia-no-benchmarks-shipped) | AI Education |
 | 2026-11-07 | [MiniMax H3 Reference-to-Video style LoRA trained on Dell tower](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-277.md#-minimax-h3-reference-to-video-style-lora-trained-on-dell-tower) | AI Powered Film and Media |
 | 2026-11-07 | [NVIDIA TEE inference on H200, Tier 3+ partner](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-262.md#-nvidia-tee-inference-on-h200-tier-3-partner) | Decentralized AI |
 | 2026-11-07 | [Coinbase CEO backs tokenizing COIN stock, 67 firms object to tokenized shares](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-261.md#-coinbase-ceo-backs-tokenizing-coin-stock-67-firms-object-to-tokenized-shares) | Crypto and Web3 |
@@ -103,6 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 776 briefin
 | 2026-09-22 | [AI Engineering - Audi Vision Systems](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-250.md#-ai-engineering---audi-vision-systems) | AI Driven Vehicles and Transportation |
 | 2026-09-22 | [VAST DataEnclave](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-246.md#-vast-dataenclave) | AI in Enterprise Applications |
 | 2026-09-22 | [Finance - Nvidia Price Targets](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-241.md#-finance---nvidia-price-targets) | The Exponential Future |
-| 2026-09-22 | [AI Training - Human Video Data Collection](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-238.md#-ai-training---human-video-data-collection) | Decentralized AI |
-| 2026-09-21 | [Qwen3.8-27B: Unsupervised CUDA Inference Engine](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-278.md#-qwen38-27b-unsupervised-cuda-inference-engine) | Devs, Designers, DevRel |
-| 2026-09-21 | [Intel - CPU Side of AI](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-271.md#-intel---cpu-side-of-ai) | VC Firms |

@@ -1,13 +1,19 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 667 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 673 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-08 | [Inco Splash inference engine: up to 3× faster](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-311.md#-inco-splash-inference-engine-up-to-3-faster) | AI Developer Tools |
+| 2026-11-08 | [Gaussian Splats generation from image viewable on Vision Pro](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-278.md#-gaussian-splats-generation-from-image-viewable-on-vision-pro) | AI Driven Vehicles and Transportation |
+| 2026-11-08 | [KrakenWallet next version helps Apple review, UI glow up announced](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-262.md#-krakenwallet-next-version-helps-apple-review-ui-glow-up-announced) | Crypto and Web3 |
+| 2026-11-07 | [Gaussian Splats on Vision Pro generated in 20 seconds](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-278.md#-gaussian-splats-on-vision-pro-generated-in-20-seconds) | AI Driven Vehicles and Transportation |
+| 2026-11-07 | [Keplr Google/Apple login hack rescued $5.7M in two addresses](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-262.md#-keplr-googleapple-login-hack-rescued-57m-in-two-addresses) | Crypto and Web3 |
 | 2026-11-07 | [Coinbase CEO backs tokenizing COIN stock, 67 firms object to tokenized shares](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-261.md#-coinbase-ceo-backs-tokenizing-coin-stock-67-firms-object-to-tokenized-shares) | Crypto and Web3 |
 | 2026-11-07 | [Keplr unauthorized transactions flagged to Web3Auth](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-261.md#-keplr-unauthorized-transactions-flagged-to-web3auth) | Crypto and Web3 |
+| 2026-11-07 | [Apple Vision Pro – 5.5 million triangles at full resolution](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-245.md#-apple-vision-pro--55-million-triangles-at-full-resolution) | Spatial Computing |
 | 2026-11-07 | [SteamVR new chroma key pipeline enables Room View on Vision Pro](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-244.md#-steamvr-new-chroma-key-pipeline-enables-room-view-on-vision-pro) | Spatial Computing |
 | 2026-11-07 | [Anthropic IPO valuation pushback, Apple record quarter, OpenAI raise adjustment](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-240.md#-anthropic-ipo-valuation-pushback-apple-record-quarter-openai-raise-adjustment) | Tech Companies and News |
 | 2026-11-06 | [JITEngine custom inference engine for Apple Silicon up to 2.7× faster](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-277.md#-jitengine-custom-inference-engine-for-apple-silicon-up-to-27-faster) | AI Driven Vehicles and Transportation |
@@ -100,9 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 667 br
 | 2026-09-18 | [News - Apple Fans Line Up for New iPhone 18](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-215.md#-news---apple-fans-line-up-for-new-iphone-18) | World News and Updates |
 | 2026-09-17 | [Apple's iMessage Security Concerns](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-250.md#-apples-imessage-security-concerns) | AI Artists and Creators |
 | 2026-09-16 | [Business - Apple's Return to Server Market](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-265.md#-business---apples-return-to-server-market) | Tech VIPs |
-| 2026-09-16 | [AI in Tax: Podcasts and Videos](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-238.md#-ai-in-tax-podcasts-and-videos) | AI in Enterprise Applications |
-| 2026-09-16 | [AI - Siri and Apple](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-236.md#-ai---siri-and-apple) | Computer Vision and AI Applications |
-| 2026-09-16 | [Apple Eyes NVIDIA's NVLink Fusion](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-233.md#-apple-eyes-nvidias-nvlink-fusion) | AR VR Professionals and Community |
-| 2026-09-16 | [Apple Reference Image: A New Approach for Verified Photography](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-212.md#-apple-reference-image-a-new-approach-for-verified-photography) | Spatial Computing |
-| 2026-09-16 | [Apple's PCC and Computational Photography](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-212.md#-apples-pcc-and-computational-photography) | Spatial Computing |
-| 2026-09-15 | [Reality Composer Pro 2 to Version 3 Migration Guide](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-212.md#-reality-composer-pro-2-to-version-3-migration-guide) | Spatial Computing |

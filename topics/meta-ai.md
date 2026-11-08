@@ -1,11 +1,16 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 624 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 629 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-08 | [Learning When to Think Aloud in Latent Reasoning shows 9.6% accuracy gain on GPT-2](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-295.md#-learning-when-to-think-aloud-in-latent-reasoning-shows-96-accuracy-gain-on-gpt-2) | AI Organizations and Media |
+| 2026-11-08 | [AR remote communication app website updated](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-241.md#-ar-remote-communication-app-website-updated) | Tech Companies and News |
+| 2026-11-07 | [Agent memory released by seven firms in one month](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-279.md#-agent-memory-released-by-seven-firms-in-one-month) | AI Education |
+| 2026-11-07 | [Meta Partners with Lionsgate to Bring The Hunger Games](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-271.md#-meta-partners-with-lionsgate-to-bring-the-hunger-games) | AR VR Companies and Development |
+| 2026-11-07 | [LaMARia spatial AI system outperforms Meta on benchmarks](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-271.md#-lamaria-spatial-ai-system-outperforms-meta-on-benchmarks) | Computer Vision and AI Applications |
 | 2026-11-07 | [Coinbase CEO backs tokenizing COIN stock, 67 firms object to tokenized shares](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-261.md#-coinbase-ceo-backs-tokenizing-coin-stock-67-firms-object-to-tokenized-shares) | Crypto and Web3 |
 | 2026-11-07 | [Meta VR Glasses e-book announced with eye and hand interaction guide](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-244.md#-meta-vr-glasses-e-book-announced-with-eye-and-hand-interaction-guide) | Spatial Computing |
 | 2026-11-06 | [Jellypod connects to Buffer, adds TikTok Instagram Facebook](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-278.md#-jellypod-connects-to-buffer-adds-tiktok-instagram-facebook) | AI Education |
@@ -101,8 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 624 brie
 | 2026-09-23 | [Tech News - Wearable Computers](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-220.md#-tech-news---wearable-computers) | Tech Companies and News |
 | 2026-09-23 | [Tech News - Zuckerberg's Presentation](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-220.md#-tech-news---zuckerbergs-presentation) | Tech Companies and News |
 | 2026-09-23 | [Tech News - Meta Connect](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-220.md#-tech-news---meta-connect) | Tech Companies and News |
-| 2026-09-22 | [Learning - Coursera Plus](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-289.md#-learning---coursera-plus) | CS Academics |
-| 2026-09-22 | [Robotics - Robot Control Stack](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-253.md#-robotics---robot-control-stack) | AI and Robotics Applications |
-| 2026-09-22 | [AI - GPT-6 for Meta Ads](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-245.md#-ai---gpt-6-for-meta-ads) | AI for Content Creation and Marketing |
-| 2026-09-22 | [AI - Meta's Muse AI](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-240.md#-ai---metas-muse-ai) | Interesting Finds |
-| 2026-09-22 | [AI - Muse AI's Security and Privacy Concerns](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-240.md#-ai---muse-ais-security-and-privacy-concerns) | Interesting Finds |

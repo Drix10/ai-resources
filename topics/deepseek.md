@@ -1,11 +1,14 @@
 # DeepSeek
 
-DeepSeek and its open models. The 100 newest of 244 briefings that mention it, from every category, newest first.
+DeepSeek and its open models. The 100 newest of 247 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-08 | [DeepSeek V4.1 Flash and Nebius models now on Eden AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-311.md#-deepseek-v41-flash-and-nebius-models-now-on-eden-ai) | AI Developer Tools |
+| 2026-11-08 | [Antseed Solid AI agents launch with one key for top models](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-299.md#-antseed-solid-ai-agents-launch-with-one-key-for-top-models) | AI Companies and Ventures |
+| 2026-11-08 | [ORA Open Robot-Use Agents presented at CoRL2026](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-282.md#-ora-open-robot-use-agents-presented-at-corl2026) | AI and Robotics Applications |
 | 2026-11-07 | [RouterHub offers Kimi, DeepSeek, GLM models and 15% referral bonus](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-276.md#-routerhub-offers-kimi-deepseek-glm-models-and-15-referral-bonus) | AI Artists and Creators |
 | 2026-11-05 | [Relace AI partnership on Concentrate – live integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-309.md#-relace-ai-partnership-on-concentrate--live-integration) | AI Developer Tools |
 | 2026-11-05 | [DeepSeek v4.1 Flash 3D retro TV built in 3h20m for under $1](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-267.md#-deepseek-v41-flash-3d-retro-tv-built-in-3h20m-for-under-1) | AI in Enterprise Applications |
@@ -103,6 +106,3 @@ DeepSeek and its open models. The 100 newest of 244 briefings that mention it, f
 | 2025-03-01 | [AI - DeepSeek-V3/R1 Optimizations](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-014.md#-ai---deepseek-v3r1-optimizations) | Investors and Venture Capital |
 |  | [AI Classification - pi.dev Integration](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-251.md#-ai-classification---pidev-integration) | Devs, Designers, DevRel |
 |  | [LLM Performance - DeepSeek-V4-Flash Benchmarks](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-247.md#-llm-performance---deepseek-v4-flash-benchmarks) | Devs, Designers, DevRel |
-|  | [AI Models - Pricing Competition and Benchmarking](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-245.md#-ai-models---pricing-competition-and-benchmarking) | Devs, Designers, DevRel |
-|  | [AI Models - DeepSeek V4 Flash Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-239.md#-ai-models---deepseek-v4-flash-performance) | AI Developer Tools |
-|  | [DeepSeek V4-Flash - API Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-237.md#-deepseek-v4-flash---api-update) | AI Companies and Ventures |

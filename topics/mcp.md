@@ -1,14 +1,19 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 420 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 425 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-08 | [Ælen – Astro & Tailwind physiotherapy theme launch](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-304.md#-ælen--astro--tailwind-physiotherapy-theme-launch) | Devs, Designers, DevRel |
+| 2026-11-08 | [Claude Opus 5.5 drives Adobe Fusion CAD for 3D print](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-268.md#-claude-opus-55-drives-adobe-fusion-cad-for-3d-print) | AR VR Professionals and Community |
+| 2026-11-08 | [Windows-DNS-Policy-Manager adds browser GUI, 8 wizards](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-242.md#-windows-dns-policy-manager-adds-browser-gui-8-wizards) | Cybersecurity and Tech |
 | 2026-11-07 | [Membase shared long-term memory layer announced, free and multi-model support](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-membase-shared-long-term-memory-layer-announced-free-and-multi-model-support) | AI Developer Tools |
 | 2026-11-07 | [ScreensDesign MCP server launches, Full Pro required](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-screensdesign-mcp-server-launches-full-pro-required) | AI Developer Tools |
 | 2026-11-07 | [sandbox-mcp - fresh Windows test machines in 35 s](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-300.md#-sandbox-mcp---fresh-windows-test-machines-in-35-s) | AI Leaders and Thinkers |
+| 2026-11-07 | [Instagram Edits MCP – sound design lacking, use SFX 2.0 model](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-284.md#-instagram-edits-mcp--sound-design-lacking-use-sfx-20-model) | AI Generated Music and Audio |
+| 2026-11-07 | [Roblox AI tools usage spikes in top games, 80%](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-274.md#-roblox-ai-tools-usage-spikes-in-top-games-80) | AI for Content Creation and Marketing |
 | 2026-11-07 | [Rainbrand Review API and MCP tool launch announced](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-273.md#-rainbrand-review-api-and-mcp-tool-launch-announced) | AI for Content Creation and Marketing |
 | 2026-11-06 | [Swarms Skills released with 2 agent skills for marketplace access](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-273.md#-swarms-skills-released-with-2-agent-skills-for-marketplace-access) | AI for Content Creation and Marketing |
 | 2026-11-04 | [WebMCP vs Browser vs MCP performance for AI agents – 4x faster, 90% token reduction](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-298.md#-webmcp-vs-browser-vs-mcp-performance-for-ai-agents--4x-faster-90-token-reduction) | AI Leaders and Thinkers |
@@ -101,8 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-01 | [5.6 Million Business Tasks Handled by MCP Tool](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-225.md#-56-million-business-tasks-handled-by-mcp-tool) | AR VR Companies and Development |
 | 2026-08-31 | [MCP Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-234.md#-mcp-release) | AI Powered Film and Media |
 | 2026-08-31 | [Links Newsletter - AI and Tech Topics](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-229.md#-links-newsletter---ai-and-tech-topics) | Tech Infrastructure |
-| 2026-08-28 | [Java Development - Agent Workflow in VS Code](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-244.md#-java-development---agent-workflow-in-vs-code) | AI Companies and Ventures |
-| 2026-08-27 | [Unreal Engine - Procedural World Building Update](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-197.md#-unreal-engine---procedural-world-building-update) | Tech Companies and News |
-| 2026-06-27 | [AI Integration - Engineering Software Connectivity](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-197.md#-ai-integration---engineering-software-connectivity) | Tech Infrastructure |
-| 2026-05-28 | [AI Integration - FlutterFlow Development](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-193.md#-ai-integration---flutterflow-development) | AI for Content Creation and Marketing |
-| 2026-05-16 | [AI Configuration - Streamlined Bot Setup](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-205.md#-ai-configuration---streamlined-bot-setup) | AI Companies and Ventures |

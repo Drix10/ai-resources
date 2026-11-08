@@ -1,11 +1,12 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 950 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 951 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-08 | [CREAO – access Claude models and Fable 5.1 without login](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-269.md#-creao--access-claude-models-and-fable-51-without-login) | AI in Enterprise Applications |
 | 2026-11-07 | [Membase shared long-term memory layer announced, free and multi-model support](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-membase-shared-long-term-memory-layer-announced-free-and-multi-model-support) | AI Developer Tools |
 | 2026-11-07 | [Ima Studio – AI Media Agent workflow announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-283.md#-ima-studio--ai-media-agent-workflow-announced) | AI Holodeck and Virtual Worlds |
 | 2026-11-06 | [Gemma 4 fine-tuned classifier latency 35ms, F1 0.902](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-258.md#-gemma-4-fine-tuned-classifier-latency-35ms-f1-0902) | Investors and Venture Capital |
@@ -105,4 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-09-17 | [Quitting Google DeepMind](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-241.md#-quitting-google-deepmind) | Computer Vision and AI Applications |
 | 2026-09-16 | [Google AI Plans for Students](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-280.md#-google-ai-plans-for-students) | CS Academics |
 | 2026-09-16 | [Free Gemini Accounts](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-269.md#-free-gemini-accounts) | Devs, Designers, DevRel |
-| 2026-09-16 | [Recursive Self-Improvement through Evolving Worlds](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-257.md#-recursive-self-improvement-through-evolving-worlds) | AI Leaders and Thinkers |
