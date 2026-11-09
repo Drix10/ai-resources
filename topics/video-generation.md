@@ -1,12 +1,14 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 814 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 816 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [Chinese AI models list on platform – Seedance, Seedream, Kling, MiniMax, Wan, Qwen](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-285.md#-chinese-ai-models-list-on-platform--seedance-seedream-kling-minimax-wan-qwen) | AI Holodeck and Virtual Worlds |
 | 2026-11-08 | [MiniMax H3 2K video generator announced with 4-15 s render](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-284.md#-minimax-h3-2k-video-generator-announced-with-4-15-s-render) | AI Holodeck and Virtual Worlds |
+| 2026-11-08 | [Magai picker adds GPT-6.1 Terra, Qwen 3.8 Max, Krea v3, Kling V4](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-275.md#-magai-picker-adds-gpt-61-terra-qwen-38-max-krea-v3-kling-v4) | AI for Content Creation and Marketing |
 | 2026-11-08 | [CREAO – access Claude models and Fable 5.1 without login](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-269.md#-creao--access-claude-models-and-fable-51-without-login) | AI in Enterprise Applications |
 | 2026-11-07 | [W2A achieves 95.9% success and 21× faster inference](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-281.md#-w2a-achieves-959-success-and-21-faster-inference) | AI and Robotics Applications |
 | 2026-11-06 | [GPT Image 2.6 now in Runway, 50% faster generation](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-270.md#-gpt-image-26-now-in-runway-50-faster-generation) | AR VR Companies and Development |
@@ -104,5 +106,3 @@ Models and tools that make video. The 100 newest of 814 briefings that mention i
 | 2026-05-13 | [Audio Technology - Immersive Sports Broadcasting](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-200.md#-audio-technology---immersive-sports-broadcasting) | AI Consulting and Expertise |
 | 2026-05-13 | [AI Model - Niche Video Generation for Canine Motion](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-192.md#-ai-model---niche-video-generation-for-canine-motion) | AI Organizations and Media |
 | 2026-05-09 | [Generative AI - Video Generation Prompts](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-191.md#-generative-ai---video-generation-prompts) | AI Powered Film and Media |
-| 2026-05-08 | [AI Video Generation - Scene Customization with InVideo](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-191.md#-ai-video-generation---scene-customization-with-invideo) | AI Powered Film and Media |
-| 2026-05-08 | [AI Video Generation - Controllable Elements](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-189.md#-ai-video-generation---controllable-elements) | AI Holodeck and Virtual Worlds |

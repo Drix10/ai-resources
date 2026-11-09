@@ -1,11 +1,20 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,064 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,073 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [Megaspeed office in Kuningan, plans $2B Nvidia chips](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-302.md#-megaspeed-office-in-kuningan-plans-2b-nvidia-chips) | AI Leaders and Thinkers |
+| 2026-11-09 | [Nasdaq down 5.5% in a day, chip index down 12% weekly](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-300.md#-nasdaq-down-55-in-a-day-chip-index-down-12-weekly) | AI Companies and Ventures |
+| 2026-11-09 | [Dynamic GPU Voxel Grids and Voxel-sequential Processing in NanoVDB](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-296.md#-dynamic-gpu-voxel-grids-and-voxel-sequential-processing-in-nanovdb) | AI Organizations and Media |
+| 2026-11-09 | [Samsung advances semiconductor engineering with NVIDIA AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-279.md#-samsung-advances-semiconductor-engineering-with-nvidia-ai) | AI Driven Vehicles and Transportation |
+| 2026-11-09 | [NVIDIA Dynamo recipes add Korean open models, 2x B200 speed](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-279.md#-nvidia-dynamo-recipes-add-korean-open-models-2x-b200-speed) | AI Professionals and Community |
+| 2026-11-09 | [NVIDIA NVLink Fusion collaboration announced](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-270.md#-nvidia-nvlink-fusion-collaboration-announced) | AI in Enterprise Applications |
+| 2026-11-09 | [Deepseek 4.1 1017 build on RTX Pro 6000 with MiniMax h3](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-270.md#-deepseek-41-1017-build-on-rtx-pro-6000-with-minimax-h3) | AI in Enterprise Applications |
+| 2026-11-09 | [CoreWeave debt $29.8B vs $3.95B cash, coverage &lt;2×](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-264.md#-coreweave-debt-298b-vs-395b-cash-coverage-2) | Decentralized AI |
+| 2026-11-08 | [Symbolica raises $31M, deck seeks $8M at $120M valuation](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-313.md#-symbolica-raises-31m-deck-seeks-8m-at-120m-valuation) | CS Academics |
 | 2026-11-08 | [CoreWeave CEO letter to Texas governor-elect on data centers](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-263.md#-coreweave-ceo-letter-to-texas-governor-elect-on-data-centers) | Decentralized AI |
 | 2026-11-07 | [GPU without Linux enables GUI under a second startup](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-278.md#-gpu-without-linux-enables-gui-under-a-second-startup) | AI Driven Vehicles and Transportation |
 | 2026-11-07 | [H200x8 node post-training under 4 hours using 8 H200 GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-277.md#-h200x8-node-post-training-under-4-hours-using-8-h200-gpus) | AI Driven Vehicles and Transportation |
@@ -97,12 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,064 briefings tha
 | 2026-10-14 | [DeepSeek V4.1 Flash 425x cheaper than Opus 5.5 at 200 TPS/user](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-266.md#-deepseek-v41-flash-425x-cheaper-than-opus-55-at-200-tpsuser) | AI Professionals and Community |
 | 2026-10-14 | [DuoDiscover full-stack code optimization agent benchmark results](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-266.md#-duodiscover-full-stack-code-optimization-agent-benchmark-results) | AI Professionals and Community |
 | 2026-10-14 | [DuoDiscover AI agents ship PRs, beat hardware baselines](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-266.md#-duodiscover-ai-agents-ship-prs-beat-hardware-baselines) | AI Professionals and Community |
-| 2026-10-10 | [New GPU DSL built on OxCaml matches cuBLAS on H100](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-267.md#-new-gpu-dsl-built-on-oxcaml-matches-cublas-on-h100) | AI and Robotics Applications |
-| 2026-10-09 | [Miles training framework built on Modal's GPU clusters](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-292.md#-miles-training-framework-built-on-modals-gpu-clusters) | AI Developer Tools |
-| 2026-10-09 | [WEKA NeuralMesh announced to reduce idle GPU costs](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-292.md#-weka-neuralmesh-announced-to-reduce-idle-gpu-costs) | AI Developer Tools |
-| 2026-10-09 | [Gliff remote desktop announced for RS 4.5](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-290.md#-gliff-remote-desktop-announced-for-rs45) | Tech VIPs |
-| 2026-10-09 | [Batteries cheaper than open‑cycle gas turbines in data centers](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-233.md#-batteries-cheaper-than-opencycle-gas-turbines-in-data-centers) | PR and Communications |
-| 2026-10-08 | [Intel Core i5-9600K system specs listed](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-265.md#-intel-core-i5-9600k-system-specs-listed) | AI and Robotics Applications |
-| 2026-10-08 | [LVMH partners with Analog Devices on AI grape spoilage sensor](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-257.md#-lvmh-partners-with-analog-devices-on-ai-grape-spoilage-sensor) | AI for Content Creation and Marketing |
-| 2026-10-08 | [ProjectDiscovery fine‑tunes model with LoRA for under $50](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-229.md#-projectdiscovery-finetunes-model-with-lora-for-under-50) | Tech Companies and News |
-| 2026-10-07 | [First TPUs to be launched into orbit](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-301.md#-first-tpus-to-be-launched-into-orbit) | CS Academics |

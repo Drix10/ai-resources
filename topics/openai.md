@@ -1,14 +1,19 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,255 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,260 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [Claude Opus 5.5 vs GPT-6.1 Terra – 32 beads replayed identical bin counts](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-312.md#-claude-opus-55-vs-gpt-61-terra--32-beads-replayed-identical-bin-counts) | AI Developer Tools |
+| 2026-11-09 | [Opus5.5 model evolution and AI-powered RC car achievement](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-283.md#-opus55-model-evolution-and-ai-powered-rc-car-achievement) | AI and Robotics Applications |
+| 2026-11-09 | [Procedura – MCP integration released 2026-10-20](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-266.md#-procedura--mcp-integration-released-2026-10-20) | AI in Real Estate and Property Tech |
 | 2026-11-08 | [Orca build workflow creates 9 PRs in morning](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-311.md#-orca-build-workflow-creates-9-prs-in-morning) | AI Developer Tools |
 | 2026-11-08 | [Learning When to Think Aloud in Latent Reasoning shows 9.6% accuracy gain on GPT-2](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-295.md#-learning-when-to-think-aloud-in-latent-reasoning-shows-96-accuracy-gain-on-gpt-2) | AI Organizations and Media |
+| 2026-11-08 | [Claude Code/Codex figure scripts open-sourced by Yale researcher](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-288.md#-claude-codecodex-figure-scripts-open-sourced-by-yale-researcher) | AI in Healthcare and Science |
 | 2026-11-08 | [Break Point: Xeno Tour, built with Crayon + GPT-6 Sol](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-284.md#-break-point-xeno-tour-built-with-crayon--gpt-6-sol) | AI Holodeck and Virtual Worlds |
+| 2026-11-08 | [Magai picker adds GPT-6.1 Terra, Qwen 3.8 Max, Krea v3, Kling V4](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-275.md#-magai-picker-adds-gpt-61-terra-qwen-38-max-krea-v3-kling-v4) | AI for Content Creation and Marketing |
 | 2026-11-08 | [3D fish model giveaway with animation and creation guide](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-268.md#-3d-fish-model-giveaway-with-animation-and-creation-guide) | AR VR Professionals and Community |
 | 2026-11-08 | [Cairn – solved 54/54 problems, placed 3rd at Tencent Cloud Hackathon](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-242.md#-cairn--solved-5454-problems-placed-3rd-at-tencent-cloud-hackathon) | Cybersecurity and Tech |
 | 2026-11-07 | [Membase shared long-term memory layer announced, free and multi-model support](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-membase-shared-long-term-memory-layer-announced-free-and-multi-model-support) | AI Developer Tools |
@@ -101,8 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,255 briefings t
 | 2026-10-19 | [AMZN net income driven by Anthropic valuation jump](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-251.md#-amzn-net-income-driven-by-anthropic-valuation-jump) | Investors and Venture Capital |
 | 2026-10-18 | [Lighthouse launch and LLL token live on RobinhoodCrypto](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-290.md#-lighthouse-launch-and-lll-token-live-on-robinhoodcrypto) | VC Firms |
 | 2026-10-18 | [Pika X ChatGPT plugin extension launch announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-266.md#-pika-x-chatgpt-plugin-extension-launch-announced) | AI Consulting and Expertise |
-| 2026-10-17 | [CERT-In flags AI agents as vectors, 8 states sue OpenAI](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-271.md#-cert-in-flags-ai-agents-as-vectors-8-states-sue-openai) | AI Education |
-| 2026-10-16 | [Nemotron 3.5 Super VL E2EE inference 500+ tokens/sec on one GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-296.md#-nemotron-35-super-vl-e2ee-inference-500-tokenssec-on-one-gpu) | AI Developer Tools |
-| 2026-10-16 | [GPT-6.1 Sol uses 53% fewer credits than Gemini 4 Argon](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-296.md#-gpt-61-sol-uses-53-fewer-credits-than-gemini-4-argon) | AI Developer Tools |
-| 2026-10-16 | [HeyGen MCP new content workflow with HyperFrames Studio](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-285.md#-heygen-mcp-new-content-workflow-with-hyperframes-studio) | AI Companies and Ventures |
-| 2026-10-16 | [OpenAI models success rate rises to 35% in 16 months](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-283.md#-openai-models-success-rate-rises-to-35-in-16-months) | AI Organizations and Media |
