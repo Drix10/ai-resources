@@ -1,11 +1,17 @@
 # AI release timeline
 
-Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 172, each linked to its briefing.
+Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 178, each linked to its briefing.
 
 ## November 2026
 
+- **Nov 9** · [Omarchy 4.6 launch with Flash Next on AMD 495](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-305.md#-omarchy-46-launch-with-flash-next-on-amd-495) <sub>Tech VIPs</sub>
+- **Nov 9** · [Voice Cursor launch – AI voice dictation app announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-300.md#-voice-cursor-launch--ai-voice-dictation-app-announced) <sub>AI Companies and Ventures</sub>
+- **Nov 9** · [Claude Personal Finance beta launches US, read-only](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-269.md#-claude-personal-finance-beta-launches-us-read-only) <sub>AR VR Professionals and Community</sub>
 - **Nov 8** · [Axion 1.0 Open Agent Model released with simple training](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-295.md#-axion-10-open-agent-model-released-with-simple-training) <sub>AI Organizations and Media</sub>
+- **Nov 8** · [Claude Code/Codex figure scripts open-sourced by Yale researcher](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-288.md#-claude-codecodex-figure-scripts-open-sourced-by-yale-researcher) <sub>AI in Healthcare and Science</sub>
+- **Nov 8** · [Qwen 4 27b release date announced for November 9](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-283.md#-qwen-4-27b-release-date-announced-for-november-9) <sub>AI and Robotics Applications</sub>
 - **Nov 7** · [AutoAlign open-sourced by NVIDIA, no benchmarks shipped](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-279.md#-autoalign-open-sourced-by-nvidia-no-benchmarks-shipped) <sub>AI Education</sub>
+- **Nov 7** · [MuJoCo 4.0 release – fast objects no longer pass, soft bodies deform](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-272.md#-mujoco-40-release--fast-objects-no-longer-pass-soft-bodies-deform) <sub>Computer Vision and AI Applications</sub>
 - **Nov 6** · [Ripple-65B released with 65B params, Apache 2.0, $32M training](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-278.md#-ripple-65b-released-with-65b-params-apache-20-32m-training) <sub>AI Education</sub>
 - **Nov 6** · [NVIDIA driver fix for Meta Quest Link freezing issue, v621.01 release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-270.md#-nvidia-driver-fix-for-meta-quest-link-freezing-issue-v62101-release) <sub>AR VR Companies and Development</sub>
 - **Nov 6** · [Result iOS agent launches with on-device cards, passwords, Apple Pay](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-242.md#-result-ios-agent-launches-with-on-device-cards-passwords-apple-pay) <sub>Tech Journalists and VIPs</sub>

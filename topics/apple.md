@@ -1,11 +1,12 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 673 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 674 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [Apple Vision Pro Yokkaichi Expo 2025 experience returns 11/27](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-246.md#-apple-vision-pro-yokkaichi-expo-2025-experience-returns-1127) | Spatial Computing |
 | 2026-11-08 | [Inco Splash inference engine: up to 3× faster](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-311.md#-inco-splash-inference-engine-up-to-3-faster) | AI Developer Tools |
 | 2026-11-08 | [Gaussian Splats generation from image viewable on Vision Pro](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-278.md#-gaussian-splats-generation-from-image-viewable-on-vision-pro) | AI Driven Vehicles and Transportation |
 | 2026-11-08 | [KrakenWallet next version helps Apple review, UI glow up announced](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-262.md#-krakenwallet-next-version-helps-apple-review-ui-glow-up-announced) | Crypto and Web3 |
@@ -105,4 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 673 br
 | 2026-09-18 | [Preparing Your App for iPhone Duo](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-215.md#-preparing-your-app-for-iphone-duo) | Spatial Computing |
 | 2026-09-18 | [News - Apple Fans Line Up for New iPhone 18](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-215.md#-news---apple-fans-line-up-for-new-iphone-18) | World News and Updates |
 | 2026-09-17 | [Apple's iMessage Security Concerns](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-250.md#-apples-imessage-security-concerns) | AI Artists and Creators |
-| 2026-09-16 | [Business - Apple's Return to Server Market](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-265.md#-business---apples-return-to-server-market) | Tech VIPs |

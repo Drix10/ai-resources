@@ -1,11 +1,28 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 779 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 796 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [Nvidia tokenized stocks trade 24/7, Binance volume rank](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-305.md#-nvidia-tokenized-stocks-trade-247-binance-volume-rank) | Tech VIPs |
+| 2026-11-09 | [Hyundai Motor Group NVDA NemoClaw, OpenShell](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-303.md#-hyundai-motor-group-nvda-nemoclaw-openshell) | VC Firms |
+| 2026-11-09 | [Megaspeed office in Kuningan, plans $2B Nvidia chips](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-302.md#-megaspeed-office-in-kuningan-plans-2b-nvidia-chips) | AI Leaders and Thinkers |
+| 2026-11-09 | [Nasdaq down 5.5% in a day, chip index down 12% weekly](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-300.md#-nasdaq-down-55-in-a-day-chip-index-down-12-weekly) | AI Companies and Ventures |
+| 2026-11-09 | [RLWRLD investment to advance robotics models](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-283.md#-rlwrld-investment-to-advance-robotics-models) | AI and Robotics Applications |
+| 2026-11-09 | [Bolt 25,000 Lucid robotaxis using Nvidia Alpamayo](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-279.md#-bolt-25000-lucid-robotaxis-using-nvidia-alpamayo) | AI Driven Vehicles and Transportation |
+| 2026-11-09 | [Samsung advances semiconductor engineering with NVIDIA AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-279.md#-samsung-advances-semiconductor-engineering-with-nvidia-ai) | AI Driven Vehicles and Transportation |
+| 2026-11-09 | [NVIDIA Dynamo recipes add Korean open models, 2x B200 speed](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-279.md#-nvidia-dynamo-recipes-add-korean-open-models-2x-b200-speed) | AI Professionals and Community |
+| 2026-11-09 | [NVIDIA AI Day Seoul Highlights Korea’s Advances in Sovereign, Agentic and Physical AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-279.md#-nvidia-ai-day-seoul-highlights-koreas-advances-in-sovereign-agentic-and-physical-ai) | AI Professionals and Community |
+| 2026-11-09 | [NVIDIA NemoClaw, OpenShell, K-EXAONE-2.5 API access announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-279.md#-nvidia-nemoclaw-openshell-k-exaone-25-api-access-announced) | AI Professionals and Community |
+| 2026-11-09 | [NVIDIA NVLink Fusion collaboration announced](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-270.md#-nvidia-nvlink-fusion-collaboration-announced) | AI in Enterprise Applications |
+| 2026-11-09 | [Nvidia H200 chips Chinese buyers non-existent or military-linked](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-270.md#-nvidia-h200-chips-chinese-buyers-non-existent-or-military-linked) | Founders and Entrepreneurs |
+| 2026-11-09 | [Nvidia CEO Affair Fallout – Binance NVDAUSDT drops 4.2%](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-263.md#-nvidia-ceo-affair-fallout--binance-nvdausdt-drops-42) | Crypto and Web3 |
+| 2026-11-09 | [Nvidia board investigates Jensen Huang, 50-50 CEO odds](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-248.md#-nvidia-board-investigates-jensen-huang-50-50-ceo-odds) | PR and Communications |
+| 2026-11-09 | [Nvidia board opens independent investigation after CEO admits affair](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-248.md#-nvidia-board-opens-independent-investigation-after-ceo-admits-affair) | PR and Communications |
+| 2026-11-09 | [Microsoft is winding down its deal to rent AI computing from Oracle, $80B contracts](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-248.md#-microsoft-is-winding-down-its-deal-to-rent-ai-computing-from-oracle-80b-contracts) | PR and Communications |
+| 2026-11-09 | [Nvidia H200 chips – Chinese buyers non-existent or military-linked](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-244.md#-nvidia-h200-chips--chinese-buyers-non-existent-or-military-linked) | Tech Journalists and VIPs |
 | 2026-11-08 | [NVIDIA plans investments in four German AI firms](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-259.md#-nvidia-plans-investments-in-four-german-ai-firms) | Investors and Venture Capital |
 | 2026-11-08 | [TSMC considers 3D DRAM production at Nvidia's request](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-241.md#-tsmc-considers-3d-dram-production-at-nvidias-request) | Tech Companies and News |
 | 2026-11-07 | [AutoAlign open-sourced by NVIDIA, no benchmarks shipped](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-279.md#-autoalign-open-sourced-by-nvidia-no-benchmarks-shipped) | AI Education |
@@ -89,20 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 779 briefin
 | 2026-09-29 | [Enterprise AI Governance - Open Agent Safety Platform](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-262.md#-enterprise-ai-governance---open-agent-safety-platform) | AI Education |
 | 2026-09-28 | [AI Safety - Agent Safety Platform](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-261.md#-ai-safety---agent-safety-platform) | AI Education |
 | 2026-09-28 | [AI - NVIDIA's Agent Safety Platform](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-259.md#-ai---nvidias-agent-safety-platform) | Tech Infrastructure |
-| 2026-09-28 | [AI - NVIDIA Open Agent Safety Platform](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-257.md#-ai---nvidia-open-agent-safety-platform) | AI Consulting and Expertise |
-| 2026-09-28 | [Tech News - AMD Acquisition](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-249.md#-tech-news---amd-acquisition) | AR VR Professionals and Community |
-| 2026-09-25 | [Confidential Computing Category - VAST Data Extends DataEnclave to Self-Hosted and On-Premises Environments](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-258.md#-confidential-computing-category---vast-data-extends-dataenclave-to-self-hosted-and-on-premises-environments) | Tech Infrastructure |
-| 2026-09-25 | [NVIDIA Jetson Agent Skills](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-256.md#-nvidia-jetson-agent-skills) | AI and Robotics Applications |
-| 2026-09-24 | [AI - Greptile Reviews 395,000 Pull Requests](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-280.md#-ai---greptile-reviews-395000-pull-requests) | AI Developer Tools |
-| 2026-09-24 | [Robotics - AI Safety and Ethics](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-255.md#-robotics---ai-safety-and-ethics) | AI and Robotics Applications |
-| 2026-09-24 | [AI in Finance - Valuations](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-240.md#-ai-in-finance---valuations) | Investors and Venture Capital |
-| 2026-09-23 | [Nemotron 3 Diarization: Implementing Speaker Detection in Voice Applications](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-277.md#-nemotron-3-diarization-implementing-speaker-detection-in-voice-applications) | Tech VIPs |
-| 2026-09-23 | [Audio Processing](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-258.md#-audio-processing) | AI Generated Music and Audio |
-| 2026-09-23 | [CUDA Programming](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-254.md#-cuda-programming) | AI and Robotics Applications |
-| 2026-09-23 | [NVIDIA Accelerated Quantum Research Center](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-225.md#-nvidia-accelerated-quantum-research-center) | Quantum Computing |
-| 2026-09-22 | [Tech - Mac Studio M5 Ultra vs Spark](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-270.md#-tech---mac-studio-m5-ultra-vs-spark) | AI Leaders and Thinkers |
-| 2026-09-22 | [NVIDIA Isaac ROS 5.0](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-266.md#-nvidia-isaac-ros-50) | AI Organizations and Media |
-| 2026-09-22 | [Nvidia Investment](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-253.md#-nvidia-investment) | AI Professionals and Community |
-| 2026-09-22 | [AI Engineering - Audi Vision Systems](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-250.md#-ai-engineering---audi-vision-systems) | AI Driven Vehicles and Transportation |
-| 2026-09-22 | [VAST DataEnclave](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-246.md#-vast-dataenclave) | AI in Enterprise Applications |
-| 2026-09-22 | [Finance - Nvidia Price Targets](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-241.md#-finance---nvidia-price-targets) | The Exponential Future |

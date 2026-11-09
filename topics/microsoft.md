@@ -1,11 +1,13 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 588 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 590 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [Enabling Retraining-Free Accurate Inference in Analog Compute in Memory Accelerators](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-296.md#-enabling-retraining-free-accurate-inference-in-analog-compute-in-memory-accelerators) | AI Organizations and Media |
+| 2026-11-09 | [Microsoft is winding down its deal to rent AI computing from Oracle, $80B contracts](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-248.md#-microsoft-is-winding-down-its-deal-to-rent-ai-computing-from-oracle-80b-contracts) | PR and Communications |
 | 2026-11-08 | [GitHub rebuilding for agents, led by Jay Parikh](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-278.md#-github-rebuilding-for-agents-led-by-jay-parikh) | AI Professionals and Community |
 | 2026-11-07 | [Agent memory released by seven firms in one month](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-279.md#-agent-memory-released-by-seven-firms-in-one-month) | AI Education |
 | 2026-11-07 | [Microsoft Paint remote code execution flaw, fix via Store](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-263.md#-microsoft-paint-remote-code-execution-flaw-fix-via-store) | Decentralized AI |
@@ -104,5 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 588 briefings
 | 2026-09-18 | [Windows 11 Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-245.md#-windows-11-update) | AI Consulting and Expertise |
 | 2026-09-18 | [Microsoft and OpenAI](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-217.md#-microsoft-and-openai) | Cybersecurity and Tech |
 | 2026-09-18 | [AI and Content Creation](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-217.md#-ai-and-content-creation) | PR and Communications |
-| 2026-09-18 | [Security - Excel Format Rosetta-Stone Map](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-215.md#-security---excel-format-rosetta-stone-map) | Cybersecurity and Tech |
-| 2026-09-17 | [Category - Microsoft Copilot and SharePoint](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-266.md#-category---microsoft-copilot-and-sharepoint) | Tech VIPs |

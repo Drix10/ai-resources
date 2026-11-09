@@ -1,13 +1,21 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 236 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 244 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [Qwen3.8-Flash-Next-FP4-Local served via vLLM](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-313.md#-qwen38-flash-next-fp4-local-served-via-vllm) | CS Academics |
+| 2026-11-09 | [huihui-ai/Huihui-Qwen3.6-35B-A3B-abliterated-MTP-GGUF download surge and patch plan](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-312.md#-huihui-aihuihui-qwen36-35b-a3b-abliterated-mtp-gguf-download-surge-and-patch-plan) | AI Developer Tools |
+| 2026-11-09 | [Qwen Code /stats speed calculation changed to include TTFT](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-296.md#-qwen-code-stats-speed-calculation-changed-to-include-ttft) | AI Organizations and Media |
+| 2026-11-09 | [Chinese AI models list on platform – Seedance, Seedream, Kling, MiniMax, Wan, Qwen](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-285.md#-chinese-ai-models-list-on-platform--seedance-seedream-kling-minimax-wan-qwen) | AI Holodeck and Virtual Worlds |
+| 2026-11-09 | [Qwen3.8-Flash-Next runs via Strata with auto-restart on stalls](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-246.md#-qwen38-flash-next-runs-via-strata-with-auto-restart-on-stalls) | Spatial Computing |
 | 2026-11-08 | [Inco Splash inference engine: up to 3× faster](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-311.md#-inco-splash-inference-engine-up-to-3-faster) | AI Developer Tools |
+| 2026-11-08 | [Qwen 4 27b release date announced for November 9](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-283.md#-qwen-4-27b-release-date-announced-for-november-9) | AI and Robotics Applications |
+| 2026-11-08 | [Magai picker adds GPT-6.1 Terra, Qwen 3.8 Max, Krea v3, Kling V4](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-275.md#-magai-picker-adds-gpt-61-terra-qwen-38-max-krea-v3-kling-v4) | AI for Content Creation and Marketing |
 | 2026-11-07 | [Qwen3.8-27B fine-tuned to Arete-27B with 50M tokens rewrite](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-264.md#-qwen38-27b-fine-tuned-to-arete-27b-with-50m-tokens-rewrite) | The Exponential Future |
+| 2026-11-06 | [Qwen3.5-0.8B weight-space programming improves MedQA accuracy to 32.9%](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-288.md#-qwen35-08b-weight-space-programming-improves-medqa-accuracy-to-329) | AI in Healthcare and Science |
 | 2026-11-06 | [Arete-27B – post-trained Qwen3.8-27B with Western values, 803-prompt eval](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-267.md#-arete-27b--post-trained-qwen38-27b-with-western-values-803-prompt-eval) | AR VR Professionals and Community |
 | 2026-11-06 | [Arete-27B fine-tuned Qwen3.8-27B cuts propaganda to 1%](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-262.md#-arete-27b-fine-tuned-qwen38-27b-cuts-propaganda-to-1) | Decentralized AI |
 | 2026-11-05 | [Strata 0.2.11 adds auto split engine, decode 186.8 tps](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-263.md#-strata-0211-adds-auto-split-engine-decode-1868-tps) | AI in Real Estate and Property Tech |
@@ -98,11 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 236 briefings that mention i
 | 2026-09-02 | [Hybrid Compute - Lily Engine](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-235.md#-hybrid-compute---lily-engine) | AI Education |
 | 2026-09-02 | [Benchmarking - Qwen3.6-35B-A3B](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-235.md#-benchmarking---qwen36-35b-a3b) | AI Education |
 | 2026-09-02 | [Open-Sourcing - Lily Engine](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-235.md#-open-sourcing---lily-engine) | AI Education |
-| 2026-08-31 | [Qwen3-8B - Student Model Surpasses Teacher](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-243.md#-qwen3-8b---student-model-surpasses-teacher) | AI Organizations and Media |
-| 2026-08-29 | [Domain Names - Qwen Domains](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-246.md#-domain-names---qwen-domains) | AI in Real Estate and Property Tech |
-| 2026-08-28 | [Model Release - Qwen Models Availability](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-249.md#-model-release---qwen-models-availability) | AI Developer Tools |
-| 2026-08-21 | [Model Deployment - NPU Execution](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-242.md#-model-deployment---npu-execution) | AI Companies and Ventures |
-| 2026-07-08 | [Cloud Services - Alibaba Agentic RAG Knowledge Studio](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-212.md#-cloud-services---alibaba-agentic-rag-knowledge-studio) | AI Powered Film and Media |
-| 2026-07-06 | [Vision Pro - XR Development and AI Integration](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-179.md#-vision-pro---xr-development-and-ai-integration) | Spatial Computing |
-| 2026-07-03 | [AI Infrastructure - Alibaba Cloud Qwen](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-236.md#-ai-infrastructure---alibaba-cloud-qwen) | CS Academics |
-| 2026-06-27 | [Decentralized Compute - AI Inference Market Share](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-192.md#-decentralized-compute---ai-inference-market-share) | Decentralized AI |

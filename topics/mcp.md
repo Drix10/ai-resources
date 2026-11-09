@@ -1,12 +1,14 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 425 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 427 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [Procedura – MCP integration released 2026-10-20](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-266.md#-procedura--mcp-integration-released-2026-10-20) | AI in Real Estate and Property Tech |
 | 2026-11-08 | [Ælen – Astro & Tailwind physiotherapy theme launch](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-304.md#-ælen--astro--tailwind-physiotherapy-theme-launch) | Devs, Designers, DevRel |
+| 2026-11-08 | [Framer – New MCP, Harness 2, Agent Templates, Multiplayer Cursors, Lighthouse 13.6](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-279.md#-framer--new-mcp-harness-2-agent-templates-multiplayer-cursors-lighthouse-136) | Tech Infrastructure |
 | 2026-11-08 | [Claude Opus 5.5 drives Adobe Fusion CAD for 3D print](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-268.md#-claude-opus-55-drives-adobe-fusion-cad-for-3d-print) | AR VR Professionals and Community |
 | 2026-11-08 | [Windows-DNS-Policy-Manager adds browser GUI, 8 wizards](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-242.md#-windows-dns-policy-manager-adds-browser-gui-8-wizards) | Cybersecurity and Tech |
 | 2026-11-07 | [Membase shared long-term memory layer announced, free and multi-model support](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-membase-shared-long-term-memory-layer-announced-free-and-multi-model-support) | AI Developer Tools |
@@ -104,5 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-03 | [Technical - Environment Testing for React Vision XR](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-223.md#-technical---environment-testing-for-react-vision-xr) | AR VR Professionals and Community |
 | 2026-09-02 | [Tech News - Quantum Bounty Program Results](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-205.md#-tech-news---quantum-bounty-program-results) | Quantum Computing |
 | 2026-09-01 | [5.6 Million Business Tasks Handled by MCP Tool](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-225.md#-56-million-business-tasks-handled-by-mcp-tool) | AR VR Companies and Development |
-| 2026-08-31 | [MCP Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-234.md#-mcp-release) | AI Powered Film and Media |
-| 2026-08-31 | [Links Newsletter - AI and Tech Topics](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-229.md#-links-newsletter---ai-and-tech-topics) | Tech Infrastructure |

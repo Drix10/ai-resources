@@ -1,11 +1,14 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,471 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,475 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [LocusRobotics collaborative AMR deployment 200 robots](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-283.md#-locusrobotics-collaborative-amr-deployment-200-robots) | AI and Robotics Applications |
+| 2026-11-09 | [RLWRLD investment to advance robotics models](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-283.md#-rlwrld-investment-to-advance-robotics-models) | AI and Robotics Applications |
+| 2026-11-09 | [Snake-like robot navigates pig intestine with soft actuators](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-251.md#-snake-like-robot-navigates-pig-intestine-with-soft-actuators) | Neuroscience and AI |
 | 2026-11-08 | [Action Intent as a Bridge moves video knowledge to robots](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-295.md#-action-intent-as-a-bridge-moves-video-knowledge-to-robots) | AI Organizations and Media |
 | 2026-11-08 | [CLARA clarification framework for robotics announced](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-282.md#-clara-clarification-framework-for-robotics-announced) | AI and Robotics Applications |
 | 2026-11-08 | [RAX scaling online exploration at CoRL2026 poster 119](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-282.md#-rax-scaling-online-exploration-at-corl2026-poster-119) | AI and Robotics Applications |
@@ -16,6 +19,7 @@ Robots, humanoids and robot learning. The 100 newest of 2,471 briefings that men
 | 2026-11-07 | [Social Humanoid framework deployed on Unitree G1 robot](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-294.md#-social-humanoid-framework-deployed-on-unitree-g1-robot) | AI Organizations and Media |
 | 2026-11-07 | [Energy-Based Policy Orchestration paper announced at CoRL 2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-294.md#-energy-based-policy-orchestration-paper-announced-at-corl-2026) | AI Organizations and Media |
 | 2026-11-07 | [Theseus Robotics restocks shelves, picks orders by day](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-241.md#-theseus-robotics-restocks-shelves-picks-orders-by-day) | Tech Companies and News |
+| 2026-11-06 | [Walker C1 debut at ZEISS Innovation Summit 2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-300.md#-walker-c1-debut-at-zeiss-innovation-summit-2026) | AI Companies and Ventures |
 | 2026-11-06 | [Shinkei AI robot spikes fish brains to extend shelf life 3x](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-300.md#-shinkei-ai-robot-spikes-fish-brains-to-extend-shelf-life-3x) | AI Leaders and Thinkers |
 | 2026-11-06 | [Agentic robot control runs 2.5 h after 30 s recharge](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-281.md#-agentic-robot-control-runs-25-h-after-30-s-recharge) | AI and Robotics Applications |
 | 2026-11-06 | [Reflex humanoid control catches objects without falling, 1.6M rendered steps](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-281.md#-reflex-humanoid-control-catches-objects-without-falling-16m-rendered-steps) | AI and Robotics Applications |
@@ -102,7 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,471 briefings that men
 | 2026-10-25 | [Agentic World Action Models AW-0 achieves 71.1% on real tasks](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-262.md#-agentic-world-action-models-aw-0-achieves-711-on-real-tasks) | Computer Vision and AI Applications |
 | 2026-10-24 | [MicroDuck shows waddle, sit and somersault at GTC Berlin](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-288.md#-microduck-shows-waddle-sit-and-somersault-at-gtc-berlin) | AI Leaders and Thinkers |
 | 2026-10-24 | [Screw Actuator for Robot patent shows knee actuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-272.md#-screw-actuator-for-robot-patent-shows-knee-actuation) | AI and Robotics Applications |
-| 2026-10-24 | [MorphMimic shares morphology-conditioned world model and policy across three robots](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-261.md#-morphmimic-shares-morphology-conditioned-world-model-and-policy-across-three-robots) | Computer Vision and AI Applications |
-| 2026-10-21 | [SuperMimic scales humanoid control, 1 GPU → 3 h training](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-272.md#-supermimic-scales-humanoid-control-1-gpu--3-h-training) | AI and Robotics Applications |
-| 2026-10-19 | [PACT robot hand co-optimizes 17-servo hand – 3.9 mm RMSE, 86% grasp success](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-271.md#-pact-robot-hand-co-optimizes-17-servo-hand--39-mm-rmse-86-grasp-success) | AI and Robotics Applications |
-| 2026-10-19 | [T2-z world model improves robot slip detection to 73% success](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-260.md#-t2-z-world-model-improves-robot-slip-detection-to-73-success) | Computer Vision and AI Applications |

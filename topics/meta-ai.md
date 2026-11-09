@@ -1,11 +1,12 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 629 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 630 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [Vistathlon live cheering feature for Meta Ray-Ban Display](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-246.md#-vistathlon-live-cheering-feature-for-meta-ray-ban-display) | Spatial Computing |
 | 2026-11-08 | [Learning When to Think Aloud in Latent Reasoning shows 9.6% accuracy gain on GPT-2](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-295.md#-learning-when-to-think-aloud-in-latent-reasoning-shows-96-accuracy-gain-on-gpt-2) | AI Organizations and Media |
 | 2026-11-08 | [AR remote communication app website updated](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-241.md#-ar-remote-communication-app-website-updated) | Tech Companies and News |
 | 2026-11-07 | [Agent memory released by seven firms in one month](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-279.md#-agent-memory-released-by-seven-firms-in-one-month) | AI Education |
@@ -105,4 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 629 brie
 | 2026-09-23 | [Muse Business Model (Again)](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-241.md#-muse-business-model-again) | Interesting Finds |
 | 2026-09-23 | [Tech News - Wearable Computers](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-220.md#-tech-news---wearable-computers) | Tech Companies and News |
 | 2026-09-23 | [Tech News - Zuckerberg's Presentation](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-220.md#-tech-news---zuckerbergs-presentation) | Tech Companies and News |
-| 2026-09-23 | [Tech News - Meta Connect](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-220.md#-tech-news---meta-connect) | Tech Companies and News |
