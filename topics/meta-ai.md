@@ -1,11 +1,16 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 630 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 635 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-10 | [Tuya Cloud Devices open-source Skill announced for Muse](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-271.md#-tuya-cloud-devices-open-source-skill-announced-for-muse) | AI in Enterprise Applications |
+| 2026-11-09 | [Muse Ember launch – smallest model, $0.10 per input million](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-314.md#-muse-ember-launch--smallest-model-010-per-input-million) | CS Academics |
+| 2026-11-09 | [Meta VR Glasses – SDK v207 and tools now available](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-272.md#-meta-vr-glasses--sdk-v207-and-tools-now-available) | AR VR Companies and Development |
+| 2026-11-09 | [Meta VR Start Developer Competition due Nov 18](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-272.md#-meta-vr-start-developer-competition-due-nov-18) | AR VR Companies and Development |
+| 2026-11-09 | [Meta VR Glasses prototype can start on desktop](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-272.md#-meta-vr-glasses-prototype-can-start-on-desktop) | AR VR Companies and Development |
 | 2026-11-09 | [Vistathlon live cheering feature for Meta Ray-Ban Display](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-246.md#-vistathlon-live-cheering-feature-for-meta-ray-ban-display) | Spatial Computing |
 | 2026-11-08 | [Learning When to Think Aloud in Latent Reasoning shows 9.6% accuracy gain on GPT-2](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-295.md#-learning-when-to-think-aloud-in-latent-reasoning-shows-96-accuracy-gain-on-gpt-2) | AI Organizations and Media |
 | 2026-11-08 | [AR remote communication app website updated](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-241.md#-ar-remote-communication-app-website-updated) | Tech Companies and News |
@@ -101,8 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 630 brie
 | 2026-09-24 | [XR Tech - Muse AI](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-244.md#-xr-tech---muse-ai) | AR VR Professionals and Community |
 | 2026-09-24 | [XR Tech - Meta VR Glasses Pricing](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-244.md#-xr-tech---meta-vr-glasses-pricing) | AR VR Professionals and Community |
 | 2026-09-24 | [Tech News - Meta's AI Gadget](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-224.md#-tech-news---metas-ai-gadget) | PR and Communications |
-| 2026-09-24 | [Tech Insights - Mixed Reality Link](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-223.md#-tech-insights---mixed-reality-link) | Spatial Computing |
-| 2026-09-23 | [Business - H-1B Visa Abuse](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-241.md#-business---h-1b-visa-abuse) | Crypto and Web3 |
-| 2026-09-23 | [Muse Business Model (Again)](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-241.md#-muse-business-model-again) | Interesting Finds |
-| 2026-09-23 | [Tech News - Wearable Computers](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-220.md#-tech-news---wearable-computers) | Tech Companies and News |
-| 2026-09-23 | [Tech News - Zuckerberg's Presentation](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-220.md#-tech-news---zuckerbergs-presentation) | Tech Companies and News |

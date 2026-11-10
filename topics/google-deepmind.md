@@ -1,11 +1,14 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 952 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 955 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-10 | [Dialt Budget launch at half price, Dialt Fast 41.1% pass rate](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-dialt-budget-launch-at-half-price-dialt-fast-411-pass-rate) | AI Organizations and Media |
+| 2026-11-10 | [Gemini 4 Carbon live on Vertex AI and Gemini Web App](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-gemini-4-carbon-live-on-vertex-ai-and-gemini-web-app) | AI Organizations and Media |
+| 2026-11-10 | [AlphaProof Code formally verifies Signal protocol](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-249.md#-alphaproof-code-formally-verifies-signal-protocol) | PR and Communications |
 | 2026-11-09 | [Google AI Features Sent One Site 21% of Clicks](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-248.md#-google-ai-features-sent-one-site-21-of-clicks) | PR and Communications |
 | 2026-11-08 | [CREAO – access Claude models and Fable 5.1 without login](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-269.md#-creao--access-claude-models-and-fable-51-without-login) | AI in Enterprise Applications |
 | 2026-11-07 | [Membase shared long-term memory layer announced, free and multi-model support](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-membase-shared-long-term-memory-layer-announced-free-and-multi-model-support) | AI Developer Tools |
@@ -103,6 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-09-19 | [Security - AI Model Breakout](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-233.md#-security---ai-model-breakout) | Investors and Venture Capital |
 | 2026-09-18 | [Profound's $180M Series D](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-266.md#-profounds-180m-series-d) | VC Firms |
 | 2026-09-18 | [AI Security - Google's Gemini Model Hacked Three Companies](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-248.md#-ai-security---googles-gemini-model-hacked-three-companies) | AI Policy and Ethical Considerations |
-| 2026-09-17 | [Working with Google AI Studio](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-267.md#working-with-google-ai-studio) | AI Developer Tools |
-| 2026-09-17 | [Quitting Google DeepMind](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-241.md#-quitting-google-deepmind) | Computer Vision and AI Applications |
-| 2026-09-16 | [Google AI Plans for Students](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-280.md#-google-ai-plans-for-students) | CS Academics |

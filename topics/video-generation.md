@@ -1,12 +1,15 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 816 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 819 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [Atlas ranks #1 in RapidataAI camera-movement benchmark](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-304.md#-atlas-ranks-1-in-rapidataai-camera-movement-benchmark) | VC Firms |
+| 2026-11-09 | [Music Video Generator rewrite & reshoot now live, 1-click scene change](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-286.md#-music-video-generator-rewrite--reshoot-now-live-1-click-scene-change) | AI Generated Music and Audio |
 | 2026-11-09 | [Chinese AI models list on platform – Seedance, Seedream, Kling, MiniMax, Wan, Qwen](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-285.md#-chinese-ai-models-list-on-platform--seedance-seedream-kling-minimax-wan-qwen) | AI Holodeck and Virtual Worlds |
+| 2026-11-09 | [Runway Sightline creates 360 panoramas and exports for 3D](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-272.md#-runway-sightline-creates-360-panoramas-and-exports-for-3d) | AR VR Companies and Development |
 | 2026-11-08 | [MiniMax H3 2K video generator announced with 4-15 s render](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-284.md#-minimax-h3-2k-video-generator-announced-with-4-15-s-render) | AI Holodeck and Virtual Worlds |
 | 2026-11-08 | [Magai picker adds GPT-6.1 Terra, Qwen 3.8 Max, Krea v3, Kling V4](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-275.md#-magai-picker-adds-gpt-61-terra-qwen-38-max-krea-v3-kling-v4) | AI for Content Creation and Marketing |
 | 2026-11-08 | [CREAO – access Claude models and Fable 5.1 without login](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-269.md#-creao--access-claude-models-and-fable-51-without-login) | AI in Enterprise Applications |
@@ -103,6 +106,3 @@ Models and tools that make video. The 100 newest of 816 briefings that mention i
 | 2026-05-28 | [AI Video Editing - Capabilities and Challenges](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-210.md#-ai-video-editing---capabilities-and-challenges) | AI Artists and Creators |
 | 2026-05-19 | [AI Video Generation - Creative Applications](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-201.md#-ai-video-generation---creative-applications) | AI Powered Film and Media |
 | 2026-05-16 | [AI Model Performance - Video Generation Comparison](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-197.md#-ai-model-performance---video-generation-comparison) | AI Organizations and Media |
-| 2026-05-13 | [Audio Technology - Immersive Sports Broadcasting](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-200.md#-audio-technology---immersive-sports-broadcasting) | AI Consulting and Expertise |
-| 2026-05-13 | [AI Model - Niche Video Generation for Canine Motion](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-192.md#-ai-model---niche-video-generation-for-canine-motion) | AI Organizations and Media |
-| 2026-05-09 | [Generative AI - Video Generation Prompts](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-191.md#-generative-ai---video-generation-prompts) | AI Powered Film and Media |

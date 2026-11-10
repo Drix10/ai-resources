@@ -1,11 +1,12 @@
 # Cursor
 
-Cursor, the AI code editor. The 100 newest of 206 briefings that mention it, from every category, newest first.
+Cursor, the AI code editor. The 100 newest of 207 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-10 | [Swarms API MCP endpoint adds 23 tools and dynamic pricing](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-276.md#-swarms-api-mcp-endpoint-adds-23-tools-and-dynamic-pricing) | AI for Content Creation and Marketing |
 | 2026-11-09 | [Voice Cursor launch – AI voice dictation app announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-300.md#-voice-cursor-launch--ai-voice-dictation-app-announced) | AI Companies and Ventures |
 | 2026-11-07 | [proto_ide designer IDE announced with early access signups](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-311.md#-proto_ide-designer-ide-announced-with-early-access-signups) | CS Academics |
 | 2026-11-07 | [Membase shared long-term memory layer announced, free and multi-model support](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-membase-shared-long-term-memory-layer-announced-free-and-multi-model-support) | AI Developer Tools |
@@ -105,4 +106,3 @@ Cursor, the AI code editor. The 100 newest of 206 briefings that mention it, fro
 |  | [Application Security - Exploiting Cursor at Pwn2Own](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-171.md#-application-security---exploiting-cursor-at-pwn2own) | Cybersecurity and Tech |
 |  | [AI Coding - The 99 Pattern and Infill](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-150.md#-ai-coding---the-99-pattern-and-infill) | Devs, Designers, DevRel |
 |  | [AI Agents - Web Navigation Skill](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-146.md#-ai-agents---web-navigation-skill) | AI in Enterprise Applications |
-|  | [AI Tools - Cursor Long-Running Agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-142.md#-ai-tools---cursor-long-running-agents) | AI Driven Vehicles and Transportation |

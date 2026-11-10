@@ -1,11 +1,13 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 590 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 592 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-10 | [Paris Call for AI Safety commits to model shutdowns](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-273.md#-paris-call-for-ai-safety-commits-to-model-shutdowns) | AI Policy and Ethical Considerations |
+| 2026-11-10 | [Google Slides and PowerPoint Are Dead – AI builds web decks, 36% retention rise](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-249.md#-google-slides-and-powerpoint-are-dead--ai-builds-web-decks-36-retention-rise) | PR and Communications |
 | 2026-11-09 | [Enabling Retraining-Free Accurate Inference in Analog Compute in Memory Accelerators](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-296.md#-enabling-retraining-free-accurate-inference-in-analog-compute-in-memory-accelerators) | AI Organizations and Media |
 | 2026-11-09 | [Microsoft is winding down its deal to rent AI computing from Oracle, $80B contracts](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-248.md#-microsoft-is-winding-down-its-deal-to-rent-ai-computing-from-oracle-80b-contracts) | PR and Communications |
 | 2026-11-08 | [GitHub rebuilding for agents, led by Jay Parikh](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-278.md#-github-rebuilding-for-agents-led-by-jay-parikh) | AI Professionals and Community |
@@ -104,5 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 590 briefings
 | 2026-09-18 | [AI Welfare Discussion](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-247.md#-ai-welfare-discussion) | AI Professionals and Community |
 | 2026-09-18 | [AI Welfare Essay Critique](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-247.md#-ai-welfare-essay-critique) | AI Professionals and Community |
 | 2026-09-18 | [Windows 11 Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-245.md#-windows-11-update) | AI Consulting and Expertise |
-| 2026-09-18 | [Microsoft and OpenAI](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-217.md#-microsoft-and-openai) | Cybersecurity and Tech |
-| 2026-09-18 | [AI and Content Creation](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-217.md#-ai-and-content-creation) | PR and Communications |
