@@ -1,11 +1,15 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 244 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 248 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-10 | [OpenClaude 0.35, Zero 0.13; Qwen 3.8 free till Nov 13](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-313.md#-openclaude-035-zero-013-qwen-38-free-till-nov-13) | AI Developer Tools |
+| 2026-11-10 | [Qwen4 early-access demo with Alibaba Cloud models crew](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-313.md#-qwen4-early-access-demo-with-alibaba-cloud-models-crew) | AI Developer Tools |
+| 2026-11-10 | [Alibaba Qwen agent drives 140M first purchases, 4B catalog](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-280.md#-alibaba-qwen-agent-drives-140m-first-purchases-4b-catalog) | AI Professionals and Community |
+| 2026-11-10 | [docent Rust tutorial Episode 1 builds hello world](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-271.md#-docent-rust-tutorial-episode-1-builds-hello-world) | AI in Enterprise Applications |
 | 2026-11-09 | [Qwen3.8-Flash-Next-FP4-Local served via vLLM](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-313.md#-qwen38-flash-next-fp4-local-served-via-vllm) | CS Academics |
 | 2026-11-09 | [huihui-ai/Huihui-Qwen3.6-35B-A3B-abliterated-MTP-GGUF download surge and patch plan](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-312.md#-huihui-aihuihui-qwen36-35b-a3b-abliterated-mtp-gguf-download-surge-and-patch-plan) | AI Developer Tools |
 | 2026-11-09 | [Qwen Code /stats speed calculation changed to include TTFT](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-296.md#-qwen-code-stats-speed-calculation-changed-to-include-ttft) | AI Organizations and Media |
@@ -102,7 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 244 briefings that mention i
 | 2026-09-12 | [AI Model Optimization - Qwen3.8-Flash-Next](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-243.md#-ai-model-optimization---qwen38-flash-next) | AI Artists and Creators |
 | 2026-09-05 | [AI Systems - Metamodel Decoding](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-235.md#-ai-systems---metamodel-decoding) | AI Professionals and Community |
 | 2026-09-03 | [AI - Qwen3.8-27B-Cold-Fusion-GAIN-V1.1 Original post URL (must be preserved): https://x.com/HuggingModels/status/2095461808123580784](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-245.md#-ai---qwen38-27b-cold-fusion-gain-v11-original-post-url-must-be-preserved-httpsxcomhuggingmodelsstatus2095461808123580784) | AI Organizations and Media |
-| 2026-09-02 | [AI & Creativity - Qwen3.8-Flash Can Run 1.7× Faster Locally with MTP](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-237.md#-ai--creativity---qwen38-flash-can-run-17-faster-locally-with-mtp) | AI Artists and Creators |
-| 2026-09-02 | [Hybrid Compute - Lily Engine](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-235.md#-hybrid-compute---lily-engine) | AI Education |
-| 2026-09-02 | [Benchmarking - Qwen3.6-35B-A3B](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-235.md#-benchmarking---qwen36-35b-a3b) | AI Education |
-| 2026-09-02 | [Open-Sourcing - Lily Engine](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-235.md#-open-sourcing---lily-engine) | AI Education |

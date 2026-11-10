@@ -1,21 +1,24 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 796 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 799 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-10 | [NVIDIA Auto Ontology launches ontology layer for agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-nvidia-auto-ontology-launches-ontology-layer-for-agents) | AI Organizations and Media |
 | 2026-11-09 | [Nvidia tokenized stocks trade 24/7, Binance volume rank](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-305.md#-nvidia-tokenized-stocks-trade-247-binance-volume-rank) | Tech VIPs |
 | 2026-11-09 | [Hyundai Motor Group NVDA NemoClaw, OpenShell](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-303.md#-hyundai-motor-group-nvda-nemoclaw-openshell) | VC Firms |
 | 2026-11-09 | [Megaspeed office in Kuningan, plans $2B Nvidia chips](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-302.md#-megaspeed-office-in-kuningan-plans-2b-nvidia-chips) | AI Leaders and Thinkers |
 | 2026-11-09 | [Nasdaq down 5.5% in a day, chip index down 12% weekly](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-300.md#-nasdaq-down-55-in-a-day-chip-index-down-12-weekly) | AI Companies and Ventures |
+| 2026-11-09 | [WendyOS deploy vision AI app to Jetson Orin Nano](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-284.md#-wendyos-deploy-vision-ai-app-to-jetson-orin-nano) | AI and Robotics Applications |
 | 2026-11-09 | [RLWRLD investment to advance robotics models](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-283.md#-rlwrld-investment-to-advance-robotics-models) | AI and Robotics Applications |
 | 2026-11-09 | [Bolt 25,000 Lucid robotaxis using Nvidia Alpamayo](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-279.md#-bolt-25000-lucid-robotaxis-using-nvidia-alpamayo) | AI Driven Vehicles and Transportation |
 | 2026-11-09 | [Samsung advances semiconductor engineering with NVIDIA AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-279.md#-samsung-advances-semiconductor-engineering-with-nvidia-ai) | AI Driven Vehicles and Transportation |
 | 2026-11-09 | [NVIDIA Dynamo recipes add Korean open models, 2x B200 speed](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-279.md#-nvidia-dynamo-recipes-add-korean-open-models-2x-b200-speed) | AI Professionals and Community |
 | 2026-11-09 | [NVIDIA AI Day Seoul Highlights Korea’s Advances in Sovereign, Agentic and Physical AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-279.md#-nvidia-ai-day-seoul-highlights-koreas-advances-in-sovereign-agentic-and-physical-ai) | AI Professionals and Community |
 | 2026-11-09 | [NVIDIA NemoClaw, OpenShell, K-EXAONE-2.5 API access announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-279.md#-nvidia-nemoclaw-openshell-k-exaone-25-api-access-announced) | AI Professionals and Community |
+| 2026-11-09 | [GR00T 2 released by NVIDIA, predicts video and actions](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-273.md#-gr00t-2-released-by-nvidia-predicts-video-and-actions) | Computer Vision and AI Applications |
 | 2026-11-09 | [NVIDIA NVLink Fusion collaboration announced](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-270.md#-nvidia-nvlink-fusion-collaboration-announced) | AI in Enterprise Applications |
 | 2026-11-09 | [Nvidia H200 chips Chinese buyers non-existent or military-linked](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-270.md#-nvidia-h200-chips-chinese-buyers-non-existent-or-military-linked) | Founders and Entrepreneurs |
 | 2026-11-09 | [Nvidia CEO Affair Fallout – Binance NVDAUSDT drops 4.2%](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-263.md#-nvidia-ceo-affair-fallout--binance-nvdausdt-drops-42) | Crypto and Web3 |
@@ -103,6 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 796 briefin
 | 2026-10-01 | [NVIDIA Partnership with ElevenLabs](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-266.md#-nvidia-partnership-with-elevenlabs) | AI Generated Music and Audio |
 | 2026-10-01 | [Nvidia CEO Jensen Huang and Other Tech Executives](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-262.md#-nvidia-ceo-jensen-huang-and-other-tech-executives) | AI Professionals and Community |
 | 2026-09-30 | [Tech News - OpenClaw Launches Free Enterprise Control Plane](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-229.md#-tech-news---openclaw-launches-free-enterprise-control-plane) | PR and Communications |
-| 2026-09-29 | [Enterprise AI Governance - Open Agent Safety Platform](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-262.md#-enterprise-ai-governance---open-agent-safety-platform) | AI Education |
-| 2026-09-28 | [AI Safety - Agent Safety Platform](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-261.md#-ai-safety---agent-safety-platform) | AI Education |
-| 2026-09-28 | [AI - NVIDIA's Agent Safety Platform](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-259.md#-ai---nvidias-agent-safety-platform) | Tech Infrastructure |

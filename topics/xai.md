@@ -1,11 +1,12 @@
 # xAI
 
-xAI and Grok. The 100 newest of 634 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 635 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-10 | [Grok Bot sandbox password is "local" and gives root VM access](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-271.md#-grok-bot-sandbox-password-is-local-and-gives-root-vm-access) | AI in Enterprise Applications |
 | 2026-11-09 | [ChatCut new integrations and features rollout](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-300.md#-chatcut-new-integrations-and-features-rollout) | AI Companies and Ventures |
 | 2026-11-07 | [Momentum – pre-release AI agent workspace with cross-provider memory](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-264.md#-momentum--pre-release-ai-agent-workspace-with-cross-provider-memory) | The Exponential Future |
 | 2026-11-05 | [Grok Imagine song creation and Grok Bot video 2:58](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-275.md#-grok-imagine-song-creation-and-grok-bot-video-258) | AI Artists and Creators |
@@ -105,4 +106,3 @@ xAI and Grok. The 100 newest of 634 briefings that mention it, from every catego
 | 2026-08-22 | [LLM Cost Analysis - Evaluation Protocol](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-227.md#-llm-cost-analysis---evaluation-protocol) | Tech Infrastructure |
 | 2026-08-07 | [Grok Build Feature - Remote Workspace Switch](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-228.md#-grok-build-feature---remote-workspace-switch) | AI in Real Estate and Property Tech |
 | 2026-07-09 | [AI Model Performance - Grok 4.5 Benchmark Results](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-226.md#-ai-model-performance---grok-45-benchmark-results) | Tech VIPs |
-| 2026-07-08 | [AI Model - Grok 4.5 Development](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-229.md#-ai-model---grok-45-development) | Devs, Designers, DevRel |

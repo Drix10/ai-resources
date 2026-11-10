@@ -1,11 +1,14 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 427 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 430 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-10 | [NVIDIA Auto Ontology launches ontology layer for agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-nvidia-auto-ontology-launches-ontology-layer-for-agents) | AI Organizations and Media |
+| 2026-11-10 | [Swarms API MCP endpoint adds 23 tools and dynamic pricing](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-276.md#-swarms-api-mcp-endpoint-adds-23-tools-and-dynamic-pricing) | AI for Content Creation and Marketing |
+| 2026-11-09 | [Unreal Engine 5.9 MegaJam Preview released with agentic workflow features](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-272.md#-unreal-engine-59-megajam-preview-released-with-agentic-workflow-features) | AR VR Companies and Development |
 | 2026-11-09 | [Procedura – MCP integration released 2026-10-20](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-266.md#-procedura--mcp-integration-released-2026-10-20) | AI in Real Estate and Property Tech |
 | 2026-11-08 | [Ælen – Astro & Tailwind physiotherapy theme launch](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-304.md#-ælen--astro--tailwind-physiotherapy-theme-launch) | Devs, Designers, DevRel |
 | 2026-11-08 | [Framer – New MCP, Harness 2, Agent Templates, Multiplayer Cursors, Lighthouse 13.6](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-279.md#-framer--new-mcp-harness-2-agent-templates-multiplayer-cursors-lighthouse-136) | Tech Infrastructure |
@@ -103,6 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-06 | [Nethack - GPT6 Astra](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-239.md#-nethack---gpt6-astra) | AI Artists and Creators |
 | 2026-09-05 | [Marketing Breakthrough](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-230.md#-marketing-breakthrough) | AI for Content Creation and Marketing |
 | 2026-09-03 | [AI & Design - Claude Fable 5.1](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-239.md#-ai--design---claude-fable-51) | AI Holodeck and Virtual Worlds |
-| 2026-09-03 | [Technical - Environment Testing for React Vision XR](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-223.md#-technical---environment-testing-for-react-vision-xr) | AR VR Professionals and Community |
-| 2026-09-02 | [Tech News - Quantum Bounty Program Results](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-205.md#-tech-news---quantum-bounty-program-results) | Quantum Computing |
-| 2026-09-01 | [5.6 Million Business Tasks Handled by MCP Tool](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-225.md#-56-million-business-tasks-handled-by-mcp-tool) | AR VR Companies and Development |

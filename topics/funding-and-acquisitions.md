@@ -1,13 +1,16 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,207 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,210 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-10 | [Hatchet v2 launch – 237K TPS peak, 33TB hot data, $5.7M seed round](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-280.md#-hatchet-v2-launch--237k-tps-peak-33tb-hot-data-57m-seed-round) | Tech Infrastructure |
 | 2026-11-09 | [Southeast Asia Startup Funding H1 2026 raises $7.25B](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-303.md#-southeast-asia-startup-funding-h1-2026-raises-725b) | VC Firms |
 | 2026-11-09 | [newmo Series B funding round raises 208億円](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-279.md#-newmo-series-b-funding-round-raises-208億円) | AI Driven Vehicles and Transportation |
+| 2026-11-09 | [TrustMRR first 7-figure acquisition – $1,000,000 sale in October](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-250.md#-trustmrr-first-7-figure-acquisition--1000000-sale-in-october) | Quantum Computing |
+| 2026-11-09 | [Hatchet v2 launch and $5.7M seed round by Hatchet](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-245.md#-hatchet-v2-launch-and-57m-seed-round-by-hatchet) | Tech Journalists and VIPs |
 | 2026-11-08 | [Symbolica raises $31M, deck seeks $8M at $120M valuation](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-313.md#-symbolica-raises-31m-deck-seeks-8m-at-120m-valuation) | CS Academics |
 | 2026-11-06 | [Reprompt AI acquired by Rippling – new AI agents](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-303.md#-reprompt-ai-acquired-by-rippling--new-ai-agents) | Tech VIPs |
 | 2026-11-06 | [AlphaGo founder raises $1.1B and free RL course 10 lectures](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-258.md#-alphago-founder-raises-11b-and-free-rl-course-10-lectures) | Investors and Venture Capital |
@@ -103,6 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,207 briefings that mention it, fro
 | 2026-10-08 | [SpaceX acquires 800 MHz spectrum for Starlink Mobile indoor coverage](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-234.md#-spacex-acquires-800mhz-spectrum-for-starlink-mobile-indoor-coverage) | Quantum Computing |
 | 2026-10-07 | [AI Models - Hermes Agent](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-289.md#-ai-models---hermes-agent) | AI Developer Tools |
 | 2026-10-07 | [Ampersand raises $15M to address AI pilot failures](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-265.md#-ampersand-raises-15m-to-address-ai-pilot-failures) | AI Education |
-| 2026-10-07 | [MeckaAI announces $60M Series B funding](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-264.md#-meckaai-announces-60m-series-b-funding) | AI and Robotics Applications |
-| 2026-10-07 | [Avarra raises $17M Series A for AI sales avatars](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-255.md#-avarra-raises-17m-series-a-for-ai-sales-avatars) | AI in Enterprise Applications |
-| 2026-10-07 | [Coinbase acquires Deribit and outlines upcoming product roadmap](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-229.md#-coinbase-acquires-deribit-and-outlines-upcoming-product-roadmap) | Tech Journalists and VIPs |

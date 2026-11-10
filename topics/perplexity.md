@@ -1,11 +1,12 @@
 # Perplexity
 
-Perplexity and Comet. The 100 newest of 119 briefings that mention it, from every category, newest first.
+Perplexity and Comet. The 100 newest of 120 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-09 | [Claude Fable 5.2 available in Perplexity Computer and Search](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-281.md#-claude-fable-52-available-in-perplexity-computer-and-search) | AI Education |
 | 2026-11-09 | [Parallel for Finance – most accurate search API on FinSearchComp T3 up to 2× lower cost](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-270.md#-parallel-for-finance--most-accurate-search-api-on-finsearchcomp-t3-up-to-2-lower-cost) | Founders and Entrepreneurs |
 | 2026-11-05 | [Perplexity Teammates launch personal agents for work](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-276.md#-perplexity-teammates-launch-personal-agents-for-work) | AI Professionals and Community |
 | 2026-11-03 | [Perplexity Computer automates e-commerce operations](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-301.md#-perplexity-computer-automates-e-commerce-operations) | Tech VIPs |
@@ -105,4 +106,3 @@ Perplexity and Comet. The 100 newest of 119 briefings that mention it, from ever
 |  | [AI - Perplexity's March Madness Bracket Challenge](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-035.md#-ai---perplexitys-march-madness-bracket-challenge) | AI for Content Creation and Marketing |
 |  | [AI in Business - Founder Dinner with Perplexity AI](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-035.md#-ai-in-business---founder-dinner-with-perplexity-ai) | Investors and Venture Capital |
 |  | [Geospatial AI - Existing Models](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-035.md#-geospatial-ai---existing-models) | Spatial Computing |
-|  | [AI Tutor API Platform - Free Access](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-032.md#-ai-tutor-api-platform---free-access) | AI Education |

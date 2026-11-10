@@ -1,12 +1,20 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,260 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,268 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-10 | [Dialt Budget launch at half price, Dialt Fast 41.1% pass rate](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-dialt-budget-launch-at-half-price-dialt-fast-411-pass-rate) | AI Organizations and Media |
+| 2026-11-10 | [Paris Call for AI Safety commits to model shutdowns](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-273.md#-paris-call-for-ai-safety-commits-to-model-shutdowns) | AI Policy and Ethical Considerations |
+| 2026-11-10 | [Opus 5.5 domination reported in T3 Code split chart](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-265.md#-opus-55-domination-reported-in-t3-code-split-chart) | Decentralized AI |
+| 2026-11-10 | [SpaceX Anthropic OpenAI generate $4.2T liquidity](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-261.md#-spacex-anthropic-openai-generate-42t-liquidity) | Interesting Finds |
+| 2026-11-09 | [Inkling 2 Small free on OpenRouter limited time](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-314.md#-inkling-2-small-free-on-openrouter-limited-time) | CS Academics |
 | 2026-11-09 | [Claude Opus 5.5 vs GPT-6.1 Terra – 32 beads replayed identical bin counts](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-312.md#-claude-opus-55-vs-gpt-61-terra--32-beads-replayed-identical-bin-counts) | AI Developer Tools |
+| 2026-11-09 | [Spacefast announced daily shipping for 30 days](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-306.md#-spacefast-announced-daily-shipping-for-30-days) | Tech VIPs |
+| 2026-11-09 | [OpenAI integration drove 190,000 restaurant visits](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-303.md#-openai-integration-drove-190000-restaurant-visits) | AI Leaders and Thinkers |
+| 2026-11-09 | [GPT-6 Astra stands dominoes in robot arm test](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-284.md#-gpt-6-astra-stands-dominoes-in-robot-arm-test) | AI and Robotics Applications |
 | 2026-11-09 | [Opus5.5 model evolution and AI-powered RC car achievement](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-283.md#-opus55-model-evolution-and-ai-powered-rc-car-achievement) | AI and Robotics Applications |
 | 2026-11-09 | [Procedura – MCP integration released 2026-10-20](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-266.md#-procedura--mcp-integration-released-2026-10-20) | AI in Real Estate and Property Tech |
 | 2026-11-08 | [Orca build workflow creates 9 PRs in morning](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-311.md#-orca-build-workflow-creates-9-prs-in-morning) | AI Developer Tools |
@@ -98,11 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,260 briefings t
 | 2026-10-26 | [Kimi K3.1 Pro outperforms GPT-6 Astra, weights drop Nov 4](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-273.md#-kimi-k31-pro-outperforms-gpt-6-astra-weights-drop-nov-4) | AI Education |
 | 2026-10-26 | [CapCut plugin for ChatGPT announced at CapCut World LA](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-267.md#-capcut-plugin-for-chatgpt-announced-at-capcut-world-la) | AI Consulting and Expertise |
 | 2026-10-25 | [SolidPing adds uptime checks to coding-agent sessions](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-298.md#-solidping-adds-uptime-checks-to-coding-agent-sessions) | AI Developer Tools |
-| 2026-10-25 | [Roborockglobal most-named robot vacuum brand in AI answers, 68%](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-288.md#-roborockglobal-most-named-robot-vacuum-brand-in-ai-answers-68) | AI Companies and Ventures |
-| 2026-10-25 | [TESSA Custom GPT for SME Guidance shows 90% alignment](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-285.md#-tessa-custom-gpt-for-sme-guidance-shows-90-alignment) | AI Organizations and Media |
-| 2026-10-25 | [Claude Code and Codex follow outdated docs, 79/80 conflict notices](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-237.md#-claude-code-and-codex-follow-outdated-docs-7980-conflict-notices) | Spatial Computing |
-| 2026-10-24 | [Firecrawl Government & Legal Index launch adds 30M+ government pages](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-272.md#-firecrawl-government--legal-index-launch-adds-30m-government-pages) | AI Education |
-| 2026-10-19 | [Sonilo – added as a ChatGPT plugin for music creation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-274.md#-sonilo--added-as-a-chatgpt-plugin-for-music-creation) | AI Holodeck and Virtual Worlds |
-| 2026-10-19 | [AMZN net income driven by Anthropic valuation jump](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-251.md#-amzn-net-income-driven-by-anthropic-valuation-jump) | Investors and Venture Capital |
-| 2026-10-18 | [Lighthouse launch and LLL token live on RobinhoodCrypto](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-290.md#-lighthouse-launch-and-lll-token-live-on-robinhoodcrypto) | VC Firms |
-| 2026-10-18 | [Pika X ChatGPT plugin extension launch announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-266.md#-pika-x-chatgpt-plugin-extension-launch-announced) | AI Consulting and Expertise |

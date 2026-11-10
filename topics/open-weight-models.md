@@ -1,12 +1,14 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 318 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 320 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-10 | [Falcon-OCR 270M ranks top small OCR model in private eval](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-280.md#-falcon-ocr-270m-ranks-top-small-ocr-model-in-private-eval) | AI Professionals and Community |
 | 2026-11-09 | [Duolingo cuts AI inference cost to &lt;1¢ per call](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-280.md#-duolingo-cuts-ai-inference-cost-to-1-per-call) | AI Education |
+| 2026-11-09 | [open-8b launch with auditable training and open weights](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-265.md#-open-8b-launch-with-auditable-training-and-open-weights) | Decentralized AI |
 | 2026-11-08 | [Shruti by udgamlabs supports 22 languages under 30MB](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-301.md#-shruti-by-udgamlabs-supports-22-languages-under-30mb) | AI Leaders and Thinkers |
 | 2026-11-08 | [MiniMax H3 2K video generator announced with 4-15 s render](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-284.md#-minimax-h3-2k-video-generator-announced-with-4-15-s-render) | AI Holodeck and Virtual Worlds |
 | 2026-11-07 | [Underdog Woof 31.7MB TTS model released](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-310.md#-underdog-woof-317mb-tts-model-released) | AI Developer Tools |
@@ -104,5 +106,3 @@ Models whose weights anyone can download. The 100 newest of 318 briefings that m
 | 2026-06-27 | [Large Language Models - Writing Quality and Post-Training Effects](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-202.md#-large-language-models---writing-quality-and-post-training-effects) | AI Professionals and Community |
 | 2026-06-03 | [Image Generation - Ideogram v4 Open Weights](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-209.md#-image-generation---ideogram-v4-open-weights) | AI Developer Tools |
 | 2026-05-15 | [Open-Source AI - Market Dynamics and Infrastructure Challenges](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-204.md#-open-source-ai---market-dynamics-and-infrastructure-challenges) | AI Developer Tools |
-| 2026-05-13 | [AI Development - Open Source vs. Restriction](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-194.md#-ai-development---open-source-vs-restriction) | AI Policy and Ethical Considerations |
-| 2026-05-07 | [Open Source AI - Proprietary Model Performance](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-160.md#-open-source-ai---proprietary-model-performance) | Cybersecurity and Tech |
