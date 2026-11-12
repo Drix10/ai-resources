@@ -1,11 +1,18 @@
 # Anthropic
 
-Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,624 briefings that mention it, from every category, newest first.
+Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,631 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) | AI Developer Tools |
+| 2026-11-12 | [Claude Certified Architect – prep course announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-298.md#-claude-certified-architect--prep-course-announced) | AI Organizations and Media |
+| 2026-11-12 | [Nanbeige4.3-33B beats Claude Opus 5 on AutomationBench](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-277.md#-nanbeige43-33b-beats-claude-opus-5-on-automationbench) | AI Consulting and Expertise |
+| 2026-11-12 | [Claude Code scaling outreach 10x faster with 20% conversion rate](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-277.md#-claude-code-scaling-outreach-10x-faster-with-20-conversion-rate) | AI Consulting and Expertise |
+| 2026-11-12 | [Anthropic $1M offer to woodworking business for cabinet creation](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-272.md#-anthropic-1m-offer-to-woodworking-business-for-cabinet-creation) | AI in Enterprise Applications |
+| 2026-11-12 | [Anthropic Claude chip design and OpenAI Jalapeño chip news](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-243.md#-anthropic-claude-chip-design-and-openai-jalapeño-chip-news) | Tech Companies and News |
+| 2026-11-11 | [Ploid — The Search Engine, Built for People launches digital footprint tool](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-307.md#-ploid--the-search-engine-built-for-people-launches-digital-footprint-tool) | Tech VIPs |
 | 2026-11-10 | [Claude Fable 5.2 prompt tip reduces caution](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-306.md#-claude-fable-52-prompt-tip-reduces-caution) | Tech VIPs |
 | 2026-11-10 | [Anthropic IPO procedural setback, still pursuing listing](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-304.md#-anthropic-ipo-procedural-setback-still-pursuing-listing) | VC Firms |
 | 2026-11-10 | [Anthropic pushes for firmware locks on Western GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-303.md#-anthropic-pushes-for-firmware-locks-on-western-gpus) | AI Leaders and Thinkers |
@@ -99,10 +106,3 @@ Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,624 b
 | 2026-11-03 | [OpenAI Work tab folds into Chat, Anthropic does same](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-265.md#-openai-work-tab-folds-into-chat-anthropic-does-same) | AI in Enterprise Applications |
 | 2026-11-03 | [SuperNinja Enterprise – Ninja agent runs on multiple models, model swapping is a setting](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-265.md#-superninja-enterprise--ninja-agent-runs-on-multiple-models-model-swapping-is-a-setting) | AI in Enterprise Applications |
 | 2026-11-03 | [Every Thesis: 2027 conference live with 4-person team](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-258.md#-every-thesis-2027-conference-live-with-4-person-team) | Interesting Finds |
-| 2026-11-03 | [Messages API message threads public beta launch](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-258.md#-messages-api-message-threads-public-beta-launch) | Interesting Finds |
-| 2026-11-03 | [Claude auto-connect plugins when logging in](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-256.md#-claude-auto-connect-plugins-when-logging-in) | Investors and Venture Capital |
-| 2026-11-03 | [Tana Bring Your Own Agents launch adds live AI agents to meetings](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-255.md#-tana-bring-your-own-agents-launch-adds-live-ai-agents-to-meetings) | Investors and Venture Capital |
-| 2026-11-03 | [Claude Mythos OpenHack free scanning until Nov 11 announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-240.md#-claude-mythos-openhack-free-scanning-until-nov-11-announced) | Tech Journalists and VIPs |
-| 2026-11-03 | [LiteLLM Proxy - check fallback routes to avoid hidden](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-239.md#-litellm-proxy---check-fallback-routes-to-avoid-hidden) | Cybersecurity and Tech |
-| 2026-11-02 | [Anthropic S-1 adds claim imminent RSI danger threshold](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-307.md#-anthropic-s-1-adds-claim-imminent-rsi-danger-threshold) | CS Academics |
-| 2026-11-02 | [Weight-Space Programming – edit Qwen3.5-0.8B weights, 0.016% change](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-296.md#-weight-space-programming--edit-qwen35-08b-weights-0016-change) | AI Leaders and Thinkers |

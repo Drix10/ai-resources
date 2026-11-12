@@ -1,11 +1,12 @@
 # Amazon & AWS
 
-Amazon, AWS, Bedrock and Alexa. The 100 newest of 396 briefings that mention it, from every category, newest first.
+Amazon, AWS, Bedrock and Alexa. The 100 newest of 397 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) | AI Developer Tools |
 | 2026-11-08 | [Geyser – bridge lets Bedrock join Java servers](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-299.md#-geyser--bridge-lets-bedrock-join-java-servers) | AI Companies and Ventures |
 | 2026-11-08 | [Arnis - generate Minecraft worlds from real map data](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-299.md#-arnis---generate-minecraft-worlds-from-real-map-data) | AI Companies and Ventures |
 | 2026-11-07 | [Quest Horizon OS 2.10 PTC adds Theater environment and Simplified Navigator](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-271.md#-quest-horizon-os-210-ptc-adds-theater-environment-and-simplified-navigator) | AR VR Companies and Development |
@@ -105,4 +106,3 @@ Amazon, AWS, Bedrock and Alexa. The 100 newest of 396 briefings that mention it,
 | 2026-04-28 | [Amazon Quick - AI Assistant for Desktop Productivity](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-205.md#-amazon-quick---ai-assistant-for-desktop-productivity) | CS Academics |
 | 2026-04-28 | [Amazon Strategy - Market Positioning](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-191.md#-amazon-strategy---market-positioning) | Tech VIPs |
 | 2026-04-28 | [AI Infrastructure - OpenAI Model Training on AWS](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-190.md#-ai-infrastructure---openai-model-training-on-aws) | Tech VIPs |
-| 2026-04-28 | [AI Deployment Strategy - OpenAI on Trusted AWS Environments](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-190.md#-ai-deployment-strategy---openai-on-trusted-aws-environments) | Tech VIPs |

@@ -1,11 +1,16 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,488 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,493 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [Gazebo Sim – open source robotics simulator announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-302.md#-gazebo-sim--open-source-robotics-simulator-announced) | AI Companies and Ventures |
+| 2026-11-12 | [Agile Robots raises $500M at $8.5B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-agile-robots-raises-500m-at-85b-valuation) | AI and Robotics Applications |
+| 2026-11-12 | [Agile Robots Series F $500M raise at $8.5B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-agile-robots-series-f-500m-raise-at-85b-valuation) | AI and Robotics Applications |
+| 2026-11-12 | [FIDO robot dog learns dynamics model playing fetch](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-fido-robot-dog-learns-dynamics-model-playing-fetch) | AI and Robotics Applications |
+| 2026-11-11 | [origin_trail demo enables same-day safety decision](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-282.md#-origin_trail-demo-enables-same-day-safety-decision) | AI Education |
 | 2026-11-10 | [Humanoid Loco-Manipulation RL policy learns pick-place](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-301.md#-humanoid-loco-manipulation-rl-policy-learns-pick-place) | AI Companies and Ventures |
 | 2026-11-10 | [CSI PRO Enterprise launch with 12.5M tokens/min capacity](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-284.md#-csi-pro-enterprise-launch-with-125m-tokensmin-capacity) | AI and Robotics Applications |
 | 2026-11-10 | [Ati Robotics SHERPA 10K towing 4,600 kg at global factories](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-284.md#-ati-robotics-sherpa-10k-towing-4600-kg-at-global-factories) | AI and Robotics Applications |
@@ -101,8 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,488 briefings that men
 | 2026-10-26 | [FBA deformable sim solver dropping soon announcement](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-273.md#-fba-deformable-sim-solver-dropping-soon-announcement) | AI and Robotics Applications |
 | 2026-10-26 | [Robotics industry mapping 230+ companies across stack](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-273.md#-robotics-industry-mapping-230-companies-across-stack) | AI and Robotics Applications |
 | 2026-10-26 | [Drift simulation infrastructure built from real box data](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-273.md#-drift-simulation-infrastructure-built-from-real-box-data) | AI and Robotics Applications |
-| 2026-10-26 | [Bedrock Robotics raises $600M Series C funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-269.md#-bedrock-robotics-raises-600m-series-c-funding) | AI Driven Vehicles and Transportation |
-| 2026-10-26 | [Bedrock Robotics $600M Series C Funding Announcement](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-269.md#-bedrock-robotics-600m-series-c-funding-announcement) | AI Driven Vehicles and Transportation |
-| 2026-10-26 | [The Grid robot launch by CircuitHub builds PCBs on demand](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-269.md#-the-grid-robot-launch-by-circuithub-builds-pcbs-on-demand) | AI Professionals and Community |
-| 2026-10-26 | [DexPort hand-held interface announced for robot hands](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-262.md#-dexport-hand-held-interface-announced-for-robot-hands) | Computer Vision and AI Applications |
-| 2026-10-26 | [Ultra Mobility Vehicle robot adds jumps, wheelies](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-241.md#-ultra-mobility-vehicle-robot-adds-jumps-wheelies) | Neuroscience and AI |

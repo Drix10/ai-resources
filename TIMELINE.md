@@ -1,9 +1,14 @@
 # AI release timeline
 
-Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 192, each linked to its briefing.
+Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 198, each linked to its briefing.
 
 ## November 2026
 
+- **Nov 12** · [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) <sub>AI Developer Tools</sub>
+- **Nov 12** · [Grok Bot 1.0 launch – AI teammates for Slack and Teams](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-307.md#-grok-bot-10-launch--ai-teammates-for-slack-and-teams) <sub>Tech VIPs</sub>
+- **Nov 12** · [RLDX-1.1 released with faster training and 2.28s per parcel](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-rldx-11-released-with-faster-training-and-228s-per-parcel) <sub>AI and Robotics Applications</sub>
+- **Nov 12** · [Grok Bot 1.0 launches AI teammate for Slack and Teams](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-277.md#-grok-bot-10-launches-ai-teammate-for-slack-and-teams) <sub>AI for Content Creation and Marketing</sub>
+- **Nov 11** · [Qwen3.8-27B GGUF release with 5–10% benchmark gain](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-qwen38-27b-gguf-release-with-510-benchmark-gain) <sub>CS Academics</sub>
 - **Nov 10** · [LongCat-2.5 released with 1.6T parameters and INT4 inference](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-longcat-25-released-with-16t-parameters-and-int4-inference) <sub>AI Organizations and Media</sub>
 - **Nov 10** · [Dialt Budget launch at half price, Dialt Fast 41.1% pass rate](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-dialt-budget-launch-at-half-price-dialt-fast-411-pass-rate) <sub>AI Organizations and Media</sub>
 - **Nov 10** · [NVIDIA Auto Ontology launches ontology layer for agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-nvidia-auto-ontology-launches-ontology-layer-for-agents) <sub>AI Organizations and Media</sub>
@@ -16,6 +21,7 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 - **Nov 9** · [Claude Fable 5.2 and Claude Mythos 5.2 launch new AI models](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-303.md#-claude-fable-52-and-claude-mythos-52-launch-new-ai-models) <sub>AI Leaders and Thinkers</sub>
 - **Nov 9** · [Voice Cursor launch – AI voice dictation app announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-300.md#-voice-cursor-launch--ai-voice-dictation-app-announced) <sub>AI Companies and Ventures</sub>
 - **Nov 9** · [ClaudeAI Mythos 5.2 launch shows big jump](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-289.md#-claudeai-mythos-52-launch-shows-big-jump) <sub>AI in Healthcare and Science</sub>
+- **Nov 9** · [Echo open-sourced with weights on HuggingFace](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-277.md#-echo-open-sourced-with-weights-on-huggingface) <sub>AI for Content Creation and Marketing</sub>
 - **Nov 9** · [GR00T 2 released by NVIDIA, predicts video and actions](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-273.md#-gr00t-2-released-by-nvidia-predicts-video-and-actions) <sub>Computer Vision and AI Applications</sub>
 - **Nov 9** · [Unreal Engine 5.9 MegaJam Preview released with agentic workflow features](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-272.md#-unreal-engine-59-megajam-preview-released-with-agentic-workflow-features) <sub>AR VR Companies and Development</sub>
 - **Nov 9** · [Meta VR Glasses – SDK v207 and tools now available](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-272.md#-meta-vr-glasses--sdk-v207-and-tools-now-available) <sub>AR VR Companies and Development</sub>

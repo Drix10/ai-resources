@@ -1,11 +1,13 @@
 # Hugging Face
 
-Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 219 briefings that mention it, from every category, newest first.
+Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 221 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [SimReady 81 new Digital Twins added to SimReadyCentral](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-simready-81-new-digital-twins-added-to-simreadycentral) | AI and Robotics Applications |
+| 2026-11-09 | [Echo open-sourced with weights on HuggingFace](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-277.md#-echo-open-sourced-with-weights-on-huggingface) | AI for Content Creation and Marketing |
 | 2026-11-09 | [SplatAnything launches 3D Gaussian conversion tool](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-272.md#-splatanything-launches-3d-gaussian-conversion-tool) | Computer Vision and AI Applications |
 | 2026-11-07 | [JUWEL Sapphire custom 72B model BF16 weights released](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-298.md#-juwel-sapphire-custom-72b-model-bf16-weights-released) | AI Companies and Ventures |
 | 2026-11-06 | [Qwen3.5-0.8B weight-space programming improves MedQA accuracy to 32.9%](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-288.md#-qwen35-08b-weight-space-programming-improves-medqa-accuracy-to-329) | AI in Healthcare and Science |
@@ -104,5 +106,3 @@ Hugging Face: the Hub, its libraries and the models shared there. The 100 newest
 | 2025-03-05 | [Small Language Model Performance - QwQ-32B](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-022.md#-small-language-model-performance---qwq-32b) | AI Developer Tools |
 |  | [The Hugging Face Hack](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-272.md#-the-hugging-face-hack) | Devs, Designers, DevRel |
 |  | [AI News - AI Industry Updates](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-257.md#-ai-news---ai-industry-updates) | AI Developer Tools |
-|  | [Microduck](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-251.md#-microduck) | Tech VIPs |
-|  | [Mergers and Acquisitions - Hugging Face Acquisition](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-249.md#-mergers-and-acquisitions---hugging-face-acquisition) | AI Companies and Ventures |

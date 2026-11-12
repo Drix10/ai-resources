@@ -1,11 +1,15 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,268 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,272 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) | AI Developer Tools |
+| 2026-11-12 | [ChatGPT voice modes retiring December 11, move to GPT-Live](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-248.md#-chatgpt-voice-modes-retiring-december-11-move-to-gpt-live) | Spatial Computing |
+| 2026-11-12 | [Anthropic Claude chip design and OpenAI Jalapeño chip news](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-243.md#-anthropic-claude-chip-design-and-openai-jalapeño-chip-news) | Tech Companies and News |
+| 2026-11-11 | [Ploid — The Search Engine, Built for People launches digital footprint tool](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-307.md#-ploid--the-search-engine-built-for-people-launches-digital-footprint-tool) | Tech VIPs |
 | 2026-11-10 | [Dialt Budget launch at half price, Dialt Fast 41.1% pass rate](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-dialt-budget-launch-at-half-price-dialt-fast-411-pass-rate) | AI Organizations and Media |
 | 2026-11-10 | [Paris Call for AI Safety commits to model shutdowns](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-273.md#-paris-call-for-ai-safety-commits-to-model-shutdowns) | AI Policy and Ethical Considerations |
 | 2026-11-10 | [Opus 5.5 domination reported in T3 Code split chart](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-265.md#-opus-55-domination-reported-in-t3-code-split-chart) | Decentralized AI |
@@ -102,7 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,268 briefings t
 | 2026-10-29 | [Kino launch – end-to-end video editing with Claude Code and Codex](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-252.md#-kino-launch--end-to-end-video-editing-with-claude-code-and-codex) | Investors and Venture Capital |
 | 2026-10-29 | [GBrain hosted – postgres with pgvector autoscaling](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-236.md#-gbrain-hosted--postgres-with-pgvector-autoscaling) | Tech Journalists and VIPs |
 | 2026-10-26 | [Cardboard for ChatGPT and Claude launch announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-290.md#-cardboard-for-chatgpt-and-claude-launch-announced) | AI Leaders and Thinkers |
-| 2026-10-26 | [PaperFormalizer author-in-the-loop autoformalization tool launched](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-286.md#-paperformalizer-author-in-the-loop-autoformalization-tool-launched) | AI Organizations and Media |
-| 2026-10-26 | [Kimi K3.1 Pro outperforms GPT-6 Astra, weights drop Nov 4](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-273.md#-kimi-k31-pro-outperforms-gpt-6-astra-weights-drop-nov-4) | AI Education |
-| 2026-10-26 | [CapCut plugin for ChatGPT announced at CapCut World LA](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-267.md#-capcut-plugin-for-chatgpt-announced-at-capcut-world-la) | AI Consulting and Expertise |
-| 2026-10-25 | [SolidPing adds uptime checks to coding-agent sessions](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-298.md#-solidping-adds-uptime-checks-to-coding-agent-sessions) | AI Developer Tools |

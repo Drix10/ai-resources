@@ -1,11 +1,19 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,083 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,091 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [Chips for Humanity launches compute cluster for AI safety research](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-chips-for-humanity-launches-compute-cluster-for-ai-safety-research) | CS Academics |
+| 2026-11-12 | [AMD Venice SP7 2nm EPYC 9006 server processors ship November 10 2026](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-305.md#-amd-venice-sp7-2nm-epyc-9006-server-processors-ship-november-10-2026) | VC Firms |
+| 2026-11-12 | [Direct GPU Energy Measurements of Batch-Level Sharing saves 12-18% energy per token](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-298.md#-direct-gpu-energy-measurements-of-batch-level-sharing-saves-12-18-energy-per-token) | AI Organizations and Media |
+| 2026-11-12 | [NVIDIA chip capacity rental by Chinese AI firms amid Huang spy scandal concerns](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-281.md#-nvidia-chip-capacity-rental-by-chinese-ai-firms-amid-huang-spy-scandal-concerns) | AI Driven Vehicles and Transportation |
+| 2026-11-12 | [TPU Sync cuts inference latency up to 90%](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-281.md#-tpu-sync-cuts-inference-latency-up-to-90) | Tech Infrastructure |
+| 2026-11-12 | [Maxwell optimizes DeepSeek-V4.1-Flash on B200, 3x tokens per GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-277.md#-maxwell-optimizes-deepseek-v41-flash-on-b200-3x-tokens-per-gpu) | AI Consulting and Expertise |
+| 2026-11-12 | [Anthropic Claude chip design and OpenAI Jalapeño chip news](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-243.md#-anthropic-claude-chip-design-and-openai-jalapeño-chip-news) | Tech Companies and News |
+| 2026-11-11 | [HVM5 4x faster than HVM4, runs on CPUs and GPUs via Bend](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-hvm5-4x-faster-than-hvm4-runs-on-cpus-and-gpus-via-bend) | CS Academics |
 | 2026-11-10 | [SpaceX to invest 32 trillion won in Texas data centers](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-304.md#-spacex-to-invest-32-trillion-won-in-texas-data-centers) | VC Firms |
 | 2026-11-10 | [TSM reports 60% revenue increase, AI chip demand strong](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-304.md#-tsm-reports-60-revenue-increase-ai-chip-demand-strong) | VC Firms |
 | 2026-11-10 | [Anthropic pushes for firmware locks on Western GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-303.md#-anthropic-pushes-for-firmware-locks-on-western-gpus) | AI Leaders and Thinkers |
@@ -98,11 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,083 briefings tha
 | 2026-10-25 | [3one4 Capital early semiconductor IP investment](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-291.md#-3one4-capital-early-semiconductor-ip-investment) | VC Firms |
 | 2026-10-25 | [RTX 4090 Tensor FP16 performance unlock to 331.6 TFLOPS](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-270.md#-rtx-4090-tensor-fp16-performance-unlock-to-3316-tflops) | AI Artists and Creators |
 | 2026-10-25 | [GPU rental prices up 2–3x, resale model mentioned](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-269.md#-gpu-rental-prices-up-23x-resale-model-mentioned) | Tech Infrastructure |
-| 2026-10-25 | [Inference gaps gpu scheduling, kv cache, batching](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-269.md#-inference-gaps-gpu-scheduling-kv-cache-batching) | Tech Infrastructure |
-| 2026-10-24 | [Neolab neocloud pivot locks GPU capacity, prices up 2–3x](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-234.md#-neolab-neocloud-pivot-locks-gpu-capacity-prices-up-23x) | Tech Journalists and VIPs |
-| 2026-10-21 | [SuperMimic scales humanoid control, 1 GPU → 3 h training](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-272.md#-supermimic-scales-humanoid-control-1-gpu--3-h-training) | AI and Robotics Applications |
-| 2026-10-19 | [AMD AI Developer Program – Shobha joins to build with Instinct GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-297.md#-amd-ai-developer-program--shobha-joins-to-build-with-instinct-gpus) | AI Developer Tools |
-| 2026-10-19 | [Learning Lean Feedback on GPUs reaches 87.8% accuracy](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-284.md#-learning-lean-feedback-on-gpus-reaches-878-accuracy) | AI Organizations and Media |
-| 2026-10-19 | [Mac Studio M5 Ultra 512GB model, 6-unit chain >3TB RAM](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-253.md#-mac-studio-m5-ultra-512gb-model-6-unit-chain-3tb-ram) | Decentralized AI |
-| 2026-10-18 | [Nscale Loughton data center – Microsoft terminates anchor lease](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-259.md#-nscale-loughton-data-center--microsoft-terminates-anchor-lease) | AI in Enterprise Applications |
-| 2026-10-16 | [Nemotron 3.5 Super VL E2EE inference 500+ tokens/sec on one GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-296.md#-nemotron-35-super-vl-e2ee-inference-500-tokenssec-on-one-gpu) | AI Developer Tools |
