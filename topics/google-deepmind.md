@@ -1,11 +1,16 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 955 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 960 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [Gemini 4 Carbon builds 95% of stack in 2 days](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-304.md#-gemini-4-carbon-builds-95-of-stack-in-2-days) | AI Leaders and Thinkers |
+| 2026-11-12 | [Gemini 4 Hydrogen pricing: $1.50 per 1M tokens](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-298.md#-gemini-4-hydrogen-pricing-150-per-1m-tokens) | AI Organizations and Media |
+| 2026-11-12 | [Google AI Overviews move source icons to bottom](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-243.md#-google-ai-overviews-move-source-icons-to-bottom) | Tech Companies and News |
+| 2026-11-11 | [Gemini Decision 1 pricing and capabilities announced](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-gemini-decision-1-pricing-and-capabilities-announced) | CS Academics |
+| 2026-11-11 | [Ploid — The Search Engine, Built for People launches digital footprint tool](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-307.md#-ploid--the-search-engine-built-for-people-launches-digital-footprint-tool) | Tech VIPs |
 | 2026-11-10 | [Dialt Budget launch at half price, Dialt Fast 41.1% pass rate](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-dialt-budget-launch-at-half-price-dialt-fast-411-pass-rate) | AI Organizations and Media |
 | 2026-11-10 | [Gemini 4 Carbon live on Vertex AI and Gemini Web App](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-gemini-4-carbon-live-on-vertex-ai-and-gemini-web-app) | AI Organizations and Media |
 | 2026-11-10 | [AlphaProof Code formally verifies Signal protocol](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-249.md#-alphaproof-code-formally-verifies-signal-protocol) | PR and Communications |
@@ -101,8 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-09-19 | [Google's Gemini Breaks Out](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-262.md#-googles-gemini-breaks-out) | AI Organizations and Media |
 | 2026-09-19 | [AI Security - Gemini AI Access Exposure](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-261.md#-ai-security---gemini-ai-access-exposure) | AI Organizations and Media |
 | 2026-09-19 | [Google Gemini Hacking Incident](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-252.md#-google-gemini-hacking-incident) | AI Education |
-| 2026-09-19 | [Gemini AI Access Exposed During Cybersecurity Test](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-252.md#-gemini-ai-access-exposed-during-cybersecurity-test) | AI Powered Film and Media |
-| 2026-09-19 | [Google's Gemini AI Model Hacked 3 Companies](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-240.md#-googles-gemini-ai-model-hacked-3-companies) | Computer Vision and AI Applications |
-| 2026-09-19 | [Security - AI Model Breakout](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-233.md#-security---ai-model-breakout) | Investors and Venture Capital |
-| 2026-09-18 | [Profound's $180M Series D](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-266.md#-profounds-180m-series-d) | VC Firms |
-| 2026-09-18 | [AI Security - Google's Gemini Model Hacked Three Companies](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-248.md#-ai-security---googles-gemini-model-hacked-three-companies) | AI Policy and Ethical Considerations |

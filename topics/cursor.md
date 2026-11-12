@@ -1,11 +1,13 @@
 # Cursor
 
-Cursor, the AI code editor. The 100 newest of 207 briefings that mention it, from every category, newest first.
+Cursor, the AI code editor. The 100 newest of 209 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) | AI Developer Tools |
+| 2026-11-11 | [Ploid — The Search Engine, Built for People launches digital footprint tool](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-307.md#-ploid--the-search-engine-built-for-people-launches-digital-footprint-tool) | Tech VIPs |
 | 2026-11-10 | [Swarms API MCP endpoint adds 23 tools and dynamic pricing](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-276.md#-swarms-api-mcp-endpoint-adds-23-tools-and-dynamic-pricing) | AI for Content Creation and Marketing |
 | 2026-11-09 | [Voice Cursor launch – AI voice dictation app announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-300.md#-voice-cursor-launch--ai-voice-dictation-app-announced) | AI Companies and Ventures |
 | 2026-11-07 | [proto_ide designer IDE announced with early access signups](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-311.md#-proto_ide-designer-ide-announced-with-early-access-signups) | CS Academics |
@@ -104,5 +106,3 @@ Cursor, the AI code editor. The 100 newest of 207 briefings that mention it, fro
 |  | [Video Editing - Code-Driven Approach with Remotion and Cursor](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-177.md#-video-editing---code-driven-approach-with-remotion-and-cursor) | Founders and Entrepreneurs |
 |  | [Web Graphics Development - Three.js 3D Cursor Navigation Experiment](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-175.md#-web-graphics-development---threejs-3d-cursor-navigation-experiment) | AI Organizations and Media |
 |  | [Application Security - Exploiting Cursor at Pwn2Own](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-171.md#-application-security---exploiting-cursor-at-pwn2own) | Cybersecurity and Tech |
-|  | [AI Coding - The 99 Pattern and Infill](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-150.md#-ai-coding---the-99-pattern-and-infill) | Devs, Designers, DevRel |
-|  | [AI Agents - Web Navigation Skill](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-146.md#-ai-agents---web-navigation-skill) | AI in Enterprise Applications |

@@ -4,26 +4,26 @@ Briefings from every category, gathered by company and theme. Each page lists th
 
 | Topic | Briefings | Newest |
 | --- | ---: | --- |
-| [OpenAI](openai.md) | 2,268 | 2026-11-10 |
-| [Anthropic](anthropic.md) | 1,624 | 2026-11-10 |
-| [Google DeepMind](google-deepmind.md) | 955 | 2026-11-10 |
-| [Meta AI](meta-ai.md) | 635 | 2026-11-10 |
-| [xAI](xai.md) | 635 | 2026-11-10 |
+| [OpenAI](openai.md) | 2,272 | 2026-11-12 |
+| [Anthropic](anthropic.md) | 1,631 | 2026-11-12 |
+| [Google DeepMind](google-deepmind.md) | 960 | 2026-11-12 |
+| [Meta AI](meta-ai.md) | 637 | 2026-11-11 |
+| [xAI](xai.md) | 637 | 2026-11-12 |
 | [Mistral AI](mistral.md) | 56 | 2026-11-03 |
-| [NVIDIA](nvidia.md) | 799 | 2026-11-10 |
-| [Microsoft](microsoft.md) | 592 | 2026-11-10 |
+| [NVIDIA](nvidia.md) | 806 | 2026-11-12 |
+| [Microsoft](microsoft.md) | 594 | 2026-11-12 |
 | [Apple](apple.md) | 674 | 2026-11-09 |
-| [Amazon & AWS](amazon.md) | 396 | 2026-11-08 |
-| [DeepSeek](deepseek.md) | 248 | 2026-11-09 |
-| [Qwen & Alibaba](qwen-alibaba.md) | 248 | 2026-11-10 |
-| [Hugging Face](hugging-face.md) | 219 | 2026-11-09 |
+| [Amazon & AWS](amazon.md) | 397 | 2026-11-12 |
+| [DeepSeek](deepseek.md) | 249 | 2026-11-12 |
+| [Qwen & Alibaba](qwen-alibaba.md) | 254 | 2026-11-12 |
+| [Hugging Face](hugging-face.md) | 221 | 2026-11-12 |
 | [Perplexity](perplexity.md) | 120 | 2026-11-09 |
-| [Cursor](cursor.md) | 207 | 2026-11-10 |
-| [AI agents](ai-agents.md) | 5,409 | 2026-11-10 |
-| [MCP](mcp.md) | 430 | 2026-11-10 |
-| [Open-weight models](open-weight-models.md) | 320 | 2026-11-10 |
-| [Funding & acquisitions](funding-and-acquisitions.md) | 1,210 | 2026-11-10 |
-| [Robotics](robotics.md) | 2,488 | 2026-11-10 |
+| [Cursor](cursor.md) | 209 | 2026-11-12 |
+| [AI agents](ai-agents.md) | 5,427 | 2026-11-12 |
+| [MCP](mcp.md) | 433 | 2026-11-12 |
+| [Open-weight models](open-weight-models.md) | 323 | 2026-11-12 |
+| [Funding & acquisitions](funding-and-acquisitions.md) | 1,217 | 2026-11-12 |
+| [Robotics](robotics.md) | 2,493 | 2026-11-12 |
 | [AI policy](ai-policy.md) | 940 | 2026-11-07 |
-| [Chips & compute](chips-and-compute.md) | 1,083 | 2026-11-10 |
-| [Video generation](video-generation.md) | 819 | 2026-11-09 |
+| [Chips & compute](chips-and-compute.md) | 1,091 | 2026-11-12 |
+| [Video generation](video-generation.md) | 820 | 2026-11-12 |

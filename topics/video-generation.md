@@ -1,11 +1,12 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 819 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 820 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [Wan 3.0 free Thursday video generations 2,000 slots](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-277.md#-wan-30-free-thursday-video-generations-2000-slots) | AI for Content Creation and Marketing |
 | 2026-11-09 | [Atlas ranks #1 in RapidataAI camera-movement benchmark](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-304.md#-atlas-ranks-1-in-rapidataai-camera-movement-benchmark) | VC Firms |
 | 2026-11-09 | [Music Video Generator rewrite & reshoot now live, 1-click scene change](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-286.md#-music-video-generator-rewrite--reshoot-now-live-1-click-scene-change) | AI Generated Music and Audio |
 | 2026-11-09 | [Chinese AI models list on platform – Seedance, Seedream, Kling, MiniMax, Wan, Qwen](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-285.md#-chinese-ai-models-list-on-platform--seedance-seedream-kling-minimax-wan-qwen) | AI Holodeck and Virtual Worlds |
@@ -105,4 +106,3 @@ Models and tools that make video. The 100 newest of 819 briefings that mention i
 | 2026-06-05 | [Aviation - Runway Obstacles](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-201.md#-aviation---runway-obstacles) | AI Policy and Ethical Considerations |
 | 2026-05-28 | [AI Video Editing - Capabilities and Challenges](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-210.md#-ai-video-editing---capabilities-and-challenges) | AI Artists and Creators |
 | 2026-05-19 | [AI Video Generation - Creative Applications](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-201.md#-ai-video-generation---creative-applications) | AI Powered Film and Media |
-| 2026-05-16 | [AI Model Performance - Video Generation Comparison](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-197.md#-ai-model-performance---video-generation-comparison) | AI Organizations and Media |

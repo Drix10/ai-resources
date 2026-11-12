@@ -1,11 +1,14 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 320 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 323 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [ERNIE 5.5 Flash Preview scores 1668, #2 WebDev](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-ernie-55-flash-preview-scores-1668-2-webdev) | CS Academics |
+| 2026-11-12 | [MiniMax H3-Image tops ranking, adds NVIDIA support to vLLM-Omni](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-minimax-h3-image-tops-ranking-adds-nvidia-support-to-vllm-omni) | AI Developer Tools |
+| 2026-11-11 | [VoiceAgent Fine-tuning Announcement, Enterprise Data Soon](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-287.md#-voiceagent-fine-tuning-announcement-enterprise-data-soon) | AI Generated Music and Audio |
 | 2026-11-10 | [Falcon-OCR 270M ranks top small OCR model in private eval](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-280.md#-falcon-ocr-270m-ranks-top-small-ocr-model-in-private-eval) | AI Professionals and Community |
 | 2026-11-09 | [Duolingo cuts AI inference cost to &lt;1¢ per call](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-280.md#-duolingo-cuts-ai-inference-cost-to-1-per-call) | AI Education |
 | 2026-11-09 | [open-8b launch with auditable training and open weights](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-265.md#-open-8b-launch-with-auditable-training-and-open-weights) | Decentralized AI |
@@ -103,6 +106,3 @@ Models whose weights anyone can download. The 100 newest of 320 briefings that m
 | 2026-07-07 | [AI Governance - Frontier Model Security](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-208.md#-ai-governance---frontier-model-security) | AI Policy and Ethical Considerations |
 | 2026-07-05 | [Sovereign AI - Open Models in Closed Infrastructure](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-222.md#-sovereign-ai---open-models-in-closed-infrastructure) | AI Education |
 | 2026-07-01 | [AI Models - GLM 5.2 Performance](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-219.md#-ai-models---glm-52-performance) | Tech VIPs |
-| 2026-06-27 | [Large Language Models - Writing Quality and Post-Training Effects](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-202.md#-large-language-models---writing-quality-and-post-training-effects) | AI Professionals and Community |
-| 2026-06-03 | [Image Generation - Ideogram v4 Open Weights](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-209.md#-image-generation---ideogram-v4-open-weights) | AI Developer Tools |
-| 2026-05-15 | [Open-Source AI - Market Dynamics and Infrastructure Challenges](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-204.md#-open-source-ai---market-dynamics-and-infrastructure-challenges) | AI Developer Tools |

@@ -1,11 +1,17 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 248 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 254 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [Qwen4-Max-Preview now in Qoder with 80% discount](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-304.md#-qwen4-max-preview-now-in-qoder-with-80-discount) | AI Leaders and Thinkers |
+| 2026-11-12 | [Direct GPU Energy Measurements of Batch-Level Sharing saves 12-18% energy per token](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-298.md#-direct-gpu-energy-measurements-of-batch-level-sharing-saves-12-18-energy-per-token) | AI Organizations and Media |
+| 2026-11-12 | [MiniMax-H3 Prompt Rewriter 27B model launch with 32768-token context](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-268.md#-minimax-h3-prompt-rewriter-27b-model-launch-with-32768-token-context) | AI in Real Estate and Property Tech |
+| 2026-11-11 | [Qwen3.8-27B GGUF release with 5–10% benchmark gain](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-qwen38-27b-gguf-release-with-510-benchmark-gain) | CS Academics |
+| 2026-11-11 | [Qwen3.5-4B weight-space programming blog drops Friday](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-274.md#-qwen35-4b-weight-space-programming-blog-drops-friday) | Computer Vision and AI Applications |
+| 2026-11-10 | [Qwen4 designs CPU chip from one prompt in 5 hours](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-qwen4-designs-cpu-chip-from-one-prompt-in-5-hours) | AI Developer Tools |
 | 2026-11-10 | [OpenClaude 0.35, Zero 0.13; Qwen 3.8 free till Nov 13](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-313.md#-openclaude-035-zero-013-qwen-38-free-till-nov-13) | AI Developer Tools |
 | 2026-11-10 | [Qwen4 early-access demo with Alibaba Cloud models crew](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-313.md#-qwen4-early-access-demo-with-alibaba-cloud-models-crew) | AI Developer Tools |
 | 2026-11-10 | [Alibaba Qwen agent drives 140M first purchases, 4B catalog](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-280.md#-alibaba-qwen-agent-drives-140m-first-purchases-4b-catalog) | AI Professionals and Community |
@@ -100,9 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 248 briefings that mention i
 | 2026-09-16 | [World Models - Jev: A Visual Explanation](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-236.md#-world-models---jev-a-visual-explanation) | Computer Vision and AI Applications |
 | 2026-09-14 | [AI Research - Router-only Checkpoints for Qwen3-4B, 8B, and 14B](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-246.md#-ai-research---router-only-checkpoints-for-qwen3-4b-8b-and-14b) | AI Powered Film and Media |
 | 2026-09-13 | [Frontier Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-263.md#-frontier-models) | AI Developer Tools |
-| 2026-09-13 | [Local Model ≠ One Request at a Time](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-263.md#-local-model--one-request-at-a-time) | AI Developer Tools |
-| 2026-09-13 | [AI - Frontier Model Optimization](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-255.md#-ai---frontier-model-optimization) | AI Companies and Ventures |
-| 2026-09-12 | [AI - DGX Spark Optimization](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-255.md#-ai---dgx-spark-optimization) | AI Companies and Ventures |
-| 2026-09-12 | [AI Model Optimization - Qwen3.8-Flash-Next](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-243.md#-ai-model-optimization---qwen38-flash-next) | AI Artists and Creators |
-| 2026-09-05 | [AI Systems - Metamodel Decoding](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-235.md#-ai-systems---metamodel-decoding) | AI Professionals and Community |
-| 2026-09-03 | [AI - Qwen3.8-27B-Cold-Fusion-GAIN-V1.1 Original post URL (must be preserved): https://x.com/HuggingModels/status/2095461808123580784](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-245.md#-ai---qwen38-27b-cold-fusion-gain-v11-original-post-url-must-be-preserved-httpsxcomhuggingmodelsstatus2095461808123580784) | AI Organizations and Media |

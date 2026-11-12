@@ -1,11 +1,13 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 592 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 594 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [SkyW4lker device-code abuse, ANY.RUN logs 618 analyses](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-281.md#-skyw4lker-device-code-abuse-anyrun-logs-618-analyses) | Tech Infrastructure |
+| 2026-11-11 | [Horizon 1 50MW AI Cloud deployment completed in 14 months](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-298.md#-horizon-1-50mw-ai-cloud-deployment-completed-in-14-months) | AI Organizations and Media |
 | 2026-11-10 | [Paris Call for AI Safety commits to model shutdowns](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-273.md#-paris-call-for-ai-safety-commits-to-model-shutdowns) | AI Policy and Ethical Considerations |
 | 2026-11-10 | [Google Slides and PowerPoint Are Dead – AI builds web decks, 36% retention rise](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-249.md#-google-slides-and-powerpoint-are-dead--ai-builds-web-decks-36-retention-rise) | PR and Communications |
 | 2026-11-09 | [Enabling Retraining-Free Accurate Inference in Analog Compute in Memory Accelerators](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-296.md#-enabling-retraining-free-accurate-inference-in-analog-compute-in-memory-accelerators) | AI Organizations and Media |
@@ -104,5 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 592 briefings
 | 2026-09-18 | [Lightweight LLM Alternative - lm15](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-271.md#-lightweight-llm-alternative---lm15) | AI Developer Tools |
 | 2026-09-18 | [GitHub Copilot Self-Guided Workshop](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-249.md#-github-copilot-self-guided-workshop) | AI Policy and Ethical Considerations |
 | 2026-09-18 | [AI Welfare Discussion](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-247.md#-ai-welfare-discussion) | AI Professionals and Community |
-| 2026-09-18 | [AI Welfare Essay Critique](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-247.md#-ai-welfare-essay-critique) | AI Professionals and Community |
-| 2026-09-18 | [Windows 11 Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-245.md#-windows-11-update) | AI Consulting and Expertise |

@@ -1,11 +1,18 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,210 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,217 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [Gakku raises $51 million to rethink AI tutoring](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-gakku-raises-51-million-to-rethink-ai-tutoring) | CS Academics |
+| 2026-11-12 | [Belkasoft X v2.13 adds BelkaGPT chain of thought and deleted file analysis](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-290.md#-belkasoft-x-v213-adds-belkagpt-chain-of-thought-and-deleted-file-analysis) | AI in Healthcare and Science |
+| 2026-11-12 | [Agile Robots raises $500M at $8.5B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-agile-robots-raises-500m-at-85b-valuation) | AI and Robotics Applications |
+| 2026-11-12 | [Agile Robots Series F $500M raise at $8.5B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-agile-robots-series-f-500m-raise-at-85b-valuation) | AI and Robotics Applications |
+| 2026-11-12 | [Rox AI hits $1.3B valuation after 12 months, Series B led by General Catalyst and MarchCPs](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-277.md#-rox-ai-hits-13b-valuation-after-12-months-series-b-led-by-general-catalyst-and-marchcps) | AI for Content Creation and Marketing |
+| 2026-11-12 | [Evereden $100M sales in 2024 after Gen Alpha focus](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-250.md#-evereden-100m-sales-in-2024-after-gen-alpha-focus) | PR and Communications |
+| 2026-11-11 | [Fractile raises $720M Series C led by Thrive Capital](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-305.md#-fractile-raises-720m-series-c-led-by-thrive-capital) | VC Firms |
 | 2026-11-10 | [Hatchet v2 launch – 237K TPS peak, 33TB hot data, $5.7M seed round](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-280.md#-hatchet-v2-launch--237k-tps-peak-33tb-hot-data-57m-seed-round) | Tech Infrastructure |
 | 2026-11-09 | [Southeast Asia Startup Funding H1 2026 raises $7.25B](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-303.md#-southeast-asia-startup-funding-h1-2026-raises-725b) | VC Firms |
 | 2026-11-09 | [newmo Series B funding round raises 208億円](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-279.md#-newmo-series-b-funding-round-raises-208億円) | AI Driven Vehicles and Transportation |
@@ -99,10 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,210 briefings that mention it, fro
 | 2026-10-10 | [Waymo raises $5 billion debt, adds to $16 billion equity](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-263.md#-waymo-raises-5billion-debt-adds-to-16billion-equity) | AI Driven Vehicles and Transportation |
 | 2026-10-09 | [Starbucks exploring $41 billion Chipotle takeover](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-266.md#-starbucks-exploring-41billion-chipotle-takeover) | Tech Infrastructure |
 | 2026-10-08 | [Bending Spoons hiring numbers and company acquisitions](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-289.md#-bending-spoons-hiring-numbers-and-company-acquisitions) | Tech VIPs |
-| 2026-10-08 | [Onyx announces $8M seed round led by Dimension](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-289.md#-onyx-announces-8m-seed-round-led-by-dimension) | Tech VIPs |
-| 2026-10-08 | [Meanwhile – $37.5M funding round and broker expansion](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-286.md#-meanwhile--375m-funding-round-and-broker-expansion) | VC Firms |
-| 2026-10-08 | [Rebel Audio raises $10M Series A, valued at $50M](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-250.md#-rebel-audio-raises-10m-series-a-valued-at-50m) | Interesting Finds |
-| 2026-10-08 | [Starlink acquires nationwide low‑band spectrum license portfolio](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-248.md#-starlink-acquires-nationwide-lowband-spectrum-license-portfolio) | Investors and Venture Capital |
-| 2026-10-08 | [SpaceX acquires 800 MHz spectrum for Starlink Mobile indoor coverage](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-234.md#-spacex-acquires-800mhz-spectrum-for-starlink-mobile-indoor-coverage) | Quantum Computing |
-| 2026-10-07 | [AI Models - Hermes Agent](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-289.md#-ai-models---hermes-agent) | AI Developer Tools |
-| 2026-10-07 | [Ampersand raises $15M to address AI pilot failures](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-265.md#-ampersand-raises-15m-to-address-ai-pilot-failures) | AI Education |

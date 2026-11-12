@@ -1,11 +1,18 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 799 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 806 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [MiniMax H3-Image tops ranking, adds NVIDIA support to vLLM-Omni](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-minimax-h3-image-tops-ranking-adds-nvidia-support-to-vllm-omni) | AI Developer Tools |
+| 2026-11-12 | [Nvidia board composition list shows 11 members, includes Jensen Huang and Tench Coxe](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-304.md#-nvidia-board-composition-list-shows-11-members-includes-jensen-huang-and-tench-coxe) | AI Leaders and Thinkers |
+| 2026-11-12 | [Agile Robots Series F $500M raise at $8.5B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-agile-robots-series-f-500m-raise-at-85b-valuation) | AI and Robotics Applications |
+| 2026-11-12 | [NVIDIA chip capacity rental by Chinese AI firms amid Huang spy scandal concerns](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-281.md#-nvidia-chip-capacity-rental-by-chinese-ai-firms-amid-huang-spy-scandal-concerns) | AI Driven Vehicles and Transportation |
+| 2026-11-12 | [Nvidia suppliers redraw plans as board weighs Huang](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-267.md#-nvidia-suppliers-redraw-plans-as-board-weighs-huang) | The Exponential Future |
+| 2026-11-12 | [Nvidia board meets, possible removal of Jensen Huang, 88% chance](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-250.md#-nvidia-board-meets-possible-removal-of-jensen-huang-88-chance) | PR and Communications |
+| 2026-11-12 | [Nvidia – board prepares to oust Jensen Huang, stock down 8% after hours](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-243.md#-nvidia--board-prepares-to-oust-jensen-huang-stock-down-8-after-hours) | Tech Companies and News |
 | 2026-11-10 | [NVIDIA Auto Ontology launches ontology layer for agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-nvidia-auto-ontology-launches-ontology-layer-for-agents) | AI Organizations and Media |
 | 2026-11-09 | [Nvidia tokenized stocks trade 24/7, Binance volume rank](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-305.md#-nvidia-tokenized-stocks-trade-247-binance-volume-rank) | Tech VIPs |
 | 2026-11-09 | [Hyundai Motor Group NVDA NemoClaw, OpenShell](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-303.md#-hyundai-motor-group-nvda-nemoclaw-openshell) | VC Firms |
@@ -99,10 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 799 briefin
 | 2026-10-07 | [Replit builds on Windows using Microsoft Execution Containers and Nvidia OpenShell](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-281.md#-replit-builds-on-windows-using-microsoft-execution-containers-and-nvidia-openshell) | AI Companies and Ventures |
 | 2026-10-07 | [Jaguar Type 01 announced with NVIDIA Hyperion and Halos](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-261.md#-jaguar-type-01-announced-with-nvidia-hyperion-and-halos) | AI Driven Vehicles and Transportation |
 | 2026-10-07 | [Nvidia RTX Spark laptops pricing details](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-231.md#-nvidia-rtx-spark-laptops-pricing-details) | PR and Communications |
-| 2026-10-07 | [Hermes Agent raises Series B funding](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-229.md#-hermes-agent-raises-series-b-funding) | Tech Journalists and VIPs |
-| 2026-10-05 | [Nvidia's Resilience in the Face of Adversity](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-290.md#-nvidias-resilience-in-the-face-of-adversity) | Devs, Designers, DevRel |
-| 2026-10-05 | [AI-generated Videos - NVIDIA](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-260.md#-ai-generated-videos---nvidia) | AI Driven Vehicles and Transportation |
-| 2026-10-05 | [AI Research Jobs - NVIDIA Research](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-254.md#-ai-research-jobs---nvidia-research) | Computer Vision and AI Applications |
-| 2026-10-01 | [NVIDIA Partnership with ElevenLabs](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-266.md#-nvidia-partnership-with-elevenlabs) | AI Generated Music and Audio |
-| 2026-10-01 | [Nvidia CEO Jensen Huang and Other Tech Executives](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-262.md#-nvidia-ceo-jensen-huang-and-other-tech-executives) | AI Professionals and Community |
-| 2026-09-30 | [Tech News - OpenClaw Launches Free Enterprise Control Plane](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-229.md#-tech-news---openclaw-launches-free-enterprise-control-plane) | PR and Communications |

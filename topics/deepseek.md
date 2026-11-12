@@ -1,11 +1,12 @@
 # DeepSeek
 
-DeepSeek and its open models. The 100 newest of 248 briefings that mention it, from every category, newest first.
+DeepSeek and its open models. The 100 newest of 249 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-12 | [Maxwell optimizes DeepSeek-V4.1-Flash on B200, 3x tokens per GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-277.md#-maxwell-optimizes-deepseek-v41-flash-on-b200-3x-tokens-per-gpu) | AI Consulting and Expertise |
 | 2026-11-09 | [Deepseek 4.1 1017 build on RTX Pro 6000 with MiniMax h3](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-270.md#-deepseek-41-1017-build-on-rtx-pro-6000-with-minimax-h3) | AI in Enterprise Applications |
 | 2026-11-08 | [DeepSeek V4.1 Flash and Nebius models now on Eden AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-311.md#-deepseek-v41-flash-and-nebius-models-now-on-eden-ai) | AI Developer Tools |
 | 2026-11-08 | [Antseed Solid AI agents launch with one key for top models](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-299.md#-antseed-solid-ai-agents-launch-with-one-key-for-top-models) | AI Companies and Ventures |
@@ -105,4 +106,3 @@ DeepSeek and its open models. The 100 newest of 248 briefings that mention it, f
 | 2025-03-01 | [DeepSeek - A High-Margin Open-Source AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-019.md#-deepseek---a-high-margin-open-source-ai) | AI Companies and Ventures |
 | 2025-03-01 | [DeepSeek-V3/R1 Inference Optimization](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-017.md#-deepseek-v3r1-inference-optimization) | Computer Vision and AI Applications |
 | 2025-03-01 | [AI - DeepSeek-V3/R1 Optimizations](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-014.md#-ai---deepseek-v3r1-optimizations) | Investors and Venture Capital |
-|  | [AI Classification - pi.dev Integration](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-251.md#-ai-classification---pidev-integration) | Devs, Designers, DevRel |
