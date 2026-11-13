@@ -1,11 +1,13 @@
 # AI policy
 
-Laws, regulators and governments on AI. The 100 newest of 940 briefings that mention it, from every category, newest first.
+Laws, regulators and governments on AI. The 100 newest of 942 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [Scaling public input on AI policy with pluralistic agents – study results](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-299.md#-scaling-public-input-on-ai-policy-with-pluralistic-agents--study-results) | AI Organizations and Media |
+| 2026-11-13 | [Human basal ganglia atlas maps gene regulation](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-291.md#-human-basal-ganglia-atlas-maps-gene-regulation) | AI in Healthcare and Science |
 | 2026-11-07 | [Starship Flight 15 launch targeting November 13](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-243.md#-starship-flight-15-launch-targeting-november-13) | Tech Journalists and VIPs |
 | 2026-11-06 | [Senator Becker bill requires AI compute reporting](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-271.md#-senator-becker-bill-requires-ai-compute-reporting) | AI Policy and Ethical Considerations |
 | 2026-11-04 | [Emirates attestation form for US travel November 4](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-276.md#-emirates-attestation-form-for-us-travel-november-4) | Tech Infrastructure |
@@ -104,5 +106,3 @@ Laws, regulators and governments on AI. The 100 newest of 940 briefings that men
 | 2026-09-17 | [Robotics and AI: A Growing Industry](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-258.md#-robotics-and-ai-a-growing-industry) | AI Leaders and Thinkers |
 | 2026-09-17 | [Regulation - AI Slowdowns? Nordic Labs Dodge Headlines but Invite Antitrust Headaches, Says EU Watchers](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-249.md#-regulation---ai-slowdowns-nordic-labs-dodge-headlines-but-invite-antitrust-headaches-says-eu-watchers) | AI Powered Film and Media |
 | 2026-09-17 | [AI Governance - AI Safety Redlines](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-246.md#-ai-governance---ai-safety-redlines) | AI Policy and Ethical Considerations |
-| 2026-09-17 | [Palantir CEO Alex Karp on Regulation and Nationalization](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-239.md#-palantir-ceo-alex-karp-on-regulation-and-nationalization) | AI in Enterprise Applications |
-| 2026-09-17 | [AI & Security](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-214.md#-ai--security) | PR and Communications |

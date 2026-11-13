@@ -1,6 +1,6 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 433 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 434 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
@@ -9,6 +9,7 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-11-12 | [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) | AI Developer Tools |
 | 2026-11-12 | [Claude Certified Architect – prep course announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-298.md#-claude-certified-architect--prep-course-announced) | AI Organizations and Media |
 | 2026-11-12 | [Appwrite Activity reasons – shows why each change was made](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-281.md#-appwrite-activity-reasons--shows-why-each-change-was-made) | Tech Infrastructure |
+| 2026-11-12 | [Fable 5.2 handles music, grading, motion graphics in one go](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-279.md#-fable-52-handles-music-grading-motion-graphics-in-one-go) | AI Powered Film and Media |
 | 2026-11-10 | [NVIDIA Auto Ontology launches ontology layer for agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-nvidia-auto-ontology-launches-ontology-layer-for-agents) | AI Organizations and Media |
 | 2026-11-10 | [Swarms API MCP endpoint adds 23 tools and dynamic pricing](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-276.md#-swarms-api-mcp-endpoint-adds-23-tools-and-dynamic-pricing) | AI for Content Creation and Marketing |
 | 2026-11-09 | [Unreal Engine 5.9 MegaJam Preview released with agentic workflow features](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-272.md#-unreal-engine-59-megajam-preview-released-with-agentic-workflow-features) | AR VR Companies and Development |
@@ -105,4 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-07 | [MCP - Real-Time Results](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-262.md#-mcp---real-time-results) | Devs, Designers, DevRel |
 | 2026-09-07 | [Crowdreply - AI Search Optimization](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-231.md#-crowdreply---ai-search-optimization) | AI for Content Creation and Marketing |
 | 2026-09-07 | [MCP and Blender](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-206.md#-mcp-and-blender) | Spatial Computing |
-| 2026-09-06 | [AI Tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-249.md#-ai-tools) | AI Leaders and Thinkers |

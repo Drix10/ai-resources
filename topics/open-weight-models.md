@@ -1,13 +1,15 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 323 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 325 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [ci-proto launches with 64× longer context window](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-299.md#-ci-proto-launches-with-64-longer-context-window) | AI Organizations and Media |
 | 2026-11-12 | [ERNIE 5.5 Flash Preview scores 1668, #2 WebDev](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-ernie-55-flash-preview-scores-1668-2-webdev) | CS Academics |
 | 2026-11-12 | [MiniMax H3-Image tops ranking, adds NVIDIA support to vLLM-Omni](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-minimax-h3-image-tops-ranking-adds-nvidia-support-to-vllm-omni) | AI Developer Tools |
+| 2026-11-12 | [ACE Music v1 ranks #1 on AA-Music-Vocal v1.1](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-288.md#-ace-music-v1-ranks-1-on-aa-music-vocal-v11) | AI Generated Music and Audio |
 | 2026-11-11 | [VoiceAgent Fine-tuning Announcement, Enterprise Data Soon](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-287.md#-voiceagent-fine-tuning-announcement-enterprise-data-soon) | AI Generated Music and Audio |
 | 2026-11-10 | [Falcon-OCR 270M ranks top small OCR model in private eval](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-280.md#-falcon-ocr-270m-ranks-top-small-ocr-model-in-private-eval) | AI Professionals and Community |
 | 2026-11-09 | [Duolingo cuts AI inference cost to &lt;1¢ per call](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-280.md#-duolingo-cuts-ai-inference-cost-to-1-per-call) | AI Education |
@@ -104,5 +106,3 @@ Models whose weights anyone can download. The 100 newest of 323 briefings that m
 | 2026-08-16 | [AI Models - Open Weight Landscape](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-196.md#-ai-models---open-weight-landscape) | Tech Companies and News |
 | 2026-07-09 | [Audio AI - Long-Form Multi-Speaker ASR](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-222.md#-audio-ai---long-form-multi-speaker-asr) | AI Developer Tools |
 | 2026-07-07 | [AI Governance - Frontier Model Security](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-208.md#-ai-governance---frontier-model-security) | AI Policy and Ethical Considerations |
-| 2026-07-05 | [Sovereign AI - Open Models in Closed Infrastructure](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-222.md#-sovereign-ai---open-models-in-closed-infrastructure) | AI Education |
-| 2026-07-01 | [AI Models - GLM 5.2 Performance](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-219.md#-ai-models---glm-52-performance) | Tech VIPs |

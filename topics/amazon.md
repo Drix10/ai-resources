@@ -1,12 +1,15 @@
 # Amazon & AWS
 
-Amazon, AWS, Bedrock and Alexa. The 100 newest of 397 briefings that mention it, from every category, newest first.
+Amazon, AWS, Bedrock and Alexa. The 100 newest of 400 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [REWEAVE: Online Learning for Workload-Adaptive HNSW Indexes improves recall up to 23.3 pp](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-281.md#-reweave-online-learning-for-workload-adaptive-hnsw-indexes-improves-recall-up-to-233-pp) | AI Professionals and Community |
 | 2026-11-12 | [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) | AI Developer Tools |
+| 2026-11-12 | [Outlook reports 130,000 outages as many platforms fail](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-262.md#-outlook-reports-130000-outages-as-many-platforms-fail) | Investors and Venture Capital |
+| 2026-11-12 | [IonQ hybrid quantum computing shown at SC26 booth 5238](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-252.md#-ionq-hybrid-quantum-computing-shown-at-sc26-booth-5238) | Quantum Computing |
 | 2026-11-08 | [Geyser – bridge lets Bedrock join Java servers](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-299.md#-geyser--bridge-lets-bedrock-join-java-servers) | AI Companies and Ventures |
 | 2026-11-08 | [Arnis - generate Minecraft worlds from real map data](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-299.md#-arnis---generate-minecraft-worlds-from-real-map-data) | AI Companies and Ventures |
 | 2026-11-07 | [Quest Horizon OS 2.10 PTC adds Theater environment and Simplified Navigator](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-271.md#-quest-horizon-os-210-ptc-adds-theater-environment-and-simplified-navigator) | AR VR Companies and Development |
@@ -103,6 +106,3 @@ Amazon, AWS, Bedrock and Alexa. The 100 newest of 397 briefings that mention it,
 | 2026-05-05 | [AWS Developers - Creative Concept - Fisher-Price Toy](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-190.md#-aws-developers---creative-concept---fisher-price-toy) | AI Developer Tools |
 | 2026-05-02 | [AI Agencies - Lumian's Operational Focus](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-192.md#-ai-agencies---lumians-operational-focus) | VC Firms |
 | 2026-05-01 | [NBA Draft Combine - Cooper Flagg's Performance](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-206.md#-nba-draft-combine---cooper-flaggs-performance) | CS Academics |
-| 2026-04-28 | [Amazon Quick - AI Assistant for Desktop Productivity](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-205.md#-amazon-quick---ai-assistant-for-desktop-productivity) | CS Academics |
-| 2026-04-28 | [Amazon Strategy - Market Positioning](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-191.md#-amazon-strategy---market-positioning) | Tech VIPs |
-| 2026-04-28 | [AI Infrastructure - OpenAI Model Training on AWS](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-190.md#-ai-infrastructure---openai-model-training-on-aws) | Tech VIPs |

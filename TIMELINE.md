@@ -1,11 +1,19 @@
 # AI release timeline
 
-Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 198, each linked to its briefing.
+Model and product releases by the companies in [topics](topics/README.md), newest first: the latest 200, each linked to its briefing.
 
 ## November 2026
 
+- **Nov 13** · [zml/llmd 20261112.0 release adds DSpine and faster DeepSeek prefill](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-315.md#-zmlllmd-202611120-release-adds-dspine-and-faster-deepseek-prefill) <sub>AI Developer Tools</sub>
+- **Nov 13** · [MAI Image 2.6 pricing and Flash launch on Pixazo AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-288.md#-mai-image-26-pricing-and-flash-launch-on-pixazo-ai) <sub>AI Holodeck and Virtual Worlds</sub>
+- **Nov 13** · [Qwen Image 3.0 launches on Pixazo with pricing tiers](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-288.md#-qwen-image-30-launches-on-pixazo-with-pricing-tiers) <sub>AI Holodeck and Virtual Worlds</sub>
+- **Nov 13** · [A2UI 1.0 – launch of delightful agentic UI framework](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-282.md#-a2ui-10--launch-of-delightful-agentic-ui-framework) <sub>Tech Infrastructure</sub>
+- **Nov 13** · [Doubao-Seedream-5.5 launch – image generation model](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-273.md#-doubao-seedream-55-launch--image-generation-model) <sub>AI in Enterprise Applications</sub>
+- **Nov 13** · [Claude Managed Agents private beta self-hosted launch](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-273.md#-claude-managed-agents-private-beta-self-hosted-launch) <sub>AI in Enterprise Applications</sub>
+- **Nov 13** · [Caveman Code released, costs $1.83 vs Claude Code $7.65](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-247.md#-caveman-code-released-costs-183-vs-claude-code-765) <sub>Tech Journalists and VIPs</sub>
 - **Nov 12** · [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) <sub>AI Developer Tools</sub>
 - **Nov 12** · [Grok Bot 1.0 launch – AI teammates for Slack and Teams](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-307.md#-grok-bot-10-launch--ai-teammates-for-slack-and-teams) <sub>Tech VIPs</sub>
+- **Nov 12** · [Gemini 4 Hydrogen launch with pricing and benchmark results](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-291.md#-gemini-4-hydrogen-launch-with-pricing-and-benchmark-results) <sub>AI in Healthcare and Science</sub>
 - **Nov 12** · [RLDX-1.1 released with faster training and 2.28s per parcel](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-rldx-11-released-with-faster-training-and-228s-per-parcel) <sub>AI and Robotics Applications</sub>
 - **Nov 12** · [Grok Bot 1.0 launches AI teammate for Slack and Teams](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-277.md#-grok-bot-10-launches-ai-teammate-for-slack-and-teams) <sub>AI for Content Creation and Marketing</sub>
 - **Nov 11** · [Qwen3.8-27B GGUF release with 5–10% benchmark gain](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-qwen38-27b-gguf-release-with-510-benchmark-gain) <sub>CS Academics</sub>
@@ -253,12 +261,3 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 - **Mar 29** · [Book Release - Microsoft Intune](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-037.md#-book-release---microsoft-intune) <sub>Tech Infrastructure</sub>
 - **Mar 16** · [AI - Baidu's ERNIE 4.5 & X1 Unveiled](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-029.md#-ai---baidus-ernie-45--x1-unveiled) <sub>AI Organizations and Media</sub>
 - **Mar 11** · [Digital Art - The Rabbit Hole 3.0 NFT Release](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-024.md#-digital-art---the-rabbit-hole-30-nft-release) <sub>PR and Communications</sub>
-- **Mar 7** · [VR Game - Stellar Plans VR 2.0 Release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-021.md#-vr-game---stellar-plans-vr-20-release) <sub>AR VR Companies and Development</sub>
-- **Mar 1** · [DeepSeek - A High-Margin Open-Source AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-019.md#-deepseek---a-high-margin-open-source-ai) <sub>AI Companies and Ventures</sub>
-- **Mar 1** · [OpenAI's GPT-4.5 Release](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-016.md#-openais-gpt-45-release) <sub>Tech Companies and News</sub>
-
-## February 2025
-
-- **Feb 27** · [Dapr - Version 1.15 Release](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-016.md#-dapr---version-115-release) <sub>Tech Infrastructure</sub>
-- **Feb 26** · [AI - Grok Voice Launch](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-016.md#-ai---grok-voice-launch) <sub>Cybersecurity and Tech</sub>
-- **Feb 12** · [ChatGPT - GPT-5 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-036.md#-chatgpt---gpt-5-release) <sub>AI Artists and Creators</sub>

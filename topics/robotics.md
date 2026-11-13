@@ -1,11 +1,16 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,493 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,498 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [CoMind-Be My Eye robots team up on housework with vision gains](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-303.md#-comind-be-my-eye-robots-team-up-on-housework-with-vision-gains) | AI Companies and Ventures |
+| 2026-11-13 | [EmbodiedSWE Best Paper Award at CoRL 2026 Workshop](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-286.md#-embodiedswe-best-paper-award-at-corl-2026-workshop) | AI and Robotics Applications |
+| 2026-11-13 | [CodeAI HourofAI activities launch Nov 16](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-283.md#-codeai-hourofai-activities-launch-nov-16) | AI Education |
+| 2026-11-13 | [atlas-humanoid humanoid with no System 1 shown at CoRL 2026](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-275.md#-atlas-humanoid-humanoid-with-no-system-1-shown-at-corl-2026) | Computer Vision and AI Applications |
+| 2026-11-13 | [Bureau des agents – pixel art office for Claude Code agents](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-269.md#-bureau-des-agents--pixel-art-office-for-claude-code-agents) | AI in Real Estate and Property Tech |
 | 2026-11-12 | [Gazebo Sim – open source robotics simulator announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-302.md#-gazebo-sim--open-source-robotics-simulator-announced) | AI Companies and Ventures |
 | 2026-11-12 | [Agile Robots raises $500M at $8.5B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-agile-robots-raises-500m-at-85b-valuation) | AI and Robotics Applications |
 | 2026-11-12 | [Agile Robots Series F $500M raise at $8.5B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-agile-robots-series-f-500m-raise-at-85b-valuation) | AI and Robotics Applications |
@@ -101,8 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,493 briefings that men
 | 2026-10-26 | [Pollen Robotics gets 15k Microduck orders, 750k actuators](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-294.md#-pollen-robotics-gets-15k-microduck-orders-750k-actuators) | Tech VIPs |
 | 2026-10-26 | [Bedrock Robotics Series C $600M funding announced](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-292.md#-bedrock-robotics-series-c-600m-funding-announced) | VC Firms |
 | 2026-10-26 | [Call for Help: Teaching Robots to Request Assistance – robots learn to request assistance](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-289.md#-call-for-help-teaching-robots-to-request-assistance--robots-learn-to-request-assistance) | AI Companies and Ventures |
-| 2026-10-26 | [Echo humanoids – limited launch with 225 tabletop and 25 full-body units](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-273.md#-echo-humanoids--limited-launch-with-225-tabletop-and-25-full-body-units) | AI and Robotics Applications |
-| 2026-10-26 | [MOSS 3D printed litter picking robot tested on beach](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-273.md#-moss-3d-printed-litter-picking-robot-tested-on-beach) | AI and Robotics Applications |
-| 2026-10-26 | [FBA deformable sim solver dropping soon announcement](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-273.md#-fba-deformable-sim-solver-dropping-soon-announcement) | AI and Robotics Applications |
-| 2026-10-26 | [Robotics industry mapping 230+ companies across stack](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-273.md#-robotics-industry-mapping-230-companies-across-stack) | AI and Robotics Applications |
-| 2026-10-26 | [Drift simulation infrastructure built from real box data](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-273.md#-drift-simulation-infrastructure-built-from-real-box-data) | AI and Robotics Applications |

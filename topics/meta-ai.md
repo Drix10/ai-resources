@@ -1,11 +1,13 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 637 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 639 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [Warby Parker Samsung smartglasses price $395 launch](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-274.md#-warby-parker-samsung-smartglasses-price-395-launch) | AR VR Companies and Development |
+| 2026-11-12 | [Adapt your controller-first title for Meta VR Glasses – try input changes now](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-274.md#-adapt-your-controller-first-title-for-meta-vr-glasses--try-input-changes-now) | AR VR Companies and Development |
 | 2026-11-11 | [Meta Unity hand tracking SDK announced at Unite Tokyo](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-273.md#-meta-unity-hand-tracking-sdk-announced-at-unite-tokyo) | AR VR Companies and Development |
 | 2026-11-11 | [Meta VR Glasses hand tracking space game adds snap poses](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-271.md#-meta-vr-glasses-hand-tracking-space-game-adds-snap-poses) | AR VR Professionals and Community |
 | 2026-11-10 | [Tuya Cloud Devices open-source Skill announced for Muse](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-271.md#-tuya-cloud-devices-open-source-skill-announced-for-muse) | AI in Enterprise Applications |
@@ -104,5 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 637 brie
 | 2026-09-24 | [Gaming - Shil, the Mind-Bending Narrative Puzzler](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-248.md#-gaming---shil-the-mind-bending-narrative-puzzler) | AR VR Companies and Development |
 | 2026-09-24 | [Tech - Meta Connect Developer State of the Union](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-248.md#-tech---meta-connect-developer-state-of-the-union) | AR VR Companies and Development |
 | 2026-09-24 | [Tech - Developer State of the Union](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-248.md#-tech---developer-state-of-the-union) | AR VR Companies and Development |
-| 2026-09-24 | [XR Tech - Meta VR Glasses](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-244.md#-xr-tech---meta-vr-glasses) | AR VR Professionals and Community |
-| 2026-09-24 | [XR Tech - Muse AI](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-244.md#-xr-tech---muse-ai) | AR VR Professionals and Community |

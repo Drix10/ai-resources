@@ -1,11 +1,15 @@
 # DeepSeek
 
-DeepSeek and its open models. The 100 newest of 249 briefings that mention it, from every category, newest first.
+DeepSeek and its open models. The 100 newest of 253 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [zml/llmd 20261112.0 release adds DSpine and faster DeepSeek prefill](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-315.md#-zmlllmd-202611120-release-adds-dspine-and-faster-deepseek-prefill) | AI Developer Tools |
+| 2026-11-13 | [Hy4 #3 on Artificial Analysis Cyber Index, #1 on CWE-Bench-AA](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-288.md#-hy4-3-on-artificial-analysis-cyber-index-1-on-cwe-bench-aa) | AI Holodeck and Virtual Worlds |
+| 2026-11-13 | [DeepSeek V4 Flash GPU thread count inference shows B200 usage](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-281.md#-deepseek-v4-flash-gpu-thread-count-inference-shows-b200-usage) | AI Professionals and Community |
+| 2026-11-12 | [Top Chinese Frontier AI Models Carry Blackwell GPU Fingerprint](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-316.md#-top-chinese-frontier-ai-models-carry-blackwell-gpu-fingerprint) | CS Academics |
 | 2026-11-12 | [Maxwell optimizes DeepSeek-V4.1-Flash on B200, 3x tokens per GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-277.md#-maxwell-optimizes-deepseek-v41-flash-on-b200-3x-tokens-per-gpu) | AI Consulting and Expertise |
 | 2026-11-09 | [Deepseek 4.1 1017 build on RTX Pro 6000 with MiniMax h3](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-270.md#-deepseek-41-1017-build-on-rtx-pro-6000-with-minimax-h3) | AI in Enterprise Applications |
 | 2026-11-08 | [DeepSeek V4.1 Flash and Nebius models now on Eden AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-311.md#-deepseek-v41-flash-and-nebius-models-now-on-eden-ai) | AI Developer Tools |
@@ -102,7 +106,3 @@ DeepSeek and its open models. The 100 newest of 249 briefings that mention it, f
 | 2025-03-17 | [AI Tools - MCP and RAG Integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-030.md#-ai-tools---mcp-and-rag-integration) | AI Consulting and Expertise |
 | 2025-03-17 | [DeepSeek Inference - Batching Considerations](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-030.md#-deepseek-inference---batching-considerations) | AI Professionals and Community |
 | 2025-03-08 | [AI on X - Hot AI Tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-024.md#-ai-on-x---hot-ai-tools) | AI Consulting and Expertise |
-| 2025-03-01 | [AI Business - DeepSeek's Financial Performance](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-022.md#-ai-business---deepseeks-financial-performance) | CS Academics |
-| 2025-03-01 | [DeepSeek - A High-Margin Open-Source AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-019.md#-deepseek---a-high-margin-open-source-ai) | AI Companies and Ventures |
-| 2025-03-01 | [DeepSeek-V3/R1 Inference Optimization](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-017.md#-deepseek-v3r1-inference-optimization) | Computer Vision and AI Applications |
-| 2025-03-01 | [AI - DeepSeek-V3/R1 Optimizations](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-014.md#-ai---deepseek-v3r1-optimizations) | Investors and Venture Capital |

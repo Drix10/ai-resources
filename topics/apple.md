@@ -1,11 +1,13 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 674 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 676 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [zml/llmd 20261112.0 release adds DSpine and faster DeepSeek prefill](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-315.md#-zmlllmd-202611120-release-adds-dspine-and-faster-deepseek-prefill) | AI Developer Tools |
+| 2026-11-13 | [Apple Vision Pro first-person content capture method](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-274.md#-apple-vision-pro-first-person-content-capture-method) | AR VR Companies and Development |
 | 2026-11-09 | [Apple Vision Pro Yokkaichi Expo 2025 experience returns 11/27](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-246.md#-apple-vision-pro-yokkaichi-expo-2025-experience-returns-1127) | Spatial Computing |
 | 2026-11-08 | [Inco Splash inference engine: up to 3× faster](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-311.md#-inco-splash-inference-engine-up-to-3-faster) | AI Developer Tools |
 | 2026-11-08 | [Gaussian Splats generation from image viewable on Vision Pro](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-278.md#-gaussian-splats-generation-from-image-viewable-on-vision-pro) | AI Driven Vehicles and Transportation |
@@ -104,5 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 674 br
 | 2026-09-18 | [LCC2 Performance](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-216.md#lcc2-performance) | Spatial Computing |
 | 2026-09-18 | [Interactive Splats - VisionOS 27 App](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-215.md#-interactive-splats---visionos-27-app) | Spatial Computing |
 | 2026-09-18 | [Preparing Your App for iPhone Duo](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-215.md#-preparing-your-app-for-iphone-duo) | Spatial Computing |
-| 2026-09-18 | [News - Apple Fans Line Up for New iPhone 18](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-215.md#-news---apple-fans-line-up-for-new-iphone-18) | World News and Updates |
-| 2026-09-17 | [Apple's iMessage Security Concerns](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-250.md#-apples-imessage-security-concerns) | AI Artists and Creators |
