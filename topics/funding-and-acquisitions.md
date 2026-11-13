@@ -1,16 +1,24 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,217 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,225 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [TEKEVER expands into Denmark with Odense base](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-299.md#-tekever-expands-into-denmark-with-odense-base) | AI Organizations and Media |
+| 2026-11-13 | [Dropbox acquires Tigris for $350M to launch DBX Agent Cloud](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-282.md#-dropbox-acquires-tigris-for-350m-to-launch-dbx-agent-cloud) | Tech Infrastructure |
+| 2026-11-13 | [Tesla 4.0 ratio claim for SPCX acquisition deal](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-282.md#-tesla-40-ratio-claim-for-spcx-acquisition-deal) | Tech Infrastructure |
+| 2026-11-13 | [Retell revenue run rate reaches $100M after $10M start](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-278.md#-retell-revenue-run-rate-reaches-100m-after-10m-start) | AI Consulting and Expertise |
+| 2026-11-13 | [Mirendil receives $1 billion funding led by Kleiner Perkins](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-251.md#-mirendil-receives-1-billion-funding-led-by-kleiner-perkins) | PR and Communications |
+| 2026-11-12 | [Series A – $1B funding round led by Kleiner Perkins and ClearLake](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-316.md#-series-a--1b-funding-round-led-by-kleiner-perkins-and-clearlake) | CS Academics |
 | 2026-11-12 | [Gakku raises $51 million to rethink AI tutoring](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-gakku-raises-51-million-to-rethink-ai-tutoring) | CS Academics |
 | 2026-11-12 | [Belkasoft X v2.13 adds BelkaGPT chain of thought and deleted file analysis](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-290.md#-belkasoft-x-v213-adds-belkagpt-chain-of-thought-and-deleted-file-analysis) | AI in Healthcare and Science |
 | 2026-11-12 | [Agile Robots raises $500M at $8.5B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-agile-robots-raises-500m-at-85b-valuation) | AI and Robotics Applications |
 | 2026-11-12 | [Agile Robots Series F $500M raise at $8.5B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-agile-robots-series-f-500m-raise-at-85b-valuation) | AI and Robotics Applications |
 | 2026-11-12 | [Rox AI hits $1.3B valuation after 12 months, Series B led by General Catalyst and MarchCPs](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-277.md#-rox-ai-hits-13b-valuation-after-12-months-series-b-led-by-general-catalyst-and-marchcps) | AI for Content Creation and Marketing |
+| 2026-11-12 | [Series A $1B Funding Led by Kleiner Perkins, ClearLake](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-272.md#-series-a-1b-funding-led-by-kleiner-perkins-clearlake) | Founders and Entrepreneurs |
+| 2026-11-12 | [Q-CTRL Series C $290M Funding Announcement](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-252.md#-q-ctrl-series-c-290m-funding-announcement) | Quantum Computing |
 | 2026-11-12 | [Evereden $100M sales in 2024 after Gen Alpha focus](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-250.md#-evereden-100m-sales-in-2024-after-gen-alpha-focus) | PR and Communications |
 | 2026-11-11 | [Fractile raises $720M Series C led by Thrive Capital](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-305.md#-fractile-raises-720m-series-c-led-by-thrive-capital) | VC Firms |
 | 2026-11-10 | [Hatchet v2 launch – 237K TPS peak, 33TB hot data, $5.7M seed round](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-280.md#-hatchet-v2-launch--237k-tps-peak-33tb-hot-data-57m-seed-round) | Tech Infrastructure |
@@ -98,11 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,217 briefings that mention it, fro
 | 2026-10-26 | [Anthropic raises $141.1B, burns $9.4B, free cashflow $575M/mo](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-235.md#-anthropic-raises-1411b-burns-94b-free-cashflow-575mmo) | Tech Journalists and VIPs |
 | 2026-10-26 | [Colare raises $2.5M pre-seed for simulation hiring](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-233.md#-colare-raises-25m-pre-seed-for-simulation-hiring) | Tech Companies and News |
 | 2026-10-19 | [Spout raises $2m strategic round from investors](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-290.md#-spout-raises-2m-strategic-round-from-investors) | VC Firms |
-| 2026-10-19 | [Discovered Materials secures $9 million seed funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-268.md#-discovered-materials-secures-9-million-seed-funding) | AI Professionals and Community |
-| 2026-10-18 | [This Salad Chain Found a Faster Way to Grow – 33 New Locations](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-238.md#-this-salad-chain-found-a-faster-way-to-grow--33-new-locations) | PR and Communications |
-| 2026-10-16 | [Orthogonal backs agentic commerce, Privy joins Stripe](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-289.md#-orthogonal-backs-agentic-commerce-privy-joins-stripe) | VC Firms |
-| 2026-10-16 | [Ryan Dahl leaves Deno, Cloudflare acquires his startup](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-268.md#-ryan-dahl-leaves-deno-cloudflare-acquires-his-startup) | Tech Infrastructure |
-| 2026-10-16 | [AIsa raises $9M+ and reports 250k agents, 100M transactions](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-258.md#-aisa-raises-9m-and-reports-250k-agents-100m-transactions) | AI in Enterprise Applications |
-| 2026-10-10 | [Waymo raises $5 billion debt, adds to $16 billion equity](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-263.md#-waymo-raises-5billion-debt-adds-to-16billion-equity) | AI Driven Vehicles and Transportation |
-| 2026-10-09 | [Starbucks exploring $41 billion Chipotle takeover](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-266.md#-starbucks-exploring-41billion-chipotle-takeover) | Tech Infrastructure |
-| 2026-10-08 | [Bending Spoons hiring numbers and company acquisitions](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-289.md#-bending-spoons-hiring-numbers-and-company-acquisitions) | Tech VIPs |

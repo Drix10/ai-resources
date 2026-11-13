@@ -1,12 +1,21 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 594 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 603 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [AvePoint expands Microsoft deal to govern AI agents](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-282.md#-avepoint-expands-microsoft-deal-to-govern-ai-agents) | Tech Infrastructure |
+| 2026-11-13 | [Microsoft Agent 365 audit and tax rollout on 12 Nov](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-282.md#-microsoft-agent-365-audit-and-tax-rollout-on-12-nov) | Tech Infrastructure |
+| 2026-11-13 | [Microsoft outage reaches Westminster MPs and GP practices in Grampian](https://github.com/Drix10/ai-resources/blob/main/Climate%20and%20Weather%20Technology/resources-270.md#-microsoft-outage-reaches-westminster-mps-and-gp-practices-in-grampian) | Climate and Weather Technology |
+| 2026-11-13 | [Microsoft 365 email retry policy 24-hour expiration](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-267.md#-microsoft-365-email-retry-policy-24-hour-expiration) | Decentralized AI |
+| 2026-11-13 | [Microsoft global outage affects Teams Outlook Copilot](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-245.md#-microsoft-global-outage-affects-teams-outlook-copilot) | Cybersecurity and Tech |
+| 2026-11-13 | [Microsoft outage updates: Schools, GPs and businesses hit - follow live](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-245.md#-microsoft-outage-updates-schools-gps-and-businesses-hit---follow-live) | Cybersecurity and Tech |
+| 2026-11-13 | [Microsoft outage - global service disruption affecting Outlook and Teams](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-239.md#-microsoft-outage---global-service-disruption-affecting-outlook-and-teams) | World News and Updates |
 | 2026-11-12 | [SkyW4lker device-code abuse, ANY.RUN logs 618 analyses](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-281.md#-skyw4lker-device-code-abuse-anyrun-logs-618-analyses) | Tech Infrastructure |
+| 2026-11-12 | [Outlook reports 130,000 outages as many platforms fail](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-262.md#-outlook-reports-130000-outages-as-many-platforms-fail) | Investors and Venture Capital |
+| 2026-11-11 | [Microsoft diagnostic AI solved 83% of 304 cases](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-308.md#-microsoft-diagnostic-ai-solved-83-of-304-cases) | Tech VIPs |
 | 2026-11-11 | [Horizon 1 50MW AI Cloud deployment completed in 14 months](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-298.md#-horizon-1-50mw-ai-cloud-deployment-completed-in-14-months) | AI Organizations and Media |
 | 2026-11-10 | [Paris Call for AI Safety commits to model shutdowns](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-273.md#-paris-call-for-ai-safety-commits-to-model-shutdowns) | AI Policy and Ethical Considerations |
 | 2026-11-10 | [Google Slides and PowerPoint Are Dead – AI builds web decks, 36% retention rise](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-249.md#-google-slides-and-powerpoint-are-dead--ai-builds-web-decks-36-retention-rise) | PR and Communications |
@@ -97,12 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 594 briefings
 | 2026-09-22 | [Tech News - AI Safety and Regulation](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-248.md#-tech-news---ai-safety-and-regulation) | Founders and Entrepreneurs |
 | 2026-09-21 | [Tech News - AI in GitHub](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-287.md#-tech-news---ai-in-github) | CS Academics |
 | 2026-09-21 | [Move from Crash Report to Fix with Sentry Canvas in GitHub Copilot](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-278.md#-move-from-crash-report-to-fix-with-sentry-canvas-in-github-copilot) | Devs, Designers, DevRel |
-| 2026-09-21 | [GitHub Copilot - Editable Diffs](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-277.md#-github-copilot---editable-diffs) | Devs, Designers, DevRel |
-| 2026-09-21 | [Microsoft AI CEO Signs Pro-Human AI Declaration](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-264.md#-microsoft-ai-ceo-signs-pro-human-ai-declaration) | AI Organizations and Media |
-| 2026-09-21 | [AI Ethics - Pro-Human AI Declaration](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-255.md#-ai-ethics---pro-human-ai-declaration) | AI Powered Film and Media |
-| 2026-09-21 | [Finance - Distribution Edge](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-236.md#-finance---distribution-edge) | Investors and Venture Capital |
-| 2026-09-19 | [Rapuncel Campaign and Malware](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-247.md#-rapuncel-campaign-and-malware) | Tech Infrastructure |
-| 2026-09-18 | [Build Agentic Apps with GitHub Copilot SDK](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-283.md#-build-agentic-apps-with-github-copilot-sdk) | CS Academics |
-| 2026-09-18 | [Lightweight LLM Alternative - lm15](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-271.md#-lightweight-llm-alternative---lm15) | AI Developer Tools |
-| 2026-09-18 | [GitHub Copilot Self-Guided Workshop](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-249.md#-github-copilot-self-guided-workshop) | AI Policy and Ethical Considerations |
-| 2026-09-18 | [AI Welfare Discussion](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-247.md#-ai-welfare-discussion) | AI Professionals and Community |

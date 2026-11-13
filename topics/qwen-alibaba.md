@@ -1,11 +1,13 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 254 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 256 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [Qwen Image 3.0 launches on Pixazo with pricing tiers](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-288.md#-qwen-image-30-launches-on-pixazo-with-pricing-tiers) | AI Holodeck and Virtual Worlds |
+| 2026-11-13 | [ReSID – Long-tail retrieval method released with production deployment](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-281.md#-resid--long-tail-retrieval-method-released-with-production-deployment) | AI Professionals and Community |
 | 2026-11-12 | [Qwen4-Max-Preview now in Qoder with 80% discount](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-304.md#-qwen4-max-preview-now-in-qoder-with-80-discount) | AI Leaders and Thinkers |
 | 2026-11-12 | [Direct GPU Energy Measurements of Batch-Level Sharing saves 12-18% energy per token](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-298.md#-direct-gpu-energy-measurements-of-batch-level-sharing-saves-12-18-energy-per-token) | AI Organizations and Media |
 | 2026-11-12 | [MiniMax-H3 Prompt Rewriter 27B model launch with 32768-token context](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-268.md#-minimax-h3-prompt-rewriter-27b-model-launch-with-32768-token-context) | AI in Real Estate and Property Tech |
@@ -104,5 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 254 briefings that mention i
 | 2026-09-17 | [AI Model - Why it Matters: 14.7K Downloads and 122 Likes Show Real Community Traction](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-249.md#-ai-model---why-it-matters-147k-downloads-and-122-likes-show-real-community-traction) | AI Powered Film and Media |
 | 2026-09-16 | [AI Model Efficiency - Qwen3.8-27B-4.0bpw-EXL3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-266.md#-ai-model-efficiency---qwen38-27b-40bpw-exl3) | AI Developer Tools |
 | 2026-09-16 | [World Models - Jev: A Visual Explanation](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-236.md#-world-models---jev-a-visual-explanation) | Computer Vision and AI Applications |
-| 2026-09-14 | [AI Research - Router-only Checkpoints for Qwen3-4B, 8B, and 14B](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-246.md#-ai-research---router-only-checkpoints-for-qwen3-4b-8b-and-14b) | AI Powered Film and Media |
-| 2026-09-13 | [Frontier Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-263.md#-frontier-models) | AI Developer Tools |

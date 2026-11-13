@@ -1,11 +1,18 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,091 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,098 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [Tier IV at Edge Chiplet Forum open-source AI chip](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-282.md#-tier-iv-at-edge-chiplet-forum-open-source-ai-chip) | AI Driven Vehicles and Transportation |
+| 2026-11-13 | [DeepSeek V4 Flash GPU thread count inference shows B200 usage](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-281.md#-deepseek-v4-flash-gpu-thread-count-inference-shows-b200-usage) | AI Professionals and Community |
+| 2026-11-13 | [PearlQuant cuts KV cache storage 65% and boosts throughput](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-278.md#-pearlquant-cuts-kv-cache-storage-65-and-boosts-throughput) | AI Consulting and Expertise |
+| 2026-11-13 | [Nvidia keeps 260,000-GPU pledge after Huang resignation](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-268.md#-nvidia-keeps-260000-gpu-pledge-after-huang-resignation) | The Exponential Future |
+| 2026-11-13 | [Aethir decentralized GPU cloud eliminates egress fees for checkpoint transfers](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-266.md#-aethir-decentralized-gpu-cloud-eliminates-egress-fees-for-checkpoint-transfers) | Crypto and Web3 |
+| 2026-11-13 | [Nvidia – interim CEO Colette Kress leads delivery of Blackwell, Rubin GPUs and Vera CPUs](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-244.md#-nvidia--interim-ceo-colette-kress-leads-delivery-of-blackwell-rubin-gpus-and-vera-cpus) | Tech Companies and News |
+| 2026-11-12 | [Top Chinese Frontier AI Models Carry Blackwell GPU Fingerprint](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-316.md#-top-chinese-frontier-ai-models-carry-blackwell-gpu-fingerprint) | CS Academics |
 | 2026-11-12 | [Chips for Humanity launches compute cluster for AI safety research](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-chips-for-humanity-launches-compute-cluster-for-ai-safety-research) | CS Academics |
 | 2026-11-12 | [AMD Venice SP7 2nm EPYC 9006 server processors ship November 10 2026](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-305.md#-amd-venice-sp7-2nm-epyc-9006-server-processors-ship-november-10-2026) | VC Firms |
 | 2026-11-12 | [Direct GPU Energy Measurements of Batch-Level Sharing saves 12-18% energy per token](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-298.md#-direct-gpu-energy-measurements-of-batch-level-sharing-saves-12-18-energy-per-token) | AI Organizations and Media |
@@ -99,10 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,091 briefings tha
 | 2026-10-26 | [NVIDIA Vera Rubin GPUs financing $40 billion by SpaceX](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-nvidia-vera-rubin-gpus-financing-40-billion-by-spacex) | AI Artists and Creators |
 | 2026-10-26 | [SpaceX $40B GPU financing lease announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-270.md#-spacex-40b-gpu-financing-lease-announced) | Tech Infrastructure |
 | 2026-10-26 | [BedrockRobotics $600M Series C funding for autonomous excavators](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-269.md#-bedrockrobotics-600m-series-c-funding-for-autonomous-excavators) | AI Driven Vehicles and Transportation |
-| 2026-10-26 | [Anthropic spend up to $567B on compute, launches Anthropic Direct data centers](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-267.md#-anthropic-spend-up-to-567b-on-compute-launches-anthropic-direct-data-centers) | AI Policy and Ethical Considerations |
-| 2026-10-26 | [mlx-stump GPU time-series discovery on Apple Silicon](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-267.md#-mlx-stump-gpu-time-series-discovery-on-apple-silicon) | AI Policy and Ethical Considerations |
-| 2026-10-26 | [Anthropic ARR likely vertical in October, $100b+ target](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-262.md#-anthropic-arr-likely-vertical-in-october-100b-target) | Founders and Entrepreneurs |
-| 2026-10-26 | [Anthropic S-1 reveals $2.08 revenue per $1 compute, payback &lt;1y](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-238.md#-anthropic-s-1-reveals-208-revenue-per-1-compute-payback-1y) | Spatial Computing |
-| 2026-10-25 | [3one4 Capital early semiconductor IP investment](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-291.md#-3one4-capital-early-semiconductor-ip-investment) | VC Firms |
-| 2026-10-25 | [RTX 4090 Tensor FP16 performance unlock to 331.6 TFLOPS](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-270.md#-rtx-4090-tensor-fp16-performance-unlock-to-3316-tflops) | AI Artists and Creators |
-| 2026-10-25 | [GPU rental prices up 2–3x, resale model mentioned](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-269.md#-gpu-rental-prices-up-23x-resale-model-mentioned) | Tech Infrastructure |

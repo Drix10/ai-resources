@@ -1,13 +1,18 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 960 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 965 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-13 | [Gemini 4 Hydrogen performance demo, faster than Gemini 3.8 Flash](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-278.md#-gemini-4-hydrogen-performance-demo-faster-than-gemini-38-flash) | AI for Content Creation and Marketing |
+| 2026-11-13 | [Belief Protocol – belief files for AI platforms](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-267.md#-belief-protocol--belief-files-for-ai-platforms) | Decentralized AI |
+| 2026-11-12 | [Gemini 4 Hydrogen - Search gets faster, smarter, visual](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-316.md#-gemini-4-hydrogen---search-gets-faster-smarter-visual) | CS Academics |
 | 2026-11-12 | [Gemini 4 Carbon builds 95% of stack in 2 days](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-304.md#-gemini-4-carbon-builds-95-of-stack-in-2-days) | AI Leaders and Thinkers |
 | 2026-11-12 | [Gemini 4 Hydrogen pricing: $1.50 per 1M tokens](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-298.md#-gemini-4-hydrogen-pricing-150-per-1m-tokens) | AI Organizations and Media |
+| 2026-11-12 | [Gemini 4 Hydrogen launch with pricing and benchmark results](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-291.md#-gemini-4-hydrogen-launch-with-pricing-and-benchmark-results) | AI in Healthcare and Science |
+| 2026-11-12 | [Gemini Hydrogen – successor to Gemini Flash announced](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-269.md#-gemini-hydrogen--successor-to-gemini-flash-announced) | AI in Real Estate and Property Tech |
 | 2026-11-12 | [Google AI Overviews move source icons to bottom](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-243.md#-google-ai-overviews-move-source-icons-to-bottom) | Tech Companies and News |
 | 2026-11-11 | [Gemini Decision 1 pricing and capabilities announced](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-gemini-decision-1-pricing-and-capabilities-announced) | CS Academics |
 | 2026-11-11 | [Ploid — The Search Engine, Built for People launches digital footprint tool](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-307.md#-ploid--the-search-engine-built-for-people-launches-digital-footprint-tool) | Tech VIPs |
@@ -101,8 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-09-20 | [AI Model Comparison - Gemini 4 Pro vs GPT-6 Astra](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-243.md#-ai-model-comparison---gemini-4-pro-vs-gpt-6-astra) | AI in Enterprise Applications |
 | 2026-09-20 | [AI Development - AI Model Breakthroughs](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-242.md#-ai-development---ai-model-breakthroughs) | AI for Content Creation and Marketing |
 | 2026-09-19 | [AI/ML - Jev Performance](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-274.md#-aiml---jev-performance) | Devs, Designers, DevRel |
-| 2026-09-19 | [Model Efficiency and Visual Design](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-272.md#-model-efficiency-and-visual-design) | AI Developer Tools |
-| 2026-09-19 | [AI-Powered Music Generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-264.md#-ai-powered-music-generation) | AI Companies and Ventures |
-| 2026-09-19 | [Google's Gemini Breaks Out](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-262.md#-googles-gemini-breaks-out) | AI Organizations and Media |
-| 2026-09-19 | [AI Security - Gemini AI Access Exposure](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-261.md#-ai-security---gemini-ai-access-exposure) | AI Organizations and Media |
-| 2026-09-19 | [Google Gemini Hacking Incident](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-252.md#-google-gemini-hacking-incident) | AI Education |
