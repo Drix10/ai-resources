@@ -1,12 +1,14 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 325 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 327 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-14 | [Gemini 4 Argon tops Video-Index at 80.4% as agent](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-276.md#-gemini-4-argon-tops-video-index-at-804-as-agent) | Computer Vision and AI Applications |
 | 2026-11-13 | [ci-proto launches with 64× longer context window](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-299.md#-ci-proto-launches-with-64-longer-context-window) | AI Organizations and Media |
+| 2026-11-13 | [Nemotron 3 Ultra announced with 550 billion parameters](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-273.md#-nemotron-3-ultra-announced-with-550-billion-parameters) | Founders and Entrepreneurs |
 | 2026-11-12 | [ERNIE 5.5 Flash Preview scores 1668, #2 WebDev](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-315.md#-ernie-55-flash-preview-scores-1668-2-webdev) | CS Academics |
 | 2026-11-12 | [MiniMax H3-Image tops ranking, adds NVIDIA support to vLLM-Omni](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-minimax-h3-image-tops-ranking-adds-nvidia-support-to-vllm-omni) | AI Developer Tools |
 | 2026-11-12 | [ACE Music v1 ranks #1 on AA-Music-Vocal v1.1](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-288.md#-ace-music-v1-ranks-1-on-aa-music-vocal-v11) | AI Generated Music and Audio |
@@ -104,5 +106,3 @@ Models whose weights anyone can download. The 100 newest of 325 briefings that m
 | 2026-08-28 | [Model Performance - OpenRouter Ranking](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-244.md#-model-performance---openrouter-ranking) | AI Companies and Ventures |
 | 2026-08-28 | [Robotics - Perceptron AI Isaac 0.5](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-229.md#-robotics---perceptron-ai-isaac-05) | AI and Robotics Applications |
 | 2026-08-16 | [AI Models - Open Weight Landscape](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-196.md#-ai-models---open-weight-landscape) | Tech Companies and News |
-| 2026-07-09 | [Audio AI - Long-Form Multi-Speaker ASR](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-222.md#-audio-ai---long-form-multi-speaker-asr) | AI Developer Tools |
-| 2026-07-07 | [AI Governance - Frontier Model Security](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-208.md#-ai-governance---frontier-model-security) | AI Policy and Ethical Considerations |

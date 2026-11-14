@@ -1,11 +1,15 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 965 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 969 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-14 | [Gemini builds agents from language, pairs with Skills](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-283.md#-gemini-builds-agents-from-language-pairs-with-skills) | Tech Infrastructure |
+| 2026-11-14 | [Gemini 4 Argon tops Video-Index at 80.4% as agent](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-276.md#-gemini-4-argon-tops-video-index-at-804-as-agent) | Computer Vision and AI Applications |
+| 2026-11-14 | [Gemma 4 12B scrapped encoder, study advises keep vision params skip pretraining](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-276.md#-gemma-4-12b-scrapped-encoder-study-advises-keep-vision-params-skip-pretraining) | Computer Vision and AI Applications |
+| 2026-11-14 | [Google AI Studio adds cloud credit claim for Pro/Ultra](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-250.md#-google-ai-studio-adds-cloud-credit-claim-for-proultra) | Spatial Computing |
 | 2026-11-13 | [Gemini 4 Hydrogen performance demo, faster than Gemini 3.8 Flash](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-278.md#-gemini-4-hydrogen-performance-demo-faster-than-gemini-38-flash) | AI for Content Creation and Marketing |
 | 2026-11-13 | [Belief Protocol – belief files for AI platforms](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-267.md#-belief-protocol--belief-files-for-ai-platforms) | Decentralized AI |
 | 2026-11-12 | [Gemini 4 Hydrogen - Search gets faster, smarter, visual](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-316.md#-gemini-4-hydrogen---search-gets-faster-smarter-visual) | CS Academics |
@@ -102,7 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-09-23 | [Gemini 3.8 Flash and Flash-Lite TTS](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-242.md#-gemini-38-flash-and-flash-lite-tts) | The Exponential Future |
 | 2026-09-22 | [AI Model Performance - Model Latency Benchmark](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-268.md#-ai-model-performance---model-latency-benchmark) | AI Companies and Ventures |
 | 2026-09-22 | [Structured Receipt Extraction](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-253.md#-structured-receipt-extraction) | Tech Infrastructure |
-| 2026-09-21 | [Video Editing - MiniMax H3 Max](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-258.md#-video-editing---minimax-h3-max) | AI Holodeck and Virtual Worlds |
-| 2026-09-20 | [AI Model Comparison - Gemini 4 Pro vs GPT-6 Astra](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-243.md#-ai-model-comparison---gemini-4-pro-vs-gpt-6-astra) | AI in Enterprise Applications |
-| 2026-09-20 | [AI Development - AI Model Breakthroughs](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-242.md#-ai-development---ai-model-breakthroughs) | AI for Content Creation and Marketing |
-| 2026-09-19 | [AI/ML - Jev Performance](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-274.md#-aiml---jev-performance) | Devs, Designers, DevRel |

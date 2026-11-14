@@ -1,11 +1,13 @@
 # Cursor
 
-Cursor, the AI code editor. The 100 newest of 209 briefings that mention it, from every category, newest first.
+Cursor, the AI code editor. The 100 newest of 211 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-14 | [Cursor security incident update details released](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-cursor-security-incident-update-details-released) | AI Developer Tools |
+| 2026-11-14 | [Cursor security incident – breach of Fireworks and credential exposure](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-246.md#-cursor-security-incident--breach-of-fireworks-and-credential-exposure) | Cybersecurity and Tech |
 | 2026-11-12 | [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) | AI Developer Tools |
 | 2026-11-11 | [Ploid — The Search Engine, Built for People launches digital footprint tool](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-307.md#-ploid--the-search-engine-built-for-people-launches-digital-footprint-tool) | Tech VIPs |
 | 2026-11-10 | [Swarms API MCP endpoint adds 23 tools and dynamic pricing](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-276.md#-swarms-api-mcp-endpoint-adds-23-tools-and-dynamic-pricing) | AI for Content Creation and Marketing |
@@ -104,5 +106,3 @@ Cursor, the AI code editor. The 100 newest of 209 briefings that mention it, fro
 |  | [Cursor CLI - New Feature Development and Refinement](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-184.md#-cursor-cli---new-feature-development-and-refinement) | Devs, Designers, DevRel |
 |  | [Cursor AI - Fundraising and Valuation Trends](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-183.md#-cursor-ai---fundraising-and-valuation-trends) | AI Organizations and Media |
 |  | [Video Editing - Code-Driven Approach with Remotion and Cursor](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-177.md#-video-editing---code-driven-approach-with-remotion-and-cursor) | Founders and Entrepreneurs |
-|  | [Web Graphics Development - Three.js 3D Cursor Navigation Experiment](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-175.md#-web-graphics-development---threejs-3d-cursor-navigation-experiment) | AI Organizations and Media |
-|  | [Application Security - Exploiting Cursor at Pwn2Own](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-171.md#-application-security---exploiting-cursor-at-pwn2own) | Cybersecurity and Tech |

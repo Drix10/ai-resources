@@ -4,26 +4,26 @@ Briefings from every category, gathered by company and theme. Each page lists th
 
 | Topic | Briefings | Newest |
 | --- | ---: | --- |
-| [OpenAI](openai.md) | 2,277 | 2026-11-13 |
-| [Anthropic](anthropic.md) | 1,640 | 2026-11-13 |
-| [Google DeepMind](google-deepmind.md) | 965 | 2026-11-13 |
-| [Meta AI](meta-ai.md) | 639 | 2026-11-13 |
-| [xAI](xai.md) | 639 | 2026-11-13 |
+| [OpenAI](openai.md) | 2,283 | 2026-11-14 |
+| [Anthropic](anthropic.md) | 1,648 | 2026-11-14 |
+| [Google DeepMind](google-deepmind.md) | 969 | 2026-11-14 |
+| [Meta AI](meta-ai.md) | 640 | 2026-11-14 |
+| [xAI](xai.md) | 641 | 2026-11-14 |
 | [Mistral AI](mistral.md) | 56 | 2026-11-03 |
-| [NVIDIA](nvidia.md) | 816 | 2026-11-13 |
-| [Microsoft](microsoft.md) | 603 | 2026-11-13 |
-| [Apple](apple.md) | 676 | 2026-11-13 |
-| [Amazon & AWS](amazon.md) | 400 | 2026-11-13 |
-| [DeepSeek](deepseek.md) | 253 | 2026-11-13 |
-| [Qwen & Alibaba](qwen-alibaba.md) | 256 | 2026-11-13 |
-| [Hugging Face](hugging-face.md) | 222 | 2026-11-12 |
+| [NVIDIA](nvidia.md) | 821 | 2026-11-14 |
+| [Microsoft](microsoft.md) | 605 | 2026-11-14 |
+| [Apple](apple.md) | 677 | 2026-11-14 |
+| [Amazon & AWS](amazon.md) | 401 | 2026-11-14 |
+| [DeepSeek](deepseek.md) | 254 | 2026-11-14 |
+| [Qwen & Alibaba](qwen-alibaba.md) | 257 | 2026-11-14 |
+| [Hugging Face](hugging-face.md) | 224 | 2026-11-14 |
 | [Perplexity](perplexity.md) | 120 | 2026-11-09 |
-| [Cursor](cursor.md) | 209 | 2026-11-12 |
-| [AI agents](ai-agents.md) | 5,461 | 2026-11-13 |
-| [MCP](mcp.md) | 434 | 2026-11-12 |
-| [Open-weight models](open-weight-models.md) | 325 | 2026-11-13 |
+| [Cursor](cursor.md) | 211 | 2026-11-14 |
+| [AI agents](ai-agents.md) | 5,481 | 2026-11-14 |
+| [MCP](mcp.md) | 438 | 2026-11-14 |
+| [Open-weight models](open-weight-models.md) | 327 | 2026-11-14 |
 | [Funding & acquisitions](funding-and-acquisitions.md) | 1,225 | 2026-11-13 |
-| [Robotics](robotics.md) | 2,498 | 2026-11-13 |
+| [Robotics](robotics.md) | 2,504 | 2026-11-14 |
 | [AI policy](ai-policy.md) | 942 | 2026-11-13 |
-| [Chips & compute](chips-and-compute.md) | 1,098 | 2026-11-13 |
-| [Video generation](video-generation.md) | 820 | 2026-11-12 |
+| [Chips & compute](chips-and-compute.md) | 1,105 | 2026-11-14 |
+| [Video generation](video-generation.md) | 822 | 2026-11-14 |

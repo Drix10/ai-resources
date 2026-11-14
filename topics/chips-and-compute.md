@@ -1,14 +1,21 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,098 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,105 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-14 | [Modly desktop app creates 3D meshes locally](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-modly-desktop-app-creates-3d-meshes-locally) | AI Developer Tools |
+| 2026-11-14 | [LG Electronics signs chiller supply for >5 GW North American data centers](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-307.md#-lg-electronics-signs-chiller-supply-for-5-gw-north-american-data-centers) | VC Firms |
+| 2026-11-14 | [Jade 26x faster MSA than BLASTN GPU engine](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-292.md#-jade-26x-faster-msa-than-blastn-gpu-engine) | AI in Healthcare and Science |
+| 2026-11-14 | [Jade lightweight GPU-accelerated homology search engine open source soon](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-292.md#-jade-lightweight-gpu-accelerated-homology-search-engine-open-source-soon) | AI in Healthcare and Science |
+| 2026-11-14 | [Claude creates 4K Blender film, 12.5k lines, $20 GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-284.md#-claude-creates-4k-blender-film-125k-lines-20-gpu) | AI Education |
+| 2026-11-14 | [Pixio Montage launch – videos up to 6 min, films 30 s-7 min](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-284.md#-pixio-montage-launch--videos-up-to-6-min-films-30-s-7-min) | AI Education |
 | 2026-11-13 | [Tier IV at Edge Chiplet Forum open-source AI chip](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-282.md#-tier-iv-at-edge-chiplet-forum-open-source-ai-chip) | AI Driven Vehicles and Transportation |
 | 2026-11-13 | [DeepSeek V4 Flash GPU thread count inference shows B200 usage](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-281.md#-deepseek-v4-flash-gpu-thread-count-inference-shows-b200-usage) | AI Professionals and Community |
 | 2026-11-13 | [PearlQuant cuts KV cache storage 65% and boosts throughput](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-278.md#-pearlquant-cuts-kv-cache-storage-65-and-boosts-throughput) | AI Consulting and Expertise |
+| 2026-11-13 | [Shadertoy Real-Time Audio added – GPU audio generation now live](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-273.md#-shadertoy-real-time-audio-added--gpu-audio-generation-now-live) | AR VR Professionals and Community |
 | 2026-11-13 | [Nvidia keeps 260,000-GPU pledge after Huang resignation](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-268.md#-nvidia-keeps-260000-gpu-pledge-after-huang-resignation) | The Exponential Future |
 | 2026-11-13 | [Aethir decentralized GPU cloud eliminates egress fees for checkpoint transfers](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-266.md#-aethir-decentralized-gpu-cloud-eliminates-egress-fees-for-checkpoint-transfers) | Crypto and Web3 |
 | 2026-11-13 | [Nvidia – interim CEO Colette Kress leads delivery of Blackwell, Rubin GPUs and Vera CPUs](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-244.md#-nvidia--interim-ceo-colette-kress-leads-delivery-of-blackwell-rubin-gpus-and-vera-cpus) | Tech Companies and News |
@@ -99,10 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,098 briefings tha
 | 2026-10-29 | [Sandisk data center NAND bit demand to 55% by 2027](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-257.md#-sandisk-data-center-nand-bit-demand-to-55-by-2027) | The Exponential Future |
 | 2026-10-29 | [NVIDIA NVDA talks to back billions of debt for NSCALE](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-nvidia-nvda-talks-to-back-billions-of-debt-for-nscale) | Interesting Finds |
 | 2026-10-29 | [Mac Studio 512GB RAM vs 1990s SGI $100k seat](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-mac-studio-512gb-ram-vs-1990s-sgi-100k-seat) | Spatial Computing |
-| 2026-10-29 | [VirajAero turbine powers data centers, 40% more power](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-236.md#-virajaero-turbine-powers-data-centers-40-more-power) | Tech Journalists and VIPs |
-| 2026-10-27 | [Zephyr project released, enables GPU on bare metal](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-278.md#-zephyr-project-released-enables-gpu-on-bare-metal) | AI Driven Vehicles and Transportation |
-| 2026-10-26 | [Qwen3 – VRAM needs allow 8B model on 10GB GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-286.md#-qwen3--vram-needs-allow-8b-model-on-10gb-gpu) | AI Organizations and Media |
-| 2026-10-26 | [Anthropic IPO filing, $16.3B H1 2026 revenue, Claude voter data incident](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-anthropic-ipo-filing-163b-h1-2026-revenue-claude-voter-data-incident) | AI Artists and Creators |
-| 2026-10-26 | [NVIDIA Vera Rubin GPUs financing $40 billion by SpaceX](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-nvidia-vera-rubin-gpus-financing-40-billion-by-spacex) | AI Artists and Creators |
-| 2026-10-26 | [SpaceX $40B GPU financing lease announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-270.md#-spacex-40b-gpu-financing-lease-announced) | Tech Infrastructure |
-| 2026-10-26 | [BedrockRobotics $600M Series C funding for autonomous excavators](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-269.md#-bedrockrobotics-600m-series-c-funding-for-autonomous-excavators) | AI Driven Vehicles and Transportation |
