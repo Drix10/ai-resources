@@ -1,11 +1,13 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 603 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 605 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-14 | [OpenBot by CopilotKit new release announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-openbot-by-copilotkit-new-release-announced) | AI Developer Tools |
+| 2026-11-14 | [Microsoft Outlook and 365 apps outage into Friday](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-309.md#-microsoft-outlook-and-365-apps-outage-into-friday) | Tech VIPs |
 | 2026-11-13 | [AvePoint expands Microsoft deal to govern AI agents](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-282.md#-avepoint-expands-microsoft-deal-to-govern-ai-agents) | Tech Infrastructure |
 | 2026-11-13 | [Microsoft Agent 365 audit and tax rollout on 12 Nov](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-282.md#-microsoft-agent-365-audit-and-tax-rollout-on-12-nov) | Tech Infrastructure |
 | 2026-11-13 | [Microsoft outage reaches Westminster MPs and GP practices in Grampian](https://github.com/Drix10/ai-resources/blob/main/Climate%20and%20Weather%20Technology/resources-270.md#-microsoft-outage-reaches-westminster-mps-and-gp-practices-in-grampian) | Climate and Weather Technology |
@@ -104,5 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 603 briefings
 | 2026-09-24 | [Security - Ransomware and Ethics](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-223.md#-security---ransomware-and-ethics) | Cybersecurity and Tech |
 | 2026-09-22 | [Learning - Coursera Plus](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-289.md#-learning---coursera-plus) | CS Academics |
 | 2026-09-22 | [Tech News - AI Safety and Regulation](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-248.md#-tech-news---ai-safety-and-regulation) | Founders and Entrepreneurs |
-| 2026-09-21 | [Tech News - AI in GitHub](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-287.md#-tech-news---ai-in-github) | CS Academics |
-| 2026-09-21 | [Move from Crash Report to Fix with Sentry Canvas in GitHub Copilot](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-278.md#-move-from-crash-report-to-fix-with-sentry-canvas-in-github-copilot) | Devs, Designers, DevRel |

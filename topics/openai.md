@@ -1,12 +1,18 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,277 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,283 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-14 | [HLTH event – Physician-Builder Challenge finals demo on HLTH stage](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-292.md#-hlth-event--physician-builder-challenge-finals-demo-on-hlth-stage) | AI in Healthcare and Science |
+| 2026-11-14 | [OpenAI robotics team disbanded after five months](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-287.md#-openai-robotics-team-disbanded-after-five-months) | AI and Robotics Applications |
+| 2026-11-14 | [HighLevel MCP plugin 600+ ops in 38 CRM domains](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-279.md#-highlevel-mcp-plugin-600-ops-in-38-crm-domains) | AI for Content Creation and Marketing |
+| 2026-11-14 | [Gemini 4 Argon tops Video-Index at 80.4% as agent](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-276.md#-gemini-4-argon-tops-video-index-at-804-as-agent) | Computer Vision and AI Applications |
+| 2026-11-14 | [AI hits young tech workers, 20% drop ages 22-25](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-268.md#-ai-hits-young-tech-workers-20-drop-ages-22-25) | Decentralized AI |
 | 2026-11-13 | [TokenTrust helps AI developers showcase verified usage](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-315.md#-tokentrust-helps-ai-developers-showcase-verified-usage) | AI Developer Tools |
+| 2026-11-13 | [OpenAI Wallet pass-through design and agentic commerce launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-306.md#-openai-wallet-pass-through-design-and-agentic-commerce-launch) | AI Leaders and Thinkers |
 | 2026-11-13 | [McClipFace – AI shopping assistant launch integrates with major AI platforms](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-303.md#-mcclipface--ai-shopping-assistant-launch-integrates-with-major-ai-platforms) | AI Companies and Ventures |
 | 2026-11-13 | [Simple Memory Evolution boosts GPT-6-Astra SR to 81.7%](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-286.md#-simple-memory-evolution-boosts-gpt-6-astra-sr-to-817) | AI and Robotics Applications |
 | 2026-11-13 | [Belief Protocol – belief files for AI platforms](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-267.md#-belief-protocol--belief-files-for-ai-platforms) | Decentralized AI |
@@ -100,9 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,277 briefings t
 | 2026-10-29 | [ChatGPT Pro gives $100-$500 API credits monthly](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-292.md#-chatgpt-pro-gives-100-500-api-credits-monthly) | AI Leaders and Thinkers |
 | 2026-10-29 | [Kino – end-to-end video creation with Claude Code and Codex](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-290.md#-kino--end-to-end-video-creation-with-claude-code-and-codex) | AI Companies and Ventures |
 | 2026-10-29 | [Guardian integrates with ChatGPT and Claude – live demo at 17:00 CET](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-274.md#-guardian-integrates-with-chatgpt-and-claude--live-demo-at-1700-cet) | AI Education |
-| 2026-10-29 | [OpenAI eyes on everything system monitors every rollout](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-271.md#-openai-eyes-on-everything-system-monitors-every-rollout) | AI Professionals and Community |
-| 2026-10-29 | [Perplexity vs ChatGPT: Pick by How They Fail](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-267.md#-perplexity-vs-chatgpt-pick-by-how-they-fail) | AI for Content Creation and Marketing |
-| 2026-10-29 | [OpenAI expands monitoring, catches frontier model breach](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-266.md#-openai-expands-monitoring-catches-frontier-model-breach) | AI for Content Creation and Marketing |
-| 2026-10-29 | [Kino launches video tool with Claude Code and Codex](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-266.md#-kino-launches-video-tool-with-claude-code-and-codex) | AI for Content Creation and Marketing |
-| 2026-10-29 | [Verified Call tool catches deepfakes in live interviews](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-266.md#-verified-call-tool-catches-deepfakes-in-live-interviews) | AI for Content Creation and Marketing |
-| 2026-10-29 | [Into the Omniverse: Developers use AI agents with Omniverse](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-265.md#-into-the-omniverse-developers-use-ai-agents-with-omniverse) | AR VR Companies and Development |

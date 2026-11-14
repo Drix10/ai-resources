@@ -1,16 +1,22 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,498 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,504 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-14 | [LG Electronics signs chiller supply for >5 GW North American data centers](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-307.md#-lg-electronics-signs-chiller-supply-for-5-gw-north-american-data-centers) | VC Firms |
+| 2026-11-14 | [Eden learning framework announced, 4× faster coding](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-287.md#-eden-learning-framework-announced-4-faster-coding) | AI and Robotics Applications |
+| 2026-11-14 | [FLoRe robot-free imitation pipeline achieves 80% success on force tasks](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-287.md#-flore-robot-free-imitation-pipeline-achieves-80-success-on-force-tasks) | AI and Robotics Applications |
+| 2026-11-14 | [OpenAI robotics team disbanded after five months](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-287.md#-openai-robotics-team-disbanded-after-five-months) | AI and Robotics Applications |
+| 2026-11-14 | [Eden learning framework announced, built on Genesis](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-287.md#-eden-learning-framework-announced-built-on-genesis) | AI and Robotics Applications |
 | 2026-11-13 | [CoMind-Be My Eye robots team up on housework with vision gains](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-303.md#-comind-be-my-eye-robots-team-up-on-housework-with-vision-gains) | AI Companies and Ventures |
 | 2026-11-13 | [EmbodiedSWE Best Paper Award at CoRL 2026 Workshop](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-286.md#-embodiedswe-best-paper-award-at-corl-2026-workshop) | AI and Robotics Applications |
 | 2026-11-13 | [CodeAI HourofAI activities launch Nov 16](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-283.md#-codeai-hourofai-activities-launch-nov-16) | AI Education |
 | 2026-11-13 | [atlas-humanoid humanoid with no System 1 shown at CoRL 2026](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-275.md#-atlas-humanoid-humanoid-with-no-system-1-shown-at-corl-2026) | Computer Vision and AI Applications |
 | 2026-11-13 | [Bureau des agents – pixel art office for Claude Code agents](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-269.md#-bureau-des-agents--pixel-art-office-for-claude-code-agents) | AI in Real Estate and Property Tech |
+| 2026-11-13 | [Melty Gym launch – train robots in any game at massive scale](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-263.md#-melty-gym-launch--train-robots-in-any-game-at-massive-scale) | Investors and Venture Capital |
 | 2026-11-12 | [Gazebo Sim – open source robotics simulator announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-302.md#-gazebo-sim--open-source-robotics-simulator-announced) | AI Companies and Ventures |
 | 2026-11-12 | [Agile Robots raises $500M at $8.5B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-agile-robots-raises-500m-at-85b-valuation) | AI and Robotics Applications |
 | 2026-11-12 | [Agile Robots Series F $500M raise at $8.5B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-agile-robots-series-f-500m-raise-at-85b-valuation) | AI and Robotics Applications |
@@ -100,9 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,498 briefings that men
 | 2026-10-29 | [Laika by Lucen Robotics kit launch, $6k for four forms](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-257.md#-laika-by-lucen-robotics-kit-launch-6k-for-four-forms) | The Exponential Future |
 | 2026-10-29 | [Promise Robotics Factory-as-a-Service deal with D.R. Horton for 1,250 homes](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-241.md#-promise-robotics-factory-as-a-service-deal-with-dr-horton-for-1250-homes) | PR and Communications |
 | 2026-10-29 | [Humanoid cleaners – subscription up to 3 hrs per clean](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-234.md#-humanoid-cleaners--subscription-up-to-3-hrs-per-clean) | Tech Companies and News |
-| 2026-10-29 | [HALO ICML 2026 Spotlight – humanoid stays coordinated](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-234.md#-halo-icml-2026-spotlight--humanoid-stays-coordinated) | Tech Companies and News |
-| 2026-10-28 | [Robots built curved-wall house in Almere with 100% brick placement](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-234.md#-robots-built-curved-wall-house-in-almere-with-100-brick-placement) | Tech Companies and News |
-| 2026-10-26 | [Dream-1 zero-shot deployed by Eastworlds with public API](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-300.md#-dream-1-zero-shot-deployed-by-eastworlds-with-public-api) | AI Developer Tools |
-| 2026-10-26 | [Pollen Robotics gets 15k Microduck orders, 750k actuators](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-294.md#-pollen-robotics-gets-15k-microduck-orders-750k-actuators) | Tech VIPs |
-| 2026-10-26 | [Bedrock Robotics Series C $600M funding announced](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-292.md#-bedrock-robotics-series-c-600m-funding-announced) | VC Firms |
-| 2026-10-26 | [Call for Help: Teaching Robots to Request Assistance – robots learn to request assistance](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-289.md#-call-for-help-teaching-robots-to-request-assistance--robots-learn-to-request-assistance) | AI Companies and Ventures |

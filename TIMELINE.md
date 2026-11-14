@@ -4,7 +4,13 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 
 ## November 2026
 
+- **Nov 14** · [Cursor security incident update details released](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-cursor-security-incident-update-details-released) <sub>AI Developer Tools</sub>
+- **Nov 14** · [Tessera – 25 free themes for Claude Code released](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-306.md#-tessera--25-free-themes-for-claude-code-released) <sub>AI Leaders and Thinkers</sub>
+- **Nov 14** · [Neon Coast 98.6 Anthem released 25-second jingle](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-289.md#-neon-coast-986-anthem-released-25-second-jingle) <sub>AI Generated Music and Audio</sub>
+- **Nov 14** · [IBrowse 3.1 free update released, requires AmiSSL 6.1](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-273.md#-ibrowse-31-free-update-released-requires-amissl-61) <sub>AR VR Professionals and Community</sub>
+- **Nov 14** · [Grok Bot launch in seven weeks – core team details](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-248.md#-grok-bot-launch-in-seven-weeks--core-team-details) <sub>Tech Journalists and VIPs</sub>
 - **Nov 13** · [zml/llmd 20261112.0 release adds DSpine and faster DeepSeek prefill](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-315.md#-zmlllmd-202611120-release-adds-dspine-and-faster-deepseek-prefill) <sub>AI Developer Tools</sub>
+- **Nov 13** · [OpenAI Wallet pass-through design and agentic commerce launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-306.md#-openai-wallet-pass-through-design-and-agentic-commerce-launch) <sub>AI Leaders and Thinkers</sub>
 - **Nov 13** · [MAI Image 2.6 pricing and Flash launch on Pixazo AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-288.md#-mai-image-26-pricing-and-flash-launch-on-pixazo-ai) <sub>AI Holodeck and Virtual Worlds</sub>
 - **Nov 13** · [Qwen Image 3.0 launches on Pixazo with pricing tiers](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-288.md#-qwen-image-30-launches-on-pixazo-with-pricing-tiers) <sub>AI Holodeck and Virtual Worlds</sub>
 - **Nov 13** · [A2UI 1.0 – launch of delightful agentic UI framework](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-282.md#-a2ui-10--launch-of-delightful-agentic-ui-framework) <sub>Tech Infrastructure</sub>
@@ -22,6 +28,7 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 - **Nov 10** · [NVIDIA Auto Ontology launches ontology layer for agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-nvidia-auto-ontology-launches-ontology-layer-for-agents) <sub>AI Organizations and Media</sub>
 - **Nov 10** · [GPT Images 2.6 launch on Morphic – new features added](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-286.md#-gpt-images-26-launch-on-morphic--new-features-added) <sub>AI Holodeck and Virtual Worlds</sub>
 - **Nov 10** · [Fable 5.2 launches video editing with single prompt](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-276.md#-fable-52-launches-video-editing-with-single-prompt) <sub>AI for Content Creation and Marketing</sub>
+- **Nov 10** · [Solv3R released on HuggingFace Space with interactive demo](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-275.md#-solv3r-released-on-huggingface-space-with-interactive-demo) <sub>AR VR Companies and Development</sub>
 - **Nov 10** · [Timon agent team workstation source released AGPL-3.0](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-271.md#-timon-agent-team-workstation-source-released-agpl-30) <sub>AI in Enterprise Applications</sub>
 - **Nov 10** · [Godot 4 Open RPG demo released for Godot 4.7.2+](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-267.md#-godot-4-open-rpg-demo-released-for-godot-472) <sub>AI in Real Estate and Property Tech</sub>
 - **Nov 9** · [Omarchy 4.6 launch with Flash Next on AMD 495](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-305.md#-omarchy-46-launch-with-flash-next-on-amd-495) <sub>Tech VIPs</sub>
@@ -245,19 +252,3 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 - **Jun 30** · [AI Development - GPT-5 Release and Elon Musk's Allegations](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-079.md#-ai-development---gpt-5-release-and-elon-musks-allegations) <sub>AI Organizations and Media</sub>
 - **Jun 12** · [Blockchain Technology - OriginTrail DKG v8.1.0 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-078.md#-blockchain-technology---origintrail-dkg-v810-release) <sub>AI Education</sub>
 - **Jun 4** · [AFFiNE - Version 0.22 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-068.md#-affine---version-022-release) <sub>AI for Content Creation and Marketing</sub>
-
-## May 2025
-
-- **May 21** · [Open-Source LLMs - Devstral for Software Engineering](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-060.md#-open-source-llms---devstral-for-software-engineering) <sub>AI Professionals and Community</sub>
-- **May 16** · [AgentOps 0.4.12 Release Notes](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-055.md#-agentops-0412-release-notes) <sub>Computer Vision and AI Applications</sub>
-- **May 12** · [AI - Qwen3 Quantized Models Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-052.md#-ai---qwen3-quantized-models-release) <sub>AI Organizations and Media</sub>
-
-## April 2025
-
-- **Apr 7** · [Large Language Models - Llama 4 Release Issues](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-043.md#--large-language-models---llama-4-release-issues) <sub>AI Driven Vehicles and Transportation</sub>
-
-## March 2025
-
-- **Mar 29** · [Book Release - Microsoft Intune](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-037.md#-book-release---microsoft-intune) <sub>Tech Infrastructure</sub>
-- **Mar 16** · [AI - Baidu's ERNIE 4.5 & X1 Unveiled](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-029.md#-ai---baidus-ernie-45--x1-unveiled) <sub>AI Organizations and Media</sub>
-- **Mar 11** · [Digital Art - The Rabbit Hole 3.0 NFT Release](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-024.md#-digital-art---the-rabbit-hole-30-nft-release) <sub>PR and Communications</sub>

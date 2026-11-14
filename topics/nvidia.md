@@ -1,14 +1,19 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 816 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 821 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-14 | [AMD MI455X benchmark shows competition with Nvidia](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-amd-mi455x-benchmark-shows-competition-with-nvidia) | AI Developer Tools |
+| 2026-11-14 | [Nvidia petition to reinstate Jensen Huang hits 100k signatures](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-307.md#-nvidia-petition-to-reinstate-jensen-huang-hits-100k-signatures) | VC Firms |
+| 2026-11-14 | [Simulating Vein Compressibility for Ultrasound-Guided Femoral Access](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-300.md#-simulating-vein-compressibility-for-ultrasound-guided-femoral-access) | AI Organizations and Media |
+| 2026-11-14 | [NVIDIA Earnings Per Share – prediction market details](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-268.md#-nvidia-earnings-per-share--prediction-market-details) | Decentralized AI |
 | 2026-11-13 | [Anthropic IPO outlook – open source weakening and compute diversity claim](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-308.md#-anthropic-ipo-outlook--open-source-weakening-and-compute-diversity-claim) | Tech VIPs |
 | 2026-11-13 | [Nvidia CEO Jensen Huang out after 33 years, CFO Colette Kress interim CEO](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-306.md#-nvidia-ceo-jensen-huang-out-after-33-years-cfo-colette-kress-interim-ceo) | VC Firms |
 | 2026-11-13 | [Déjà View 117M model matches larger models on five benchmarks](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-275.md#-déjà-view-117m-model-matches-larger-models-on-five-benchmarks) | Computer Vision and AI Applications |
+| 2026-11-13 | [Nemotron 3 Ultra announced with 550 billion parameters](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-273.md#-nemotron-3-ultra-announced-with-550-billion-parameters) | Founders and Entrepreneurs |
 | 2026-11-13 | [Nvidia keeps 260,000-GPU pledge after Huang resignation](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-268.md#-nvidia-keeps-260000-gpu-pledge-after-huang-resignation) | The Exponential Future |
 | 2026-11-13 | [Nvidia falls ~20% in four days, agents profit shorting](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-267.md#-nvidia-falls-20-in-four-days-agents-profit-shorting) | Decentralized AI |
 | 2026-11-13 | [Nvidia CEO Jensen Huang resigns, Kress interim CEO](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-244.md#-nvidia-ceo-jensen-huang-resigns-kress-interim-ceo) | Tech Companies and News |
@@ -101,8 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 816 briefin
 | 2026-10-16 | [Nemotron 3.5 Super VL E2EE inference 500+ tokens/sec on one GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-296.md#-nemotron-35-super-vl-e2ee-inference-500-tokenssec-on-one-gpu) | AI Developer Tools |
 | 2026-10-16 | [Nemotron 3.5 Super VL 120B parameters launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-283.md#-nemotron-35-super-vl-120b-parameters-launch) | AI Organizations and Media |
 | 2026-10-16 | [Nvidia and ChipAgents launch evaluation for AI chip design](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-261.md#-nvidia-and-chipagents-launch-evaluation-for-ai-chip-design) | Founders and Entrepreneurs |
-| 2026-10-16 | [NVIDIA Vera Rubin NVL72 throughput per megawatt up to 5.7x](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-258.md#-nvidia-vera-rubin-nvl72-throughput-per-megawatt-up-to-57x) | AI in Enterprise Applications |
-| 2026-10-16 | [OpenClaw setup on NVIDIA RTX Spark laptops, guided install](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-252.md#-openclaw-setup-on-nvidia-rtx-spark-laptops-guided-install) | Decentralized AI |
-| 2026-10-16 | [Surface Laptop Ultra – new flagship with Nvidia RTX Spark N1X superchip](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-237.md#-surface-laptop-ultra--new-flagship-with-nvidia-rtx-spark-n1x-superchip) | PR and Communications |
-| 2026-10-15 | [Primo humanoid robot 30 DOF; Sprite 31-joint design](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-252.md#-primo-humanoid-robot-30-dof-sprite-31-joint-design) | Crypto and Web3 |
-| 2026-10-14 | [DuoDiscover benchmarks show up to 2.68× TPU kernel speedup](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-266.md#-duodiscover-benchmarks-show-up-to-268-tpu-kernel-speedup) | AI Professionals and Community |

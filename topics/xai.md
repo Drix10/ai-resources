@@ -1,11 +1,13 @@
 # xAI
 
-xAI and Grok. The 100 newest of 639 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 641 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-14 | [Grok adds image and video creation to unified experience](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-289.md#-grok-adds-image-and-video-creation-to-unified-experience) | AI Holodeck and Virtual Worlds |
+| 2026-11-14 | [Grok Bot launch in seven weeks – core team details](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-248.md#-grok-bot-launch-in-seven-weeks--core-team-details) | Tech Journalists and VIPs |
 | 2026-11-13 | [McClipFace – AI shopping assistant launch integrates with major AI platforms](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-303.md#-mcclipface--ai-shopping-assistant-launch-integrates-with-major-ai-platforms) | AI Companies and Ventures |
 | 2026-11-13 | [Belief Protocol – belief files for AI platforms](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-267.md#-belief-protocol--belief-files-for-ai-platforms) | Decentralized AI |
 | 2026-11-12 | [Grok Bot 1.0 launch – AI teammates for Slack and Teams](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-307.md#-grok-bot-10-launch--ai-teammates-for-slack-and-teams) | Tech VIPs |
@@ -104,5 +106,3 @@ xAI and Grok. The 100 newest of 639 briefings that mention it, from every catego
 | 2026-08-31 | [Technical - Grok Bot Token Usage](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-227.md#-technical---grok-bot-token-usage) | AI Driven Vehicles and Transportation |
 | 2026-08-30 | [AI Tools - Grok Bot Upgrade](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-200.md#-ai-tools---grok-bot-upgrade) | Tech Companies and News |
 | 2026-08-29 | [AI Tools - Grok Bot Giveaway](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-200.md#-ai-tools---grok-bot-giveaway) | Tech Companies and News |
-| 2026-08-28 | [AI Domain Sales](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-230.md#-ai-domain-sales) | AI in Real Estate and Property Tech |
-| 2026-08-28 | [Grok Bot](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-230.md#-grok-bot) | AI in Real Estate and Property Tech |

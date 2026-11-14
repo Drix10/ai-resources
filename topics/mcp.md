@@ -1,11 +1,15 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 434 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 438 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-14 | [SaaS become MCP server for HR tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-306.md#-saas-become-mcp-server-for-hr-tools) | AI Leaders and Thinkers |
+| 2026-11-14 | [Crypto.com offers exchange, app, wallet and AI tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-300.md#-cryptocom-offers-exchange-app-wallet-and-ai-tools) | AI Organizations and Media |
+| 2026-11-14 | [HighLevel MCP plugin 600+ ops in 38 CRM domains](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-279.md#-highlevel-mcp-plugin-600-ops-in-38-crm-domains) | AI for Content Creation and Marketing |
+| 2026-11-14 | [synology-nas-cli launches zero-dependency Python CLI for DSM 7](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-246.md#-synology-nas-cli-launches-zero-dependency-python-cli-for-dsm-7) | Cybersecurity and Tech |
 | 2026-11-12 | [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) | AI Developer Tools |
 | 2026-11-12 | [Claude Certified Architect – prep course announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-298.md#-claude-certified-architect--prep-course-announced) | AI Organizations and Media |
 | 2026-11-12 | [Appwrite Activity reasons – shows why each change was made](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-281.md#-appwrite-activity-reasons--shows-why-each-change-was-made) | Tech Infrastructure |
@@ -102,7 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-13 | [DeepSeek Harness](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-267.md#-deepseek-harness) | Devs, Designers, DevRel |
 | 2026-09-11 | [Game Development - FLORA's MCP and Astra](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-234.md#-game-development---floras-mcp-and-astra) | AI in Enterprise Applications |
 | 2026-09-10 | [MCP Server: Rechat's Latest Innovation](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-238.md#-mcp-server-rechats-latest-innovation) | AI in Real Estate and Property Tech |
-| 2026-09-10 | [Google Cloud Starter Pack](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-238.md#-google-cloud-starter-pack) | Tech Infrastructure |
-| 2026-09-07 | [MCP - Real-Time Results](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-262.md#-mcp---real-time-results) | Devs, Designers, DevRel |
-| 2026-09-07 | [Crowdreply - AI Search Optimization](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-231.md#-crowdreply---ai-search-optimization) | AI for Content Creation and Marketing |
-| 2026-09-07 | [MCP and Blender](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-206.md#-mcp-and-blender) | Spatial Computing |
