@@ -4,9 +4,30 @@ import { z } from 'zod';
 export const VERSION = '1.1.0';
 export const DATA_LINE = 'Data: github.com/Drix10/ai-resources (CC BY 4.0)';
 export const DEFAULT_BASE = 'https://blogs.drix10.com';
+const REPO = 'Drix10/ai-resources';
+const BLOB_BASE = `https://github.com/${REPO}/blob/main/`;
+const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/main/`;
+// "<Category>/resources-<N>.md": one folder (not starting with a dot), no ".." and no other path.
+const DIGEST = /^([^./\\][^/\\]*)\/resources-\d+\.md$/;
 
 const text = (s) => ({ content: [{ type: 'text', text: s }] });
 const fail = (s) => ({ ...text(`${s}\n${DATA_LINE}`), isError: true });
+
+// Repo path of a digest given as a GitHub blob/raw link or a bare path; null for anything else.
+export function digestPath(id) {
+  let p = id.trim();
+  if (/^https?:\/\//i.test(p)) {
+    const m = p.match(/^https:\/\/(?:github\.com\/Drix10\/ai-resources\/blob\/main|raw\.githubusercontent\.com\/Drix10\/ai-resources\/main)\/(.+)$/);
+    if (!m) return null;
+    p = m[1].replace(/[?#].*$/, '');
+  }
+  try {
+    p = decodeURIComponent(p);
+  } catch {
+    return null;
+  }
+  return DIGEST.test(p) ? p : null;
+}
 
 function formatItem(a, i) {
   const lines = [`${i + 1}. ${a.title} (${a.date}, ${a.category})`, `   ${a.description}`, `   ${a.url}`];
@@ -44,6 +65,16 @@ export function createServer({ base = process.env.AI_RESOURCES_API_URL || DEFAUL
     }
   };
 
+  // A digest file straight from the repository (raw Markdown); only digestPath() paths reach here.
+  async function digest(path) {
+    const encoded = path.split('/').map(encodeURIComponent).join('/');
+    const link = BLOB_BASE + encoded;
+    const res = await fetchImpl(RAW_BASE + encoded, { headers: { 'User-Agent': `ai-resources-mcp/${VERSION}` } });
+    if (res.status === 404) return fail(`No digest found at ${link}.`);
+    if (!res.ok) throw new Error(`HTTP ${res.status} from ${link}`);
+    return text(`${await res.text()}\n\nSource: ${link}\n${DATA_LINE}`);
+  }
+
   const server = new McpServer({ name: 'ai-resources', version: VERSION });
   const category = z.string().max(80).optional().describe('Category slug or name, e.g. "ai-developer-tools" (see list_categories)');
   const limit = z.number().int().min(1).max(100).optional().describe('How many briefings (1-100, default 10)');
@@ -80,10 +111,12 @@ export function createServer({ base = process.env.AI_RESOURCES_API_URL || DEFAUL
     'get_briefing',
     {
       title: 'Read one briefing',
-      description: 'Full Markdown of one briefing, with every item, key points and source links. Pass its URL or slug from search_briefings/latest.',
-      inputSchema: { id: z.string().min(1).max(300).describe('Briefing URL (https://blogs.drix10.com/articles/...) or slug ("category/article-slug")') },
+      description: 'Full Markdown of one briefing, with every item, key points and source links. Pass its URL or slug from search_briefings/latest. Also accepts a GitHub link to a digest file (https://github.com/Drix10/ai-resources/blob/main/<Category>/resources-<N>.md, the raw.githubusercontent.com form, or the bare <Category>/resources-<N>.md path); other GitHub or web URLs are not fetched.',
+      inputSchema: { id: z.string().min(1).max(300).describe('Briefing URL (https://blogs.drix10.com/articles/...), slug ("category/article-slug"), or digest file (GitHub blob/raw link or "<Category>/resources-<N>.md")') },
     },
     guard(async ({ id }) => {
+      const path = digestPath(id);
+      if (path) return digest(path);
       const a = (await api('api/articles', { slug: id })).items?.[0];
       if (!a) return fail(`No briefing found for "${id}".`);
       return text(`# ${a.title}\n${a.date} | ${a.category}\n\n${a.content || a.description}\n\nSource: ${a.url}\n${DATA_LINE}`);
