@@ -1,11 +1,14 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,225 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,228 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [Bharat Semi raises $24M seed round led by Redstart](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-308.md#-bharat-semi-raises-24m-seed-round-led-by-redstart) | VC Firms |
+| 2026-11-16 | [Global semiconductor company raises $24M Seed round](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-308.md#-global-semiconductor-company-raises-24m-seed-round) | VC Firms |
+| 2026-11-16 | [Acquire - launch your business sale listing on platform](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-274.md#-acquire---launch-your-business-sale-listing-on-platform) | Founders and Entrepreneurs |
 | 2026-11-13 | [TEKEVER expands into Denmark with Odense base](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-299.md#-tekever-expands-into-denmark-with-odense-base) | AI Organizations and Media |
 | 2026-11-13 | [Dropbox acquires Tigris for $350M to launch DBX Agent Cloud](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-282.md#-dropbox-acquires-tigris-for-350m-to-launch-dbx-agent-cloud) | Tech Infrastructure |
 | 2026-11-13 | [Tesla 4.0 ratio claim for SPCX acquisition deal](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-282.md#-tesla-40-ratio-claim-for-spcx-acquisition-deal) | Tech Infrastructure |
@@ -103,6 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,225 briefings that mention it, fro
 | 2026-10-26 | [Company announces $600M Series C funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-269.md#-company-announces-600m-series-c-funding) | AI Driven Vehicles and Transportation |
 | 2026-10-26 | [Paradev launch and $11.5M seed round by USV and Y Combinator](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-256.md#-paradev-launch-and-115m-seed-round-by-usv-and-y-combinator) | The Exponential Future |
 | 2026-10-26 | [This startup's self-driving excavators help dig up $600M in new funding](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-240.md#-this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding) | PR and Communications |
-| 2026-10-26 | [Anthropic raises $141.1B, burns $9.4B, free cashflow $575M/mo](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-235.md#-anthropic-raises-1411b-burns-94b-free-cashflow-575mmo) | Tech Journalists and VIPs |
-| 2026-10-26 | [Colare raises $2.5M pre-seed for simulation hiring](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-233.md#-colare-raises-25m-pre-seed-for-simulation-hiring) | Tech Companies and News |
-| 2026-10-19 | [Spout raises $2m strategic round from investors](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-290.md#-spout-raises-2m-strategic-round-from-investors) | VC Firms |

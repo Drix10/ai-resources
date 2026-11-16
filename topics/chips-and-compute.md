@@ -1,11 +1,14 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,105 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,108 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [Sarvam Token Factory launch with single API key](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-sarvam-token-factory-launch-with-single-api-key) | AI Developer Tools |
+| 2026-11-16 | [Global semiconductor company raises $24M Seed round](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-308.md#-global-semiconductor-company-raises-24m-seed-round) | VC Firms |
+| 2026-11-16 | [GPU market report shows 2x price gap and $730B capex plan](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-305.md#-gpu-market-report-shows-2x-price-gap-and-730b-capex-plan) | AI Companies and Ventures |
 | 2026-11-14 | [Modly desktop app creates 3D meshes locally](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-modly-desktop-app-creates-3d-meshes-locally) | AI Developer Tools |
 | 2026-11-14 | [LG Electronics signs chiller supply for >5 GW North American data centers](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-307.md#-lg-electronics-signs-chiller-supply-for-5-gw-north-american-data-centers) | VC Firms |
 | 2026-11-14 | [Jade 26x faster MSA than BLASTN GPU engine](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-292.md#-jade-26x-faster-msa-than-blastn-gpu-engine) | AI in Healthcare and Science |
@@ -103,6 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,105 briefings tha
 | 2026-10-29 | [NetApp ONAIR explains GPU clusters and ONTAP A90](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-271.md#-netapp-onair-explains-gpu-clusters-and-ontap-a90) | Tech Infrastructure |
 | 2026-10-29 | [Nvidia guarantees Nscale debt for 460MW data center in $45B Anthropic deal](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-269.md#-nvidia-guarantees-nscale-debt-for-460mw-data-center-in-45b-anthropic-deal) | AI Consulting and Expertise |
 | 2026-10-29 | [Idol open image-to-3D model with 600M parameters runs on consumer GPUs](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-261.md#-idol-open-image-to-3d-model-with-600m-parameters-runs-on-consumer-gpus) | AR VR Professionals and Community |
-| 2026-10-29 | [Sandisk data center NAND bit demand to 55% by 2027](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-257.md#-sandisk-data-center-nand-bit-demand-to-55-by-2027) | The Exponential Future |
-| 2026-10-29 | [NVIDIA NVDA talks to back billions of debt for NSCALE](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-nvidia-nvda-talks-to-back-billions-of-debt-for-nscale) | Interesting Finds |
-| 2026-10-29 | [Mac Studio 512GB RAM vs 1990s SGI $100k seat](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-mac-studio-512gb-ram-vs-1990s-sgi-100k-seat) | Spatial Computing |

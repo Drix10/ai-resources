@@ -1,11 +1,12 @@
 # Cursor
 
-Cursor, the AI code editor. The 100 newest of 211 briefings that mention it, from every category, newest first.
+Cursor, the AI code editor. The 100 newest of 212 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [Reason – Demo Day video built in a single HTML file](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-reason--demo-day-video-built-in-a-single-html-file) | AI Developer Tools |
 | 2026-11-14 | [Cursor security incident update details released](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-cursor-security-incident-update-details-released) | AI Developer Tools |
 | 2026-11-14 | [Cursor security incident – breach of Fireworks and credential exposure](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-246.md#-cursor-security-incident--breach-of-fireworks-and-credential-exposure) | Cybersecurity and Tech |
 | 2026-11-12 | [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) | AI Developer Tools |
@@ -105,4 +106,3 @@ Cursor, the AI code editor. The 100 newest of 211 briefings that mention it, fro
 |  | [Plaud MCP & CLI - Conversation Querying](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-188.md#-plaud-mcp--cli---conversation-querying) | AI for Content Creation and Marketing |
 |  | [Cursor CLI - New Feature Development and Refinement](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-184.md#-cursor-cli---new-feature-development-and-refinement) | Devs, Designers, DevRel |
 |  | [Cursor AI - Fundraising and Valuation Trends](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-183.md#-cursor-ai---fundraising-and-valuation-trends) | AI Organizations and Media |
-|  | [Video Editing - Code-Driven Approach with Remotion and Cursor](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-177.md#-video-editing---code-driven-approach-with-remotion-and-cursor) | Founders and Entrepreneurs |

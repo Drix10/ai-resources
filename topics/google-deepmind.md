@@ -1,11 +1,13 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 969 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 971 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [Gemini subscriptions coming to Hermes integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-301.md#-gemini-subscriptions-coming-to-hermes-integration) | AI Organizations and Media |
+| 2026-11-16 | [Gemini 4 Hydrogen price $1.50 per million input tokens](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-284.md#-gemini-4-hydrogen-price-150-per-million-input-tokens) | Tech Infrastructure |
 | 2026-11-14 | [Gemini builds agents from language, pairs with Skills](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-283.md#-gemini-builds-agents-from-language-pairs-with-skills) | Tech Infrastructure |
 | 2026-11-14 | [Gemini 4 Argon tops Video-Index at 80.4% as agent](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-276.md#-gemini-4-argon-tops-video-index-at-804-as-agent) | Computer Vision and AI Applications |
 | 2026-11-14 | [Gemma 4 12B scrapped encoder, study advises keep vision params skip pretraining](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-276.md#-gemma-4-12b-scrapped-encoder-study-advises-keep-vision-params-skip-pretraining) | Computer Vision and AI Applications |
@@ -104,5 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-09-23 | [Live Podcast Platform with AI Hosts](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-258.md#-live-podcast-platform-with-ai-hosts) | AI Generated Music and Audio |
 | 2026-09-23 | [Gemini 3.8 Flash TTS and Flash-Lite TTS Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-258.md#-gemini-38-flash-tts-and-flash-lite-tts-models) | AI Generated Music and Audio |
 | 2026-09-23 | [Gemini 3.8 Flash and Flash-Lite TTS](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-242.md#-gemini-38-flash-and-flash-lite-tts) | The Exponential Future |
-| 2026-09-22 | [AI Model Performance - Model Latency Benchmark](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-268.md#-ai-model-performance---model-latency-benchmark) | AI Companies and Ventures |
-| 2026-09-22 | [Structured Receipt Extraction](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-253.md#-structured-receipt-extraction) | Tech Infrastructure |

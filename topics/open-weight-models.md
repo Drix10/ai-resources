@@ -1,11 +1,18 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 327 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 334 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [Sarvam Token Factory launch – new model hosting in India](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-sarvam-token-factory-launch--new-model-hosting-in-india) | AI Developer Tools |
+| 2026-11-16 | [Sarvam Token Factory launch with single API key](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-sarvam-token-factory-launch-with-single-api-key) | AI Developer Tools |
+| 2026-11-16 | [Sarvam Token Factory launch announced, benchmark claim](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-sarvam-token-factory-launch-announced-benchmark-claim) | AI Developer Tools |
+| 2026-11-16 | [Sarvam Token Factory launch – OpenAI-compatible API for open-weight LLMs](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-sarvam-token-factory-launch--openai-compatible-api-for-open-weight-llms) | Devs, Designers, DevRel |
+| 2026-11-16 | [Sarvam Token Factory launch – openai-compatible API on Sarvam infra](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-sarvam-token-factory-launch--openai-compatible-api-on-sarvam-infra) | Devs, Designers, DevRel |
+| 2026-11-16 | [Sarvam Token Factory launch – new token service announced](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-sarvam-token-factory-launch--new-token-service-announced) | Devs, Designers, DevRel |
+| 2026-11-16 | [Enterprise AI open-weight model usage percentages discussed at Berlin event](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-284.md#-enterprise-ai-open-weight-model-usage-percentages-discussed-at-berlin-event) | Tech Infrastructure |
 | 2026-11-14 | [Gemini 4 Argon tops Video-Index at 80.4% as agent](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-276.md#-gemini-4-argon-tops-video-index-at-804-as-agent) | Computer Vision and AI Applications |
 | 2026-11-13 | [ci-proto launches with 64× longer context window](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-299.md#-ci-proto-launches-with-64-longer-context-window) | AI Organizations and Media |
 | 2026-11-13 | [Nemotron 3 Ultra announced with 550 billion parameters](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-273.md#-nemotron-3-ultra-announced-with-550-billion-parameters) | Founders and Entrepreneurs |
@@ -99,10 +106,3 @@ Models whose weights anyone can download. The 100 newest of 327 briefings that m
 | 2026-09-10 | [AI Speech Editing - Tencent's New Open Source Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-243.md#-ai-speech-editing---tencents-new-open-source-model) | AI Generated Music and Audio |
 | 2026-09-10 | [Chinese "Open Weight" Models](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-238.md#-chinese-open-weight-models) | Tech Infrastructure |
 | 2026-09-05 | [GPT-6 Astra vs Claude Fable 5.1 - Pricing Comparison](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-250.md#-gpt-6-astra-vs-claude-fable-51---pricing-comparison) | AI Companies and Ventures |
-| 2026-09-05 | [Open Weight Models - Impact on Inference Pricing](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-250.md#-open-weight-models---impact-on-inference-pricing) | AI Companies and Ventures |
-| 2026-09-04 | [AI Model Pricing - Comparison of GPT-6 Astra and Claude Fable 5.1](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-250.md#-ai-model-pricing---comparison-of-gpt-6-astra-and-claude-fable-51) | AI Companies and Ventures |
-| 2026-09-04 | [AI Infrastructure - Open-Weight Models and Model Commoditization](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-237.md#-ai-infrastructure---open-weight-models-and-model-commoditization) | AI Education |
-| 2026-08-28 | [Nvidia Acquisition - Hugging Face Context](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-248.md#-nvidia-acquisition---hugging-face-context) | VC Firms |
-| 2026-08-28 | [Model Performance - OpenRouter Ranking](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-244.md#-model-performance---openrouter-ranking) | AI Companies and Ventures |
-| 2026-08-28 | [Robotics - Perceptron AI Isaac 0.5](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-229.md#-robotics---perceptron-ai-isaac-05) | AI and Robotics Applications |
-| 2026-08-16 | [AI Models - Open Weight Landscape](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-196.md#-ai-models---open-weight-landscape) | Tech Companies and News |

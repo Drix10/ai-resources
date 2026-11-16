@@ -1,11 +1,16 @@
 # Anthropic
 
-Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,648 briefings that mention it, from every category, newest first.
+Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,653 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [Reason – Demo Day video built in a single HTML file](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-reason--demo-day-video-built-in-a-single-html-file) | AI Developer Tools |
+| 2026-11-16 | [Anthropic IPO $61B deal at $74 midpoint valuation](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-308.md#-anthropic-ipo-61b-deal-at-74-midpoint-valuation) | VC Firms |
+| 2026-11-16 | [AGENTIC UI 2.0 launch – new design system with Storybook, MCP server, Claude plugin](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-agentic-ui-20-launch--new-design-system-with-storybook-mcp-server-claude-plugin) | AI Leaders and Thinkers |
+| 2026-11-16 | [Lumos competition entry expands to pH response, activation, selectivity](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-305.md#-lumos-competition-entry-expands-to-ph-response-activation-selectivity) | AI Companies and Ventures |
+| 2026-11-15 | [Anthropic IPO could make 4,250 employees millionaires](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-318.md#-anthropic-ipo-could-make-4250-employees-millionaires) | CS Academics |
 | 2026-11-14 | [Tembo New Release – Session folders, custom roles](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-tembo-new-release--session-folders-custom-roles) | AI Developer Tools |
 | 2026-11-14 | [Tessera – 25 free themes for Claude Code released](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-306.md#-tessera--25-free-themes-for-claude-code-released) | AI Leaders and Thinkers |
 | 2026-11-14 | [Claude creates 4K Blender film, 12.5k lines, $20 GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-284.md#-claude-creates-4k-blender-film-125k-lines-20-gpu) | AI Education |
@@ -101,8 +106,3 @@ Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,648 b
 | 2026-11-06 | [Senator Becker bill requires AI compute reporting](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-271.md#-senator-becker-bill-requires-ai-compute-reporting) | AI Policy and Ethical Considerations |
 | 2026-11-06 | [Claude memory dreaming helps organize experience, improves CL-Bench results](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-269.md#-claude-memory-dreaming-helps-organize-experience-improves-cl-bench-results) | AI in Enterprise Applications |
 | 2026-11-06 | [OpenAI valued at $1.25 trillion, safety focus over IPO](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-247.md#-openai-valued-at-125-trillion-safety-focus-over-ipo) | PR and Communications |
-| 2026-11-06 | [Claude GTM research method reduces 4 weeks to 3 hours](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-243.md#-claude-gtm-research-method-reduces-4-weeks-to-3-hours) | Tech Journalists and VIPs |
-| 2026-11-06 | [Anthropic run rate tops $80 billion end of October](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-242.md#-anthropic-run-rate-tops-80-billion-end-of-october) | Tech Journalists and VIPs |
-| 2026-11-05 | [Meta buys coding app, OpenAI buys Codex diffs team](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-299.md#-meta-buys-coding-app-openai-buys-codex-diffs-team) | AI Leaders and Thinkers |
-| 2026-11-05 | [Claude add four hit effects with timing and displacement](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-282.md#-claude-add-four-hit-effects-with-timing-and-displacement) | AI Holodeck and Virtual Worlds |
-| 2026-11-04 | [WebMCP vs Browser vs MCP performance for AI agents – 4x faster, 90% token reduction](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-298.md#-webmcp-vs-browser-vs-mcp-performance-for-ai-agents--4x-faster-90-token-reduction) | AI Leaders and Thinkers |

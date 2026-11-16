@@ -1,11 +1,12 @@
 # Hugging Face
 
-Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 224 briefings that mention it, from every category, newest first.
+Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 225 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [HyperFlow H3 Flash hits 500K downloads, BF16 weights released](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-305.md#-hyperflow-h3-flash-hits-500k-downloads-bf16-weights-released) | AI Companies and Ventures |
 | 2026-11-14 | [EmbeddingGemma 2 hits #1 trending on HuggingFace](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-276.md#-embeddinggemma-2-hits-1-trending-on-huggingface) | Computer Vision and AI Applications |
 | 2026-11-12 | [SimReady 81 new Digital Twins added to SimReadyCentral](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-simready-81-new-digital-twins-added-to-simreadycentral) | AI and Robotics Applications |
 | 2026-11-12 | [pplx-decider-v1.3 adds locate to models](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-283.md#-pplx-decider-v13-adds-locate-to-models) | AI Education |
@@ -105,4 +106,3 @@ Hugging Face: the Hub, its libraries and the models shared there. The 100 newest
 | 2025-03-14 | [Machine Learning - Hugging Face Model Atlas](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-028.md#--machine-learning---hugging-face-model-atlas) | PR and Communications |
 | 2025-03-12 | [AI Training - Federated Learning for Robotics](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-025.md#-ai-training---federated-learning-for-robotics) | AI and Robotics Applications |
 | 2025-03-11 | [Datasets - L2D Driving Data](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-024.md#-datasets---l2d-driving-data) | Computer Vision and AI Applications |
-| 2025-03-11 | [Large Language Models - Llama 3 Inference Speed](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-024.md#-large-language-models---llama-3-inference-speed) | Computer Vision and AI Applications |

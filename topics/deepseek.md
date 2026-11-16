@@ -1,11 +1,13 @@
 # DeepSeek
 
-DeepSeek and its open models. The 100 newest of 254 briefings that mention it, from every category, newest first.
+DeepSeek and its open models. The 100 newest of 256 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [Sarvam Token Factory launch – OpenAI-compatible API for open-weight LLMs](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-sarvam-token-factory-launch--openai-compatible-api-for-open-weight-llms) | Devs, Designers, DevRel |
+| 2026-11-16 | [Maya SquadStack Sales LLM launches, 3x faster than next best](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-308.md#-maya-squadstack-sales-llm-launches-3x-faster-than-next-best) | VC Firms |
 | 2026-11-14 | [ggml v1.0, Claude Code parallel workers, Unsloth v3.1, Baseten DeepSeek 1M-context](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-248.md#-ggml-v10-claude-code-parallel-workers-unsloth-v31-baseten-deepseek-1m-context) | Tech Journalists and VIPs |
 | 2026-11-13 | [zml/llmd 20261112.0 release adds DSpine and faster DeepSeek prefill](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-315.md#-zmlllmd-202611120-release-adds-dspine-and-faster-deepseek-prefill) | AI Developer Tools |
 | 2026-11-13 | [Hy4 #3 on Artificial Analysis Cyber Index, #1 on CWE-Bench-AA](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-288.md#-hy4-3-on-artificial-analysis-cyber-index-1-on-cwe-bench-aa) | AI Holodeck and Virtual Worlds |
@@ -104,5 +106,3 @@ DeepSeek and its open models. The 100 newest of 254 briefings that mention it, f
 | 2025-03-24 | [AI - DeepEP Integration into SGLang](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-036.md#-ai---deepep-integration-into-sglang) | AI Leaders and Thinkers |
 | 2025-03-24 | [Large Language Model Access - DeepSeek Model on Hyperbolic API](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-035.md#-large-language-model-access---deepseek-model-on-hyperbolic-api) | The Exponential Future |
 | 2025-03-21 | [Cape Analytics - DeepSeek R1 Explanation](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-033.md#-cape-analytics---deepseek-r1-explanation) | Tech Companies and News |
-| 2025-03-17 | [AI Tools - MCP and RAG Integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-030.md#-ai-tools---mcp-and-rag-integration) | AI Consulting and Expertise |
-| 2025-03-17 | [DeepSeek Inference - Batching Considerations](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-030.md#-deepseek-inference---batching-considerations) | AI Professionals and Community |

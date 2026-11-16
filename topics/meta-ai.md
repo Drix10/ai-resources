@@ -1,11 +1,12 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 640 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 641 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [Generalised Superintelligence announces 250+ discoveries](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-generalised-superintelligence-announces-250-discoveries) | AI Leaders and Thinkers |
 | 2026-11-14 | [Meta Quest In-App Purchases Now Top Revenue Source, $120M Funding Announced](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-275.md#-meta-quest-in-app-purchases-now-top-revenue-source-120m-funding-announced) | AR VR Companies and Development |
 | 2026-11-13 | [Warby Parker Samsung smartglasses price $395 launch](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-274.md#-warby-parker-samsung-smartglasses-price-395-launch) | AR VR Companies and Development |
 | 2026-11-12 | [Adapt your controller-first title for Meta VR Glasses – try input changes now](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-274.md#-adapt-your-controller-first-title-for-meta-vr-glasses--try-input-changes-now) | AR VR Companies and Development |
@@ -105,4 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 640 brie
 | 2026-09-25 | [Category - AI Regulation and Funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-257.md#-category---ai-regulation-and-funding) | AI Policy and Ethical Considerations |
 | 2026-09-25 | [Tech News - Recent Vulnerability in Meta Quest Devices](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-245.md#-tech-news---recent-vulnerability-in-meta-quest-devices) | AR VR Professionals and Community |
 | 2026-09-24 | [Gaming - Shil, the Mind-Bending Narrative Puzzler](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-248.md#-gaming---shil-the-mind-bending-narrative-puzzler) | AR VR Companies and Development |
-| 2026-09-24 | [Tech - Meta Connect Developer State of the Union](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-248.md#-tech---meta-connect-developer-state-of-the-union) | AR VR Companies and Development |

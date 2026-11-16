@@ -1,11 +1,12 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 605 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 606 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [Uber Legal Redlining Agent cuts review time 20%](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-uber-legal-redlining-agent-cuts-review-time-20) | Devs, Designers, DevRel |
 | 2026-11-14 | [OpenBot by CopilotKit new release announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-openbot-by-copilotkit-new-release-announced) | AI Developer Tools |
 | 2026-11-14 | [Microsoft Outlook and 365 apps outage into Friday](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-309.md#-microsoft-outlook-and-365-apps-outage-into-friday) | Tech VIPs |
 | 2026-11-13 | [AvePoint expands Microsoft deal to govern AI agents](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-282.md#-avepoint-expands-microsoft-deal-to-govern-ai-agents) | Tech Infrastructure |
@@ -105,4 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 605 briefings
 | 2026-09-24 | [Gmail as a Database: A Broader Point on Consumer Experiences](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-239.md#gmail-as-a-database-a-broader-point-on-consumer-experiences) | Investors and Venture Capital |
 | 2026-09-24 | [Security - Ransomware and Ethics](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-223.md#-security---ransomware-and-ethics) | Cybersecurity and Tech |
 | 2026-09-22 | [Learning - Coursera Plus](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-289.md#-learning---coursera-plus) | CS Academics |
-| 2026-09-22 | [Tech News - AI Safety and Regulation](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-248.md#-tech-news---ai-safety-and-regulation) | Founders and Entrepreneurs |
