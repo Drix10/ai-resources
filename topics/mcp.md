@@ -1,11 +1,12 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 438 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 439 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [AGENTIC UI 2.0 launch – new design system with Storybook, MCP server, Claude plugin](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-agentic-ui-20-launch--new-design-system-with-storybook-mcp-server-claude-plugin) | AI Leaders and Thinkers |
 | 2026-11-14 | [SaaS become MCP server for HR tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-306.md#-saas-become-mcp-server-for-hr-tools) | AI Leaders and Thinkers |
 | 2026-11-14 | [Crypto.com offers exchange, app, wallet and AI tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-300.md#-cryptocom-offers-exchange-app-wallet-and-ai-tools) | AI Organizations and Media |
 | 2026-11-14 | [HighLevel MCP plugin 600+ ops in 38 CRM domains](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-279.md#-highlevel-mcp-plugin-600-ops-in-38-crm-domains) | AI for Content Creation and Marketing |
@@ -105,4 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-14 | [Tech News - Muse and Meta Ads](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-210.md#-tech-news---muse-and-meta-ads) | Spatial Computing |
 | 2026-09-13 | [DeepSeek Harness](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-267.md#-deepseek-harness) | Devs, Designers, DevRel |
 | 2026-09-11 | [Game Development - FLORA's MCP and Astra](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-234.md#-game-development---floras-mcp-and-astra) | AI in Enterprise Applications |
-| 2026-09-10 | [MCP Server: Rechat's Latest Innovation](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-238.md#-mcp-server-rechats-latest-innovation) | AI in Real Estate and Property Tech |

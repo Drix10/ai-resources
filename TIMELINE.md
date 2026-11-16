@@ -4,6 +4,10 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 
 ## November 2026
 
+- **Nov 16** · [Sarvam Token Factory launch – OpenAI-compatible API for open-weight LLMs](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-sarvam-token-factory-launch--openai-compatible-api-for-open-weight-llms) <sub>Devs, Designers, DevRel</sub>
+- **Nov 16** · [AGENTIC UI 2.0 launch – new design system with Storybook, MCP server, Claude plugin](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-agentic-ui-20-launch--new-design-system-with-storybook-mcp-server-claude-plugin) <sub>AI Leaders and Thinkers</sub>
+- **Nov 16** · [Qwen4-Max launch with MoE, vision and 1M-token context](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-284.md#-qwen4-max-launch-with-moe-vision-and-1m-token-context) <sub>Tech Infrastructure</sub>
+- **Nov 16** · [Amazon CloudWatch Logs account-level retention policies launch](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-284.md#-amazon-cloudwatch-logs-account-level-retention-policies-launch) <sub>Tech Infrastructure</sub>
 - **Nov 14** · [Cursor security incident update details released](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-cursor-security-incident-update-details-released) <sub>AI Developer Tools</sub>
 - **Nov 14** · [Tessera – 25 free themes for Claude Code released](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-306.md#-tessera--25-free-themes-for-claude-code-released) <sub>AI Leaders and Thinkers</sub>
 - **Nov 14** · [Neon Coast 98.6 Anthem released 25-second jingle](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-289.md#-neon-coast-986-anthem-released-25-second-jingle) <sub>AI Generated Music and Audio</sub>
@@ -242,13 +246,3 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 ## August 2025
 
 - **Aug 16** · [AI - Grok Imagine Beta Release](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-101.md#-ai---grok-imagine-beta-release) <sub>Tech VIPs</sub>
-
-## July 2025
-
-- **Jul 5** · [AI - Grok 4 Release Status](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-083.md#-ai---grok-4-release-status) <sub>AI Organizations and Media</sub>
-
-## June 2025
-
-- **Jun 30** · [AI Development - GPT-5 Release and Elon Musk's Allegations](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-079.md#-ai-development---gpt-5-release-and-elon-musks-allegations) <sub>AI Organizations and Media</sub>
-- **Jun 12** · [Blockchain Technology - OriginTrail DKG v8.1.0 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-078.md#-blockchain-technology---origintrail-dkg-v810-release) <sub>AI Education</sub>
-- **Jun 4** · [AFFiNE - Version 0.22 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-068.md#-affine---version-022-release) <sub>AI for Content Creation and Marketing</sub>

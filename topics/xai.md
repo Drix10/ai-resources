@@ -1,11 +1,12 @@
 # xAI
 
-xAI and Grok. The 100 newest of 641 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 642 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [Reason – Demo Day video built in a single HTML file](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-reason--demo-day-video-built-in-a-single-html-file) | AI Developer Tools |
 | 2026-11-14 | [Grok adds image and video creation to unified experience](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-289.md#-grok-adds-image-and-video-creation-to-unified-experience) | AI Holodeck and Virtual Worlds |
 | 2026-11-14 | [Grok Bot launch in seven weeks – core team details](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-248.md#-grok-bot-launch-in-seven-weeks--core-team-details) | Tech Journalists and VIPs |
 | 2026-11-13 | [McClipFace – AI shopping assistant launch integrates with major AI platforms](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-303.md#-mcclipface--ai-shopping-assistant-launch-integrates-with-major-ai-platforms) | AI Companies and Ventures |
@@ -105,4 +106,3 @@ xAI and Grok. The 100 newest of 641 briefings that mention it, from every catego
 | 2026-08-31 | [AI and Automation - Efficiency and Productivity](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-229.md#-ai-and-automation---efficiency-and-productivity) | Tech Infrastructure |
 | 2026-08-31 | [Technical - Grok Bot Token Usage](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-227.md#-technical---grok-bot-token-usage) | AI Driven Vehicles and Transportation |
 | 2026-08-30 | [AI Tools - Grok Bot Upgrade](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-200.md#-ai-tools---grok-bot-upgrade) | Tech Companies and News |
-| 2026-08-29 | [AI Tools - Grok Bot Giveaway](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-200.md#-ai-tools---grok-bot-giveaway) | Tech Companies and News |

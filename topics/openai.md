@@ -1,11 +1,17 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,283 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,289 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [GPT-6 Astra develops candidate lattice definition of the Standard Model](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-318.md#-gpt-6-astra-develops-candidate-lattice-definition-of-the-standard-model) | CS Academics |
+| 2026-11-16 | [Reason – Demo Day video built in a single HTML file](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-reason--demo-day-video-built-in-a-single-html-file) | AI Developer Tools |
+| 2026-11-16 | [Sarvam Token Factory launch – OpenAI-compatible API for open-weight LLMs](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-sarvam-token-factory-launch--openai-compatible-api-for-open-weight-llms) | Devs, Designers, DevRel |
+| 2026-11-16 | [Sarvam Token Factory launch – openai-compatible API on Sarvam infra](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-sarvam-token-factory-launch--openai-compatible-api-on-sarvam-infra) | Devs, Designers, DevRel |
+| 2026-11-16 | [Maya SquadStack Sales LLM launches, 3x faster than next best](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-308.md#-maya-squadstack-sales-llm-launches-3x-faster-than-next-best) | VC Firms |
+| 2026-11-16 | [AGENTIC UI 2.0 launch – new design system with Storybook, MCP server, Claude plugin](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-agentic-ui-20-launch--new-design-system-with-storybook-mcp-server-claude-plugin) | AI Leaders and Thinkers |
 | 2026-11-14 | [HLTH event – Physician-Builder Challenge finals demo on HLTH stage](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-292.md#-hlth-event--physician-builder-challenge-finals-demo-on-hlth-stage) | AI in Healthcare and Science |
 | 2026-11-14 | [OpenAI robotics team disbanded after five months](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-287.md#-openai-robotics-team-disbanded-after-five-months) | AI and Robotics Applications |
 | 2026-11-14 | [HighLevel MCP plugin 600+ ops in 38 CRM domains](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-279.md#-highlevel-mcp-plugin-600-ops-in-38-crm-domains) | AI for Content Creation and Marketing |
@@ -100,9 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,283 briefings t
 | 2026-10-29 | [Vibecode adds multi-model app building and in-chat preview](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-vibecode-adds-multi-model-app-building-and-in-chat-preview) | AI Developer Tools |
 | 2026-10-29 | [Phonic-1 2nd on MIVAS Bench, first non-big-lab top-3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-phonic-1-2nd-on-mivas-bench-first-non-big-lab-top-3) | AI Developer Tools |
 | 2026-10-29 | [ChatGPT web app adds limit across ChatGPT and Codex](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-298.md#-chatgpt-web-app-adds-limit-across-chatgpt-and-codex) | Devs, Designers, DevRel |
-| 2026-10-29 | [Agent-native office suite available in ChatGPT and Codex](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-298.md#-agent-native-office-suite-available-in-chatgpt-and-codex) | Devs, Designers, DevRel |
-| 2026-10-29 | [ChatGPT web app new hidden shared usage limit announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-293.md#-chatgpt-web-app-new-hidden-shared-usage-limit-announced) | AI Leaders and Thinkers |
-| 2026-10-29 | [GPT-6.1 Terra stacks three bowls 75% of the time](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-292.md#-gpt-61-terra-stacks-three-bowls-75-of-the-time) | AI Companies and Ventures |
-| 2026-10-29 | [ChatGPT Pro gives $100-$500 API credits monthly](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-292.md#-chatgpt-pro-gives-100-500-api-credits-monthly) | AI Leaders and Thinkers |
-| 2026-10-29 | [Kino – end-to-end video creation with Claude Code and Codex](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-290.md#-kino--end-to-end-video-creation-with-claude-code-and-codex) | AI Companies and Ventures |
-| 2026-10-29 | [Guardian integrates with ChatGPT and Claude – live demo at 17:00 CET](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-274.md#-guardian-integrates-with-chatgpt-and-claude--live-demo-at-1700-cet) | AI Education |

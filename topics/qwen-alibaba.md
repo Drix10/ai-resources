@@ -1,11 +1,12 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 257 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 258 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-16 | [Qwen4-Max launch with MoE, vision and 1M-token context](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-284.md#-qwen4-max-launch-with-moe-vision-and-1m-token-context) | Tech Infrastructure |
 | 2026-11-14 | [Qwen3.8-27B – Home PC ready with Dynamic v3.1 and 262K context](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-246.md#-qwen38-27b--home-pc-ready-with-dynamic-v31-and-262k-context) | Cybersecurity and Tech |
 | 2026-11-13 | [Qwen Image 3.0 launches on Pixazo with pricing tiers](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-288.md#-qwen-image-30-launches-on-pixazo-with-pricing-tiers) | AI Holodeck and Virtual Worlds |
 | 2026-11-13 | [ReSID – Long-tail retrieval method released with production deployment](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-281.md#-resid--long-tail-retrieval-method-released-with-production-deployment) | AI Professionals and Community |
@@ -105,4 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 257 briefings that mention i
 | 2026-09-18 | [AI Models - OSS Decision Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-259.md#-ai-models---oss-decision-models) | AI Leaders and Thinkers |
 | 2026-09-17 | [AI Model - Meet the Qwen3.8-27B Uncensored Cyber Agentic Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-249.md#-ai-model---meet-the-qwen38-27b-uncensored-cyber-agentic-model) | AI Powered Film and Media |
 | 2026-09-17 | [AI Model - Why it Matters: 14.7K Downloads and 122 Likes Show Real Community Traction](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-249.md#-ai-model---why-it-matters-147k-downloads-and-122-likes-show-real-community-traction) | AI Powered Film and Media |
-| 2026-09-16 | [AI Model Efficiency - Qwen3.8-27B-4.0bpw-EXL3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-266.md#-ai-model-efficiency---qwen38-27b-40bpw-exl3) | AI Developer Tools |
