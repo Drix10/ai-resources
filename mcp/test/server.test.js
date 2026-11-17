@@ -23,6 +23,7 @@ async function connect(routes) {
     const u = new URL(url);
     const hit = routes[u.pathname];
     const [status, body] = typeof hit === 'function' ? hit(u) : hit || [404, { error: 'Briefing not found' }];
+    if (typeof body === 'string') return new Response(body, { status, headers: { 'Content-Type': 'text/plain' } });
     return new Response(JSON.stringify(body), { status, headers: { 'Content-Type': 'application/json' } });
   };
   const server = createServer({ base: 'https://example.test/', fetchImpl });
@@ -82,6 +83,60 @@ test('get_briefing reports a missing briefing as a tool error', async () => {
   assert.equal(r.isError, true);
   assert.match(r.text, /Briefing not found/);
   assert.ok(r.text.trimEnd().endsWith(DATA_LINE));
+});
+
+const DIGEST_PATH = '/Drix10/ai-resources/main/AI%20Developer%20Tools/resources-300.md';
+const DIGEST_LINK = 'https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-300.md';
+const DIGEST_MD = '# AI Developer Tools digest\n\n- Claude 9 released';
+
+test('get_briefing fetches a digest from a GitHub blob link as raw Markdown (digest)', async () => {
+  const { call, calls } = await connect({ [DIGEST_PATH]: [200, DIGEST_MD] });
+  const r = await call('get_briefing', { id: DIGEST_LINK });
+  assert.equal(calls.length, 1);
+  assert.equal(calls[0].href, `https://raw.githubusercontent.com${DIGEST_PATH}`);
+  assert.equal(r.isError, undefined);
+  assert.match(r.text, /Claude 9 released/);
+  assert.match(r.text, new RegExp(`Source: ${DIGEST_LINK.replace(/[.?%]/g, '\\$&')}`));
+  assert.ok(r.text.trimEnd().endsWith(DATA_LINE));
+});
+
+test('get_briefing fetches a digest from a raw.githubusercontent.com link (digest)', async () => {
+  const { call, calls } = await connect({ [DIGEST_PATH]: [200, DIGEST_MD] });
+  const r = await call('get_briefing', { id: `https://raw.githubusercontent.com${DIGEST_PATH}` });
+  assert.equal(calls[0].href, `https://raw.githubusercontent.com${DIGEST_PATH}`);
+  assert.match(r.text, /Source: https:\/\/github\.com\/Drix10\/ai-resources\/blob\/main\/AI%20Developer%20Tools\/resources-300\.md/);
+  assert.match(r.text, /Claude 9 released/);
+});
+
+test('get_briefing accepts a bare digest path with spaces (digest)', async () => {
+  const { call, calls } = await connect({ [DIGEST_PATH]: [200, DIGEST_MD] });
+  const r = await call('get_briefing', { id: 'AI Developer Tools/resources-300.md' });
+  assert.equal(calls[0].href, `https://raw.githubusercontent.com${DIGEST_PATH}`);
+  assert.match(r.text, /Claude 9 released/);
+});
+
+test('get_briefing reports a missing digest as a tool error (digest)', async () => {
+  const { call } = await connect({});
+  const r = await call('get_briefing', { id: 'AI Developer Tools/resources-999999.md' });
+  assert.equal(r.isError, true);
+  assert.match(r.text, /No digest found at https:\/\/github\.com\/Drix10\/ai-resources\/blob\/main\/AI%20Developer%20Tools\/resources-999999\.md/);
+  assert.ok(r.text.trimEnd().endsWith(DATA_LINE));
+});
+
+test('get_briefing rejects foreign URLs and paths without fetching them (digest)', async () => {
+  for (const id of [
+    'https://evil.test/AI%20Developer%20Tools/resources-300.md',
+    'https://github.com/someone/fork/blob/main/AI%20Developer%20Tools/resources-300.md',
+    'https://github.com/Drix10/ai-resources/blob/main/README.md',
+    'https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-300.md.exe',
+    'AI Developer Tools/../resources-300.md',
+    '../resources-300.md',
+  ]) {
+    const { call, calls } = await connect({});
+    const r = await call('get_briefing', { id });
+    assert.equal(r.isError, true, id);
+    assert.ok(calls.every((u) => u.hostname === 'example.test'), `${id} fetched ${calls.map((u) => u.href)}`);
+  }
 });
 
 test('list_categories lists slugs and counts', async () => {
