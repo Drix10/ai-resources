@@ -1,11 +1,12 @@
 # DeepSeek
 
-DeepSeek and its open models. The 100 newest of 256 briefings that mention it, from every category, newest first.
+DeepSeek and its open models. The 100 newest of 257 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-17 | [PyBot swarm of 1,000 Flash agents builds ELIZA-2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-308.md#-pybot-swarm-of-1000-flash-agents-builds-eliza-2026) | AI Leaders and Thinkers |
 | 2026-11-16 | [Sarvam Token Factory launch – OpenAI-compatible API for open-weight LLMs](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-sarvam-token-factory-launch--openai-compatible-api-for-open-weight-llms) | Devs, Designers, DevRel |
 | 2026-11-16 | [Maya SquadStack Sales LLM launches, 3x faster than next best](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-308.md#-maya-squadstack-sales-llm-launches-3x-faster-than-next-best) | VC Firms |
 | 2026-11-14 | [ggml v1.0, Claude Code parallel workers, Unsloth v3.1, Baseten DeepSeek 1M-context](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-248.md#-ggml-v10-claude-code-parallel-workers-unsloth-v31-baseten-deepseek-1m-context) | Tech Journalists and VIPs |
@@ -105,4 +106,3 @@ DeepSeek and its open models. The 100 newest of 256 briefings that mention it, f
 | 2025-03-25 | [AI Models - DeepSeek V3-0324 Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-036.md#-ai-models---deepseek-v3-0324-performance) | AI Leaders and Thinkers |
 | 2025-03-24 | [AI - DeepEP Integration into SGLang](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-036.md#-ai---deepep-integration-into-sglang) | AI Leaders and Thinkers |
 | 2025-03-24 | [Large Language Model Access - DeepSeek Model on Hyperbolic API](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-035.md#-large-language-model-access---deepseek-model-on-hyperbolic-api) | The Exponential Future |
-| 2025-03-21 | [Cape Analytics - DeepSeek R1 Explanation](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-033.md#-cape-analytics---deepseek-r1-explanation) | Tech Companies and News |

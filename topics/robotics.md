@@ -1,11 +1,17 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,506 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,512 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [HandSim robot simulator for Meta Quest launches with hand tracking](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-309.md#-handsim-robot-simulator-for-meta-quest-launches-with-hand-tracking) | AI Leaders and Thinkers |
+| 2026-11-19 | [ReRead: Correcting Frozen Robot Policies by Re-reading](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-288.md#-reread-correcting-frozen-robot-policies-by-re-reading) | AI and Robotics Applications |
+| 2026-11-19 | [Tesla humanoid factory output vs competitors 2027](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-288.md#-tesla-humanoid-factory-output-vs-competitors-2027) | AI and Robotics Applications |
+| 2026-11-19 | [GR00T 2 introduced as advanced open System One robotics model](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-288.md#-gr00t-2-introduced-as-advanced-open-system-one-robotics-model) | AI and Robotics Applications |
+| 2026-11-19 | [Histotripsy robot destroys tumors with sound, 90% control](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-249.md#-histotripsy-robot-destroys-tumors-with-sound-90-control) | Tech Journalists and VIPs |
+| 2026-11-18 | [FloMo world action model uses 3D motion as bridge](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-277.md#-flomo-world-action-model-uses-3d-motion-as-bridge) | Computer Vision and AI Applications |
 | 2026-11-16 | [Hebbian RUA public beta launch with robot control](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-hebbian-rua-public-beta-launch-with-robot-control) | AI Leaders and Thinkers |
 | 2026-11-15 | [End2End pipeline wins first prize at Junction2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-end2end-pipeline-wins-first-prize-at-junction2026) | AI Leaders and Thinkers |
 | 2026-11-14 | [LG Electronics signs chiller supply for >5 GW North American data centers](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-307.md#-lg-electronics-signs-chiller-supply-for-5-gw-north-american-data-centers) | VC Firms |
@@ -100,9 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,506 briefings that men
 | 2026-10-29 | [Agentic Robotics – agents assemble robot programs, test in simulation, and iterate](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-291.md#-agentic-robotics--agents-assemble-robot-programs-test-in-simulation-and-iterate) | AI Companies and Ventures |
 | 2026-10-29 | [Axel Krieger talk Autonomous Robotic Surgery – 10:30-11:45](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-287.md#-axel-krieger-talk-autonomous-robotic-surgery--1030-1145) | AI Organizations and Media |
 | 2026-10-29 | [Unitree G1 humanoid state estimation trained on 1h data](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-275.md#-unitree-g1-humanoid-state-estimation-trained-on-1h-data) | AI and Robotics Applications |
-| 2026-10-29 | [One Scan is Enough: 85% success for language navigation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-275.md#-one-scan-is-enough-85-success-for-language-navigation) | AI and Robotics Applications |
-| 2026-10-29 | [DreamFAR released with real-time teleoperation](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-275.md#-dreamfar-released-with-real-time-teleoperation) | AI and Robotics Applications |
-| 2026-10-29 | [Laika modular robotics kit converts into four robots for under $6k](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-274.md#-laika-modular-robotics-kit-converts-into-four-robots-for-under-6k) | AI and Robotics Applications |
-| 2026-10-29 | [FineART dataset release for robot learning tasks](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-274.md#-fineart-dataset-release-for-robot-learning-tasks) | AI and Robotics Applications |
-| 2026-10-29 | [DreamFAR announced world model trained from robot data](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-270.md#-dreamfar-announced-world-model-trained-from-robot-data) | AI Professionals and Community |
-| 2026-10-29 | [Laika by Lucen Robotics kit launch, $6k for four forms](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-257.md#-laika-by-lucen-robotics-kit-launch-6k-for-four-forms) | The Exponential Future |

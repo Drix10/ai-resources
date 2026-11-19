@@ -1,11 +1,21 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 971 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 981 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Genie 4 – interactive environment features launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-307.md#-genie-4--interactive-environment-features-launch) | AI Companies and Ventures |
+| 2026-11-19 | [Gemini 4 Neon live on Pascal, available to Pro & Ultra](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-307.md#-gemini-4-neon-live-on-pascal-available-to-pro--ultra) | AI Companies and Ventures |
+| 2026-11-19 | [Gemini 4 Xenon evals leaked - AA Index 71](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-283.md#-gemini-4-xenon-evals-leaked---aa-index-71) | AI Professionals and Community |
+| 2026-11-19 | [Gemini 4 Neon scores 63, leads benchmark ranking](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-280.md#-gemini-4-neon-scores-63-leads-benchmark-ranking) | AI Consulting and Expertise |
+| 2026-11-19 | [Gemini 4 Neon metro synth uses 24h traffic, 25 worlds](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-280.md#-gemini-4-neon-metro-synth-uses-24h-traffic-25-worlds) | AI Powered Film and Media |
+| 2026-11-19 | [Gemini 4 Neon ranks #2 on Decision-Bench with 64.6](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-274.md#-gemini-4-neon-ranks-2-on-decision-bench-with-646) | AI in Enterprise Applications |
+| 2026-11-19 | [Genie 4 launch on Reactor API by Google DeepMind](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-274.md#-genie-4-launch-on-reactor-api-by-google-deepmind) | AR VR Professionals and Community |
+| 2026-11-19 | [Gemini 4 Neon launch – available now on Google AI Studio and API](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-262.md#-gemini-4-neon-launch--available-now-on-google-ai-studio-and-api) | Interesting Finds |
+| 2026-11-17 | [Code2Video Arena launch with benchmark and leaderboard](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-319.md#-code2video-arena-launch-with-benchmark-and-leaderboard) | CS Academics |
+| 2026-11-17 | [Carbon runs Gemma 3 270m in printer, 60s per token](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-310.md#-carbon-runs-gemma-3-270m-in-printer-60s-per-token) | Devs, Designers, DevRel |
 | 2026-11-16 | [Gemini subscriptions coming to Hermes integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-301.md#-gemini-subscriptions-coming-to-hermes-integration) | AI Organizations and Media |
 | 2026-11-16 | [Gemini 4 Hydrogen price $1.50 per million input tokens](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-284.md#-gemini-4-hydrogen-price-150-per-million-input-tokens) | Tech Infrastructure |
 | 2026-11-14 | [Gemini builds agents from language, pairs with Skills](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-283.md#-gemini-builds-agents-from-language-pairs-with-skills) | Tech Infrastructure |
@@ -96,13 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-09-28 | [AI - SPACE Sandbox Platform Security](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-259.md#-ai---space-sandbox-platform-security) | Tech Infrastructure |
 | 2026-09-28 | [Gemma 4 Developer Agent Competition](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-257.md#-gemma-4-developer-agent-competition) | AI Consulting and Expertise |
 | 2026-09-25 | [Google AI Spam Detector](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-225.md#-google-ai-spam-detector) | PR and Communications |
-| 2026-09-25 | [AI Share of Voice](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-225.md#-ai-share-of-voice) | PR and Communications |
-| 2026-09-24 | [AI Model Performance](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-283.md#-ai-model-performance) | Devs, Designers, DevRel |
-| 2026-09-24 | [AI - Claude Opus 4.7 and Mythos](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-252.md#-ai---claude-opus-47-and-mythos) | AI Consulting and Expertise |
-| 2026-09-23 | [Engineering - Gemini TTS](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-290.md#-engineering---gemini-tts) | CS Academics |
-| 2026-09-23 | [Engineering - Gemini Omni 1.1 Flash](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-290.md#-engineering---gemini-omni-11-flash) | CS Academics |
-| 2026-09-23 | [Engineering - Voice Arena TTS](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-290.md#-engineering---voice-arena-tts) | CS Academics |
-| 2026-09-23 | [AI Model Updates - Gemma 4 Open Weight Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-271.md#-ai-model-updates---gemma-4-open-weight-models) | AI Leaders and Thinkers |
-| 2026-09-23 | [Live Podcast Platform with AI Hosts](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-258.md#-live-podcast-platform-with-ai-hosts) | AI Generated Music and Audio |
-| 2026-09-23 | [Gemini 3.8 Flash TTS and Flash-Lite TTS Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-258.md#-gemini-38-flash-tts-and-flash-lite-tts-models) | AI Generated Music and Audio |
-| 2026-09-23 | [Gemini 3.8 Flash and Flash-Lite TTS](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-242.md#-gemini-38-flash-and-flash-lite-tts) | The Exponential Future |

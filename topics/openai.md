@@ -1,11 +1,24 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,289 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,302 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Honcho connects Hermes Codex Claude Code Grok Bot](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-319.md#-honcho-connects-hermes-codex-claude-code-grok-bot) | AI Developer Tools |
+| 2026-11-19 | [Clay new global agent builds GTM play in one conversation](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-312.md#-clay-new-global-agent-builds-gtm-play-in-one-conversation) | Tech VIPs |
+| 2026-11-19 | [Gemini 4 Neon scores 63, leads benchmark ranking](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-280.md#-gemini-4-neon-scores-63-leads-benchmark-ranking) | AI Consulting and Expertise |
+| 2026-11-19 | [Open-weight models and Postgres achieve 91% LoCoMo accuracy](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-280.md#-open-weight-models-and-postgres-achieve-91-locomo-accuracy) | AI Consulting and Expertise |
+| 2026-11-19 | [Fable 5.2 vs GPT-6.2 Astra Round 3 sizes and prices](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-276.md#-fable-52-vs-gpt-62-astra-round-3-sizes-and-prices) | AR VR Companies and Development |
+| 2026-11-19 | [Slotbound sells 100k copies in 3 days, $356k](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-274.md#-slotbound-sells-100k-copies-in-3-days-356k) | AR VR Professionals and Community |
+| 2026-11-19 | [Photon prescribing plugin for ChatGPT announced](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-252.md#-photon-prescribing-plugin-for-chatgpt-announced) | PR and Communications |
+| 2026-11-19 | [Deepnote apps launch new live-data dashboards](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-249.md#-deepnote-apps-launch-new-live-data-dashboards) | Tech Journalists and VIPs |
+| 2026-11-18 | [GPT-6.2 Astra recreates Science World in Vancouver](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-251.md#-gpt-62-astra-recreates-science-world-in-vancouver) | Spatial Computing |
+| 2026-11-18 | [Mercury Books connects via MCP for in-app bookkeeping](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-246.md#-mercury-books-connects-via-mcp-for-in-app-bookkeeping) | Tech Companies and News |
+| 2026-11-17 | [Code2Video Arena launch with benchmark and leaderboard](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-319.md#-code2video-arena-launch-with-benchmark-and-leaderboard) | CS Academics |
+| 2026-11-17 | [FrontierHarness v1.1 shows 4.4x variance, 64% failures](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-318.md#-frontierharness-v11-shows-44x-variance-64-failures) | AI Developer Tools |
+| 2026-11-17 | [HappyCAD AI teammate claims 10× faster hardware design](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-309.md#-happycad-ai-teammate-claims-10-faster-hardware-design) | VC Firms |
 | 2026-11-16 | [GPT-6 Astra develops candidate lattice definition of the Standard Model](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-318.md#-gpt-6-astra-develops-candidate-lattice-definition-of-the-standard-model) | CS Academics |
 | 2026-11-16 | [Reason – Demo Day video built in a single HTML file](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-reason--demo-day-video-built-in-a-single-html-file) | AI Developer Tools |
 | 2026-11-16 | [Sarvam Token Factory launch – OpenAI-compatible API for open-weight LLMs](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-sarvam-token-factory-launch--openai-compatible-api-for-open-weight-llms) | Devs, Designers, DevRel |
@@ -93,16 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,289 briefings t
 | 2026-11-02 | [Tutor Intelligence $75M Series B and AI interviews](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-266.md#-tutor-intelligence-75m-series-b-and-ai-interviews) | Founders and Entrepreneurs |
 | 2026-11-02 | [Weight-Space Programming edits 0.016% of Qwen3.5-0.8B weights, boosting math 6×](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-263.md#-weight-space-programming-edits-0016-of-qwen35-08b-weights-boosting-math-6) | AR VR Professionals and Community |
 | 2026-11-02 | [GPT-6 Astra edits Qwen3.5-0.8B weights, 0.016% changed](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-260.md#-gpt-6-astra-edits-qwen35-08b-weights-0016-changed) | The Exponential Future |
-| 2026-11-02 | [Qwen3.5-0.8B weight edit improves math 6x, instruction 3x](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-254.md#-qwen35-08b-weight-edit-improves-math-6x-instruction-3x) | Investors and Venture Capital |
-| 2026-11-02 | [Tradecraft Tuesday Huntress SOC Event Nov 10](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-238.md#-tradecraft-tuesday-huntress-soc-event-nov-10) | Cybersecurity and Tech |
-| 2026-11-02 | [EntelligenceAI Memory launch with shared memory, 53% fewer repeat errors](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-236.md#-entelligenceai-memory-launch-with-shared-memory-53-fewer-repeat-errors) | Tech Companies and News |
-| 2026-11-02 | [3D OS by Scenario open-sources full 3D studio with 80 skills](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-236.md#-3d-os-by-scenario-open-sources-full-3d-studio-with-80-skills) | Tech Companies and News |
-| 2026-10-31 | [ScienceClaw Hackathon launched with sponsors](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-295.md#-scienceclaw-hackathon-launched-with-sponsors) | AI Leaders and Thinkers |
-| 2026-10-31 | [OpenAI reversed plan to force data use even when off](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-242.md#-openai-reversed-plan-to-force-data-use-even-when-off) | Quantum Computing |
-| 2026-10-30 | [GPT-6.1 Terra vs Claude Opus 5.5 – Terra won](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-305.md#-gpt-61-terra-vs-claude-opus-55--terra-won) | AI Developer Tools |
-| 2026-10-30 | [GPT-6.1 Sol vs Kimi K3.1 Pro – Sol won SWITCHYARD](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-305.md#-gpt-61-sol-vs-kimi-k31-pro--sol-won-switchyard) | AI Developer Tools |
-| 2026-10-29 | [Vibecode adds app building from ChatGPT, Claude, Codex, Cursor](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-304.md#-vibecode-adds-app-building-from-chatgpt-claude-codex-cursor) | AI Developer Tools |
-| 2026-10-29 | [Vibecode adds multi-model app building from ChatGPT, Claude, Codex, Cursor](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-304.md#-vibecode-adds-multi-model-app-building-from-chatgpt-claude-codex-cursor) | AI Developer Tools |
-| 2026-10-29 | [Vibecode adds multi-model app building and in-chat preview](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-vibecode-adds-multi-model-app-building-and-in-chat-preview) | AI Developer Tools |
-| 2026-10-29 | [Phonic-1 2nd on MIVAS Bench, first non-big-lab top-3](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-301.md#-phonic-1-2nd-on-mivas-bench-first-non-big-lab-top-3) | AI Developer Tools |
-| 2026-10-29 | [ChatGPT web app adds limit across ChatGPT and Codex](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-298.md#-chatgpt-web-app-adds-limit-across-chatgpt-and-codex) | Devs, Designers, DevRel |

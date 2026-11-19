@@ -1,11 +1,20 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 821 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 830 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Nvidia chip export approvals rushed by US Commerce](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-312.md#-nvidia-chip-export-approvals-rushed-by-us-commerce) | Tech VIPs |
+| 2026-11-19 | [NVIDIA Nemotron discussed security and sovereignty at Washington event](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-302.md#-nvidia-nemotron-discussed-security-and-sovereignty-at-washington-event) | AI Organizations and Media |
+| 2026-11-19 | [The Prompting Company cost framing rises to 48%](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-280.md#-the-prompting-company-cost-framing-rises-to-48) | AI for Content Creation and Marketing |
+| 2026-11-19 | [Open4DGS 4DGS no genlock works with GoPros](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-276.md#-open4dgs-4dgs-no-genlock-works-with-gopros) | AR VR Companies and Development |
+| 2026-11-19 | [Anthropic shares soar 34% in Nasdaq debut, valuation $2T](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-241.md#-anthropic-shares-soar-34-in-nasdaq-debut-valuation-2t) | World News and Updates |
+| 2026-11-18 | [Nvidia RoboLab-120 beats GPT Astra on benchmarks](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-276.md#-nvidia-robolab-120-beats-gpt-astra-on-benchmarks) | AR VR Companies and Development |
+| 2026-11-18 | [NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-253.md#-nvidia-expands-slurm-to-bring-quantum-computing-into-supercomputing) | Quantum Computing |
+| 2026-11-17 | [NVIDIA 10,000 OpenUSD objects released on Hugging Face](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-308.md#-nvidia-10000-openusd-objects-released-on-hugging-face) | AI Leaders and Thinkers |
+| 2026-11-16 | [NVIDIA Nemotron for Science announced at SC26](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-319.md#-nvidia-nemotron-for-science-announced-at-sc26) | CS Academics |
 | 2026-11-14 | [AMD MI455X benchmark shows competition with Nvidia](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-amd-mi455x-benchmark-shows-competition-with-nvidia) | AI Developer Tools |
 | 2026-11-14 | [Nvidia petition to reinstate Jensen Huang hits 100k signatures](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-307.md#-nvidia-petition-to-reinstate-jensen-huang-hits-100k-signatures) | VC Firms |
 | 2026-11-14 | [Simulating Vein Compressibility for Ultrasound-Guided Femoral Access](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-300.md#-simulating-vein-compressibility-for-ultrasound-guided-femoral-access) | AI Organizations and Media |
@@ -97,12 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 821 briefin
 | 2026-10-25 | [Nvidia releases ~2500 OpenUSD simulation models](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-294.md#-nvidia-releases-2500-openusd-simulation-models) | Tech VIPs |
 | 2026-10-25 | [HuggingFace Hub OpenUSD support, 2500+ SimReady assets](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-287.md#-huggingface-hub-openusd-support-2500-simready-assets) | AI Companies and Ventures |
 | 2026-10-25 | [RTX 4090 Tensor FP16 performance unlock to 331.6 TFLOPS](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-270.md#-rtx-4090-tensor-fp16-performance-unlock-to-3316-tflops) | AI Artists and Creators |
-| 2026-10-25 | [Foundation4D released by NVIDIA, returns depth and more](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-269.md#-foundation4d-released-by-nvidia-returns-depth-and-more) | AI Professionals and Community |
-| 2026-10-25 | [Nvidia partners to add product accuracy to GenAI](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-264.md#-nvidia-partners-to-add-product-accuracy-to-genai) | AI for Content Creation and Marketing |
-| 2026-10-24 | [MicroDuck shows waddle, sit and somersault at GTC Berlin](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-288.md#-microduck-shows-waddle-sit-and-somersault-at-gtc-berlin) | AI Leaders and Thinkers |
-| 2026-10-24 | [NVIDIA OpenShell enforces AI agent policy at silicon level](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-272.md#-nvidia-openshell-enforces-ai-agent-policy-at-silicon-level) | AI Education |
-| 2026-10-21 | [SuperMimic scales humanoid control, 1 GPU → 3 h training](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-272.md#-supermimic-scales-humanoid-control-1-gpu--3-h-training) | AI and Robotics Applications |
-| 2026-10-19 | [NVIDIA RTX Spark launch – local AI on Windows PCs](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-297.md#-nvidia-rtx-spark-launch--local-ai-on-windows-pcs) | AI Developer Tools |
-| 2026-10-16 | [Nemotron 3.5 Super VL E2EE inference 500+ tokens/sec on one GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-296.md#-nemotron-35-super-vl-e2ee-inference-500-tokenssec-on-one-gpu) | AI Developer Tools |
-| 2026-10-16 | [Nemotron 3.5 Super VL 120B parameters launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-283.md#-nemotron-35-super-vl-120b-parameters-launch) | AI Organizations and Media |
-| 2026-10-16 | [Nvidia and ChipAgents launch evaluation for AI chip design](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-261.md#-nvidia-and-chipagents-launch-evaluation-for-ai-chip-design) | Founders and Entrepreneurs |

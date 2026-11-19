@@ -1,11 +1,14 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 439 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 442 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Hana new features and UX improvements released](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-290.md#-hana-new-features-and-ux-improvements-released) | AI Holodeck and Virtual Worlds |
+| 2026-11-18 | [Mercury Books connects via MCP for in-app bookkeeping](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-246.md#-mercury-books-connects-via-mcp-for-in-app-bookkeeping) | Tech Companies and News |
+| 2026-11-17 | [FastMCP Skill Drop – browser-based MCP server launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-318.md#-fastmcp-skill-drop--browser-based-mcp-server-launch) | AI Developer Tools |
 | 2026-11-16 | [AGENTIC UI 2.0 launch – new design system with Storybook, MCP server, Claude plugin](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-agentic-ui-20-launch--new-design-system-with-storybook-mcp-server-claude-plugin) | AI Leaders and Thinkers |
 | 2026-11-14 | [SaaS become MCP server for HR tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-306.md#-saas-become-mcp-server-for-hr-tools) | AI Leaders and Thinkers |
 | 2026-11-14 | [Crypto.com offers exchange, app, wallet and AI tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-300.md#-cryptocom-offers-exchange-app-wallet-and-ai-tools) | AI Organizations and Media |
@@ -103,6 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-14 | [MCP Server: A Tool for Simulating vLLM, Redis, PostgreSQL, and GPU Compute](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-265.md#-mcp-server-a-tool-for-simulating-vllm-redis-postgresql-and-gpu-compute) | AI Developer Tools |
 | 2026-09-14 | [Swarms Marketplace MCP - Connecting Agents to Resources](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-237.md#-swarms-marketplace-mcp---connecting-agents-to-resources) | AI for Content Creation and Marketing |
 | 2026-09-14 | [TheMCP Skill - Connecting to the Marketplace MCP](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-237.md#-themcp-skill---connecting-to-the-marketplace-mcp) | AI for Content Creation and Marketing |
-| 2026-09-14 | [Tech News - Muse and Meta Ads](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-210.md#-tech-news---muse-and-meta-ads) | Spatial Computing |
-| 2026-09-13 | [DeepSeek Harness](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-267.md#-deepseek-harness) | Devs, Designers, DevRel |
-| 2026-09-11 | [Game Development - FLORA's MCP and Astra](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-234.md#-game-development---floras-mcp-and-astra) | AI in Enterprise Applications |

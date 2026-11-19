@@ -4,6 +4,26 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 
 ## November 2026
 
+- **Nov 19** · [Clairic released on HuggingFace by Cloudflare](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-319.md#-clairic-released-on-huggingface-by-cloudflare) <sub>AI Developer Tools</sub>
+- **Nov 19** · [Ideogram 4.6 launch preserves character, 199 photo test](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-309.md#-ideogram-46-launch-preserves-character-199-photo-test) <sub>AI Leaders and Thinkers</sub>
+- **Nov 19** · [HandSim robot simulator for Meta Quest launches with hand tracking](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-309.md#-handsim-robot-simulator-for-meta-quest-launches-with-hand-tracking) <sub>AI Leaders and Thinkers</sub>
+- **Nov 19** · [Ideogram 4.6 launches with native 4K support](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-290.md#-ideogram-46-launches-with-native-4k-support) <sub>AI Holodeck and Virtual Worlds</sub>
+- **Nov 19** · [Ideogram 4.6 launch partner announcement with 4K support](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-290.md#-ideogram-46-launch-partner-announcement-with-4k-support) <sub>AI Holodeck and Virtual Worlds</sub>
+- **Nov 19** · [Kling Image 4.0 launch with 8K detail and tighter prompt accuracy](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-281.md#-kling-image-40-launch-with-8k-detail-and-tighter-prompt-accuracy) <sub>AI Artists and Creators</sub>
+- **Nov 19** · [Genie 4 launch on Reactor API by Google DeepMind](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-274.md#-genie-4-launch-on-reactor-api-by-google-deepmind) <sub>AR VR Professionals and Community</sub>
+- **Nov 19** · [GrokApps.Rocks – largest Grok Apps directory launched](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-270.md#-grokappsrocks--largest-grok-apps-directory-launched) <sub>The Exponential Future</sub>
+- **Nov 19** · [Anthropic IPO live blog launch announced](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-267.md#-anthropic-ipo-live-blog-launch-announced) <sub>Crypto and Web3</sub>
+- **Nov 19** · [Gemini 4 Neon launch – available now on Google AI Studio and API](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-262.md#-gemini-4-neon-launch--available-now-on-google-ai-studio-and-api) <sub>Interesting Finds</sub>
+- **Nov 19** · [Anthropic IPO priced at $83 per share, Nasdaq debut tomorrow](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-262.md#-anthropic-ipo-priced-at-83-per-share-nasdaq-debut-tomorrow) <sub>Interesting Finds</sub>
+- **Nov 19** · [Anthropic Nasdaq debut at $111.50, $2T cap](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-252.md#-anthropic-nasdaq-debut-at-11150-2t-cap) <sub>PR and Communications</sub>
+- **Nov 19** · [ADSwift 3.0 release adds Apple Ads API support](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-251.md#-adswift-30-release-adds-apple-ads-api-support) <sub>Spatial Computing</sub>
+- **Nov 19** · [Anthropic market debut valued at $2 trillion](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-241.md#-anthropic-market-debut-valued-at-2-trillion) <sub>World News and Updates</sub>
+- **Nov 19** · [Anthropic shares soar 34% in Nasdaq debut, valuation $2T](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-241.md#-anthropic-shares-soar-34-in-nasdaq-debut-valuation-2t) <sub>World News and Updates</sub>
+- **Nov 19** · [Anthropic market value reaches $2 trillion on Nasdaq debut](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-241.md#-anthropic-market-value-reaches-2-trillion-on-nasdaq-debut) <sub>World News and Updates</sub>
+- **Nov 17** · [MAI Image 2.7 launches as #1 AA-Image-Editing at $34.82](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-320.md#-mai-image-27-launches-as-1-aa-image-editing-at-3482) <sub>CS Academics</sub>
+- **Nov 17** · [Qwen3.8-27B harness adapter release improves SWE-Bench Pro pass@1 to 63%](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-319.md#-qwen38-27b-harness-adapter-release-improves-swe-bench-pro-pass1-to-63) <sub>CS Academics</sub>
+- **Nov 17** · [NVIDIA 10,000 OpenUSD objects released on Hugging Face](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-308.md#-nvidia-10000-openusd-objects-released-on-hugging-face) <sub>AI Leaders and Thinkers</sub>
+- **Nov 17** · [Microsoft Edge for Business control extensions launch](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-285.md#-microsoft-edge-for-business-control-extensions-launch) <sub>Tech Infrastructure</sub>
 - **Nov 16** · [Sarvam Token Factory launch – OpenAI-compatible API for open-weight LLMs](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-sarvam-token-factory-launch--openai-compatible-api-for-open-weight-llms) <sub>Devs, Designers, DevRel</sub>
 - **Nov 16** · [AGENTIC UI 2.0 launch – new design system with Storybook, MCP server, Claude plugin](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-agentic-ui-20-launch--new-design-system-with-storybook-mcp-server-claude-plugin) <sub>AI Leaders and Thinkers</sub>
 - **Nov 16** · [Qwen4-Max launch with MoE, vision and 1M-token context](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-284.md#-qwen4-max-launch-with-moe-vision-and-1m-token-context) <sub>Tech Infrastructure</sub>
@@ -208,41 +228,3 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 - **Mar 10** · [Anthropic - Internal Skills Library Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-153.md#-anthropic---internal-skills-library-release) <sub>AI Driven Vehicles and Transportation</sub>
 - **Mar 8** · [Software Release - OpenClaw 2026.3.7 Features](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-163.md#-software-release---openclaw-202637-features) <sub>AI Companies and Ventures</sub>
 - **Mar 7** · [AI Platforms - Claude Marketplace Launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-152.md#-ai-platforms---claude-marketplace-launch) <sub>AI Professionals and Community</sub>
-
-## February 2026
-
-- **Feb 21** · [Software Release - OpenClaw 2026.2.21 Update](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-160.md#-software-release---openclaw-2026221-update) <sub>Tech VIPs</sub>
-- **Feb 16** · [Product Release - Seedance 2.0 Announcement](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-148.md#-product-release---seedance-20-announcement) <sub>AI Holodeck and Virtual Worlds</sub>
-- **Feb 14** · [AI Models - Seed 2.0 Pro Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-145.md#-ai-models---seed-20-pro-release) <sub>AI Professionals and Community</sub>
-- **Feb 12** · [AI Inference Engine - Kestrel 0.1.2 Release and Performance](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-138.md#-ai-inference-engine---kestrel-012-release-and-performance) <sub>Computer Vision and AI Applications</sub>
-- **Feb 12** · [Codex Pro - New Feature Launch](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-137.md#-codex-pro---new-feature-launch) <sub>The Exponential Future</sub>
-- **Feb 1** · [Qwen-Image LoRA - Training Competition Launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-142.md#-qwen-image-lora---training-competition-launch) <sub>AI Organizations and Media</sub>
-
-## January 2026
-
-- **Jan 27** · [Technology Trends - Apple's Ambitious Product Release Plans](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-132.md#-technology-trends---apples-ambitious-product-release-plans) <sub>Tech Companies and News</sub>
-- **Jan 25** · [Droneforge SDK - Version 1.0.4 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-140.md#-droneforge-sdk---version-104-release) <sub>AI Leaders and Thinkers</sub>
-- **Jan 9** · [AI Model Release - DeepSeek's Upcoming LLM](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-139.md#-ai-model-release---deepseeks-upcoming-llm) <sub>AI Consulting and Expertise</sub>
-- **Jan 7** · [Pandas - Version 3.0.0 Release Candidate](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-137.md#-pandas---version-300-release-candidate) <sub>AI Consulting and Expertise</sub>
-
-## December 2025
-
-- **Dec 23** · [Decentralized Systems - Nexus v0.3 Release](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-124.md#-decentralized-systems---nexus-v03-release) <sub>Decentralized AI</sub>
-- **Dec 22** · [Programming Language - Sauce v0.1.0 Release](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-136.md#-programming-language---sauce-v010-release) <sub>Devs, Designers, DevRel</sub>
-- **Dec 17** · [AI Tools - ChatGPT App Store Launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-125.md#-ai-tools---chatgpt-app-store-launch) <sub>AI Leaders and Thinkers</sub>
-- **Dec 17** · [Product Launch - Gemini 3 Flash Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-124.md#-product-launch---gemini-3-flash-release) <sub>AI Leaders and Thinkers</sub>
-- **Dec 17** · [AI Models - Gemini 3 Flash Release and Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-123.md#-ai-models---gemini-3-flash-release-and-performance) <sub>AI Organizations and Media</sub>
-- **Dec 16** · [TRELLIS 2 - Microsoft Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-128.md#-trellis-2---microsoft-release) <sub>AI Generated Music and Audio</sub>
-- **Dec 9** · [AI Models - Devstral and Mistral Vibe Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-133.md#-ai-models---devstral-and-mistral-vibe-release) <sub>AI Professionals and Community</sub>
-
-## October 2025
-
-- **Oct 3** · [Wearable Technology - Meta Ray-Ban Smart Glasses Launch Challenges](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-115.md#-wearable-technology---meta-ray-ban-smart-glasses-launch-challenges) <sub>AR VR Professionals and Community</sub>
-
-## September 2025
-
-- **Sep 10** · [Technology - Apple's New Product Launch](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-105.md#-technology---apples-new-product-launch) <sub>World News and Updates</sub>
-
-## August 2025
-
-- **Aug 16** · [AI - Grok Imagine Beta Release](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-101.md#-ai---grok-imagine-beta-release) <sub>Tech VIPs</sub>
