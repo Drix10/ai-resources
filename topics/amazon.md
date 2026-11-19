@@ -1,11 +1,15 @@
 # Amazon & AWS
 
-Amazon, AWS, Bedrock and Alexa. The 100 newest of 403 briefings that mention it, from every category, newest first.
+Amazon, AWS, Bedrock and Alexa. The 100 newest of 407 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Neurosymbolic Agents Explained With a Python Example – Benchmarks Reported](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-320.md#-neurosymbolic-agents-explained-with-a-python-example--benchmarks-reported) | CS Academics |
+| 2026-11-19 | [AWS IAM permission error for s3:ListBucket on paw-prod-1-ui](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-286.md#-aws-iam-permission-error-for-s3listbucket-on-paw-prod-1-ui) | Tech Infrastructure |
+| 2026-11-19 | [AWS Marketplace buyer approval workflows general availability](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-286.md#-aws-marketplace-buyer-approval-workflows-general-availability) | Tech Infrastructure |
+| 2026-11-19 | [AWS DevOps Agent adds Slack code channels, Teams chat](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-286.md#-aws-devops-agent-adds-slack-code-channels-teams-chat) | Tech Infrastructure |
 | 2026-11-16 | [Amazon CloudWatch Logs account-level retention policies launch](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-284.md#-amazon-cloudwatch-logs-account-level-retention-policies-launch) | Tech Infrastructure |
 | 2026-11-15 | [AgentWeb in W27 batch announcement](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-308.md#-agentweb-in-w27-batch-announcement) | VC Firms |
 | 2026-11-14 | [OpenBot by CopilotKit new release announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-openbot-by-copilotkit-new-release-announced) | AI Developer Tools |
@@ -102,7 +106,3 @@ Amazon, AWS, Bedrock and Alexa. The 100 newest of 403 briefings that mention it,
 | 2026-05-13 | [Machine Learning - Data Extraction from Financial Documents](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-167.md#-machine-learning---data-extraction-from-financial-documents) | Tech Journalists and VIPs |
 | 2026-05-12 | [NBA Event - AWS NBA Draft Combine](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-220.md#-nba-event---aws-nba-draft-combine) | CS Academics |
 | 2026-05-12 | [Prime Video - Major Content Lineup Expansion](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-218.md#-prime-video---major-content-lineup-expansion) | CS Academics |
-| 2026-05-08 | [Customer Experience - Delivery Expectations](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-187.md#-customer-experience---delivery-expectations) | AI Leaders and Thinkers |
-| 2026-05-07 | [NBA Prospects - Nate Ament Scout Report](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-213.md#-nba-prospects---nate-ament-scout-report) | CS Academics |
-| 2026-05-07 | [Logistics Technology - Drone Delivery](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-185.md#-logistics-technology---drone-delivery) | AI and Robotics Applications |
-| 2026-05-07 | [Environmental Science - Amazon Rainforest Collapse Risk](https://github.com/Drix10/ai-resources/blob/main/Climate%20and%20Weather%20Technology/resources-176.md#-environmental-science---amazon-rainforest-collapse-risk) | Climate and Weather Technology |

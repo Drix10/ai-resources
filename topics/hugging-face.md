@@ -1,11 +1,15 @@
 # Hugging Face
 
-Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 225 briefings that mention it, from every category, newest first.
+Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 229 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Clairic released on HuggingFace by Cloudflare](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-319.md#-clairic-released-on-huggingface-by-cloudflare) | AI Developer Tools |
+| 2026-11-19 | [Speech-to-text model released free, 0.6B params, 600MB size](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-274.md#-speech-to-text-model-released-free-06b-params-600mb-size) | AI in Enterprise Applications |
+| 2026-11-17 | [NVIDIA 10,000 OpenUSD objects released on Hugging Face](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-308.md#-nvidia-10000-openusd-objects-released-on-hugging-face) | AI Leaders and Thinkers |
+| 2026-11-16 | [OpenRouter partners with Hugging Face for direct inference](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-308.md#-openrouter-partners-with-hugging-face-for-direct-inference) | AI Leaders and Thinkers |
 | 2026-11-16 | [HyperFlow H3 Flash hits 500K downloads, BF16 weights released](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-305.md#-hyperflow-h3-flash-hits-500k-downloads-bf16-weights-released) | AI Companies and Ventures |
 | 2026-11-14 | [EmbeddingGemma 2 hits #1 trending on HuggingFace](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-276.md#-embeddinggemma-2-hits-1-trending-on-huggingface) | Computer Vision and AI Applications |
 | 2026-11-12 | [SimReady 81 new Digital Twins added to SimReadyCentral](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-285.md#-simready-81-new-digital-twins-added-to-simreadycentral) | AI and Robotics Applications |
@@ -102,7 +106,3 @@ Hugging Face: the Hub, its libraries and the models shared there. The 100 newest
 | 2025-07-09 | [Robotics - EgoExo Forge Introduction](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-085.md#-robotics---egoexo-forge-introduction) | Computer Vision and AI Applications |
 | 2025-07-09 | [Robotics - Reachy Mini Robot](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-085.md#-robotics---reachy-mini-robot) | Computer Vision and AI Applications |
 | 2025-06-23 | [AI-Powered Code Editors and AI Building](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-070.md#-ai-powered-code-editors-and-ai-building) | Tech Journalists and VIPs |
-| 2025-05-17 | [Hugging Face and Kaggle Integration](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-055.md#-hugging-face-and-kaggle-integration) | Computer Vision and AI Applications |
-| 2025-03-14 | [Machine Learning - Hugging Face Model Atlas](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-028.md#--machine-learning---hugging-face-model-atlas) | PR and Communications |
-| 2025-03-12 | [AI Training - Federated Learning for Robotics](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-025.md#-ai-training---federated-learning-for-robotics) | AI and Robotics Applications |
-| 2025-03-11 | [Datasets - L2D Driving Data](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-024.md#-datasets---l2d-driving-data) | Computer Vision and AI Applications |

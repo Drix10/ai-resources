@@ -1,11 +1,20 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,228 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,237 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Anthropic IPO raises $81.3B, ticker ANT on Nasdaq](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-311.md#-anthropic-ipo-raises-813b-ticker-ant-on-nasdaq) | Devs, Designers, DevRel |
+| 2026-11-19 | [Anthropic IPO opens at $110, priced $83, $81B raised](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-310.md#-anthropic-ipo-opens-at-110-priced-83-81b-raised) | VC Firms |
+| 2026-11-19 | [Anthropic trades on Nasdaq as ANT, opens at $111.50](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-307.md#-anthropic-trades-on-nasdaq-as-ant-opens-at-11150) | AI Companies and Ventures |
+| 2026-11-19 | [Touchmark raises $3M seed round, $2M RFQ volume](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-270.md#-touchmark-raises-3m-seed-round-2m-rfq-volume) | The Exponential Future |
+| 2026-11-19 | [Everful raises $48.5M to expand factory-direct sourcing platform](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-252.md#-everful-raises-485m-to-expand-factory-direct-sourcing-platform) | PR and Communications |
+| 2026-11-19 | [LATO AI raises $4.7M and releases first report “Ear to the Ground”](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-249.md#-lato-ai-raises-47m-and-releases-first-report-ear-to-the-ground) | Tech Journalists and VIPs |
+| 2026-11-17 | [End Close seed round raises $3.5M from investors](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-309.md#-end-close-seed-round-raises-35m-from-investors) | VC Firms |
+| 2026-11-17 | [Remanence seed round $30M co-led by FirstMark](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-309.md#-remanence-seed-round-30m-co-led-by-firstmark) | VC Firms |
+| 2026-11-17 | [Remanence $30M round co-led by EQT and FirstMark](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-309.md#-remanence-30m-round-co-led-by-eqt-and-firstmark) | VC Firms |
 | 2026-11-16 | [Bharat Semi raises $24M seed round led by Redstart](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-308.md#-bharat-semi-raises-24m-seed-round-led-by-redstart) | VC Firms |
 | 2026-11-16 | [Global semiconductor company raises $24M Seed round](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-308.md#-global-semiconductor-company-raises-24m-seed-round) | VC Firms |
 | 2026-11-16 | [Acquire - launch your business sale listing on platform](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-274.md#-acquire---launch-your-business-sale-listing-on-platform) | Founders and Entrepreneurs |
@@ -97,12 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,228 briefings that mention it, fro
 | 2026-10-28 | [Ibis raises $250M structured credit facility](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-294.md#-ibis-raises-250m-structured-credit-facility) | VC Firms |
 | 2026-10-26 | [Neviswealth raises $70M Series B, total $110M funding](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-292.md#-neviswealth-raises-70m-series-b-total-110m-funding) | VC Firms |
 | 2026-10-26 | [Bedrock Robotics Series C $600M funding announced](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-292.md#-bedrock-robotics-series-c-600m-funding-announced) | VC Firms |
-| 2026-10-26 | [Bedrock raises $600M Series C for autonomous excavators](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-289.md#-bedrock-raises-600m-series-c-for-autonomous-excavators) | AI Companies and Ventures |
-| 2026-10-26 | [Bedrock excavators work since August, $600M raise](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-273.md#-bedrock-excavators-work-since-august-600m-raise) | AI and Robotics Applications |
-| 2026-10-26 | [Bedrock Robotics raises $600M Series C funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-269.md#-bedrock-robotics-raises-600m-series-c-funding) | AI Driven Vehicles and Transportation |
-| 2026-10-26 | [Series C $600M Funding Co-led by CapitalG, EmergenceCap](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-269.md#-series-c-600m-funding-co-led-by-capitalg-emergencecap) | AI Driven Vehicles and Transportation |
-| 2026-10-26 | [BedrockRobotics $600M Series C funding for autonomous excavators](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-269.md#-bedrockrobotics-600m-series-c-funding-for-autonomous-excavators) | AI Driven Vehicles and Transportation |
-| 2026-10-26 | [Bedrock Robotics $600M Series C Funding Announcement](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-269.md#-bedrock-robotics-600m-series-c-funding-announcement) | AI Driven Vehicles and Transportation |
-| 2026-10-26 | [Company announces $600M Series C funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-269.md#-company-announces-600m-series-c-funding) | AI Driven Vehicles and Transportation |
-| 2026-10-26 | [Paradev launch and $11.5M seed round by USV and Y Combinator](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-256.md#-paradev-launch-and-115m-seed-round-by-usv-and-y-combinator) | The Exponential Future |
-| 2026-10-26 | [This startup's self-driving excavators help dig up $600M in new funding](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-240.md#-this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding) | PR and Communications |

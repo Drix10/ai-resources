@@ -1,11 +1,13 @@
 # xAI
 
-xAI and Grok. The 100 newest of 642 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 644 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Honcho connects Hermes Codex Claude Code Grok Bot](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-319.md#-honcho-connects-hermes-codex-claude-code-grok-bot) | AI Developer Tools |
+| 2026-11-19 | [GrokApps.Rocks – largest Grok Apps directory launched](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-270.md#-grokappsrocks--largest-grok-apps-directory-launched) | The Exponential Future |
 | 2026-11-16 | [Reason – Demo Day video built in a single HTML file](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-reason--demo-day-video-built-in-a-single-html-file) | AI Developer Tools |
 | 2026-11-14 | [Grok adds image and video creation to unified experience](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-289.md#-grok-adds-image-and-video-creation-to-unified-experience) | AI Holodeck and Virtual Worlds |
 | 2026-11-14 | [Grok Bot launch in seven weeks – core team details](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-248.md#-grok-bot-launch-in-seven-weeks--core-team-details) | Tech Journalists and VIPs |
@@ -104,5 +106,3 @@ xAI and Grok. The 100 newest of 642 briefings that mention it, from every catego
 | 2026-09-01 | [Grok and Robotics](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-233.md#-grok-and-robotics) | AI and Robotics Applications |
 | 2026-09-01 | [Tech - Grok Build](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-226.md#-tech---grok-build) | Founders and Entrepreneurs |
 | 2026-08-31 | [AI and Automation - Efficiency and Productivity](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-229.md#-ai-and-automation---efficiency-and-productivity) | Tech Infrastructure |
-| 2026-08-31 | [Technical - Grok Bot Token Usage](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-227.md#-technical---grok-bot-token-usage) | AI Driven Vehicles and Transportation |
-| 2026-08-30 | [AI Tools - Grok Bot Upgrade](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-200.md#-ai-tools---grok-bot-upgrade) | Tech Companies and News |

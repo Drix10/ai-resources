@@ -1,11 +1,16 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 641 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 646 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [HandSim robot simulator for Meta Quest launches with hand tracking](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-309.md#-handsim-robot-simulator-for-meta-quest-launches-with-hand-tracking) | AI Leaders and Thinkers |
+| 2026-11-19 | [Tiny Drums free mode launches December with hand tracking support](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-276.md#-tiny-drums-free-mode-launches-december-with-hand-tracking-support) | AR VR Companies and Development |
+| 2026-11-19 | [Tiny Drums coming to Smash Drums, Meta VR Start Competition 2026 entry](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-274.md#-tiny-drums-coming-to-smash-drums-meta-vr-start-competition-2026-entry) | AR VR Professionals and Community |
+| 2026-11-18 | [Handcut VR video editor announced for Meta VR Start competition](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-280.md#-handcut-vr-video-editor-announced-for-meta-vr-start-competition) | AI Powered Film and Media |
+| 2026-11-18 | [RECOLLECTRA announced for Meta Quest 3, 3S, and Meta VR Glasses](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-251.md#-recollectra-announced-for-meta-quest-3-3s-and-meta-vr-glasses) | Spatial Computing |
 | 2026-11-16 | [Generalised Superintelligence announces 250+ discoveries](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-generalised-superintelligence-announces-250-discoveries) | AI Leaders and Thinkers |
 | 2026-11-14 | [Meta Quest In-App Purchases Now Top Revenue Source, $120M Funding Announced](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-275.md#-meta-quest-in-app-purchases-now-top-revenue-source-120m-funding-announced) | AR VR Companies and Development |
 | 2026-11-13 | [Warby Parker Samsung smartglasses price $395 launch](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-274.md#-warby-parker-samsung-smartglasses-price-395-launch) | AR VR Companies and Development |
@@ -101,8 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 641 brie
 | 2026-09-26 | [Meta Connect 2026 - XR Conference](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-225.md#-meta-connect-2026---xr-conference) | Spatial Computing |
 | 2026-09-26 | [Tech News - Meta VR Glasses Development](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-224.md#-tech-news---meta-vr-glasses-development) | Spatial Computing |
 | 2026-09-25 | [Tech News - Meta Muse](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-277.md#-tech-news---meta-muse) | VC Firms |
-| 2026-09-25 | [Tech News - Meta Alchemist](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-277.md#-tech-news---meta-alchemist) | VC Firms |
-| 2026-09-25 | [Big Update on NightCafe](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-262.md#-big-update-on-nightcafe) | AI Holodeck and Virtual Worlds |
-| 2026-09-25 | [Category - AI Regulation and Funding](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-257.md#-category---ai-regulation-and-funding) | AI Policy and Ethical Considerations |
-| 2026-09-25 | [Tech News - Recent Vulnerability in Meta Quest Devices](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-245.md#-tech-news---recent-vulnerability-in-meta-quest-devices) | AR VR Professionals and Community |
-| 2026-09-24 | [Gaming - Shil, the Mind-Bending Narrative Puzzler](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-248.md#-gaming---shil-the-mind-bending-narrative-puzzler) | AR VR Companies and Development |

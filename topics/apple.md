@@ -1,11 +1,14 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 677 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 680 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Anthropic needs $602B annual revenue for 20% return](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-320.md#-anthropic-needs-602b-annual-revenue-for-20-return) | CS Academics |
+| 2026-11-19 | [ADSwift 3.0 release adds Apple Ads API support](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-251.md#-adswift-30-release-adds-apple-ads-api-support) | Spatial Computing |
+| 2026-11-18 | [6.2 Astra, ML-SHARP, Tripo demo on Apple Vision Pro](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-276.md#-62-astra-ml-sharp-tripo-demo-on-apple-vision-pro) | AR VR Companies and Development |
 | 2026-11-14 | [Apple: We're Still Committed to VisionOS Platform](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-275.md#-apple-were-still-committed-to-visionos-platform) | AR VR Companies and Development |
 | 2026-11-13 | [zml/llmd 20261112.0 release adds DSpine and faster DeepSeek prefill](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-315.md#-zmlllmd-202611120-release-adds-dspine-and-faster-deepseek-prefill) | AI Developer Tools |
 | 2026-11-13 | [Apple Vision Pro first-person content capture method](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-274.md#-apple-vision-pro-first-person-content-capture-method) | AR VR Companies and Development |
@@ -103,6 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 677 br
 | 2026-09-20 | [Apple: “When the device is partially folded, interactive elements move to the bottom half of the display, making them easier to reach while keeping the device stable on surface.”](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-217.md#apple-when-the-device-is-partially-folded-interactive-elements-move-to-the-bottom-half-of-the-display-making-them-easier-to-reach-while-keeping-the-device-stable-on-surface) | Tech Companies and News |
 | 2026-09-19 | [Apple's Commitment to Australia](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-271.md#-apples-commitment-to-australia) | Tech VIPs |
 | 2026-09-19 | [Got a robot running? @innate_bot founder @ax_pey shows his.](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-217.md#got-a-robot-running-innate_bot-founder-ax_pey-shows-his) | Tech Companies and News |
-| 2026-09-18 | [Phone Drop](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-235.md#-phone-drop) | AR VR Professionals and Community |
-| 2026-09-18 | [LCC2 Performance](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-216.md#lcc2-performance) | Spatial Computing |
-| 2026-09-18 | [Interactive Splats - VisionOS 27 App](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-215.md#-interactive-splats---visionos-27-app) | Spatial Computing |

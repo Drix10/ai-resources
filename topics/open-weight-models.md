@@ -1,11 +1,15 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 334 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 338 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Company ontology build with open-weight models and Postgres shows 91% LoCoMo accuracy](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-286.md#-company-ontology-build-with-open-weight-models-and-postgres-shows-91-locomo-accuracy) | Tech Infrastructure |
+| 2026-11-19 | [Open-weight models and Postgres achieve 91% LoCoMo accuracy](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-280.md#-open-weight-models-and-postgres-achieve-91-locomo-accuracy) | AI Consulting and Expertise |
+| 2026-11-19 | [Speech-to-text model released free, 0.6B params, 600MB size](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-274.md#-speech-to-text-model-released-free-06b-params-600mb-size) | AI in Enterprise Applications |
+| 2026-11-17 | [Remanence seed round $30M co-led by FirstMark](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-309.md#-remanence-seed-round-30m-co-led-by-firstmark) | VC Firms |
 | 2026-11-16 | [Sarvam Token Factory launch – new model hosting in India](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-sarvam-token-factory-launch--new-model-hosting-in-india) | AI Developer Tools |
 | 2026-11-16 | [Sarvam Token Factory launch with single API key](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-sarvam-token-factory-launch-with-single-api-key) | AI Developer Tools |
 | 2026-11-16 | [Sarvam Token Factory launch announced, benchmark claim](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-sarvam-token-factory-launch-announced-benchmark-claim) | AI Developer Tools |
@@ -102,7 +106,3 @@ Models whose weights anyone can download. The 100 newest of 334 briefings that m
 | 2026-09-13 | [AI Infrastructure - Open-Source AI Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-243.md#-ai-infrastructure---open-source-ai-models) | AI Education |
 | 2026-09-13 | [Regulatory Environment - Open-Source Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-239.md#-regulatory-environment---open-source-models) | AI Consulting and Expertise |
 | 2026-09-13 | [Engineering - Latham & Watkins' In-House AI](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-235.md#-engineering---latham--watkins-in-house-ai) | AI for Content Creation and Marketing |
-| 2026-09-11 | [Arcee's Work with the DOE](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-234.md#-arcees-work-with-the-doe) | AI in Enterprise Applications |
-| 2026-09-10 | [AI Speech Editing - Tencent's New Open Source Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-243.md#-ai-speech-editing---tencents-new-open-source-model) | AI Generated Music and Audio |
-| 2026-09-10 | [Chinese "Open Weight" Models](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-238.md#-chinese-open-weight-models) | Tech Infrastructure |
-| 2026-09-05 | [GPT-6 Astra vs Claude Fable 5.1 - Pricing Comparison](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-250.md#-gpt-6-astra-vs-claude-fable-51---pricing-comparison) | AI Companies and Ventures |
