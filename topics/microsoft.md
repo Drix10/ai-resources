@@ -1,12 +1,13 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 609 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 610 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
 | 2026-11-19 | [AWS DevOps Agent adds Slack code channels, Teams chat](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-286.md#-aws-devops-agent-adds-slack-code-channels-teams-chat) | Tech Infrastructure |
+| 2026-11-19 | [Hermes Enterprise adds Teams, Store, Azure support](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-270.md#-hermes-enterprise-adds-teams-store-azure-support) | Decentralized AI |
 | 2026-11-17 | [Legora Intake adds Outlook and Teams integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-306.md#-legora-intake-adds-outlook-and-teams-integration) | AI Companies and Ventures |
 | 2026-11-17 | [Microsoft Edge for Business control extensions launch](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-285.md#-microsoft-edge-for-business-control-extensions-launch) | Tech Infrastructure |
 | 2026-11-16 | [Uber Legal Redlining Agent cuts review time 20%](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-uber-legal-redlining-agent-cuts-review-time-20) | Devs, Designers, DevRel |
@@ -105,4 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 609 briefings
 | 2026-09-25 | [Bing AI Mode](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-222.md#-bing-ai-mode) | Tech Companies and News |
 | 2026-09-24 | [Automated AI-Driven Phishing-as-a-Service Platform](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-259.md#-automated-ai-driven-phishing-as-a-service-platform) | AI Powered Film and Media |
 | 2026-09-24 | [Tech - Microsoft Surface Powered by Snapdragon X2 Plus](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-248.md#-tech---microsoft-surface-powered-by-snapdragon-x2-plus) | AR VR Companies and Development |
-| 2026-09-24 | [AI/ML - Microsoft @Surface Powered by @Snapdragon X2 Plus](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-247.md#-aiml---microsoft-surface-powered-by-snapdragon-x2-plus) | Computer Vision and AI Applications |

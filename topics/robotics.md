@@ -1,15 +1,21 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,512 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,518 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-20 | [Orchard Robotics joins John Deere to scale precision agriculture](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-311.md#-orchard-robotics-joins-john-deere-to-scale-precision-agriculture) | VC Firms |
+| 2026-11-20 | [Getting Robot-Use Agents to Run in Real Time – speed gains reported](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-289.md#-getting-robot-use-agents-to-run-in-real-time--speed-gains-reported) | AI and Robotics Applications |
+| 2026-11-20 | [LuxTac touch sensor raises peg insertion to 13/15](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-289.md#-luxtac-touch-sensor-raises-peg-insertion-to-1315) | AI and Robotics Applications |
+| 2026-11-20 | [AI Search Visibility Audit $79 and NEO Humanoid Robot News](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-289.md#-ai-search-visibility-audit-79-and-neo-humanoid-robot-news) | AI and Robotics Applications |
 | 2026-11-19 | [HandSim robot simulator for Meta Quest launches with hand tracking](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-309.md#-handsim-robot-simulator-for-meta-quest-launches-with-hand-tracking) | AI Leaders and Thinkers |
+| 2026-11-19 | [Felis cat-inspired robot achieves 17/17 landing success](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-289.md#-felis-cat-inspired-robot-achieves-1717-landing-success) | AI and Robotics Applications |
 | 2026-11-19 | [ReRead: Correcting Frozen Robot Policies by Re-reading](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-288.md#-reread-correcting-frozen-robot-policies-by-re-reading) | AI and Robotics Applications |
 | 2026-11-19 | [Tesla humanoid factory output vs competitors 2027](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-288.md#-tesla-humanoid-factory-output-vs-competitors-2027) | AI and Robotics Applications |
 | 2026-11-19 | [GR00T 2 introduced as advanced open System One robotics model](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-288.md#-gr00t-2-introduced-as-advanced-open-system-one-robotics-model) | AI and Robotics Applications |
+| 2026-11-19 | [RL Residency 2026 ships robot control, medical imaging](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-278.md#-rl-residency-2026-ships-robot-control-medical-imaging) | Computer Vision and AI Applications |
 | 2026-11-19 | [Histotripsy robot destroys tumors with sound, 90% control](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-249.md#-histotripsy-robot-destroys-tumors-with-sound-90-control) | Tech Journalists and VIPs |
 | 2026-11-18 | [FloMo world action model uses 3D motion as bridge](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-277.md#-flomo-world-action-model-uses-3d-motion-as-bridge) | Computer Vision and AI Applications |
 | 2026-11-16 | [Hebbian RUA public beta launch with robot control](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-hebbian-rua-public-beta-launch-with-robot-control) | AI Leaders and Thinkers |
@@ -100,9 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,512 briefings that men
 | 2026-10-31 | [Meta Max humanoid robot prototype built in 3 months](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-289.md#-meta-max-humanoid-robot-prototype-built-in-3-months) | AI Organizations and Media |
 | 2026-10-31 | [Lightberry Lumi robot priced at $39,990 with $20,000 annual software fee](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-237.md#-lightberry-lumi-robot-priced-at-39990-with-20000-annual-software-fee) | Tech Journalists and VIPs |
 | 2026-10-31 | [Odin Robotics launches AI-powered robot arms for factory automation](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-237.md#-odin-robotics-launches-ai-powered-robot-arms-for-factory-automation) | Tech Journalists and VIPs |
-| 2026-10-29 | [NVIDIA Robotics tutorial live event on Nov 5](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-303.md#-nvidia-robotics-tutorial-live-event-on-nov-5) | AI Developer Tools |
-| 2026-10-29 | [SO ARM 101 30 new kits shipped worldwide](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-292.md#-so-arm-101-30-new-kits-shipped-worldwide) | AI Companies and Ventures |
-| 2026-10-29 | [Galbot G1 opens bottles on Tsingtao demonstration](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-292.md#-galbot-g1-opens-bottles-on-tsingtao-demonstration) | AI Companies and Ventures |
-| 2026-10-29 | [Agentic Robotics – agents assemble robot programs, test in simulation, and iterate](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-291.md#-agentic-robotics--agents-assemble-robot-programs-test-in-simulation-and-iterate) | AI Companies and Ventures |
-| 2026-10-29 | [Axel Krieger talk Autonomous Robotic Surgery – 10:30-11:45](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-287.md#-axel-krieger-talk-autonomous-robotic-surgery--1030-1145) | AI Organizations and Media |
-| 2026-10-29 | [Unitree G1 humanoid state estimation trained on 1h data](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-275.md#-unitree-g1-humanoid-state-estimation-trained-on-1h-data) | AI and Robotics Applications |

@@ -1,13 +1,18 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 830 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 835 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-20 | [Nvidia market loss and California subpoena over China chip claims](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-281.md#-nvidia-market-loss-and-california-subpoena-over-china-chip-claims) | AI Consulting and Expertise |
+| 2026-11-20 | [Nvidia down 40% from record after CEO ousted](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-270.md#-nvidia-down-40-from-record-after-ceo-ousted) | Decentralized AI |
 | 2026-11-19 | [Nvidia chip export approvals rushed by US Commerce](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-312.md#-nvidia-chip-export-approvals-rushed-by-us-commerce) | Tech VIPs |
 | 2026-11-19 | [NVIDIA Nemotron discussed security and sovereignty at Washington event](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-302.md#-nvidia-nemotron-discussed-security-and-sovereignty-at-washington-event) | AI Organizations and Media |
+| 2026-11-19 | [PMPP-Hard trains models for fast GPU kernels, 69 tasks](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-285.md#-pmpp-hard-trains-models-for-fast-gpu-kernels-69-tasks) | AI Driven Vehicles and Transportation |
+| 2026-11-19 | [NVIDIA autonomy plan risk after Jensen departure](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-285.md#-nvidia-autonomy-plan-risk-after-jensen-departure) | AI Driven Vehicles and Transportation |
+| 2026-11-19 | [Nvidia H200 and AMD MI325X shipments to China, 900k units approved](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-284.md#-nvidia-h200-and-amd-mi325x-shipments-to-china-900k-units-approved) | AI Professionals and Community |
 | 2026-11-19 | [The Prompting Company cost framing rises to 48%](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-280.md#-the-prompting-company-cost-framing-rises-to-48) | AI for Content Creation and Marketing |
 | 2026-11-19 | [Open4DGS 4DGS no genlock works with GoPros](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-276.md#-open4dgs-4dgs-no-genlock-works-with-gopros) | AR VR Companies and Development |
 | 2026-11-19 | [Anthropic shares soar 34% in Nasdaq debut, valuation $2T](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-241.md#-anthropic-shares-soar-34-in-nasdaq-debut-valuation-2t) | World News and Updates |
@@ -101,8 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 830 briefin
 | 2026-10-26 | [NVIDIA Vera Rubin GPUs financing $40 billion by SpaceX](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-nvidia-vera-rubin-gpus-financing-40-billion-by-spacex) | AI Artists and Creators |
 | 2026-10-26 | [SpaceX $40B GPU financing lease announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-270.md#-spacex-40b-gpu-financing-lease-announced) | Tech Infrastructure |
 | 2026-10-26 | [NVIDIA NCA-GENL vs AWS AI Practitioner certification focus](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-270.md#-nvidia-nca-genl-vs-aws-ai-practitioner-certification-focus) | Tech Infrastructure |
-| 2026-10-26 | [NVIDIA DSX POD Vera Rubin modular factories announced at GTC Berlin](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-263.md#-nvidia-dsx-pod-vera-rubin-modular-factories-announced-at-gtc-berlin) | AR VR Companies and Development |
-| 2026-10-26 | [Anthropic to spend $120.5B on compute from SpaceX AI unit](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-260.md#-anthropic-to-spend-1205b-on-compute-from-spacex-ai-unit) | AR VR Professionals and Community |
-| 2026-10-25 | [Nvidia releases ~2500 OpenUSD simulation models](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-294.md#-nvidia-releases-2500-openusd-simulation-models) | Tech VIPs |
-| 2026-10-25 | [HuggingFace Hub OpenUSD support, 2500+ SimReady assets](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-287.md#-huggingface-hub-openusd-support-2500-simready-assets) | AI Companies and Ventures |
-| 2026-10-25 | [RTX 4090 Tensor FP16 performance unlock to 331.6 TFLOPS](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-270.md#-rtx-4090-tensor-fp16-performance-unlock-to-3316-tflops) | AI Artists and Creators |

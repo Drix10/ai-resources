@@ -1,11 +1,14 @@
 # Perplexity
 
-Perplexity and Comet. The 100 newest of 120 briefings that mention it, from every category, newest first.
+Perplexity and Comet. The 100 newest of 123 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Perplexity Teammates now on iOS and Android with voice](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-286.md#-perplexity-teammates-now-on-ios-and-android-with-voice) | AI Education |
+| 2026-11-19 | [TradingView MCP adds Claude, ChatGPT, Perplexity](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-268.md#-tradingview-mcp-adds-claude-chatgpt-perplexity) | Crypto and Web3 |
+| 2026-11-19 | [Mireye Land Search API narrows 327 to 3 finalists](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-250.md#-mireye-land-search-api-narrows-327-to-3-finalists) | Tech Journalists and VIPs |
 | 2026-11-09 | [Claude Fable 5.2 available in Perplexity Computer and Search](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-281.md#-claude-fable-52-available-in-perplexity-computer-and-search) | AI Education |
 | 2026-11-09 | [Parallel for Finance – most accurate search API on FinSearchComp T3 up to 2× lower cost](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-270.md#-parallel-for-finance--most-accurate-search-api-on-finsearchcomp-t3-up-to-2-lower-cost) | Founders and Entrepreneurs |
 | 2026-11-05 | [Perplexity Teammates launch personal agents for work](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-276.md#-perplexity-teammates-launch-personal-agents-for-work) | AI Professionals and Community |
@@ -103,6 +106,3 @@ Perplexity and Comet. The 100 newest of 120 briefings that mention it, from ever
 |  | [AI Agents - Browser-Based Control](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-041.md#-ai-agents---browser-based-control) | CS Academics |
 |  | [AI - Founder Dinner with Perplexity.ai](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-038.md#-ai---founder-dinner-with-perplexityai) | VC Firms |
 |  | [AI Agent Development - Claude MCP Servers](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-036.md#-ai-agent-development---claude-mcp-servers) | AI in Healthcare and Science |
-|  | [AI - Perplexity's March Madness Bracket Challenge](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-035.md#-ai---perplexitys-march-madness-bracket-challenge) | AI for Content Creation and Marketing |
-|  | [AI in Business - Founder Dinner with Perplexity AI](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-035.md#-ai-in-business---founder-dinner-with-perplexity-ai) | Investors and Venture Capital |
-|  | [Geospatial AI - Existing Models](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-035.md#-geospatial-ai---existing-models) | Spatial Computing |
