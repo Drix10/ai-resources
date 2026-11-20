@@ -1,11 +1,12 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 338 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 339 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [Positron Titan deploys 5 MW to cut cost of trillion-parameter models](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-313.md#-positron-titan-deploys-5-mw-to-cut-cost-of-trillion-parameter-models) | Tech VIPs |
 | 2026-11-19 | [Company ontology build with open-weight models and Postgres shows 91% LoCoMo accuracy](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-286.md#-company-ontology-build-with-open-weight-models-and-postgres-shows-91-locomo-accuracy) | Tech Infrastructure |
 | 2026-11-19 | [Open-weight models and Postgres achieve 91% LoCoMo accuracy](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-280.md#-open-weight-models-and-postgres-achieve-91-locomo-accuracy) | AI Consulting and Expertise |
 | 2026-11-19 | [Speech-to-text model released free, 0.6B params, 600MB size](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-274.md#-speech-to-text-model-released-free-06b-params-600mb-size) | AI in Enterprise Applications |
@@ -105,4 +106,3 @@ Models whose weights anyone can download. The 100 newest of 338 briefings that m
 | 2026-09-13 | [AI/ML - Winning in AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-244.md#-aiml---winning-in-ai) | AI Artists and Creators |
 | 2026-09-13 | [AI Infrastructure - Open-Source AI Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-243.md#-ai-infrastructure---open-source-ai-models) | AI Education |
 | 2026-09-13 | [Regulatory Environment - Open-Source Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-239.md#-regulatory-environment---open-source-models) | AI Consulting and Expertise |
-| 2026-09-13 | [Engineering - Latham & Watkins' In-House AI](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-235.md#-engineering---latham--watkins-in-house-ai) | AI for Content Creation and Marketing |

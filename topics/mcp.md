@@ -1,12 +1,18 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 442 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 448 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-20 | [Pictory MCP links Claude for AI video creation](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-281.md#-pictory-mcp-links-claude-for-ai-video-creation) | AI for Content Creation and Marketing |
+| 2026-11-20 | [Devin Bot on interaction's Poke for risk alerts](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-275.md#-devin-bot-on-interactions-poke-for-risk-alerts) | AI in Enterprise Applications |
+| 2026-11-20 | [PlayCanvas Editor – visual editing with MCP AI integration](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-272.md#-playcanvas-editor--visual-editing-with-mcp-ai-integration) | AI in Real Estate and Property Tech |
+| 2026-11-19 | [Gradium MCP beta launches Text-to-Speech for coding agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-291.md#-gradium-mcp-beta-launches-text-to-speech-for-coding-agents) | AI Generated Music and Audio |
 | 2026-11-19 | [Hana new features and UX improvements released](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-290.md#-hana-new-features-and-ux-improvements-released) | AI Holodeck and Virtual Worlds |
+| 2026-11-19 | [ZigZag free open-source embroidery app released for Mac and Windows](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-272.md#-zigzag-free-open-source-embroidery-app-released-for-mac-and-windows) | AI in Real Estate and Property Tech |
+| 2026-11-19 | [TradingView MCP adds Claude, ChatGPT, Perplexity](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-268.md#-tradingview-mcp-adds-claude-chatgpt-perplexity) | Crypto and Web3 |
 | 2026-11-18 | [Mercury Books connects via MCP for in-app bookkeeping](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-246.md#-mercury-books-connects-via-mcp-for-in-app-bookkeeping) | Tech Companies and News |
 | 2026-11-17 | [FastMCP Skill Drop – browser-based MCP server launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-318.md#-fastmcp-skill-drop--browser-based-mcp-server-launch) | AI Developer Tools |
 | 2026-11-16 | [AGENTIC UI 2.0 launch – new design system with Storybook, MCP server, Claude plugin](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-307.md#-agentic-ui-20-launch--new-design-system-with-storybook-mcp-server-claude-plugin) | AI Leaders and Thinkers |
@@ -100,9 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-17 | [Five ClickStack Releases](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-267.md#five-clickstack-releases) | AI Developer Tools |
 | 2026-09-17 | [Partnership with SpeakeasyDev](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-267.md#partnership-with-speakeasydev) | AI Developer Tools |
 | 2026-09-17 | [Introducing Clio for Codex](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-239.md#-introducing-clio-for-codex) | AI in Enterprise Applications |
-| 2026-09-17 | [WhatsApp Business Tools](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-214.md#-whatsapp-business-tools) | PR and Communications |
-| 2026-09-16 | [Integrating Meeting Context with Gemini](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-238.md#-integrating-meeting-context-with-gemini) | AI for Content Creation and Marketing |
-| 2026-09-16 | [Tech - AI in Blender](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-237.md#-tech---ai-in-blender) | AR VR Companies and Development |
-| 2026-09-14 | [MCP Server: A Tool for Simulating vLLM, Redis, PostgreSQL, and GPU Compute](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-265.md#-mcp-server-a-tool-for-simulating-vllm-redis-postgresql-and-gpu-compute) | AI Developer Tools |
-| 2026-09-14 | [Swarms Marketplace MCP - Connecting Agents to Resources](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-237.md#-swarms-marketplace-mcp---connecting-agents-to-resources) | AI for Content Creation and Marketing |
-| 2026-09-14 | [TheMCP Skill - Connecting to the Marketplace MCP](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-237.md#-themcp-skill---connecting-to-the-marketplace-mcp) | AI for Content Creation and Marketing |

@@ -1,14 +1,18 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,237 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,241 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-20 | [Mailchimp acquisition deal for $3.68 billion](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-275.md#-mailchimp-acquisition-deal-for-368-billion) | AI in Enterprise Applications |
+| 2026-11-20 | [Mailchimp acquisition $3.68 billion by Intuit](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-265.md#-mailchimp-acquisition-368-billion-by-intuit) | Investors and Venture Capital |
+| 2026-11-20 | [Scribe raises $75M at $1.3B valuation, 10M workflows documented](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-253.md#-scribe-raises-75m-at-13b-valuation-10m-workflows-documented) | PR and Communications |
 | 2026-11-19 | [Anthropic IPO raises $81.3B, ticker ANT on Nasdaq](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-311.md#-anthropic-ipo-raises-813b-ticker-ant-on-nasdaq) | Devs, Designers, DevRel |
 | 2026-11-19 | [Anthropic IPO opens at $110, priced $83, $81B raised](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-310.md#-anthropic-ipo-opens-at-110-priced-83-81b-raised) | VC Firms |
 | 2026-11-19 | [Anthropic trades on Nasdaq as ANT, opens at $111.50](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-307.md#-anthropic-trades-on-nasdaq-as-ant-opens-at-11150) | AI Companies and Ventures |
+| 2026-11-19 | [Medicare Part B 340B drug spending 2025 top drugs](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-294.md#-medicare-part-b-340b-drug-spending-2025-top-drugs) | AI in Healthcare and Science |
 | 2026-11-19 | [Touchmark raises $3M seed round, $2M RFQ volume](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-270.md#-touchmark-raises-3m-seed-round-2m-rfq-volume) | The Exponential Future |
 | 2026-11-19 | [Everful raises $48.5M to expand factory-direct sourcing platform](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-252.md#-everful-raises-485m-to-expand-factory-direct-sourcing-platform) | PR and Communications |
 | 2026-11-19 | [LATO AI raises $4.7M and releases first report “Ear to the Ground”](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-249.md#-lato-ai-raises-47m-and-releases-first-report-ear-to-the-ground) | Tech Journalists and VIPs |
@@ -102,7 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,237 briefings that mention it, fro
 | 2026-10-29 | [Broccoli AI front office hits $60M ARR after $30M Series B](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-236.md#-broccoli-ai-front-office-hits-60m-arr-after-30m-series-b) | Tech Journalists and VIPs |
 | 2026-10-29 | [Collective raises $100M to build AI OS for solopreneurs](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-235.md#-collective-raises-100m-to-build-ai-os-for-solopreneurs) | Tech Companies and News |
 | 2026-10-29 | [Collective raises $100M to build AI-native financial OS](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-235.md#-collective-raises-100m-to-build-ai-native-financial-os) | Tech Companies and News |
-| 2026-10-29 | [Mintive launch with $11M funding announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-235.md#-mintive-launch-with-11m-funding-announced) | Tech Companies and News |
-| 2026-10-28 | [Ibis raises $250M structured credit facility](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-294.md#-ibis-raises-250m-structured-credit-facility) | VC Firms |
-| 2026-10-26 | [Neviswealth raises $70M Series B, total $110M funding](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-292.md#-neviswealth-raises-70m-series-b-total-110m-funding) | VC Firms |
-| 2026-10-26 | [Bedrock Robotics Series C $600M funding announced](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-292.md#-bedrock-robotics-series-c-600m-funding-announced) | VC Firms |

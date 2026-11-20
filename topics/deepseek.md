@@ -1,11 +1,13 @@
 # DeepSeek
 
-DeepSeek and its open models. The 100 newest of 257 briefings that mention it, from every category, newest first.
+DeepSeek and its open models. The 100 newest of 259 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-19 | [DeepSeek OpenMotion adds 300+ templates, 152+ styles](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-281.md#-deepseek-openmotion-adds-300-templates-152-styles) | AI Consulting and Expertise |
+| 2026-11-18 | [TensorFold 1.2.10 adds background responses, launch, rm](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-248.md#-tensorfold-1210-adds-background-responses-launch-rm) | Cybersecurity and Tech |
 | 2026-11-17 | [PyBot swarm of 1,000 Flash agents builds ELIZA-2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-308.md#-pybot-swarm-of-1000-flash-agents-builds-eliza-2026) | AI Leaders and Thinkers |
 | 2026-11-16 | [Sarvam Token Factory launch – OpenAI-compatible API for open-weight LLMs](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-sarvam-token-factory-launch--openai-compatible-api-for-open-weight-llms) | Devs, Designers, DevRel |
 | 2026-11-16 | [Maya SquadStack Sales LLM launches, 3x faster than next best](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-308.md#-maya-squadstack-sales-llm-launches-3x-faster-than-next-best) | VC Firms |
@@ -104,5 +106,3 @@ DeepSeek and its open models. The 100 newest of 257 briefings that mention it, f
 | 2025-04-09 | [Tips - Mindful AI Code Generation](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-046.md#-tips---mindful-ai-code-generation) | Devs, Designers, DevRel |
 | 2025-04-08 | [US-China AI Rivalry - DeepSeek Hearing](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-042.md#-us-china-ai-rivalry---deepseek-hearing) | AI Policy and Ethical Considerations |
 | 2025-03-25 | [AI Models - DeepSeek V3-0324 Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-036.md#-ai-models---deepseek-v3-0324-performance) | AI Leaders and Thinkers |
-| 2025-03-24 | [AI - DeepEP Integration into SGLang](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-036.md#-ai---deepep-integration-into-sglang) | AI Leaders and Thinkers |
-| 2025-03-24 | [Large Language Model Access - DeepSeek Model on Hyperbolic API](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-035.md#-large-language-model-access---deepseek-model-on-hyperbolic-api) | The Exponential Future |

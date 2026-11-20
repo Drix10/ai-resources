@@ -1,11 +1,15 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 259 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 263 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-20 | [MCTS Is Counting the Wrong Thing: Learning Exploration Counts for LLM Reasoning](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-303.md#-mcts-is-counting-the-wrong-thing-learning-exploration-counts-for-llm-reasoning) | AI Organizations and Media |
+| 2026-11-20 | [Alibaba Qwen model training on T-Head chips, GPU roadmap](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-303.md#-alibaba-qwen-model-training-on-t-head-chips-gpu-roadmap) | AI Organizations and Media |
+| 2026-11-20 | [SMIC AI wafer allocation, Alibaba moves to SMIC](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-274.md#-smic-ai-wafer-allocation-alibaba-moves-to-smic) | AI Policy and Ethical Considerations |
+| 2026-11-18 | [TensorFold 1.2.10 adds background responses, launch, rm](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-248.md#-tensorfold-1210-adds-background-responses-launch-rm) | Cybersecurity and Tech |
 | 2026-11-17 | [Qwen3.8-27B harness adapter release improves SWE-Bench Pro pass@1 to 63%](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-319.md#-qwen38-27b-harness-adapter-release-improves-swe-bench-pro-pass1-to-63) | CS Academics |
 | 2026-11-16 | [Qwen4-Max launch with MoE, vision and 1M-token context](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-284.md#-qwen4-max-launch-with-moe-vision-and-1m-token-context) | Tech Infrastructure |
 | 2026-11-14 | [Qwen3.8-27B – Home PC ready with Dynamic v3.1 and 262K context](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-246.md#-qwen38-27b--home-pc-ready-with-dynamic-v31-and-262k-context) | Cybersecurity and Tech |
@@ -102,7 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 259 briefings that mention i
 | 2026-09-19 | [AI Model Performance - Ternary Bonsai 2 27B](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-252.md#-ai-model-performance---ternary-bonsai-2-27b) | AI Artists and Creators |
 | 2026-09-19 | [Qwen3.8-27B: 144 tok/sec on M5 Max](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-240.md#qwen38-27b-144-toksec-on-m5-max) | Computer Vision and AI Applications |
 | 2026-09-19 | [Splash: 144 tok/sec on M5 Max](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-240.md#-splash-144-toksec-on-m5-max) | Computer Vision and AI Applications |
-| 2026-09-19 | [Threat Report - Anthropic](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-233.md#-threat-report---anthropic) | Investors and Venture Capital |
-| 2026-09-18 | [AI - Transformers](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-260.md#-ai---transformers) | AI Organizations and Media |
-| 2026-09-18 | [AI Models - OSS Decision Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-259.md#-ai-models---oss-decision-models) | AI Leaders and Thinkers |
-| 2026-09-17 | [AI Model - Meet the Qwen3.8-27B Uncensored Cyber Agentic Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-249.md#-ai-model---meet-the-qwen38-27b-uncensored-cyber-agentic-model) | AI Powered Film and Media |
