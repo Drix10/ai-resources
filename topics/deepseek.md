@@ -1,11 +1,13 @@
 # DeepSeek
 
-DeepSeek and its open models. The 100 newest of 259 briefings that mention it, from every category, newest first.
+DeepSeek and its open models. The 100 newest of 261 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [Qwen 3.8 Flash Next – 180B model, ~6B active per token](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-285.md#-qwen-38-flash-next--180b-model-6b-active-per-token) | AI Professionals and Community |
+| 2026-11-21 | [DeepSeek mentions hit 15,000 today, NBIS drops >40% during shock](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-282.md#-deepseek-mentions-hit-15000-today-nbis-drops-40-during-shock) | AI for Content Creation and Marketing |
 | 2026-11-19 | [DeepSeek OpenMotion adds 300+ templates, 152+ styles](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-281.md#-deepseek-openmotion-adds-300-templates-152-styles) | AI Consulting and Expertise |
 | 2026-11-18 | [TensorFold 1.2.10 adds background responses, launch, rm](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-248.md#-tensorfold-1210-adds-background-responses-launch-rm) | Cybersecurity and Tech |
 | 2026-11-17 | [PyBot swarm of 1,000 Flash agents builds ELIZA-2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-308.md#-pybot-swarm-of-1000-flash-agents-builds-eliza-2026) | AI Leaders and Thinkers |
@@ -104,5 +106,3 @@ DeepSeek and its open models. The 100 newest of 259 briefings that mention it, f
 | 2025-05-29 | [AI Lab Rankings - DeepSeek's R1 Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-065.md#-ai-lab-rankings---deepseeks-r1-performance) | AI Consulting and Expertise |
 | 2025-05-29 | [AI Models - Deepseek R1 Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-064.md#-ai-models---deepseek-r1-performance) | AI Powered Film and Media |
 | 2025-04-09 | [Tips - Mindful AI Code Generation](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-046.md#-tips---mindful-ai-code-generation) | Devs, Designers, DevRel |
-| 2025-04-08 | [US-China AI Rivalry - DeepSeek Hearing](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-042.md#-us-china-ai-rivalry---deepseek-hearing) | AI Policy and Ethical Considerations |
-| 2025-03-25 | [AI Models - DeepSeek V3-0324 Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-036.md#-ai-models---deepseek-v3-0324-performance) | AI Leaders and Thinkers |

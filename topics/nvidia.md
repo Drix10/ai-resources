@@ -1,13 +1,18 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 835 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 840 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [NVIDIA Nemotron 3.5 30B A3B Fractal 64 CPU GGUF launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-304.md#-nvidia-nemotron-35-30b-a3b-fractal-64-cpu-gguf-launch) | AI Organizations and Media |
+| 2026-11-21 | [Anthropic IPO, Nvidia Q3 results, TSMC $500M AI fund](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-248.md#-anthropic-ipo-nvidia-q3-results-tsmc-500m-ai-fund) | Tech Companies and News |
 | 2026-11-20 | [Nvidia market loss and California subpoena over China chip claims](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-281.md#-nvidia-market-loss-and-california-subpoena-over-china-chip-claims) | AI Consulting and Expertise |
 | 2026-11-20 | [Nvidia down 40% from record after CEO ousted](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-270.md#-nvidia-down-40-from-record-after-ceo-ousted) | Decentralized AI |
+| 2026-11-20 | [WorldTrace – new NVIDIA project announced](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-255.md#-worldtrace--new-nvidia-project-announced) | Quantum Computing |
+| 2026-11-20 | [Nvidia market cap loss record 2.8 trillion in 45 days](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-251.md#-nvidia-market-cap-loss-record-28-trillion-in-45-days) | Tech Journalists and VIPs |
+| 2026-11-20 | [Starcloud builds first space data center for $2.5M](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-251.md#-starcloud-builds-first-space-data-center-for-25m) | Tech Journalists and VIPs |
 | 2026-11-19 | [Nvidia chip export approvals rushed by US Commerce](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-312.md#-nvidia-chip-export-approvals-rushed-by-us-commerce) | Tech VIPs |
 | 2026-11-19 | [NVIDIA Nemotron discussed security and sovereignty at Washington event](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-302.md#-nvidia-nemotron-discussed-security-and-sovereignty-at-washington-event) | AI Organizations and Media |
 | 2026-11-19 | [PMPP-Hard trains models for fast GPU kernels, 69 tasks](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-285.md#-pmpp-hard-trains-models-for-fast-gpu-kernels-69-tasks) | AI Driven Vehicles and Transportation |
@@ -101,8 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 835 briefin
 | 2026-10-29 | [NVIDIA NVDA talks to back billions of debt for NSCALE](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-nvidia-nvda-talks-to-back-billions-of-debt-for-nscale) | Interesting Finds |
 | 2026-10-29 | [Cohere investment up to $1.6B announced](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-240.md#-cohere-investment-up-to-16b-announced) | Quantum Computing |
 | 2026-10-29 | [Mac Studio 512GB RAM vs 1990s SGI $100k seat](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-mac-studio-512gb-ram-vs-1990s-sgi-100k-seat) | Spatial Computing |
-| 2026-10-29 | [Nvidia Hugging Face purchase $12.93B faces inquiry](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-nvidia-hugging-face-purchase-1293b-faces-inquiry) | Spatial Computing |
-| 2026-10-26 | [Anthropic IPO filing, $16.3B H1 2026 revenue, Claude voter data incident](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-anthropic-ipo-filing-163b-h1-2026-revenue-claude-voter-data-incident) | AI Artists and Creators |
-| 2026-10-26 | [NVIDIA Vera Rubin GPUs financing $40 billion by SpaceX](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-271.md#-nvidia-vera-rubin-gpus-financing-40-billion-by-spacex) | AI Artists and Creators |
-| 2026-10-26 | [SpaceX $40B GPU financing lease announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-270.md#-spacex-40b-gpu-financing-lease-announced) | Tech Infrastructure |
-| 2026-10-26 | [NVIDIA NCA-GENL vs AWS AI Practitioner certification focus](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-270.md#-nvidia-nca-genl-vs-aws-ai-practitioner-certification-focus) | Tech Infrastructure |

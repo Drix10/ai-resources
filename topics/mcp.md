@@ -1,11 +1,14 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 448 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 451 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [ElevenLabs listed among top audio MCP servers 2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-292.md#-elevenlabs-listed-among-top-audio-mcp-servers-2026) | AI Generated Music and Audio |
+| 2026-11-21 | [Pictory MCP adds AI chat video creation feature](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-282.md#-pictory-mcp-adds-ai-chat-video-creation-feature) | AI for Content Creation and Marketing |
+| 2026-11-21 | [Godot-MCP connects AI agents to Godot editor](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-273.md#-godot-mcp-connects-ai-agents-to-godot-editor) | AI in Real Estate and Property Tech |
 | 2026-11-20 | [Pictory MCP links Claude for AI video creation](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-281.md#-pictory-mcp-links-claude-for-ai-video-creation) | AI for Content Creation and Marketing |
 | 2026-11-20 | [Devin Bot on interaction's Poke for risk alerts](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-275.md#-devin-bot-on-interactions-poke-for-risk-alerts) | AI in Enterprise Applications |
 | 2026-11-20 | [PlayCanvas Editor – visual editing with MCP AI integration](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-272.md#-playcanvas-editor--visual-editing-with-mcp-ai-integration) | AI in Real Estate and Property Tech |
@@ -103,6 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-18 | [AI Design - MCP for Claude Code](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-255.md#-ai-design---mcp-for-claude-code) | AI Holodeck and Virtual Worlds |
 | 2026-09-18 | [Secure Mesh of Agents](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-247.md#-secure-mesh-of-agents) | Tech Infrastructure |
 | 2026-09-18 | [Trust - Infrastructure Problem](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-245.md#-trust---infrastructure-problem) | Tech Infrastructure |
-| 2026-09-17 | [Five ClickStack Releases](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-267.md#five-clickstack-releases) | AI Developer Tools |
-| 2026-09-17 | [Partnership with SpeakeasyDev](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-267.md#partnership-with-speakeasydev) | AI Developer Tools |
-| 2026-09-17 | [Introducing Clio for Codex](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-239.md#-introducing-clio-for-codex) | AI in Enterprise Applications |

@@ -1,11 +1,13 @@
 # Cursor
 
-Cursor, the AI code editor. The 100 newest of 213 briefings that mention it, from every category, newest first.
+Cursor, the AI code editor. The 100 newest of 215 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [Affogato MCP10 launch – cheat-code style access to video generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-309.md#-affogato-mcp10-launch--cheat-code-style-access-to-video-generation) | AI Companies and Ventures |
+| 2026-11-21 | [Godot-MCP connects AI agents to Godot editor](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-273.md#-godot-mcp-connects-ai-agents-to-godot-editor) | AI in Real Estate and Property Tech |
 | 2026-11-18 | [Mercury Books connects via MCP for in-app bookkeeping](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-246.md#-mercury-books-connects-via-mcp-for-in-app-bookkeeping) | Tech Companies and News |
 | 2026-11-16 | [Reason – Demo Day video built in a single HTML file](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-317.md#-reason--demo-day-video-built-in-a-single-html-file) | AI Developer Tools |
 | 2026-11-14 | [Cursor security incident update details released](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-316.md#-cursor-security-incident-update-details-released) | AI Developer Tools |
@@ -104,5 +106,3 @@ Cursor, the AI code editor. The 100 newest of 213 briefings that mention it, fro
 |  | [AI IDE Comparison - Cursor AI vs. Devin](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-197.md#-ai-ide-comparison---cursor-ai-vs-devin) | Investors and Venture Capital |
 |  | [AI Coding Environments - Cursor Cloud vs. Claude Web](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-195.md#-ai-coding-environments---cursor-cloud-vs-claude-web) | Founders and Entrepreneurs |
 |  | [AI Development Challenge - ElevenHacks #8](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-192.md#-ai-development-challenge---elevenhacks-8) | AI Generated Music and Audio |
-|  | [Plaud MCP & CLI - Conversation Querying](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-188.md#-plaud-mcp--cli---conversation-querying) | AI for Content Creation and Marketing |
-|  | [Cursor CLI - New Feature Development and Refinement](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-184.md#-cursor-cli---new-feature-development-and-refinement) | Devs, Designers, DevRel |

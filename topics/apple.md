@@ -1,11 +1,15 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 681 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 685 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [Dot Apple CarPlay call now available on your next drive](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-322.md#-dot-apple-carplay-call-now-available-on-your-next-drive) | CS Academics |
+| 2026-11-21 | [Apple ACE3 USB-C controller enables debug via VDMs](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-288.md#-apple-ace3-usb-c-controller-enables-debug-via-vdms) | Tech Infrastructure |
+| 2026-11-21 | [Google Gemini 4 Neon tweaks Apple Depth Pro 2 for normal map generator](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-278.md#-google-gemini-4-neon-tweaks-apple-depth-pro-2-for-normal-map-generator) | AR VR Companies and Development |
+| 2026-11-20 | [Dot integration with Apple CarPlay announced](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-278.md#-dot-integration-with-apple-carplay-announced) | AR VR Companies and Development |
 | 2026-11-20 | [ThreeRT path tracing for three.js games launches with 60 fps real-time ray tracing](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-272.md#-threert-path-tracing-for-threejs-games-launches-with-60-fps-real-time-ray-tracing) | AI in Real Estate and Property Tech |
 | 2026-11-19 | [Anthropic needs $602B annual revenue for 20% return](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-320.md#-anthropic-needs-602b-annual-revenue-for-20-return) | CS Academics |
 | 2026-11-19 | [ADSwift 3.0 release adds Apple Ads API support](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-251.md#-adswift-30-release-adds-apple-ads-api-support) | Spatial Computing |
@@ -102,7 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 681 br
 | 2026-09-21 | [Open Source](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-277.md#-open-source) | AI Developer Tools |
 | 2026-09-21 | [Category - iPhone Evolution](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-267.md#-category---iphone-evolution) | AI Leaders and Thinkers |
 | 2026-09-21 | [Meet Husky: A Model-Specific Inference Engine](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-244.md#meet-husky-a-model-specific-inference-engine) | Computer Vision and AI Applications |
-| 2026-09-20 | [AI Research - Laya-MLX](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-265.md#-ai-research---laya-mlx) | AI Leaders and Thinkers |
-| 2026-09-20 | [Apple Vision Pro - Blender App](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-218.md#-apple-vision-pro---blender-app) | Spatial Computing |
-| 2026-09-20 | [Apple: “When the device is partially folded, interactive elements move to the bottom half of the display, making them easier to reach while keeping the device stable on surface.”](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-217.md#apple-when-the-device-is-partially-folded-interactive-elements-move-to-the-bottom-half-of-the-display-making-them-easier-to-reach-while-keeping-the-device-stable-on-surface) | Tech Companies and News |
-| 2026-09-19 | [Apple's Commitment to Australia](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-271.md#-apples-commitment-to-australia) | Tech VIPs |

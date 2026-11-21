@@ -1,11 +1,12 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,241 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,244 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [Scoops peanut butter protein powder Target launch hits $400k sales](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-254.md#-scoops-peanut-butter-protein-powder-target-launch-hits-400k-sales) | PR and Communications |
 | 2026-11-20 | [Mailchimp acquisition deal for $3.68 billion](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-275.md#-mailchimp-acquisition-deal-for-368-billion) | AI in Enterprise Applications |
 | 2026-11-20 | [Mailchimp acquisition $3.68 billion by Intuit](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-265.md#-mailchimp-acquisition-368-billion-by-intuit) | Investors and Venture Capital |
 | 2026-11-20 | [Scribe raises $75M at $1.3B valuation, 10M workflows documented](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-253.md#-scribe-raises-75m-at-13b-valuation-10m-workflows-documented) | PR and Communications |
@@ -16,6 +17,8 @@ Rounds, raises and deals. The 100 newest of 1,241 briefings that mention it, fro
 | 2026-11-19 | [Touchmark raises $3M seed round, $2M RFQ volume](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-270.md#-touchmark-raises-3m-seed-round-2m-rfq-volume) | The Exponential Future |
 | 2026-11-19 | [Everful raises $48.5M to expand factory-direct sourcing platform](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-252.md#-everful-raises-485m-to-expand-factory-direct-sourcing-platform) | PR and Communications |
 | 2026-11-19 | [LATO AI raises $4.7M and releases first report “Ear to the Ground”](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-249.md#-lato-ai-raises-47m-and-releases-first-report-ear-to-the-ground) | Tech Journalists and VIPs |
+| 2026-11-18 | [Arborum Labs raises pre-seed funding led by Speciale Invest](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-312.md#-arborum-labs-raises-pre-seed-funding-led-by-speciale-invest) | VC Firms |
+| 2026-11-17 | [ArborumLabs builds models, pre-seed by SpecialeInvest](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-312.md#-arborumlabs-builds-models-pre-seed-by-specialeinvest) | VC Firms |
 | 2026-11-17 | [End Close seed round raises $3.5M from investors](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-309.md#-end-close-seed-round-raises-35m-from-investors) | VC Firms |
 | 2026-11-17 | [Remanence seed round $30M co-led by FirstMark](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-309.md#-remanence-seed-round-30m-co-led-by-firstmark) | VC Firms |
 | 2026-11-17 | [Remanence $30M round co-led by EQT and FirstMark](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-309.md#-remanence-30m-round-co-led-by-eqt-and-firstmark) | VC Firms |
@@ -103,6 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,241 briefings that mention it, fro
 | 2026-10-29 | [Space Force seeks cislunar spacecraft by 2029](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-space-force-seeks-cislunar-spacecraft-by-2029) | Interesting Finds |
 | 2026-10-29 | [Dream AI world model launch with $17M seed funding](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-242.md#-dream-ai-world-model-launch-with-17m-seed-funding) | PR and Communications |
 | 2026-10-29 | [Nvidia Hugging Face purchase $12.93B faces inquiry](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-nvidia-hugging-face-purchase-1293b-faces-inquiry) | Spatial Computing |
-| 2026-10-29 | [Broccoli AI front office hits $60M ARR after $30M Series B](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-236.md#-broccoli-ai-front-office-hits-60m-arr-after-30m-series-b) | Tech Journalists and VIPs |
-| 2026-10-29 | [Collective raises $100M to build AI OS for solopreneurs](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-235.md#-collective-raises-100m-to-build-ai-os-for-solopreneurs) | Tech Companies and News |
-| 2026-10-29 | [Collective raises $100M to build AI-native financial OS](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-235.md#-collective-raises-100m-to-build-ai-native-financial-os) | Tech Companies and News |

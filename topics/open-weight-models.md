@@ -1,11 +1,13 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 339 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 341 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [Inkling 2 Mini released with 26.4B params, 20GB footprint](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-276.md#-inkling-2-mini-released-with-264b-params-20gb-footprint) | AR VR Professionals and Community |
+| 2026-11-21 | [Inkling 2 Mini launch with 26.4B parameters](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-272.md#-inkling-2-mini-launch-with-264b-parameters) | The Exponential Future |
 | 2026-11-19 | [Positron Titan deploys 5 MW to cut cost of trillion-parameter models](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-313.md#-positron-titan-deploys-5-mw-to-cut-cost-of-trillion-parameter-models) | Tech VIPs |
 | 2026-11-19 | [Company ontology build with open-weight models and Postgres shows 91% LoCoMo accuracy](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-286.md#-company-ontology-build-with-open-weight-models-and-postgres-shows-91-locomo-accuracy) | Tech Infrastructure |
 | 2026-11-19 | [Open-weight models and Postgres achieve 91% LoCoMo accuracy](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-280.md#-open-weight-models-and-postgres-achieve-91-locomo-accuracy) | AI Consulting and Expertise |
@@ -104,5 +106,3 @@ Models whose weights anyone can download. The 100 newest of 339 briefings that m
 | 2026-09-14 | [AI and Surveillance](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-243.md#-ai-and-surveillance) | AI Policy and Ethical Considerations |
 | 2026-09-14 | [Law Firms Adopting AI: Latham & Watkins Builds In-House AI Stack](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-237.md#-law-firms-adopting-ai-latham--watkins-builds-in-house-ai-stack) | Founders and Entrepreneurs |
 | 2026-09-13 | [AI/ML - Winning in AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-244.md#-aiml---winning-in-ai) | AI Artists and Creators |
-| 2026-09-13 | [AI Infrastructure - Open-Source AI Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-243.md#-ai-infrastructure---open-source-ai-models) | AI Education |
-| 2026-09-13 | [Regulatory Environment - Open-Source Models](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-239.md#-regulatory-environment---open-source-models) | AI Consulting and Expertise |

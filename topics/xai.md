@@ -1,11 +1,12 @@
 # xAI
 
-xAI and Grok. The 100 newest of 645 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 646 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [ai_timon demo videos released showing auto-switch to GPT](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-276.md#-ai_timon-demo-videos-released-showing-auto-switch-to-gpt) | AI in Enterprise Applications |
 | 2026-11-20 | [FSD v15 and Grok 4.8 adopt larger models, rewrite stack](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-287.md#-fsd-v15-and-grok-48-adopt-larger-models-rewrite-stack) | Tech Infrastructure |
 | 2026-11-19 | [Honcho connects Hermes Codex Claude Code Grok Bot](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-319.md#-honcho-connects-hermes-codex-claude-code-grok-bot) | AI Developer Tools |
 | 2026-11-19 | [GrokApps.Rocks – largest Grok Apps directory launched](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-270.md#-grokappsrocks--largest-grok-apps-directory-launched) | The Exponential Future |
@@ -105,4 +106,3 @@ xAI and Grok. The 100 newest of 645 briefings that mention it, from every catego
 | 2026-09-04 | [AI Systems - Grok Bot Desktop](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-234.md#-ai-systems---grok-bot-desktop) | AI in Real Estate and Property Tech |
 | 2026-09-01 | [AI Tools - Grok Bot Setup](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-246.md#-ai-tools---grok-bot-setup) | AI Companies and Ventures |
 | 2026-09-01 | [Grok and Robotics](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-233.md#-grok-and-robotics) | AI and Robotics Applications |
-| 2026-09-01 | [Tech - Grok Build](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-226.md#-tech---grok-build) | Founders and Entrepreneurs |

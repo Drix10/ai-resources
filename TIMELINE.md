@@ -4,6 +4,10 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 
 ## November 2026
 
+- **Nov 21** · [Dot Apple CarPlay call now available on your next drive](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-322.md#-dot-apple-carplay-call-now-available-on-your-next-drive) <sub>CS Academics</sub>
+- **Nov 21** · [MedChemBench release – GPT-6.2 Astra scores 84.5%](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-314.md#-medchembench-release--gpt-62-astra-scores-845) <sub>Tech VIPs</sub>
+- **Nov 21** · [NVIDIA Nemotron 3.5 30B A3B Fractal 64 CPU GGUF launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-304.md#-nvidia-nemotron-35-30b-a3b-fractal-64-cpu-gguf-launch) <sub>AI Organizations and Media</sub>
+- **Nov 20** · [Inkling 2 Mini launch with 26B parameters and AA Index 20.1](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-304.md#-inkling-2-mini-launch-with-26b-parameters-and-aa-index-201) <sub>AI Organizations and Media</sub>
 - **Nov 20** · [Kling Image 4.0 now available in ComfyUI with 8k support](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-291.md#-kling-image-40-now-available-in-comfyui-with-8k-support) <sub>AI Holodeck and Virtual Worlds</sub>
 - **Nov 20** · [Market Dash v1 launch announced, continuation with Opus 5.5](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-284.md#-market-dash-v1-launch-announced-continuation-with-opus-55) <sub>AI Professionals and Community</sub>
 - **Nov 20** · [Superhuman Go 1.0 launch million users in August](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-281.md#-superhuman-go-10-launch-million-users-in-august) <sub>AI for Content Creation and Marketing</sub>
@@ -221,7 +225,3 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 - **Apr 25** · [OpenAI API - GPT-5.5 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-183.md#-openai-api---gpt-55-release) <sub>AI Consulting and Expertise</sub>
 - **Apr 25** · [GBrain Vision - Open-Source AI and Gemini Live](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-154.md#-gbrain-vision---open-source-ai-and-gemini-live) <sub>Tech Journalists and VIPs</sub>
 - **Apr 24** · [AI Models - DeepSeek V4 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-174.md#-ai-models---deepseek-v4-release) <sub>AI and Robotics Applications</sub>
-- **Apr 23** · [GPT-5.5 - Initial Release Impressions](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-182.md#-gpt-55---initial-release-impressions) <sub>AI Consulting and Expertise</sub>
-- **Apr 22** · [Ray-Ban Meta Smart Glasses - Singapore Retail Launch](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-166.md#-ray-ban-meta-smart-glasses---singapore-retail-launch) <sub>Interesting Finds</sub>
-- **Apr 17** · [OctOpus - Version 4.7 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-172.md#-octopus---version-47-release) <sub>AI Leaders and Thinkers</sub>
-- **Apr 9** · [OpenAI Model Release - "Spud" Clarification](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-166.md#-openai-model-release---spud-clarification) <sub>AI Professionals and Community</sub>
