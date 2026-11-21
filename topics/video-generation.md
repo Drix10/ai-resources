@@ -1,12 +1,15 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 828 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 831 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [Affogato MCP10 launch – cheat-code style access to video generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-309.md#-affogato-mcp10-launch--cheat-code-style-access-to-video-generation) | AI Companies and Ventures |
+| 2026-11-21 | [Echoith music video generator progress since September](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-292.md#-echoith-music-video-generator-progress-since-september) | AI Generated Music and Audio |
 | 2026-11-20 | [Kling Image 4.0 now available in ComfyUI with 8k support](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-291.md#-kling-image-40-now-available-in-comfyui-with-8k-support) | AI Holodeck and Virtual Worlds |
+| 2026-11-20 | [FastFrames video generation at 36 ms per frame](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-282.md#-fastframes-video-generation-at-36-ms-per-frame) | AI Consulting and Expertise |
 | 2026-11-20 | [Pictory MCP links Claude for AI video creation](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-281.md#-pictory-mcp-links-claude-for-ai-video-creation) | AI for Content Creation and Marketing |
 | 2026-11-19 | [Soundverse AI – Rakhi Bani Rockstar 200M views](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-290.md#-soundverse-ai--rakhi-bani-rockstar-200m-views) | AI Generated Music and Audio |
 | 2026-11-19 | [Kling Image 4.0 launch with 8K detail and tighter prompt accuracy](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-281.md#-kling-image-40-launch-with-8k-detail-and-tighter-prompt-accuracy) | AI Artists and Creators |
@@ -103,6 +106,3 @@ Models and tools that make video. The 100 newest of 828 briefings that mention i
 | 2026-08-18 | [Speech Animation - AnyTalk Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-232.md#-speech-animation---anytalk-model) | AI Generated Music and Audio |
 | 2026-07-09 | [AI Model Integration - Image/Video Generation Workflow](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-224.md#-ai-model-integration---imagevideo-generation-workflow) | AI Artists and Creators |
 | 2026-07-08 | [Runway Dev - AI Media Platform](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-220.md#-runway-dev---ai-media-platform) | AI Companies and Ventures |
-| 2026-07-08 | [AI Video Generation - NemoVideo](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-211.md#-ai-video-generation---nemovideo) | AI Holodeck and Virtual Worlds |
-| 2026-07-08 | [AI Video Generation - Agentic Loops](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-200.md#-ai-video-generation---agentic-loops) | Computer Vision and AI Applications |
-| 2026-07-07 | [AI Video Creation - Seedance 2.0](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-212.md#-ai-video-creation---seedance-20) | AI Holodeck and Virtual Worlds |

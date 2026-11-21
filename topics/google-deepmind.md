@@ -1,12 +1,14 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 986 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 988 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [Google Gemini 4 Neon tweaks Apple Depth Pro 2 for normal map generator](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-278.md#-google-gemini-4-neon-tweaks-apple-depth-pro-2-for-normal-map-generator) | AR VR Companies and Development |
 | 2026-11-20 | [Gemini 4 Neon highest-performing model, up to 10× cheaper](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-312.md#-gemini-4-neon-highest-performing-model-up-to-10-cheaper) | Devs, Designers, DevRel |
+| 2026-11-20 | [bison-1 and groundhog-1 released with 128k context and multimodal support](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-304.md#-bison-1-and-groundhog-1-released-with-128k-context-and-multimodal-support) | AI Organizations and Media |
 | 2026-11-20 | [Gemini 4 Neon on Snowflake Cortex AI adds multi-file edits, 2.45% task shortcut](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-275.md#-gemini-4-neon-on-snowflake-cortex-ai-adds-multi-file-edits-245-task-shortcut) | AI in Enterprise Applications |
 | 2026-11-20 | [Gemini Neon on Abacus AI Agent – new complex agent](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-271.md#-gemini-neon-on-abacus-ai-agent--new-complex-agent) | The Exponential Future |
 | 2026-11-19 | [Genie 4 – interactive environment features launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-307.md#-genie-4--interactive-environment-features-launch) | AI Companies and Ventures |
@@ -104,5 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-10-01 | [AI & Tech News - AI Model Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-279.md#-ai--tech-news---ai-model-performance) | AI Leaders and Thinkers |
 | 2026-10-01 | [Tech News - Google Cloud Updates](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-262.md#-tech-news---google-cloud-updates) | Tech Infrastructure |
 | 2026-10-01 | [AI & Tech News - Gemini 4 Argon](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-259.md#-ai--tech-news---gemini-4-argon) | AI Consulting and Expertise |
-| 2026-09-30 | [AI Model Access](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-253.md#-ai-model-access) | AI for Content Creation and Marketing |
-| 2026-09-29 | [SOTA in S2S Models - FarazMSiddiqi](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-265.md#-sota-in-s2s-models---farazmsiddiqi) | AI Generated Music and Audio |

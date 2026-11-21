@@ -1,14 +1,18 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,127 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,131 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [DMAChannel and Quadratic Framing boost GPU graphics](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-313.md#-dmachannel-and-quadratic-framing-boost-gpu-graphics) | Devs, Designers, DevRel |
+| 2026-11-21 | [Hierarchy-GBP adds multigrid for pose graph optimisation on multicore CPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-286.md#-hierarchy-gbp-adds-multigrid-for-pose-graph-optimisation-on-multicore-cpus) | AI Driven Vehicles and Transportation |
+| 2026-11-21 | [Anthropic IPO, Nvidia Q3 results, TSMC $500M AI fund](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-248.md#-anthropic-ipo-nvidia-q3-results-tsmc-500m-ai-fund) | Tech Companies and News |
 | 2026-11-20 | [Alibaba Qwen model training on T-Head chips, GPU roadmap](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-303.md#-alibaba-qwen-model-training-on-t-head-chips-gpu-roadmap) | AI Organizations and Media |
 | 2026-11-20 | [H100 ray tracing 3x RTX 5090 without RT cores](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-278.md#-h100-ray-tracing-3x-rtx-5090-without-rt-cores) | Computer Vision and AI Applications |
 | 2026-11-20 | [SMIC AI wafer allocation, Alibaba moves to SMIC](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-274.md#-smic-ai-wafer-allocation-alibaba-moves-to-smic) | AI Policy and Ethical Considerations |
+| 2026-11-20 | [Starcloud builds first space data center for $2.5M](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-251.md#-starcloud-builds-first-space-data-center-for-25m) | Tech Journalists and VIPs |
 | 2026-11-19 | [Bend: A Linear Proof Language That Matches C Performance and Runs on GPUs](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-321.md#-bend-a-linear-proof-language-that-matches-c-performance-and-runs-on-gpus) | CS Academics |
 | 2026-11-19 | [Marin Mochi 535B checkpoint release with 57 intermediate checkpoints](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-320.md#-marin-mochi-535b-checkpoint-release-with-57-intermediate-checkpoints) | CS Academics |
 | 2026-11-19 | [PMPP-Hard trains models for fast GPU kernels, 69 tasks](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-285.md#-pmpp-hard-trains-models-for-fast-gpu-kernels-69-tasks) | AI Driven Vehicles and Transportation |
@@ -102,7 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,127 briefings tha
 | 2026-11-03 | [Revolut moves 2,000 engineers to self-hosted GLM, uses 56 Nvidia B200s](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-297.md#-revolut-moves-2000-engineers-to-self-hosted-glm-uses-56-nvidia-b200s) | AI Leaders and Thinkers |
 | 2026-11-03 | [Elon Musk AI chips vs power wall by end of 2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-297.md#-elon-musk-ai-chips-vs-power-wall-by-end-of-2026) | AI Leaders and Thinkers |
 | 2026-11-03 | [8xMI300x GPU – $3.39/hr with 8-hour minimum](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-295.md#-8xmi300x-gpu--339hr-with-8-hour-minimum) | AI Companies and Ventures |
-| 2026-11-03 | [Formalizing PTX in Lean to Prove GPU Kernel Correctness](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-275.md#-formalizing-ptx-in-lean-to-prove-gpu-kernel-correctness) | AI Driven Vehicles and Transportation |
-| 2026-11-03 | [XLA from the Trenches: Correctness on TPU Workloads](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-275.md#-xla-from-the-trenches-correctness-on-tpu-workloads) | AI Driven Vehicles and Transportation |
-| 2026-11-03 | [Revolut moves 2k engineers to self-hosted GLM](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-275.md#-revolut-moves-2k-engineers-to-self-hosted-glm) | Tech Infrastructure |
-| 2026-11-03 | [vLLM platform layers added: tenant keys, routing, GPU scheduling](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-275.md#-vllm-platform-layers-added-tenant-keys-routing-gpu-scheduling) | Tech Infrastructure |

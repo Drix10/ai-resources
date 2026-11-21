@@ -1,11 +1,13 @@
 # Hugging Face
 
-Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 229 briefings that mention it, from every category, newest first.
+Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 231 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [Qwen3.8-27B LoRA adapter improves coding benchmarks, cuts agent turns](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-283.md#-qwen38-27b-lora-adapter-improves-coding-benchmarks-cuts-agent-turns) | AI Artists and Creators |
+| 2026-11-21 | [Inkling 2 Mini launch with 26.4B parameters](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-272.md#-inkling-2-mini-launch-with-264b-parameters) | The Exponential Future |
 | 2026-11-19 | [Clairic released on HuggingFace by Cloudflare](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-319.md#-clairic-released-on-huggingface-by-cloudflare) | AI Developer Tools |
 | 2026-11-19 | [Speech-to-text model released free, 0.6B params, 600MB size](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-274.md#-speech-to-text-model-released-free-06b-params-600mb-size) | AI in Enterprise Applications |
 | 2026-11-17 | [NVIDIA 10,000 OpenUSD objects released on Hugging Face](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-308.md#-nvidia-10000-openusd-objects-released-on-hugging-face) | AI Leaders and Thinkers |
@@ -104,5 +106,3 @@ Hugging Face: the Hub, its libraries and the models shared there. The 100 newest
 | 2025-08-08 | [BlockAssist Training - Discord Role Announcement](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-091.md#-blockassist-training---discord-role-announcement) | Decentralized AI |
 | 2025-07-12 | [Robotics - Open-Source Robotic Hand](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-087.md#-robotics---open-source-robotic-hand) | AI and Robotics Applications |
 | 2025-07-09 | [Robotics - EgoExo Forge Introduction](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-085.md#-robotics---egoexo-forge-introduction) | Computer Vision and AI Applications |
-| 2025-07-09 | [Robotics - Reachy Mini Robot](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-085.md#-robotics---reachy-mini-robot) | Computer Vision and AI Applications |
-| 2025-06-23 | [AI-Powered Code Editors and AI Building](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-070.md#-ai-powered-code-editors-and-ai-building) | Tech Journalists and VIPs |

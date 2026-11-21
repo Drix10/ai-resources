@@ -1,14 +1,20 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 263 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 269 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [Qwen 3.8 Flash Next – 180B model, ~6B active per token](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-285.md#-qwen-38-flash-next--180b-model-6b-active-per-token) | AI Professionals and Community |
+| 2026-11-21 | [Qwen3.8-35B-A3B runs at 50 tokens/s on RTX 3060 12GB VRAM](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-283.md#-qwen38-35b-a3b-runs-at-50-tokenss-on-rtx-3060-12gb-vram) | AI Artists and Creators |
+| 2026-11-21 | [Qwen3.8-27B LoRA adapter improves coding benchmarks, cuts agent turns](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-283.md#-qwen38-27b-lora-adapter-improves-coding-benchmarks-cuts-agent-turns) | AI Artists and Creators |
+| 2026-11-21 | [Bonsai 2 compresses Qwen3.8-27B to 5.9GB, 98.2% retention](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-283.md#-bonsai-2-compresses-qwen38-27b-to-59gb-982-retention) | AI Artists and Creators |
+| 2026-11-21 | [Heave-Ho Unitree G1 teamwork scaled to 10 robots](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-253.md#-heave-ho-unitree-g1-teamwork-scaled-to-10-robots) | Spatial Computing |
 | 2026-11-20 | [MCTS Is Counting the Wrong Thing: Learning Exploration Counts for LLM Reasoning](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-303.md#-mcts-is-counting-the-wrong-thing-learning-exploration-counts-for-llm-reasoning) | AI Organizations and Media |
 | 2026-11-20 | [Alibaba Qwen model training on T-Head chips, GPU roadmap](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-303.md#-alibaba-qwen-model-training-on-t-head-chips-gpu-roadmap) | AI Organizations and Media |
 | 2026-11-20 | [SMIC AI wafer allocation, Alibaba moves to SMIC](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-274.md#-smic-ai-wafer-allocation-alibaba-moves-to-smic) | AI Policy and Ethical Considerations |
+| 2026-11-20 | [Inkling 2 Mini launch with 1M context and 20GB size](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-271.md#-inkling-2-mini-launch-with-1m-context-and-20gb-size) | Decentralized AI |
 | 2026-11-18 | [TensorFold 1.2.10 adds background responses, launch, rm](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-248.md#-tensorfold-1210-adds-background-responses-launch-rm) | Cybersecurity and Tech |
 | 2026-11-17 | [Qwen3.8-27B harness adapter release improves SWE-Bench Pro pass@1 to 63%](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-319.md#-qwen38-27b-harness-adapter-release-improves-swe-bench-pro-pass1-to-63) | CS Academics |
 | 2026-11-16 | [Qwen4-Max launch with MoE, vision and 1M-token context](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-284.md#-qwen4-max-launch-with-moe-vision-and-1m-token-context) | Tech Infrastructure |
@@ -100,9 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 263 briefings that mention i
 | 2026-09-21 | [Qwen3.8-27B: Unsupervised CUDA Inference Engine](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-278.md#-qwen38-27b-unsupervised-cuda-inference-engine) | Devs, Designers, DevRel |
 | 2026-09-21 | [Qwen Image 2.1 - Dino Drawing](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-219.md#-qwen-image-21---dino-drawing) | Spatial Computing |
 | 2026-09-21 | [Inference Stack for Open Frontier Models](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-219.md#-inference-stack-for-open-frontier-models) | Tech Journalists and VIPs |
-| 2026-09-20 | [Qwen Image 2.1: Native Image Generation and Editing Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-274.md#-qwen-image-21-native-image-generation-and-editing-model) | AI Developer Tools |
-| 2026-09-19 | [AI - Qwen3.8-27B at 144 tok/s on an M5 Max MacBook Pro](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-268.md#-ai---qwen38-27b-at-144-toks-on-an-m5-max-macbook-pro) | VC Firms |
-| 2026-09-19 | [AI Model Performance - Compressed LLMs](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-252.md#-ai-model-performance---compressed-llms) | AI Artists and Creators |
-| 2026-09-19 | [AI Model Performance - Ternary Bonsai 2 27B](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-252.md#-ai-model-performance---ternary-bonsai-2-27b) | AI Artists and Creators |
-| 2026-09-19 | [Qwen3.8-27B: 144 tok/sec on M5 Max](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-240.md#qwen38-27b-144-toksec-on-m5-max) | Computer Vision and AI Applications |
-| 2026-09-19 | [Splash: 144 tok/sec on M5 Max](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-240.md#-splash-144-toksec-on-m5-max) | Computer Vision and AI Applications |
