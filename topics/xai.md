@@ -1,11 +1,13 @@
 # xAI
 
-xAI and Grok. The 100 newest of 646 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 648 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Suno AI video creation tool integration with Grok Bot via MCP](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-315.md#-suno-ai-video-creation-tool-integration-with-grok-bot-via-mcp) | Tech VIPs |
+| 2026-11-22 | [Grok Build rename and CLI 2.0 alpha release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-277.md#-grok-build-rename-and-cli-20-alpha-release) | AR VR Professionals and Community |
 | 2026-11-21 | [ai_timon demo videos released showing auto-switch to GPT](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-276.md#-ai_timon-demo-videos-released-showing-auto-switch-to-gpt) | AI in Enterprise Applications |
 | 2026-11-20 | [FSD v15 and Grok 4.8 adopt larger models, rewrite stack](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-287.md#-fsd-v15-and-grok-48-adopt-larger-models-rewrite-stack) | Tech Infrastructure |
 | 2026-11-19 | [Honcho connects Hermes Codex Claude Code Grok Bot](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-319.md#-honcho-connects-hermes-codex-claude-code-grok-bot) | AI Developer Tools |
@@ -104,5 +106,3 @@ xAI and Grok. The 100 newest of 646 briefings that mention it, from every catego
 | 2026-09-04 | [OSS Team - Shared MD Files for Bots](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-256.md#-oss-team---shared-md-files-for-bots) | AI Developer Tools |
 | 2026-09-04 | [AI System Crashes](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-234.md#-ai-system-crashes) | AI Professionals and Community |
 | 2026-09-04 | [AI Systems - Grok Bot Desktop](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-234.md#-ai-systems---grok-bot-desktop) | AI in Real Estate and Property Tech |
-| 2026-09-01 | [AI Tools - Grok Bot Setup](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-246.md#-ai-tools---grok-bot-setup) | AI Companies and Ventures |
-| 2026-09-01 | [Grok and Robotics](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-233.md#-grok-and-robotics) | AI and Robotics Applications |

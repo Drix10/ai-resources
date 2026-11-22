@@ -1,13 +1,16 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,528 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,532 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [SMURF by ORCAUBOAT autonomous surface-cleaning robot announced](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-291.md#-smurf-by-orcauboat-autonomous-surface-cleaning-robot-announced) | AI and Robotics Applications |
+| 2026-11-22 | [Humble Robotics autonomous cabless truck announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-287.md#-humble-robotics-autonomous-cabless-truck-announced) | AI Driven Vehicles and Transportation |
 | 2026-11-21 | [GPT-6.2 Astra reaches #1 in RoboColosseum SO-101 rankings](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-322.md#-gpt-62-astra-reaches-1-in-robocolosseum-so-101-rankings) | CS Academics |
 | 2026-11-21 | [DEEP Robotics LYNX 24/7 inspections at cattle farm](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-309.md#-deep-robotics-lynx-247-inspections-at-cattle-farm) | AI Companies and Ventures |
+| 2026-11-21 | [mjlab_hand open-sourced with dexterous manipulation tasks](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-291.md#-mjlab_hand-open-sourced-with-dexterous-manipulation-tasks) | AI and Robotics Applications |
 | 2026-11-21 | [Heave-Ho decentralized multi-humanoid collaboration scales to 10 robots](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-290.md#-heave-ho-decentralized-multi-humanoid-collaboration-scales-to-10-robots) | AI and Robotics Applications |
 | 2026-11-21 | [Opt2VLA force-aware vision-language-action system](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-290.md#-opt2vla-force-aware-vision-language-action-system) | AI and Robotics Applications |
 | 2026-11-21 | [Making Future-Predictive Representations Actionable - paper announced](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-290.md#-making-future-predictive-representations-actionable---paper-announced) | AI and Robotics Applications |
@@ -17,6 +20,7 @@ Robots, humanoids and robot learning. The 100 newest of 2,528 briefings that men
 | 2026-11-20 | [Getting Robot-Use Agents to Run in Real Time – speed gains reported](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-289.md#-getting-robot-use-agents-to-run-in-real-time--speed-gains-reported) | AI and Robotics Applications |
 | 2026-11-20 | [LuxTac touch sensor raises peg insertion to 13/15](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-289.md#-luxtac-touch-sensor-raises-peg-insertion-to-1315) | AI and Robotics Applications |
 | 2026-11-20 | [AI Search Visibility Audit $79 and NEO Humanoid Robot News](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-289.md#-ai-search-visibility-audit-79-and-neo-humanoid-robot-news) | AI and Robotics Applications |
+| 2026-11-20 | [Hierarchy-GBP adds multigrid for faster long-range message passing on CPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-287.md#-hierarchy-gbp-adds-multigrid-for-faster-long-range-message-passing-on-cpus) | AI Driven Vehicles and Transportation |
 | 2026-11-20 | [Grana compositional reward model improves robot success rates](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-286.md#-grana-compositional-reward-model-improves-robot-success-rates) | AI Driven Vehicles and Transportation |
 | 2026-11-20 | [Waddle-1 scores 81% on RoboDojo-RC Tier 1 benchmark](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-251.md#-waddle-1-scores-81-on-robodojo-rc-tier-1-benchmark) | Tech Journalists and VIPs |
 | 2026-11-19 | [HandSim robot simulator for Meta Quest launches with hand tracking](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-309.md#-handsim-robot-simulator-for-meta-quest-launches-with-hand-tracking) | AI Leaders and Thinkers |
@@ -102,7 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,528 briefings that men
 | 2026-11-03 | [DVA robot learns mobility and manipulation in 15 minutes](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-278.md#-dva-robot-learns-mobility-and-manipulation-in-15-minutes) | AI and Robotics Applications |
 | 2026-11-03 | [DynaSolver announced with 11.4% lower rollout error](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-274.md#-dynasolver-announced-with-114-lower-rollout-error) | AI Driven Vehicles and Transportation |
 | 2026-11-02 | [Conversations in Action episode #21 released](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-299.md#-conversations-in-action-episode-21-released) | Tech VIPs |
-| 2026-11-02 | [Optimus robots production forecast 50k units per year impact](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-297.md#-optimus-robots-production-forecast-50k-units-per-year-impact) | VC Firms |
-| 2026-11-02 | [Open Robotics build farm handles Rust dependencies](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-290.md#-open-robotics-build-farm-handles-rust-dependencies) | AI Organizations and Media |
-| 2026-11-02 | [RoboColosseum announced, models to be tested on robots in 48 hours](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-278.md#-robocolosseum-announced-models-to-be-tested-on-robots-in-48-hours) | AI and Robotics Applications |
-| 2026-11-02 | [3D World Simulator launches with 50+ FPS RTX 5090 performance](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-277.md#-3d-world-simulator-launches-with-50-fps-rtx-5090-performance) | AI and Robotics Applications |

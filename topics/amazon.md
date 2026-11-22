@@ -1,11 +1,12 @@
 # Amazon & AWS
 
-Amazon, AWS, Bedrock and Alexa. The 100 newest of 408 briefings that mention it, from every category, newest first.
+Amazon, AWS, Bedrock and Alexa. The 100 newest of 409 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [AWS F2 FPGA LLM inference engine 213 tps using AI agents](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-314.md#-aws-f2-fpga-llm-inference-engine-213-tps-using-ai-agents) | Devs, Designers, DevRel |
 | 2026-11-20 | [Trainium compiler achieves SOTA speed and cost for Flux models](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-310.md#-trainium-compiler-achieves-sota-speed-and-cost-for-flux-models) | AI Leaders and Thinkers |
 | 2026-11-19 | [Neurosymbolic Agents Explained With a Python Example – Benchmarks Reported](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-320.md#-neurosymbolic-agents-explained-with-a-python-example--benchmarks-reported) | CS Academics |
 | 2026-11-19 | [AWS IAM permission error for s3:ListBucket on paw-prod-1-ui](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-286.md#-aws-iam-permission-error-for-s3listbucket-on-paw-prod-1-ui) | Tech Infrastructure |
@@ -105,4 +106,3 @@ Amazon, AWS, Bedrock and Alexa. The 100 newest of 408 briefings that mention it,
 | 2026-05-14 | [Business Insights - Amazon and Andy Jassy Profile](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-208.md#-business-insights---amazon-and-andy-jassy-profile) | Tech VIPs |
 | 2026-05-14 | [Product Evolution - AI Assistant Transition](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-194.md#-product-evolution---ai-assistant-transition) | AI Policy and Ethical Considerations |
 | 2026-05-13 | [Machine Learning - Data Extraction from Financial Documents](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-167.md#-machine-learning---data-extraction-from-financial-documents) | Tech Journalists and VIPs |
-| 2026-05-12 | [NBA Event - AWS NBA Draft Combine](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-220.md#-nba-event---aws-nba-draft-combine) | CS Academics |

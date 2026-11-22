@@ -1,11 +1,13 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,244 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,246 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Nucleovir Therapeutics AI virus preclinical trial start](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-313.md#-nucleovir-therapeutics-ai-virus-preclinical-trial-start) | VC Firms |
+| 2026-11-22 | [LeonardoAi gets GPUs in days, then acquired by Canva](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-272.md#-leonardoai-gets-gpus-in-days-then-acquired-by-canva) | Decentralized AI |
 | 2026-11-21 | [Scoops peanut butter protein powder Target launch hits $400k sales](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-254.md#-scoops-peanut-butter-protein-powder-target-launch-hits-400k-sales) | PR and Communications |
 | 2026-11-20 | [Mailchimp acquisition deal for $3.68 billion](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-275.md#-mailchimp-acquisition-deal-for-368-billion) | AI in Enterprise Applications |
 | 2026-11-20 | [Mailchimp acquisition $3.68 billion by Intuit](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-265.md#-mailchimp-acquisition-368-billion-by-intuit) | Investors and Venture Capital |
@@ -104,5 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,244 briefings that mention it, fro
 | 2026-10-29 | [LivePerson chat inventor raises $10.3M to kill chat box](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-268.md#-liveperson-chat-inventor-raises-103m-to-kill-chat-box) | AI Consulting and Expertise |
 | 2026-10-29 | [Coveo acquires Anglera, adds product data enrichment](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-267.md#-coveo-acquires-anglera-adds-product-data-enrichment) | AI for Content Creation and Marketing |
 | 2026-10-29 | [Space Force seeks cislunar spacecraft by 2029](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-space-force-seeks-cislunar-spacecraft-by-2029) | Interesting Finds |
-| 2026-10-29 | [Dream AI world model launch with $17M seed funding](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-242.md#-dream-ai-world-model-launch-with-17m-seed-funding) | PR and Communications |
-| 2026-10-29 | [Nvidia Hugging Face purchase $12.93B faces inquiry](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-nvidia-hugging-face-purchase-1293b-faces-inquiry) | Spatial Computing |

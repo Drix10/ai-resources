@@ -1,11 +1,14 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,328 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,331 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Fungi open-source alternative to Claude Code and Codex announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-289.md#-fungi-open-source-alternative-to-claude-code-and-codex-announced) | Tech Infrastructure |
+| 2026-11-22 | [Gemini Neon video storyboard output selection 4 from Neon 1 from ChatGPT](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-283.md#-gemini-neon-video-storyboard-output-selection-4-from-neon-1-from-chatgpt) | AI Consulting and Expertise |
+| 2026-11-21 | [Arena Alignment Index: OpenAI holds all seven top spots](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-323.md#-arena-alignment-index-openai-holds-all-seven-top-spots) | CS Academics |
 | 2026-11-21 | [GPT-6.2 Astra reaches #1 in RoboColosseum SO-101 rankings](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-322.md#-gpt-62-astra-reaches-1-in-robocolosseum-so-101-rankings) | CS Academics |
 | 2026-11-21 | [GPT-6 Cyber finds 81 Firefox flaws and 948 Linux exploits](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-321.md#-gpt-6-cyber-finds-81-firefox-flaws-and-948-linux-exploits) | AI Developer Tools |
 | 2026-11-21 | [MedChemBench release – GPT-6.2 Astra scores 84.5%](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-314.md#-medchembench-release--gpt-62-astra-scores-845) | Tech VIPs |
@@ -103,6 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,328 briefings t
 | 2026-11-05 | [Voice AI Benchmarks - Cekura Bench launched for STT/TTS](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-262.md#-voice-ai-benchmarks---cekura-bench-launched-for-stttts) | The Exponential Future |
 | 2026-11-05 | [GPT-6 Cyber announced, powers Linux kernel research](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-260.md#-gpt-6-cyber-announced-powers-linux-kernel-research) | Crypto and Web3 |
 | 2026-11-05 | [ChatGPT Search 20% of Google Search announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-239.md#-chatgpt-search-20-of-google-search-announced) | Tech Companies and News |
-| 2026-11-04 | [Soundverse adds ChatGPT integration via custom MCP server](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-281.md#-soundverse-adds-chatgpt-integration-via-custom-mcp-server) | AI Generated Music and Audio |
-| 2026-11-03 | [FlashAttention – Fast and Memory-Efficient Exact Attention with IO-Awareness](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-309.md#-flashattention--fast-and-memory-efficient-exact-attention-with-io-awareness) | CS Academics |
-| 2026-11-03 | [OpenAI sprint with Cathedral Systems, $172k bounty](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-308.md#-openai-sprint-with-cathedral-systems-172k-bounty) | CS Academics |

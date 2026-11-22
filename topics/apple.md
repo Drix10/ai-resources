@@ -1,14 +1,18 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 685 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 689 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Nvidia loses $2.6T market cap, falls to fourth](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-305.md#-nvidia-loses-26t-market-cap-falls-to-fourth) | AI Organizations and Media |
+| 2026-11-22 | [Gemini Mac app adds computer use across apps, requires Apple Silicon](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-289.md#-gemini-mac-app-adds-computer-use-across-apps-requires-apple-silicon) | Tech Infrastructure |
 | 2026-11-21 | [Dot Apple CarPlay call now available on your next drive](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-322.md#-dot-apple-carplay-call-now-available-on-your-next-drive) | CS Academics |
+| 2026-11-21 | [Soundverse AI Voice to Instrument adds tabla generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-293.md#-soundverse-ai-voice-to-instrument-adds-tabla-generation) | AI Generated Music and Audio |
 | 2026-11-21 | [Apple ACE3 USB-C controller enables debug via VDMs](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-288.md#-apple-ace3-usb-c-controller-enables-debug-via-vdms) | Tech Infrastructure |
 | 2026-11-21 | [Google Gemini 4 Neon tweaks Apple Depth Pro 2 for normal map generator](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-278.md#-google-gemini-4-neon-tweaks-apple-depth-pro-2-for-normal-map-generator) | AR VR Companies and Development |
+| 2026-11-20 | [Depth Pro 2 released, clean depth on indoor frames](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-279.md#-depth-pro-2-released-clean-depth-on-indoor-frames) | AR VR Companies and Development |
 | 2026-11-20 | [Dot integration with Apple CarPlay announced](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-278.md#-dot-integration-with-apple-carplay-announced) | AR VR Companies and Development |
 | 2026-11-20 | [ThreeRT path tracing for three.js games launches with 60 fps real-time ray tracing](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-272.md#-threert-path-tracing-for-threejs-games-launches-with-60-fps-real-time-ray-tracing) | AI in Real Estate and Property Tech |
 | 2026-11-19 | [Anthropic needs $602B annual revenue for 20% return](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-320.md#-anthropic-needs-602b-annual-revenue-for-20-return) | CS Academics |
@@ -102,7 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 685 br
 | 2026-09-22 | [Tech - Mac Studio M5 Ultra vs Spark](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-270.md#-tech---mac-studio-m5-ultra-vs-spark) | AI Leaders and Thinkers |
 | 2026-09-22 | [AI Engineering - The Road to Driverless Robotaxis](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-250.md#-ai-engineering---the-road-to-driverless-robotaxis) | AI Driven Vehicles and Transportation |
 | 2026-09-22 | [Mobile - Favorite Indie Apps for iOS 27](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-220.md#-mobile---favorite-indie-apps-for-ios-27) | Spatial Computing |
-| 2026-09-22 | [AI/ML - seeMote Cube](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-220.md#-aiml---seemote-cube) | Spatial Computing |
-| 2026-09-21 | [Open Source](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-277.md#-open-source) | AI Developer Tools |
-| 2026-09-21 | [Category - iPhone Evolution](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-267.md#-category---iphone-evolution) | AI Leaders and Thinkers |
-| 2026-09-21 | [Meet Husky: A Model-Specific Inference Engine](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-244.md#meet-husky-a-model-specific-inference-engine) | Computer Vision and AI Applications |

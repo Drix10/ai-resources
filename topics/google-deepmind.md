@@ -1,14 +1,23 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 988 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 997 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Gemini 4 Neon rollout announced with focus on usability and steerability](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-323.md#-gemini-4-neon-rollout-announced-with-focus-on-usability-and-steerability) | CS Academics |
+| 2026-11-22 | [GateWatch: Low-Overhead LLM Monitoring hits 80.49% accuracy](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-305.md#-gatewatch-low-overhead-llm-monitoring-hits-8049-accuracy) | AI Organizations and Media |
+| 2026-11-22 | [Fable 5.2, Gemini Neon, Sol 6.2 top, now in Crayon](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-293.md#-fable-52-gemini-neon-sol-62-top-now-in-crayon) | AI Holodeck and Virtual Worlds |
+| 2026-11-22 | [Gemini Mac app adds computer use across apps, requires Apple Silicon](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-289.md#-gemini-mac-app-adds-computer-use-across-apps-requires-apple-silicon) | Tech Infrastructure |
+| 2026-11-22 | [Gemini Neon video storyboard output selection 4 from Neon 1 from ChatGPT](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-283.md#-gemini-neon-video-storyboard-output-selection-4-from-neon-1-from-chatgpt) | AI Consulting and Expertise |
+| 2026-11-21 | [Gemini Neon launch described as “approaching” frontier models](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-323.md#-gemini-neon-launch-described-as-approaching-frontier-models) | CS Academics |
+| 2026-11-21 | [Gemini 4 Neon runs ONNX models locally without GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-291.md#-gemini-4-neon-runs-onnx-models-locally-without-gpu) | AI and Robotics Applications |
+| 2026-11-21 | [Lory-27B v2 and Lory-4B v2 released, Lory-27B scores 80 on blind test](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-288.md#-lory-27b-v2-and-lory-4b-v2-released-lory-27b-scores-80-on-blind-test) | AI Education |
 | 2026-11-21 | [Google Gemini 4 Neon tweaks Apple Depth Pro 2 for normal map generator](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-278.md#-google-gemini-4-neon-tweaks-apple-depth-pro-2-for-normal-map-generator) | AR VR Companies and Development |
 | 2026-11-20 | [Gemini 4 Neon highest-performing model, up to 10× cheaper](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-312.md#-gemini-4-neon-highest-performing-model-up-to-10-cheaper) | Devs, Designers, DevRel |
 | 2026-11-20 | [bison-1 and groundhog-1 released with 128k context and multimodal support](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-304.md#-bison-1-and-groundhog-1-released-with-128k-context-and-multimodal-support) | AI Organizations and Media |
+| 2026-11-20 | [HeyGen Decision 1 API launch with 50% off speed claims](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-283.md#-heygen-decision-1-api-launch-with-50-off-speed-claims) | AI for Content Creation and Marketing |
 | 2026-11-20 | [Gemini 4 Neon on Snowflake Cortex AI adds multi-file edits, 2.45% task shortcut](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-275.md#-gemini-4-neon-on-snowflake-cortex-ai-adds-multi-file-edits-245-task-shortcut) | AI in Enterprise Applications |
 | 2026-11-20 | [Gemini Neon on Abacus AI Agent – new complex agent](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-271.md#-gemini-neon-on-abacus-ai-agent--new-complex-agent) | The Exponential Future |
 | 2026-11-19 | [Genie 4 – interactive environment features launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-307.md#-genie-4--interactive-environment-features-launch) | AI Companies and Ventures |
@@ -97,12 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-10-07 | [Gemini 4 Argon pricing announcement by Google](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-256.md#-gemini-4-argon-pricing-announcement-by-google) | AI for Content Creation and Marketing |
 | 2026-10-05 | [Tech News - Google TV Streamer](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-299.md#-tech-news---google-tv-streamer) | CS Academics |
 | 2026-10-05 | [AI & Robotics - Long Horizon Summit](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-288.md#-ai--robotics---long-horizon-summit) | AI Developer Tools |
-| 2026-10-05 | [AI & Robotics - Long Horizon Summit Speakers](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-288.md#-ai--robotics---long-horizon-summit-speakers) | AI Developer Tools |
-| 2026-10-05 | [AI Model Comparison - Token Limitations](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-255.md#-ai-model-comparison---token-limitations) | AI for Content Creation and Marketing |
-| 2026-10-05 | [AI Model Comparison - Intelligence Index](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-255.md#-ai-model-comparison---intelligence-index) | AI for Content Creation and Marketing |
-| 2026-10-01 | [AI - Production-Ready AI Agents](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-298.md#-ai---production-ready-ai-agents) | CS Academics |
-| 2026-10-01 | [AI Model - Gemini Frontier Model](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-289.md#-ai-model---gemini-frontier-model) | Devs, Designers, DevRel |
-| 2026-10-01 | [AI Model Deployment - Deploying with Gemini](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-287.md#-ai-model-deployment---deploying-with-gemini) | AI Developer Tools |
-| 2026-10-01 | [AI & Tech News - AI Model Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-279.md#-ai--tech-news---ai-model-performance) | AI Leaders and Thinkers |
-| 2026-10-01 | [Tech News - Google Cloud Updates](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-262.md#-tech-news---google-cloud-updates) | Tech Infrastructure |
-| 2026-10-01 | [AI & Tech News - Gemini 4 Argon](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-259.md#-ai--tech-news---gemini-4-argon) | AI Consulting and Expertise |

@@ -1,12 +1,17 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 451 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 456 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Suno AI video creation tool integration with Grok Bot via MCP](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-315.md#-suno-ai-video-creation-tool-integration-with-grok-bot-via-mcp) | Tech VIPs |
+| 2026-11-22 | [Copilot eight new services connect via GitHub-verified MCP connectors](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-277.md#-copilot-eight-new-services-connect-via-github-verified-mcp-connectors) | AI in Enterprise Applications |
+| 2026-11-22 | [Gearboy – cross-platform Game Boy emulator with AI debugging](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-274.md#-gearboy--cross-platform-game-boy-emulator-with-ai-debugging) | AI in Real Estate and Property Tech |
+| 2026-11-22 | [Flare announces MCP server, LayerZero DVN, EarnFLR Vault](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-270.md#-flare-announces-mcp-server-layerzero-dvn-earnflr-vault) | Crypto and Web3 |
 | 2026-11-21 | [ElevenLabs listed among top audio MCP servers 2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-292.md#-elevenlabs-listed-among-top-audio-mcp-servers-2026) | AI Generated Music and Audio |
+| 2026-11-21 | [WebMCP added to static Hugo site on GitHub Pages – 562 token query vs 99,000 token HTML](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-289.md#-webmcp-added-to-static-hugo-site-on-github-pages--562-token-query-vs-99000-token-html) | Tech Infrastructure |
 | 2026-11-21 | [Pictory MCP adds AI chat video creation feature](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-282.md#-pictory-mcp-adds-ai-chat-video-creation-feature) | AI for Content Creation and Marketing |
 | 2026-11-21 | [Godot-MCP connects AI agents to Godot editor](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-273.md#-godot-mcp-connects-ai-agents-to-godot-editor) | AI in Real Estate and Property Tech |
 | 2026-11-20 | [Pictory MCP links Claude for AI video creation](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-281.md#-pictory-mcp-links-claude-for-ai-video-creation) | AI for Content Creation and Marketing |
@@ -101,8 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-21 | [2. AI-Powered 3D Model Replacement](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-237.md#2-ai-powered-3d-model-replacement) | Investors and Venture Capital |
 | 2026-09-20 | [MCP Connection with DriftNote](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-256.md#-mcp-connection-with-driftnote) | AI Holodeck and Virtual Worlds |
 | 2026-09-19 | [AI Coding Tools - GIDEON Remote MCP Memory Server](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-271.md#-ai-coding-tools---gideon-remote-mcp-memory-server) | AI Developer Tools |
-| 2026-09-19 | [MCP Deployer by Swarms](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-263.md#-mcp-deployer-by-swarms) | AI Leaders and Thinkers |
-| 2026-09-18 | [Build Agentic Apps with GitHub Copilot SDK](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-283.md#-build-agentic-apps-with-github-copilot-sdk) | CS Academics |
-| 2026-09-18 | [AI Design - MCP for Claude Code](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-255.md#-ai-design---mcp-for-claude-code) | AI Holodeck and Virtual Worlds |
-| 2026-09-18 | [Secure Mesh of Agents](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-247.md#-secure-mesh-of-agents) | Tech Infrastructure |
-| 2026-09-18 | [Trust - Infrastructure Problem](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-245.md#-trust---infrastructure-problem) | Tech Infrastructure |

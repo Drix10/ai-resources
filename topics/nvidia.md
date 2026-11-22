@@ -1,12 +1,15 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 840 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 843 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Nvidia loses $2.6T market cap, falls to fourth](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-305.md#-nvidia-loses-26t-market-cap-falls-to-fourth) | AI Organizations and Media |
+| 2026-11-22 | [CUPID reconstructs 3D objects from a single image](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-274.md#-cupid-reconstructs-3d-objects-from-a-single-image) | AI in Real Estate and Property Tech |
 | 2026-11-21 | [NVIDIA Nemotron 3.5 30B A3B Fractal 64 CPU GGUF launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-304.md#-nvidia-nemotron-35-30b-a3b-fractal-64-cpu-gguf-launch) | AI Organizations and Media |
+| 2026-11-21 | [Gemini 4 Neon runs ONNX models locally without GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-291.md#-gemini-4-neon-runs-onnx-models-locally-without-gpu) | AI and Robotics Applications |
 | 2026-11-21 | [Anthropic IPO, Nvidia Q3 results, TSMC $500M AI fund](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-248.md#-anthropic-ipo-nvidia-q3-results-tsmc-500m-ai-fund) | Tech Companies and News |
 | 2026-11-20 | [Nvidia market loss and California subpoena over China chip claims](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-281.md#-nvidia-market-loss-and-california-subpoena-over-china-chip-claims) | AI Consulting and Expertise |
 | 2026-11-20 | [Nvidia down 40% from record after CEO ousted](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-270.md#-nvidia-down-40-from-record-after-ceo-ousted) | Decentralized AI |
@@ -103,6 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 840 briefin
 | 2026-10-29 | [Nvidia guarantees Nscale debt for 460MW data center in $45B Anthropic deal](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-269.md#-nvidia-guarantees-nscale-debt-for-460mw-data-center-in-45b-anthropic-deal) | AI Consulting and Expertise |
 | 2026-10-29 | [Into the Omniverse: Developers use AI agents with Omniverse](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-265.md#-into-the-omniverse-developers-use-ai-agents-with-omniverse) | AR VR Companies and Development |
 | 2026-10-29 | [KYEC new fab in Texas backed by $1.1B NVIDIA prepayment](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-kyec-new-fab-in-texas-backed-by-11b-nvidia-prepayment) | Interesting Finds |
-| 2026-10-29 | [NVIDIA NVDA talks to back billions of debt for NSCALE](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-nvidia-nvda-talks-to-back-billions-of-debt-for-nscale) | Interesting Finds |
-| 2026-10-29 | [Cohere investment up to $1.6B announced](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-240.md#-cohere-investment-up-to-16b-announced) | Quantum Computing |
-| 2026-10-29 | [Mac Studio 512GB RAM vs 1990s SGI $100k seat](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-239.md#-mac-studio-512gb-ram-vs-1990s-sgi-100k-seat) | Spatial Computing |
