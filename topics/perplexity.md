@@ -1,11 +1,13 @@
 # Perplexity
 
-Perplexity and Comet. The 100 newest of 123 briefings that mention it, from every category, newest first.
+Perplexity and Comet. The 100 newest of 125 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [Gemini Neon launch described as “approaching” frontier models](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-323.md#-gemini-neon-launch-described-as-approaching-frontier-models) | CS Academics |
+| 2026-11-20 | [Embed V2 Context live on OpenRouter 9B and 0.6B sizes](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-280.md#-embed-v2-context-live-on-openrouter-9b-and-06b-sizes) | Computer Vision and AI Applications |
 | 2026-11-19 | [Perplexity Teammates now on iOS and Android with voice](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-286.md#-perplexity-teammates-now-on-ios-and-android-with-voice) | AI Education |
 | 2026-11-19 | [TradingView MCP adds Claude, ChatGPT, Perplexity](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-268.md#-tradingview-mcp-adds-claude-chatgpt-perplexity) | Crypto and Web3 |
 | 2026-11-19 | [Mireye Land Search API narrows 327 to 3 finalists](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-250.md#-mireye-land-search-api-narrows-327-to-3-finalists) | Tech Journalists and VIPs |
@@ -104,5 +106,3 @@ Perplexity and Comet. The 100 newest of 123 briefings that mention it, from ever
 |  | [Technology - Perplexity iOS Voice Assistant Update](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-047.md#-technology---perplexity-ios-voice-assistant-update) | VC Firms |
 |  | [Startup Tools - Perplexity AI for Startups](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-045.md#-startup-tools---perplexity-ai-for-startups) | AI Education |
 |  | [AI Agents - Browser-Based Control](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-041.md#-ai-agents---browser-based-control) | CS Academics |
-|  | [AI - Founder Dinner with Perplexity.ai](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-038.md#-ai---founder-dinner-with-perplexityai) | VC Firms |
-|  | [AI Agent Development - Claude MCP Servers](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-036.md#-ai-agent-development---claude-mcp-servers) | AI in Healthcare and Science |

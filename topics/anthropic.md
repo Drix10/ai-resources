@@ -1,11 +1,16 @@
 # Anthropic
 
-Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,716 briefings that mention it, from every category, newest first.
+Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,723 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Anthropic investment 220 billion won by Seohak Ants](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-313.md#-anthropic-investment-220-billion-won-by-seohak-ants) | VC Firms |
+| 2026-11-22 | [Claude Opus 5.5 genomes create offspring, grandchildren](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-305.md#-claude-opus-55-genomes-create-offspring-grandchildren) | AI Organizations and Media |
+| 2026-11-22 | [Fungi open-source alternative to Claude Code and Codex announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-289.md#-fungi-open-source-alternative-to-claude-code-and-codex-announced) | Tech Infrastructure |
+| 2026-11-22 | [Anthropic opens two new fellowships starting January 2027](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-284.md#-anthropic-opens-two-new-fellowships-starting-january-2027) | AI Artists and Creators |
+| 2026-11-22 | [Oddboro launches virtual AI office with local ledger search](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-274.md#-oddboro-launches-virtual-ai-office-with-local-ledger-search) | AI in Real Estate and Property Tech |
 | 2026-11-21 | [Inkling 2 Mini runs fast locally with 26B parameters](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-322.md#-inkling-2-mini-runs-fast-locally-with-26b-parameters) | CS Academics |
 | 2026-11-21 | [Inkling 2 Mini runs 1.8x faster than Claude Sonnet 5.5](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-312.md#-inkling-2-mini-runs-18x-faster-than-claude-sonnet-55) | VC Firms |
 | 2026-11-21 | [Inkling 2 Mini performance on M5 Ultra Mac Studio](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-312.md#-inkling-2-mini-performance-on-m5-ultra-mac-studio) | VC Firms |
@@ -13,11 +18,13 @@ Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,716 b
 | 2026-11-21 | [Claude Code adds Soundverse connector, generates 3:02 song](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-292.md#-claude-code-adds-soundverse-connector-generates-302-song) | AI Generated Music and Audio |
 | 2026-11-21 | [Claude proof of Riemann Hypothesis claimed, $44k token cost](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-290.md#-claude-proof-of-riemann-hypothesis-claimed-44k-token-cost) | AI and Robotics Applications |
 | 2026-11-21 | [Claude Corps Cohort 3 applications open – $85K salary](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-287.md#-claude-corps-cohort-3-applications-open--85k-salary) | AI Education |
+| 2026-11-21 | [MIT vibe coding paper shows 25.5x code increase](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-286.md#-mit-vibe-coding-paper-shows-255x-code-increase) | AI Professionals and Community |
 | 2026-11-21 | [Claude Fable 5.2 leads with Intelligence Index 65](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-282.md#-claude-fable-52-leads-with-intelligence-index-65) | AI Consulting and Expertise |
 | 2026-11-21 | [Claude generate images – 3 ways tested, template got every word right](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-282.md#-claude-generate-images--3-ways-tested-template-got-every-word-right) | AI for Content Creation and Marketing |
 | 2026-11-21 | [Pictory MCP adds AI chat video creation feature](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-282.md#-pictory-mcp-adds-ai-chat-video-creation-feature) | AI for Content Creation and Marketing |
 | 2026-11-21 | [ai_timon demo videos released showing auto-switch to GPT](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-276.md#-ai_timon-demo-videos-released-showing-auto-switch-to-gpt) | AI in Enterprise Applications |
 | 2026-11-21 | [Godot-MCP connects AI agents to Godot editor](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-273.md#-godot-mcp-connects-ai-agents-to-godot-editor) | AI in Real Estate and Property Tech |
+| 2026-11-21 | [Claude AI and Levent Alpöge claim Riemann hypothesis proof in Lean 20 November 2026](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-256.md#-claude-ai-and-levent-alpöge-claim-riemann-hypothesis-proof-in-lean-20-november-2026) | Quantum Computing |
 | 2026-11-21 | [Generalized Riemann Hypothesis proof 940 pages released](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-253.md#-generalized-riemann-hypothesis-proof-940-pages-released) | Spatial Computing |
 | 2026-11-21 | [Anthropic IPO, Nvidia Q3 results, TSMC $500M AI fund](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-248.md#-anthropic-ipo-nvidia-q3-results-tsmc-500m-ai-fund) | Tech Companies and News |
 | 2026-11-21 | [Inkling 2 Mini runs Opus 4.5 on RTX 3080](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-248.md#-inkling-2-mini-runs-opus-45-on-rtx-3080) | Tech Companies and News |
@@ -99,10 +106,3 @@ Anthropic and the Claude models, apps and Claude Code. The 100 newest of 1,716 b
 | 2026-11-12 | [Anthropic $1M offer to woodworking business for cabinet creation](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-272.md#-anthropic-1m-offer-to-woodworking-business-for-cabinet-creation) | AI in Enterprise Applications |
 | 2026-11-12 | [Anthropic Claude chip design and OpenAI Jalapeño chip news](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-243.md#-anthropic-claude-chip-design-and-openai-jalapeño-chip-news) | Tech Companies and News |
 | 2026-11-11 | [Ploid — The Search Engine, Built for People launches digital footprint tool](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-307.md#-ploid--the-search-engine-built-for-people-launches-digital-footprint-tool) | Tech VIPs |
-| 2026-11-10 | [Claude Fable 5.2 prompt tip reduces caution](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-306.md#-claude-fable-52-prompt-tip-reduces-caution) | Tech VIPs |
-| 2026-11-10 | [Anthropic IPO procedural setback, still pursuing listing](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-304.md#-anthropic-ipo-procedural-setback-still-pursuing-listing) | VC Firms |
-| 2026-11-10 | [Anthropic pushes for firmware locks on Western GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-303.md#-anthropic-pushes-for-firmware-locks-on-western-gpus) | AI Leaders and Thinkers |
-| 2026-11-10 | [Claude Fable 5.2 live for Crayon Pro users, free game build](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-286.md#-claude-fable-52-live-for-crayon-pro-users-free-game-build) | AI Holodeck and Virtual Worlds |
-| 2026-11-10 | [Anthropic IPO plan $69.3bn retracted by Anthropic](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-279.md#-anthropic-ipo-plan-693bn-retracted-by-anthropic) | AI Artists and Creators |
-| 2026-11-10 | [Claude Fable 5.2 vs Opus 5.5 cost and speed](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-276.md#-claude-fable-52-vs-opus-55-cost-and-speed) | AI for Content Creation and Marketing |
-| 2026-11-10 | [Claude Fable 5.2 makes motion video in 16 minutes](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-276.md#-claude-fable-52-makes-motion-video-in-16-minutes) | AI for Content Creation and Marketing |

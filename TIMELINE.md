@@ -4,6 +4,10 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 
 ## November 2026
 
+- **Nov 22** · [Kling Image 4.0 launches on Sunra AI with 8K native resolution](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-293.md#-kling-image-40-launches-on-sunra-ai-with-8k-native-resolution) <sub>AI Holodeck and Virtual Worlds</sub>
+- **Nov 22** · [Fungi open-source alternative to Claude Code and Codex announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-289.md#-fungi-open-source-alternative-to-claude-code-and-codex-announced) <sub>Tech Infrastructure</sub>
+- **Nov 22** · [Grok Build rename and CLI 2.0 alpha release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-277.md#-grok-build-rename-and-cli-20-alpha-release) <sub>AR VR Professionals and Community</sub>
+- **Nov 21** · [Gemini Neon launch described as “approaching” frontier models](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-323.md#-gemini-neon-launch-described-as-approaching-frontier-models) <sub>CS Academics</sub>
 - **Nov 21** · [Dot Apple CarPlay call now available on your next drive](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-322.md#-dot-apple-carplay-call-now-available-on-your-next-drive) <sub>CS Academics</sub>
 - **Nov 21** · [MedChemBench release – GPT-6.2 Astra scores 84.5%](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-314.md#-medchembench-release--gpt-62-astra-scores-845) <sub>Tech VIPs</sub>
 - **Nov 21** · [NVIDIA Nemotron 3.5 30B A3B Fractal 64 CPU GGUF launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-304.md#-nvidia-nemotron-35-30b-a3b-fractal-64-cpu-gguf-launch) <sub>AI Organizations and Media</sub>
@@ -218,10 +222,3 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 - **May 13** · [Project Release - Eden Emulator v0.2.0](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-184.md#-project-release---eden-emulator-v020) <sub>AR VR Professionals and Community</sub>
 - **May 12** · [AI Teammates - holaOS Beta 0.1 Launch](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-181.md#-ai-teammates---holaos-beta-01-launch) <sub>The Exponential Future</sub>
 - **May 7** · [AI Agents - Hermes Agent v0.13.0 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-193.md#-ai-agents---hermes-agent-v0130-release) <sub>AI Consulting and Expertise</sub>
-
-## April 2026
-
-- **Apr 26** · [GBrain - Version 0.22 Release](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-154.md#-gbrain---version-022-release) <sub>Tech Journalists and VIPs</sub>
-- **Apr 25** · [OpenAI API - GPT-5.5 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-183.md#-openai-api---gpt-55-release) <sub>AI Consulting and Expertise</sub>
-- **Apr 25** · [GBrain Vision - Open-Source AI and Gemini Live](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-154.md#-gbrain-vision---open-source-ai-and-gemini-live) <sub>Tech Journalists and VIPs</sub>
-- **Apr 24** · [AI Models - DeepSeek V4 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-174.md#-ai-models---deepseek-v4-release) <sub>AI and Robotics Applications</sub>

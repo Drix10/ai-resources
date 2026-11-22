@@ -1,11 +1,12 @@
 # Hugging Face
 
-Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 231 briefings that mention it, from every category, newest first.
+Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 232 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-21 | [Lory-27B v2 and Lory-4B v2 released, Lory-27B scores 80 on blind test](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-288.md#-lory-27b-v2-and-lory-4b-v2-released-lory-27b-scores-80-on-blind-test) | AI Education |
 | 2026-11-21 | [Qwen3.8-27B LoRA adapter improves coding benchmarks, cuts agent turns](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-283.md#-qwen38-27b-lora-adapter-improves-coding-benchmarks-cuts-agent-turns) | AI Artists and Creators |
 | 2026-11-21 | [Inkling 2 Mini launch with 26.4B parameters](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-272.md#-inkling-2-mini-launch-with-264b-parameters) | The Exponential Future |
 | 2026-11-19 | [Clairic released on HuggingFace by Cloudflare](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-319.md#-clairic-released-on-huggingface-by-cloudflare) | AI Developer Tools |
@@ -105,4 +106,3 @@ Hugging Face: the Hub, its libraries and the models shared there. The 100 newest
 | 2025-12-18 | [AI Tools - Hugging Face Inference Credits](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-125.md#-ai-tools---hugging-face-inference-credits) | AI Professionals and Community |
 | 2025-08-08 | [BlockAssist Training - Discord Role Announcement](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-091.md#-blockassist-training---discord-role-announcement) | Decentralized AI |
 | 2025-07-12 | [Robotics - Open-Source Robotic Hand](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-087.md#-robotics---open-source-robotic-hand) | AI and Robotics Applications |
-| 2025-07-09 | [Robotics - EgoExo Forge Introduction](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-085.md#-robotics---egoexo-forge-introduction) | Computer Vision and AI Applications |

@@ -1,11 +1,12 @@
 # AI policy
 
-Laws, regulators and governments on AI. The 100 newest of 943 briefings that mention it, from every category, newest first.
+Laws, regulators and governments on AI. The 100 newest of 944 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Tesla FSD live in 12 European countries launch](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-278.md#-tesla-fsd-live-in-12-european-countries-launch) | Founders and Entrepreneurs |
 | 2026-11-18 | [DEF submits two responses to FCA on DeFi regulatory framework](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-283.md#-def-submits-two-responses-to-fca-on-defi-regulatory-framework) | AI Professionals and Community |
 | 2026-11-13 | [Scaling public input on AI policy with pluralistic agents – study results](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-299.md#-scaling-public-input-on-ai-policy-with-pluralistic-agents--study-results) | AI Organizations and Media |
 | 2026-11-13 | [Human basal ganglia atlas maps gene regulation](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-291.md#-human-basal-ganglia-atlas-maps-gene-regulation) | AI in Healthcare and Science |
@@ -105,4 +106,3 @@ Laws, regulators and governments on AI. The 100 newest of 943 briefings that men
 | 2026-09-17 | [EU/State Regulations: Compliance and More](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-270.md#-eustate-regulations-compliance-and-more) | Devs, Designers, DevRel |
 | 2026-09-17 | [Innovation Exemption](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-264.md#-innovation-exemption) | VC Firms |
 | 2026-09-17 | [Robotics and AI: A Growing Industry](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-258.md#-robotics-and-ai-a-growing-industry) | AI Leaders and Thinkers |
-| 2026-09-17 | [Regulation - AI Slowdowns? Nordic Labs Dodge Headlines but Invite Antitrust Headaches, Says EU Watchers](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-249.md#-regulation---ai-slowdowns-nordic-labs-dodge-headlines-but-invite-antitrust-headaches-says-eu-watchers) | AI Powered Film and Media |

@@ -1,11 +1,16 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 831 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 836 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Suno AI video creation tool integration with Grok Bot via MCP](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-315.md#-suno-ai-video-creation-tool-integration-with-grok-bot-via-mcp) | Tech VIPs |
+| 2026-11-22 | [Duets – new feature for music video generator](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-293.md#-duets--new-feature-for-music-video-generator) | AI Generated Music and Audio |
+| 2026-11-22 | [Kling Image 4.0 launches on Sunra AI with 8K native resolution](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-293.md#-kling-image-40-launches-on-sunra-ai-with-8k-native-resolution) | AI Holodeck and Virtual Worlds |
+| 2026-11-22 | [Kling 4.0 creates Eight Nights in 4K 10-bit HDR](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-293.md#-kling-40-creates-eight-nights-in-4k-10-bit-hdr) | AI Holodeck and Virtual Worlds |
+| 2026-11-22 | [MovieRoll: Systematic Framework for Long-Form Video Rolling Out](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-280.md#-movieroll-systematic-framework-for-long-form-video-rolling-out) | Computer Vision and AI Applications |
 | 2026-11-21 | [Affogato MCP10 launch – cheat-code style access to video generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-309.md#-affogato-mcp10-launch--cheat-code-style-access-to-video-generation) | AI Companies and Ventures |
 | 2026-11-21 | [Echoith music video generator progress since September](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-292.md#-echoith-music-video-generator-progress-since-september) | AI Generated Music and Audio |
 | 2026-11-20 | [Kling Image 4.0 now available in ComfyUI with 8k support](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-291.md#-kling-image-40-now-available-in-comfyui-with-8k-support) | AI Holodeck and Virtual Worlds |
@@ -101,8 +106,3 @@ Models and tools that make video. The 100 newest of 831 briefings that mention i
 | 2026-08-27 | [Gemini Omni 1.1 Flash - Video Generation Capabilities](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-266.md#-gemini-omni-11-flash---video-generation-capabilities) | CS Academics |
 | 2026-08-27 | [Motion Video Generation - Performance Benchmarks](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-235.md#-motion-video-generation---performance-benchmarks) | AI Holodeck and Virtual Worlds |
 | 2026-08-27 | [Media Generation - Text-to-Video Synthesis](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-235.md#-media-generation---text-to-video-synthesis) | AI Holodeck and Virtual Worlds |
-| 2026-08-21 | [Video Generation - Workflow Automation](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-222.md#-video-generation---workflow-automation) | AI for Content Creation and Marketing |
-| 2026-08-21 | [Runway Ruby](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-198.md#-runway-ruby) | Tech Companies and News |
-| 2026-08-18 | [Speech Animation - AnyTalk Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-232.md#-speech-animation---anytalk-model) | AI Generated Music and Audio |
-| 2026-07-09 | [AI Model Integration - Image/Video Generation Workflow](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-224.md#-ai-model-integration---imagevideo-generation-workflow) | AI Artists and Creators |
-| 2026-07-08 | [Runway Dev - AI Media Platform](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-220.md#-runway-dev---ai-media-platform) | AI Companies and Ventures |

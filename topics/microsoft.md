@@ -1,15 +1,20 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 612 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 617 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Nvidia loses $2.6T market cap, falls to fourth](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-305.md#-nvidia-loses-26t-market-cap-falls-to-fourth) | AI Organizations and Media |
+| 2026-11-22 | [Microsoft Entra Suite adds Network DLP parsing](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-289.md#-microsoft-entra-suite-adds-network-dlp-parsing) | Tech Infrastructure |
+| 2026-11-22 | [Copilot eight new services connect via GitHub-verified MCP connectors](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-277.md#-copilot-eight-new-services-connect-via-github-verified-mcp-connectors) | AI in Enterprise Applications |
+| 2026-11-22 | [Entra Connect Health admin email addresses readable flaw](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-250.md#-entra-connect-health-admin-email-addresses-readable-flaw) | Cybersecurity and Tech |
 | 2026-11-21 | [Microsoft Clarity picked, sponsor pages rebuilt in 2 hours](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-277.md#-microsoft-clarity-picked-sponsor-pages-rebuilt-in-2-hours) | Founders and Entrepreneurs |
 | 2026-11-20 | [Replit Missions launch – $3,000 demo builds DataCat](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-304.md#-replit-missions-launch--3000-demo-builds-datacat) | AI Organizations and Media |
 | 2026-11-19 | [AWS DevOps Agent adds Slack code channels, Teams chat](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-286.md#-aws-devops-agent-adds-slack-code-channels-teams-chat) | Tech Infrastructure |
 | 2026-11-19 | [Hermes Enterprise adds Teams, Store, Azure support](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-270.md#-hermes-enterprise-adds-teams-store-azure-support) | Decentralized AI |
+| 2026-11-19 | [Microsoft Defender adds ClipboardMonitor process list](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-250.md#-microsoft-defender-adds-clipboardmonitor-process-list) | Cybersecurity and Tech |
 | 2026-11-17 | [Legora Intake adds Outlook and Teams integration](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-306.md#-legora-intake-adds-outlook-and-teams-integration) | AI Companies and Ventures |
 | 2026-11-17 | [Microsoft Edge for Business control extensions launch](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-285.md#-microsoft-edge-for-business-control-extensions-launch) | Tech Infrastructure |
 | 2026-11-16 | [Uber Legal Redlining Agent cuts review time 20%](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-309.md#-uber-legal-redlining-agent-cuts-review-time-20) | Devs, Designers, DevRel |
@@ -101,8 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 612 briefings
 | 2026-09-26 | [AI - Microsoft AI For Beginners](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-254.md#-ai---microsoft-ai-for-beginners) | AI Consulting and Expertise |
 | 2026-09-26 | [AI - Top 100 Free AI Courses](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-254.md#-ai---top-100-free-ai-courses) | AI Consulting and Expertise |
 | 2026-09-25 | [Model-Agnostic Agent Platform](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-259.md#-model-agnostic-agent-platform) | AI Education |
-| 2026-09-25 | [AI in Productivity - Copilot](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-240.md#-ai-in-productivity---copilot) | Investors and Venture Capital |
-| 2026-09-25 | [Security - AI Agents in Azure](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-224.md#-security---ai-agents-in-azure) | Cybersecurity and Tech |
-| 2026-09-25 | [Security - Azure Pentesting Suite](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-224.md#-security---azure-pentesting-suite) | Cybersecurity and Tech |
-| 2026-09-25 | [Security - KEV Catalog](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-224.md#-security---kev-catalog) | Cybersecurity and Tech |
-| 2026-09-25 | [Bing AI Mode](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-222.md#-bing-ai-mode) | Tech Companies and News |

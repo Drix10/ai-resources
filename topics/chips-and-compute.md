@@ -1,15 +1,22 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,131 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,138 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-22 | [Open-source LLM GPU sandbox &lt;$3/hour with 200-500 tps](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-313.md#-open-source-llm-gpu-sandbox-3hour-with-200-500-tps) | VC Firms |
+| 2026-11-22 | [CUPID reconstructs 3D objects from a single image](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-274.md#-cupid-reconstructs-3d-objects-from-a-single-image) | AI in Real Estate and Property Tech |
+| 2026-11-22 | [LeonardoAi gets GPUs in days, then acquired by Canva](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-272.md#-leonardoai-gets-gpus-in-days-then-acquired-by-canva) | Decentralized AI |
 | 2026-11-21 | [DMAChannel and Quadratic Framing boost GPU graphics](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-313.md#-dmachannel-and-quadratic-framing-boost-gpu-graphics) | Devs, Designers, DevRel |
+| 2026-11-21 | [Gemini 4 Neon runs ONNX models locally without GPU](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-291.md#-gemini-4-neon-runs-onnx-models-locally-without-gpu) | AI and Robotics Applications |
+| 2026-11-21 | [Samsung Medical Center AI on GPUs, Google Cloud scaling stats](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-288.md#-samsung-medical-center-ai-on-gpus-google-cloud-scaling-stats) | AI Education |
+| 2026-11-21 | [Phison AI processor with 64GB memory inside SSD](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-288.md#-phison-ai-processor-with-64gb-memory-inside-ssd) | AI Education |
 | 2026-11-21 | [Hierarchy-GBP adds multigrid for pose graph optimisation on multicore CPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-286.md#-hierarchy-gbp-adds-multigrid-for-pose-graph-optimisation-on-multicore-cpus) | AI Driven Vehicles and Transportation |
 | 2026-11-21 | [Anthropic IPO, Nvidia Q3 results, TSMC $500M AI fund](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-248.md#-anthropic-ipo-nvidia-q3-results-tsmc-500m-ai-fund) | Tech Companies and News |
 | 2026-11-20 | [Alibaba Qwen model training on T-Head chips, GPU roadmap](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-303.md#-alibaba-qwen-model-training-on-t-head-chips-gpu-roadmap) | AI Organizations and Media |
+| 2026-11-20 | [Hierarchy-GBP adds multigrid for faster long-range message passing on CPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-287.md#-hierarchy-gbp-adds-multigrid-for-faster-long-range-message-passing-on-cpus) | AI Driven Vehicles and Transportation |
 | 2026-11-20 | [H100 ray tracing 3x RTX 5090 without RT cores](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-278.md#-h100-ray-tracing-3x-rtx-5090-without-rt-cores) | Computer Vision and AI Applications |
 | 2026-11-20 | [SMIC AI wafer allocation, Alibaba moves to SMIC](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-274.md#-smic-ai-wafer-allocation-alibaba-moves-to-smic) | AI Policy and Ethical Considerations |
 | 2026-11-20 | [Starcloud builds first space data center for $2.5M](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-251.md#-starcloud-builds-first-space-data-center-for-25m) | Tech Journalists and VIPs |
@@ -99,10 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,131 briefings tha
 | 2026-11-05 | [Oak Ridge, IBM and AMD launch co-design platform with 120-qubit Nighthawk](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-246.md#-oak-ridge-ibm-and-amd-launch-co-design-platform-with-120-qubit-nighthawk) | Quantum Computing |
 | 2026-11-05 | [Umbra co-design platform launch with IBM and ORNL](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-246.md#-umbra-co-design-platform-launch-with-ibm-and-ornl) | Quantum Computing |
 | 2026-11-04 | [Aethir prices GPU compute per use](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-276.md#-aethir-prices-gpu-compute-per-use) | Tech Infrastructure |
-| 2026-11-04 | [Ukraine and Russia trade hundreds of drones overnight](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-233.md#-ukraine-and-russia-trade-hundreds-of-drones-overnight) | World News and Updates |
-| 2026-11-03 | [Krea 3 diffusion transformer 6.9× faster on AMD Instinct MI355X](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-300.md#-krea-3-diffusion-transformer-69-faster-on-amd-instinct-mi355x) | Devs, Designers, DevRel |
-| 2026-11-03 | [Anthropic shipping zk proofs for AI inference, uses H100](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-300.md#-anthropic-shipping-zk-proofs-for-ai-inference-uses-h100) | Devs, Designers, DevRel |
-| 2026-11-03 | [Texas Election Impact on Data Centers – 474 GW Queue, 90% Data Centers](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-300.md#-texas-election-impact-on-data-centers--474-gw-queue-90-data-centers) | Tech VIPs |
-| 2026-11-03 | [Revolut moves 2,000 engineers to self-hosted GLM, uses 56 Nvidia B200s](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-297.md#-revolut-moves-2000-engineers-to-self-hosted-glm-uses-56-nvidia-b200s) | AI Leaders and Thinkers |
-| 2026-11-03 | [Elon Musk AI chips vs power wall by end of 2026](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-297.md#-elon-musk-ai-chips-vs-power-wall-by-end-of-2026) | AI Leaders and Thinkers |
-| 2026-11-03 | [8xMI300x GPU – $3.39/hr with 8-hour minimum](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-295.md#-8xmi300x-gpu--339hr-with-8-hour-minimum) | AI Companies and Ventures |
