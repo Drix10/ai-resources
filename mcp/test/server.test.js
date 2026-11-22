@@ -68,6 +68,32 @@ test('latest defaults to 10 and links the category', async () => {
   assert.ok(r.text.trimEnd().endsWith(DATA_LINE));
 });
 
+test('search_briefings and latest pass page to the API', async () => {
+  const { call, calls } = await connect({ '/api/articles': [200, { items: [ITEM], total: 7, totalPages: 3 }] });
+  await call('search_briefings', { query: 'openai', page: 2 });
+  await call('latest', { page: 3 });
+  assert.equal(calls[0].searchParams.get('page'), '2');
+  assert.equal(calls[1].searchParams.get('page'), '3');
+  const none = await connect(list);
+  await none.call('latest');
+  assert.equal(none.calls[0].searchParams.get('page'), null);
+});
+
+test('"More:" line appears only when there are later pages', async () => {
+  const first = await connect({ '/api/articles': [200, { items: [ITEM], total: 7, totalPages: 3 }] });
+  const r1 = await first.call('search_briefings', { query: 'openai' });
+  assert.match(r1.text, /More: call again with page=2 \(3 pages in total\)\./);
+
+  const middle = await connect({ '/api/articles': [200, { items: [ITEM], total: 7, totalPages: 3 }] });
+  const r2 = await middle.call('latest', { page: 2 });
+  assert.match(r2.text, /More: call again with page=3 \(3 pages in total\)\./);
+
+  const last = await connect({ '/api/articles': [200, { items: [ITEM], total: 7, totalPages: 3 }] });
+  const r3 = await last.call('latest', { page: 3 });
+  assert.doesNotMatch(r3.text, /More:/);
+  assert.ok(r3.text.trimEnd().endsWith(DATA_LINE));
+});
+
 test('get_briefing returns the full Markdown and its URL', async () => {
   const { call, calls } = await connect({ '/api/articles': [200, { items: [{ ...ITEM, content: '### Claude 9 released\n\nBody.' }] }] });
   const r = await call('get_briefing', { id: ITEM.url });
