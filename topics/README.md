@@ -4,26 +4,26 @@ Briefings from every category, gathered by company and theme. Each page lists th
 
 | Topic | Briefings | Newest |
 | --- | ---: | --- |
-| [OpenAI](openai.md) | 2,331 | 2026-11-22 |
-| [Anthropic](anthropic.md) | 1,723 | 2026-11-22 |
-| [Google DeepMind](google-deepmind.md) | 997 | 2026-11-22 |
-| [Meta AI](meta-ai.md) | 650 | 2026-11-21 |
-| [xAI](xai.md) | 648 | 2026-11-22 |
+| [OpenAI](openai.md) | 2,355 | 2026-11-24 |
+| [Anthropic](anthropic.md) | 1,734 | 2026-11-24 |
+| [Google DeepMind](google-deepmind.md) | 1,000 | 2026-11-24 |
+| [Meta AI](meta-ai.md) | 653 | 2026-11-24 |
+| [xAI](xai.md) | 651 | 2026-11-24 |
 | [Mistral AI](mistral.md) | 56 | 2026-11-03 |
-| [NVIDIA](nvidia.md) | 843 | 2026-11-22 |
-| [Microsoft](microsoft.md) | 617 | 2026-11-22 |
-| [Apple](apple.md) | 689 | 2026-11-22 |
-| [Amazon & AWS](amazon.md) | 409 | 2026-11-22 |
-| [DeepSeek](deepseek.md) | 261 | 2026-11-21 |
-| [Qwen & Alibaba](qwen-alibaba.md) | 269 | 2026-11-21 |
-| [Hugging Face](hugging-face.md) | 232 | 2026-11-21 |
-| [Perplexity](perplexity.md) | 125 | 2026-11-21 |
-| [Cursor](cursor.md) | 216 | 2026-11-22 |
-| [AI agents](ai-agents.md) | 5,611 | 2026-11-22 |
-| [MCP](mcp.md) | 456 | 2026-11-22 |
-| [Open-weight models](open-weight-models.md) | 343 | 2026-11-22 |
-| [Funding & acquisitions](funding-and-acquisitions.md) | 1,246 | 2026-11-22 |
-| [Robotics](robotics.md) | 2,532 | 2026-11-22 |
-| [AI policy](ai-policy.md) | 944 | 2026-11-22 |
-| [Chips & compute](chips-and-compute.md) | 1,138 | 2026-11-22 |
-| [Video generation](video-generation.md) | 836 | 2026-11-22 |
+| [NVIDIA](nvidia.md) | 848 | 2026-11-24 |
+| [Microsoft](microsoft.md) | 619 | 2026-11-24 |
+| [Apple](apple.md) | 691 | 2026-11-24 |
+| [Amazon & AWS](amazon.md) | 412 | 2026-11-24 |
+| [DeepSeek](deepseek.md) | 263 | 2026-11-24 |
+| [Qwen & Alibaba](qwen-alibaba.md) | 270 | 2026-11-24 |
+| [Hugging Face](hugging-face.md) | 234 | 2026-11-24 |
+| [Perplexity](perplexity.md) | 126 | 2026-11-24 |
+| [Cursor](cursor.md) | 218 | 2026-11-24 |
+| [AI agents](ai-agents.md) | 5,635 | 2026-11-24 |
+| [MCP](mcp.md) | 460 | 2026-11-24 |
+| [Open-weight models](open-weight-models.md) | 345 | 2026-11-24 |
+| [Funding & acquisitions](funding-and-acquisitions.md) | 1,250 | 2026-11-24 |
+| [Robotics](robotics.md) | 2,545 | 2026-11-24 |
+| [AI policy](ai-policy.md) | 947 | 2026-11-24 |
+| [Chips & compute](chips-and-compute.md) | 1,150 | 2026-11-24 |
+| [Video generation](video-generation.md) | 838 | 2026-11-24 |

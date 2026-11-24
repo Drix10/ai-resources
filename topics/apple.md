@@ -1,11 +1,13 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 689 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 691 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [Modly – Open source desktop app for local image-to-3D mesh generation](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-275.md#-modly--open-source-desktop-app-for-local-image-to-3d-mesh-generation) | AI in Real Estate and Property Tech |
+| 2026-11-24 | [Keki – Mac menu-bar app connects coding agents](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-keki--mac-menu-bar-app-connects-coding-agents) | Decentralized AI |
 | 2026-11-22 | [Nvidia loses $2.6T market cap, falls to fourth](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-305.md#-nvidia-loses-26t-market-cap-falls-to-fourth) | AI Organizations and Media |
 | 2026-11-22 | [Gemini Mac app adds computer use across apps, requires Apple Silicon](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-289.md#-gemini-mac-app-adds-computer-use-across-apps-requires-apple-silicon) | Tech Infrastructure |
 | 2026-11-21 | [Dot Apple CarPlay call now available on your next drive](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-322.md#-dot-apple-carplay-call-now-available-on-your-next-drive) | CS Academics |
@@ -104,5 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 689 br
 | 2026-09-23 | [Tech News - Zuckerberg's Presentation](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-220.md#-tech-news---zuckerbergs-presentation) | Tech Companies and News |
 | 2026-09-22 | [Finance - Apple Financing Options](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-279.md#-finance---apple-financing-options) | Devs, Designers, DevRel |
 | 2026-09-22 | [Tech - Mac Studio M5 Ultra vs Spark](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-270.md#-tech---mac-studio-m5-ultra-vs-spark) | AI Leaders and Thinkers |
-| 2026-09-22 | [AI Engineering - The Road to Driverless Robotaxis](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-250.md#-ai-engineering---the-road-to-driverless-robotaxis) | AI Driven Vehicles and Transportation |
-| 2026-09-22 | [Mobile - Favorite Indie Apps for iOS 27](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-220.md#-mobile---favorite-indie-apps-for-ios-27) | Spatial Computing |

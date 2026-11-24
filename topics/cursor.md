@@ -1,11 +1,13 @@
 # Cursor
 
-Cursor, the AI code editor. The 100 newest of 216 briefings that mention it, from every category, newest first.
+Cursor, the AI code editor. The 100 newest of 218 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [Flare FDC × LayerZero Core live build announcement](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-flare-fdc--layerzero-core-live-build-announcement) | Decentralized AI |
+| 2026-11-24 | [Keki – Mac menu-bar app connects coding agents](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-keki--mac-menu-bar-app-connects-coding-agents) | Decentralized AI |
 | 2026-11-22 | [Grok Build rename and CLI 2.0 alpha release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-277.md#-grok-build-rename-and-cli-20-alpha-release) | AR VR Professionals and Community |
 | 2026-11-21 | [Affogato MCP10 launch – cheat-code style access to video generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-309.md#-affogato-mcp10-launch--cheat-code-style-access-to-video-generation) | AI Companies and Ventures |
 | 2026-11-21 | [Godot-MCP connects AI agents to Godot editor](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-273.md#-godot-mcp-connects-ai-agents-to-godot-editor) | AI in Real Estate and Property Tech |
@@ -104,5 +106,3 @@ Cursor, the AI code editor. The 100 newest of 216 briefings that mention it, fro
 |  | [Cursor AI - iPad Application Release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-213.md#-cursor-ai---ipad-application-release) | AR VR Professionals and Community |
 |  | [AI Workflow Coordination - OriginTrail and Cursor AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-210.md#-ai-workflow-coordination---origintrail-and-cursor-ai) | AI Education |
 |  | [Unity - AI Game Development Integration](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-210.md#-unity---ai-game-development-integration) | Computer Vision and AI Applications |
-|  | [AI IDE Comparison - Cursor AI vs. Devin](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-197.md#-ai-ide-comparison---cursor-ai-vs-devin) | Investors and Venture Capital |
-|  | [AI Coding Environments - Cursor Cloud vs. Claude Web](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-195.md#-ai-coding-environments---cursor-cloud-vs-claude-web) | Founders and Entrepreneurs |

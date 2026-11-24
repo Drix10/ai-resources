@@ -1,11 +1,14 @@
 # xAI
 
-xAI and Grok. The 100 newest of 648 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 651 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [Muse app 3Billion Wonder tokens for 139usd/month, Grok Bot adds teach-a-Task](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-281.md#-muse-app-3billion-wonder-tokens-for-139usdmonth-grok-bot-adds-teach-a-task) | AI Powered Film and Media |
+| 2026-11-24 | [Muse daily driver with cloud instance and Sentinel security](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-278.md#-muse-daily-driver-with-cloud-instance-and-sentinel-security) | AR VR Professionals and Community |
+| 2026-11-24 | [Keki – Mac menu-bar app connects coding agents](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-keki--mac-menu-bar-app-connects-coding-agents) | Decentralized AI |
 | 2026-11-22 | [Suno AI video creation tool integration with Grok Bot via MCP](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-315.md#-suno-ai-video-creation-tool-integration-with-grok-bot-via-mcp) | Tech VIPs |
 | 2026-11-22 | [Grok Build rename and CLI 2.0 alpha release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-277.md#-grok-build-rename-and-cli-20-alpha-release) | AR VR Professionals and Community |
 | 2026-11-21 | [ai_timon demo videos released showing auto-switch to GPT](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-276.md#-ai_timon-demo-videos-released-showing-auto-switch-to-gpt) | AI in Enterprise Applications |
@@ -103,6 +106,3 @@ xAI and Grok. The 100 newest of 648 briefings that mention it, from every catego
 | 2026-09-08 | [Neural Texturing MLP Sizes](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-263.md#-neural-texturing-mlp-sizes) | Devs, Designers, DevRel |
 | 2026-09-07 | [The Hottest Category in Tech: AI Assistants](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-206.md#the-hottest-category-in-tech-ai-assistants) | Tech Companies and News |
 | 2026-09-06 | [AI Tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-249.md#-ai-tools) | AI Leaders and Thinkers |
-| 2026-09-04 | [OSS Team - Shared MD Files for Bots](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-256.md#-oss-team---shared-md-files-for-bots) | AI Developer Tools |
-| 2026-09-04 | [AI System Crashes](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-234.md#-ai-system-crashes) | AI Professionals and Community |
-| 2026-09-04 | [AI Systems - Grok Bot Desktop](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-234.md#-ai-systems---grok-bot-desktop) | AI in Real Estate and Property Tech |

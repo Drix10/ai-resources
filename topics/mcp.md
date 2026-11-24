@@ -1,11 +1,15 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 456 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 460 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [CopilotStudio demo with Dataverse MCP, SharePoint Excel data](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-290.md#-copilotstudio-demo-with-dataverse-mcp-sharepoint-excel-data) | Tech Infrastructure |
+| 2026-11-24 | [Flare FDC × LayerZero Core live build announcement](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-flare-fdc--layerzero-core-live-build-announcement) | Decentralized AI |
+| 2026-11-24 | [Microsoft Sentinel MCP – save KQL query as tool](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-251.md#-microsoft-sentinel-mcp--save-kql-query-as-tool) | Cybersecurity and Tech |
+| 2026-11-24 | [VulnDog passive MCP server adds 1.93 GiB advisory store](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-251.md#-vulndog-passive-mcp-server-adds-193-gib-advisory-store) | Cybersecurity and Tech |
 | 2026-11-22 | [Suno AI video creation tool integration with Grok Bot via MCP](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-315.md#-suno-ai-video-creation-tool-integration-with-grok-bot-via-mcp) | Tech VIPs |
 | 2026-11-22 | [Copilot eight new services connect via GitHub-verified MCP connectors](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-277.md#-copilot-eight-new-services-connect-via-github-verified-mcp-connectors) | AI in Enterprise Applications |
 | 2026-11-22 | [Gearboy – cross-platform Game Boy emulator with AI debugging](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-274.md#-gearboy--cross-platform-game-boy-emulator-with-ai-debugging) | AI in Real Estate and Property Tech |
@@ -102,7 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-22 | [Model Context Protocol (MCP): Standardized Access for AI Systems](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-250.md#-model-context-protocol-mcp-standardized-access-for-ai-systems) | AI Consulting and Expertise |
 | 2026-09-22 | [AI & VR Development](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-245.md#-ai--vr-development) | AR VR Companies and Development |
 | 2026-09-21 | [Design - Details MCP](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-258.md#-design---details-mcp) | AI Holodeck and Virtual Worlds |
-| 2026-09-21 | [PINOC MCP - Character Animation Engine](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-257.md#-pinoc-mcp---character-animation-engine) | AI Holodeck and Virtual Worlds |
-| 2026-09-21 | [2. AI-Powered 3D Model Replacement](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-237.md#2-ai-powered-3d-model-replacement) | Investors and Venture Capital |
-| 2026-09-20 | [MCP Connection with DriftNote](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-256.md#-mcp-connection-with-driftnote) | AI Holodeck and Virtual Worlds |
-| 2026-09-19 | [AI Coding Tools - GIDEON Remote MCP Memory Server](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-271.md#-ai-coding-tools---gideon-remote-mcp-memory-server) | AI Developer Tools |

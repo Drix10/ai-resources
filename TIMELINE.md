@@ -4,6 +4,11 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 
 ## November 2026
 
+- **Nov 24** · [GPT-6.2 Sol released in Chat tab, everyday conversation](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-324.md#-gpt-62-sol-released-in-chat-tab-everyday-conversation) <sub>CS Academics</sub>
+- **Nov 24** · [ERNIE 5.5 Flash Preview weights released – 280B total, 14B active](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-313.md#-ernie-55-flash-preview-weights-released--280b-total-14b-active) <sub>AI Leaders and Thinkers</sub>
+- **Nov 24** · [Ideogram 4.6 now available on Blyth AI for 4K images](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-294.md#-ideogram-46-now-available-on-blyth-ai-for-4k-images) <sub>AI Holodeck and Virtual Worlds</sub>
+- **Nov 24** · [Claude Ship beta launch enables pull-request review and fixes](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-278.md#-claude-ship-beta-launch-enables-pull-request-review-and-fixes) <sub>AR VR Professionals and Community</sub>
+- **Nov 24** · [GeoParquet 2.0 Released – uses GEOMETRY and GEOGRAPHY types](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-278.md#-geoparquet-20-released--uses-geometry-and-geography-types) <sub>AR VR Professionals and Community</sub>
 - **Nov 22** · [Kling Image 4.0 launches on Sunra AI with 8K native resolution](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-293.md#-kling-image-40-launches-on-sunra-ai-with-8k-native-resolution) <sub>AI Holodeck and Virtual Worlds</sub>
 - **Nov 22** · [Fungi open-source alternative to Claude Code and Codex announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-289.md#-fungi-open-source-alternative-to-claude-code-and-codex-announced) <sub>Tech Infrastructure</sub>
 - **Nov 22** · [Grok Build rename and CLI 2.0 alpha release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-277.md#-grok-build-rename-and-cli-20-alpha-release) <sub>AR VR Professionals and Community</sub>
@@ -214,11 +219,3 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 ## June 2026
 
 - **Jun 23** · [Claude AI - Claude Tag Beta Launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-216.md#-claude-ai---claude-tag-beta-launch) <sub>AI Education</sub>
-
-## May 2026
-
-- **May 17** · [Grok AI - CLI Support Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-197.md#-grok-ai---cli-support-release) <sub>AI Leaders and Thinkers</sub>
-- **May 13** · [Microsoft Visual C++ - Build Tools 14.51 Release](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-207.md#-microsoft-visual-c---build-tools-1451-release) <sub>Devs, Designers, DevRel</sub>
-- **May 13** · [Project Release - Eden Emulator v0.2.0](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-184.md#-project-release---eden-emulator-v020) <sub>AR VR Professionals and Community</sub>
-- **May 12** · [AI Teammates - holaOS Beta 0.1 Launch](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-181.md#-ai-teammates---holaos-beta-01-launch) <sub>The Exponential Future</sub>
-- **May 7** · [AI Agents - Hermes Agent v0.13.0 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-193.md#-ai-agents---hermes-agent-v0130-release) <sub>AI Consulting and Expertise</sub>

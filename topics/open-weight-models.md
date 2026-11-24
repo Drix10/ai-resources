@@ -1,11 +1,13 @@
 # Open-weight models
 
-Models whose weights anyone can download. The 100 newest of 343 briefings that mention it, from every category, newest first.
+Models whose weights anyone can download. The 100 newest of 345 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [Hy-MT3 third-generation model launch expands languages to 102](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-323.md#-hy-mt3-third-generation-model-launch-expands-languages-to-102) | AI Developer Tools |
+| 2026-11-24 | [Aethir Mesh runs 40 open-weight models on one endpoint](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-aethir-mesh-runs-40-open-weight-models-on-one-endpoint) | Decentralized AI |
 | 2026-11-22 | [Open-source LLM GPU sandbox &lt;$3/hour with 200-500 tps](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-313.md#-open-source-llm-gpu-sandbox-3hour-with-200-500-tps) | VC Firms |
 | 2026-11-21 | [Lory-27B v2 and Lory-4B v2 released, Lory-27B scores 80 on blind test](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-288.md#-lory-27b-v2-and-lory-4b-v2-released-lory-27b-scores-80-on-blind-test) | AI Education |
 | 2026-11-21 | [Inkling 2 Mini released with 26.4B params, 20GB footprint](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-276.md#-inkling-2-mini-released-with-264b-params-20gb-footprint) | AR VR Professionals and Community |
@@ -104,5 +106,3 @@ Models whose weights anyone can download. The 100 newest of 343 briefings that m
 | 2026-09-16 | [Jev: Continuous Diffusion Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-241.md#-jev-continuous-diffusion-model) | AI Consulting and Expertise |
 | 2026-09-16 | [AI - DeepMind's Alpha-Fold and Open-Source Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-241.md#-ai---deepminds-alpha-fold-and-open-source-model) | AI Driven Vehicles and Transportation |
 | 2026-09-16 | [Open-Weight Models](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-238.md#-open-weight-models) | AI in Enterprise Applications |
-| 2026-09-14 | [AI Infrastructure - NPCI's FiMI Deployment](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-245.md#-ai-infrastructure---npcis-fimi-deployment) | AI Education |
-| 2026-09-14 | [AI and Surveillance](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-243.md#-ai-and-surveillance) | AI Policy and Ethical Considerations |

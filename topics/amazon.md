@@ -1,11 +1,14 @@
 # Amazon & AWS
 
-Amazon, AWS, Bedrock and Alexa. The 100 newest of 409 briefings that mention it, from every category, newest first.
+Amazon, AWS, Bedrock and Alexa. The 100 newest of 412 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [CoreWeave backlog $132.5B, AWS sold out through 2027](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-coreweave-backlog-1325b-aws-sold-out-through-2027) | Decentralized AI |
+| 2026-11-23 | [Robotics Summit at Stanford – January 10 2027](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-273.md#-robotics-summit-at-stanford--january-10-2027) | The Exponential Future |
+| 2026-11-23 | [Decart acquisition talks with Amazon $7.5B deal](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-253.md#-decart-acquisition-talks-with-amazon-75b-deal) | Tech Journalists and VIPs |
 | 2026-11-22 | [AWS F2 FPGA LLM inference engine 213 tps using AI agents](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-314.md#-aws-f2-fpga-llm-inference-engine-213-tps-using-ai-agents) | Devs, Designers, DevRel |
 | 2026-11-20 | [Trainium compiler achieves SOTA speed and cost for Flux models](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-310.md#-trainium-compiler-achieves-sota-speed-and-cost-for-flux-models) | AI Leaders and Thinkers |
 | 2026-11-19 | [Neurosymbolic Agents Explained With a Python Example – Benchmarks Reported](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-320.md#-neurosymbolic-agents-explained-with-a-python-example--benchmarks-reported) | CS Academics |
@@ -103,6 +106,3 @@ Amazon, AWS, Bedrock and Alexa. The 100 newest of 409 briefings that mention it,
 | 2026-08-27 | [Hardware - AI Infrastructure Deployment](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-228.md#-hardware---ai-infrastructure-deployment) | Tech Infrastructure |
 | 2026-07-07 | [AI Impact - Decline of Mechanical Turk](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-195.md#-ai-impact---decline-of-mechanical-turk) | The Exponential Future |
 | 2026-05-15 | [AWS Container Services - Proliferation and Choice Paralysis](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-186.md#-aws-container-services---proliferation-and-choice-paralysis) | Tech Infrastructure |
-| 2026-05-14 | [Business Insights - Amazon and Andy Jassy Profile](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-208.md#-business-insights---amazon-and-andy-jassy-profile) | Tech VIPs |
-| 2026-05-14 | [Product Evolution - AI Assistant Transition](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-194.md#-product-evolution---ai-assistant-transition) | AI Policy and Ethical Considerations |
-| 2026-05-13 | [Machine Learning - Data Extraction from Financial Documents](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-167.md#-machine-learning---data-extraction-from-financial-documents) | Tech Journalists and VIPs |

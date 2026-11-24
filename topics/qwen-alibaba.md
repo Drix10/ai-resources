@@ -1,11 +1,12 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 269 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 270 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [Inkling-2-Mini runs 344k context on RTX 3090](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-287.md#-inkling-2-mini-runs-344k-context-on-rtx-3090) | AI Professionals and Community |
 | 2026-11-21 | [Qwen 3.8 Flash Next – 180B model, ~6B active per token](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-285.md#-qwen-38-flash-next--180b-model-6b-active-per-token) | AI Professionals and Community |
 | 2026-11-21 | [Qwen3.8-35B-A3B runs at 50 tokens/s on RTX 3060 12GB VRAM](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-283.md#-qwen38-35b-a3b-runs-at-50-tokenss-on-rtx-3060-12gb-vram) | AI Artists and Creators |
 | 2026-11-21 | [Qwen3.8-27B LoRA adapter improves coding benchmarks, cuts agent turns](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-283.md#-qwen38-27b-lora-adapter-improves-coding-benchmarks-cuts-agent-turns) | AI Artists and Creators |
@@ -105,4 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 269 briefings that mention i
 | 2026-09-22 | [LUCI Desktop](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-246.md#-luci-desktop) | AI in Enterprise Applications |
 | 2026-09-21 | [Qwen3.8-27B: Unsupervised CUDA Inference Engine](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-278.md#-qwen38-27b-unsupervised-cuda-inference-engine) | Devs, Designers, DevRel |
 | 2026-09-21 | [Qwen Image 2.1 - Dino Drawing](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-219.md#-qwen-image-21---dino-drawing) | Spatial Computing |
-| 2026-09-21 | [Inference Stack for Open Frontier Models](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-219.md#-inference-stack-for-open-frontier-models) | Tech Journalists and VIPs |

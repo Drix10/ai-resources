@@ -1,11 +1,13 @@
 # DeepSeek
 
-DeepSeek and its open models. The 100 newest of 261 briefings that mention it, from every category, newest first.
+DeepSeek and its open models. The 100 newest of 263 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [Inkling-2-Mini runs 344k context on RTX 3090](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-287.md#-inkling-2-mini-runs-344k-context-on-rtx-3090) | AI Professionals and Community |
+| 2026-11-24 | [DeepSeek founder Liang Wenfeng net worth $55 billion](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-275.md#-deepseek-founder-liang-wenfeng-net-worth-55-billion) | AI Policy and Ethical Considerations |
 | 2026-11-21 | [Qwen 3.8 Flash Next – 180B model, ~6B active per token](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-285.md#-qwen-38-flash-next--180b-model-6b-active-per-token) | AI Professionals and Community |
 | 2026-11-21 | [DeepSeek mentions hit 15,000 today, NBIS drops >40% during shock](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-282.md#-deepseek-mentions-hit-15000-today-nbis-drops-40-during-shock) | AI for Content Creation and Marketing |
 | 2026-11-19 | [DeepSeek OpenMotion adds 300+ templates, 152+ styles](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-281.md#-deepseek-openmotion-adds-300-templates-152-styles) | AI Consulting and Expertise |
@@ -104,5 +106,3 @@ DeepSeek and its open models. The 100 newest of 261 briefings that mention it, f
 | 2025-07-09 | [Large Language Models - DeepSeek-TNG Model Evaluation](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-086.md#--large-language-models---deepseek-tng-model-evaluation) | AI Consulting and Expertise |
 | 2025-06-28 | [Data Privacy Concerns - DeepSeek User Data](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-079.md#-data-privacy-concerns---deepseek-user-data) | AI Artists and Creators |
 | 2025-05-29 | [AI Lab Rankings - DeepSeek's R1 Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-065.md#-ai-lab-rankings---deepseeks-r1-performance) | AI Consulting and Expertise |
-| 2025-05-29 | [AI Models - Deepseek R1 Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-064.md#-ai-models---deepseek-r1-performance) | AI Powered Film and Media |
-| 2025-04-09 | [Tips - Mindful AI Code Generation](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-046.md#-tips---mindful-ai-code-generation) | Devs, Designers, DevRel |

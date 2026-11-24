@@ -1,11 +1,14 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 650 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 653 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [Zernio Ads API adds Microsoft Ads integration](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-284.md#-zernio-ads-api-adds-microsoft-ads-integration) | AI for Content Creation and Marketing |
+| 2026-11-24 | [Valve stops Steam Machine waitlists, Meta VR Start contest $1M prize pool](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-280.md#-valve-stops-steam-machine-waitlists-meta-vr-start-contest-1m-prize-pool) | AR VR Companies and Development |
+| 2026-11-23 | [Meta VR Glasses guide – Unity setup and hand-gaze demo](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-280.md#-meta-vr-glasses-guide--unity-setup-and-hand-gaze-demo) | AR VR Companies and Development |
 | 2026-11-21 | [Quest Gets 3D Movie Rentals & Purchases In The US, 150+ titles](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-279.md#-quest-gets-3d-movie-rentals--purchases-in-the-us-150-titles) | AR VR Companies and Development |
 | 2026-11-20 | [Meta Quest 3 demo at Unite Tokyo shows early workflow](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-278.md#-meta-quest-3-demo-at-unite-tokyo-shows-early-workflow) | AR VR Companies and Development |
 | 2026-11-19 | [HandSim robot simulator for Meta Quest launches with hand tracking](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-309.md#-handsim-robot-simulator-for-meta-quest-launches-with-hand-tracking) | AI Leaders and Thinkers |
@@ -103,6 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 650 brie
 | 2026-09-27 | [Meta VR Glasses and Apple Vision Pro](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-281.md#-meta-vr-glasses-and-apple-vision-pro) | Tech VIPs |
 | 2026-09-27 | [Technology - Meta Pay](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-245.md#-technology---meta-pay) | Interesting Finds |
 | 2026-09-26 | [Ad Pipeline Automation](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-282.md#-ad-pipeline-automation) | AI Developer Tools |
-| 2026-09-26 | [133k Live Ads from 6,055 YC Companies](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-273.md#-133k-live-ads-from-6055-yc-companies) | AI Companies and Ventures |
-| 2026-09-26 | [Muse Charm and Meta Gadget](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-249.md#muse-charm-and-meta-gadget) | Computer Vision and AI Applications |
-| 2026-09-26 | [Tech Trends - Steam Frame, Snap SPECS, and Meta VR Glasses](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-246.md#-tech-trends---steam-frame-snap-specs-and-meta-vr-glasses) | AR VR Professionals and Community |
