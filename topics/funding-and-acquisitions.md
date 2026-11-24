@@ -1,11 +1,15 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,246 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,250 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [Insmed acquisition announced with two marketed medicines](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-297.md#-insmed-acquisition-announced-with-two-marketed-medicines) | AI in Healthcare and Science |
+| 2026-11-23 | [Heidi AI care partner raises Series C, $50M ARR](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-297.md#-heidi-ai-care-partner-raises-series-c-50m-arr) | AI in Healthcare and Science |
+| 2026-11-23 | [Research Solutions, Inc. to be acquired by KwGlobalLtd](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-289.md#-research-solutions-inc-to-be-acquired-by-kwgloballtd) | AI Education |
+| 2026-11-23 | [Decart acquisition talks with Amazon $7.5B deal](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-253.md#-decart-acquisition-talks-with-amazon-75b-deal) | Tech Journalists and VIPs |
 | 2026-11-22 | [Nucleovir Therapeutics AI virus preclinical trial start](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-313.md#-nucleovir-therapeutics-ai-virus-preclinical-trial-start) | VC Firms |
 | 2026-11-22 | [LeonardoAi gets GPUs in days, then acquired by Canva](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-272.md#-leonardoai-gets-gpus-in-days-then-acquired-by-canva) | Decentralized AI |
 | 2026-11-21 | [Scoops peanut butter protein powder Target launch hits $400k sales](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-254.md#-scoops-peanut-butter-protein-powder-target-launch-hits-400k-sales) | PR and Communications |
@@ -102,7 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,246 briefings that mention it, fro
 | 2026-10-29 | [Cohere Series E funding up to CAD $7B at $35.7B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-291.md#-cohere-series-e-funding-up-to-cad-7b-at-357b-valuation) | AI Leaders and Thinkers |
 | 2026-10-29 | [Nvidia invests $3B in Meta as Meta raises $95B for AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-278.md#-nvidia-invests-3b-in-meta-as-meta-raises-95b-for-ai) | AI Holodeck and Virtual Worlds |
 | 2026-10-29 | [ADT acquisition announced – essential service focus](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-275.md#-adt-acquisition-announced--essential-service-focus) | AI and Robotics Applications |
-| 2026-10-29 | [Dulo seed round $130m announced and mission stated](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-270.md#-dulo-seed-round-130m-announced-and-mission-stated) | AI Driven Vehicles and Transportation |
-| 2026-10-29 | [LivePerson chat inventor raises $10.3M to kill chat box](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-268.md#-liveperson-chat-inventor-raises-103m-to-kill-chat-box) | AI Consulting and Expertise |
-| 2026-10-29 | [Coveo acquires Anglera, adds product data enrichment](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-267.md#-coveo-acquires-anglera-adds-product-data-enrichment) | AI for Content Creation and Marketing |
-| 2026-10-29 | [Space Force seeks cislunar spacecraft by 2029](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-space-force-seeks-cislunar-spacecraft-by-2029) | Interesting Finds |

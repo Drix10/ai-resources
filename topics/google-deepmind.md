@@ -1,11 +1,14 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 997 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 1,000 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [Neon LLM and Mai Image 2.7 flash for AI film generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-281.md#-neon-llm-and-mai-image-27-flash-for-ai-film-generation) | AI Powered Film and Media |
+| 2026-11-23 | [Gemini quotas reset; Carbon for Pro, Hydrogen for all](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-324.md#-gemini-quotas-reset-carbon-for-pro-hydrogen-for-all) | CS Academics |
+| 2026-11-23 | [Gemini 4 Neon adds native video and audio function calling](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-281.md#-gemini-4-neon-adds-native-video-and-audio-function-calling) | Computer Vision and AI Applications |
 | 2026-11-22 | [Gemini 4 Neon rollout announced with focus on usability and steerability](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-323.md#-gemini-4-neon-rollout-announced-with-focus-on-usability-and-steerability) | CS Academics |
 | 2026-11-22 | [GateWatch: Low-Overhead LLM Monitoring hits 80.49% accuracy](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-305.md#-gatewatch-low-overhead-llm-monitoring-hits-8049-accuracy) | AI Organizations and Media |
 | 2026-11-22 | [Fable 5.2, Gemini Neon, Sol 6.2 top, now in Crayon](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-293.md#-fable-52-gemini-neon-sol-62-top-now-in-crayon) | AI Holodeck and Virtual Worlds |
@@ -103,6 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-10-07 | [AI-generated Content - SynthID Detector Adoption and Impact](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-300.md#-ai-generated-content---synthid-detector-adoption-and-impact) | CS Academics |
 | 2026-10-07 | [Claude Haiku 5.5 Intelligence Index jump to 43](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-277.md#-claude-haiku-55-intelligence-index-jump-to-43) | AI Organizations and Media |
 | 2026-10-07 | [Biohub $1.8B virtual cell effort backed by DeepMind, Meta, Isomorphic Labs](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-270.md#-biohub-18b-virtual-cell-effort-backed-by-deepmind-meta-isomorphic-labs) | AI in Healthcare and Science |
-| 2026-10-07 | [Gemini 4 Argon pricing announcement by Google](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-256.md#-gemini-4-argon-pricing-announcement-by-google) | AI for Content Creation and Marketing |
-| 2026-10-05 | [Tech News - Google TV Streamer](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-299.md#-tech-news---google-tv-streamer) | CS Academics |
-| 2026-10-05 | [AI & Robotics - Long Horizon Summit](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-288.md#-ai--robotics---long-horizon-summit) | AI Developer Tools |

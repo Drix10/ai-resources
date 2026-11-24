@@ -1,11 +1,14 @@
 # AI policy
 
-Laws, regulators and governments on AI. The 100 newest of 944 briefings that mention it, from every category, newest first.
+Laws, regulators and governments on AI. The 100 newest of 947 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [Reverso Therapeutics receives CHF 40,000 from Venture Kick – Stage II funding](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-314.md#-reverso-therapeutics-receives-chf-40000-from-venture-kick--stage-ii-funding) | VC Firms |
+| 2026-11-24 | [PFerrinX Brazil lactoferrin Q4 2027 100 metric tons](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-314.md#-pferrinx-brazil-lactoferrin-q4-2027-100-metric-tons) | VC Firms |
+| 2026-11-24 | [Frequent short walks improve blood sugar regulation study](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-245.md#-frequent-short-walks-improve-blood-sugar-regulation-study) | World News and Updates |
 | 2026-11-22 | [Tesla FSD live in 12 European countries launch](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-278.md#-tesla-fsd-live-in-12-european-countries-launch) | Founders and Entrepreneurs |
 | 2026-11-18 | [DEF submits two responses to FCA on DeFi regulatory framework](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-283.md#-def-submits-two-responses-to-fca-on-defi-regulatory-framework) | AI Professionals and Community |
 | 2026-11-13 | [Scaling public input on AI policy with pluralistic agents – study results](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-299.md#-scaling-public-input-on-ai-policy-with-pluralistic-agents--study-results) | AI Organizations and Media |
@@ -103,6 +106,3 @@ Laws, regulators and governments on AI. The 100 newest of 944 briefings that men
 | 2026-09-18 | [Politics - Democratic Party Platform](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-234.md#-politics---democratic-party-platform) | Crypto and Web3 |
 | 2026-09-18 | [Tech News - CFTC Crypto Rulemaking](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-233.md#-tech-news---cftc-crypto-rulemaking) | Interesting Finds |
 | 2026-09-18 | [News - AI Experts to Consider "Kill Switch"](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-215.md#-news---ai-experts-to-consider-kill-switch) | World News and Updates |
-| 2026-09-17 | [EU/State Regulations: Compliance and More](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-270.md#-eustate-regulations-compliance-and-more) | Devs, Designers, DevRel |
-| 2026-09-17 | [Innovation Exemption](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-264.md#-innovation-exemption) | VC Firms |
-| 2026-09-17 | [Robotics and AI: A Growing Industry](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-258.md#-robotics-and-ai-a-growing-industry) | AI Leaders and Thinkers |

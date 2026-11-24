@@ -1,11 +1,16 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 843 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 848 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-24 | [Nvidia CEO returns, US equities jump 4.7%](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-273.md#-nvidia-ceo-returns-us-equities-jump-47) | The Exponential Future |
+| 2026-11-24 | [Megaspeed restricted from buying advanced semiconductor chips](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-245.md#-megaspeed-restricted-from-buying-advanced-semiconductor-chips) | World News and Updates |
+| 2026-11-23 | [Nvidia reinstated as CEO adds $3 trillion market cap](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-275.md#-nvidia-reinstated-as-ceo-adds-3-trillion-market-cap) | AI Policy and Ethical Considerations |
+| 2026-11-23 | [Horizon supercomputer online with 4,000 GPUs, 80 exaflops](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-253.md#-horizon-supercomputer-online-with-4000-gpus-80-exaflops) | Tech Journalists and VIPs |
+| 2026-11-23 | [Decart acquisition talks with Amazon $7.5B deal](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-253.md#-decart-acquisition-talks-with-amazon-75b-deal) | Tech Journalists and VIPs |
 | 2026-11-22 | [Nvidia loses $2.6T market cap, falls to fourth](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-305.md#-nvidia-loses-26t-market-cap-falls-to-fourth) | AI Organizations and Media |
 | 2026-11-22 | [CUPID reconstructs 3D objects from a single image](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-274.md#-cupid-reconstructs-3d-objects-from-a-single-image) | AI in Real Estate and Property Tech |
 | 2026-11-21 | [NVIDIA Nemotron 3.5 30B A3B Fractal 64 CPU GGUF launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-304.md#-nvidia-nemotron-35-30b-a3b-fractal-64-cpu-gguf-launch) | AI Organizations and Media |
@@ -101,8 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 843 briefin
 | 2026-10-29 | [NVIDIAAI xToken recipe boosts Nemotron 3.5 pass@1](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-nvidiaai-xtoken-recipe-boosts-nemotron-35-pass1) | AI Developer Tools |
 | 2026-10-29 | [IREN AI Cloud demo shows sovereign token flow](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-iren-ai-cloud-demo-shows-sovereign-token-flow) | AI Developer Tools |
 | 2026-10-29 | [Nemotron 3.5-transcribe benchmark 1.15% WER and speed](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-294.md#-nemotron-35-transcribe-benchmark-115-wer-and-speed) | AI Leaders and Thinkers |
-| 2026-10-29 | [Megawatt AI racks need 800 volts, sidecars](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-288.md#-megawatt-ai-racks-need-800-volts-sidecars) | AI Organizations and Media |
-| 2026-10-29 | [Nvidia invests $3B in Meta as Meta raises $95B for AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-278.md#-nvidia-invests-3b-in-meta-as-meta-raises-95b-for-ai) | AI Holodeck and Virtual Worlds |
-| 2026-10-29 | [Nvidia guarantees Nscale debt for 460MW data center in $45B Anthropic deal](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-269.md#-nvidia-guarantees-nscale-debt-for-460mw-data-center-in-45b-anthropic-deal) | AI Consulting and Expertise |
-| 2026-10-29 | [Into the Omniverse: Developers use AI agents with Omniverse](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-265.md#-into-the-omniverse-developers-use-ai-agents-with-omniverse) | AR VR Companies and Development |
-| 2026-10-29 | [KYEC new fab in Texas backed by $1.1B NVIDIA prepayment](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-256.md#-kyec-new-fab-in-texas-backed-by-11b-nvidia-prepayment) | Interesting Finds |
