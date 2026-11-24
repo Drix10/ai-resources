@@ -4,8 +4,8 @@ An MCP server that gives any AI agent the [AI Resources](https://github.com/Drix
 
 | Tool | What it does |
 | --- | --- |
-| `search_briefings(query, category?, limit?, since?)` | Keyword search, newest first. All words must match. `since` is `YYYY-MM-DD`. |
-| `latest(category?, limit?)` | The newest briefings, overall or for one category. |
+| `search_briefings(query, category?, limit?, since?, page?)` | Keyword search, newest first. All words must match. `since` is `YYYY-MM-DD`. `page` (1-1000) reads further pages; the result says `More:` when there are more. |
+| `latest(category?, limit?, page?)` | The newest briefings, overall or for one category. `page` (1-1000) reads further pages. |
 | `get_briefing(id)` | Full Markdown of one briefing (URL or slug), with every source link. Also takes a GitHub digest link (`github.com/Drix10/ai-resources/blob/main/<Category>/resources-<N>.md`, the `raw.githubusercontent.com` form, or the bare `<Category>/resources-<N>.md` path); other GitHub or web URLs are not fetched. |
 | `list_categories()` | Every category slug with its briefing count. |
 | `trending_movements(limit?)` | Topics accelerating week over week (rising) or hot for one week (watch), with sample headlines and source links. |
