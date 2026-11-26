@@ -1,12 +1,17 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 1,000 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 1,005 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-26 | [GPT-6.2 Astra tops GDPx leaderboard with 19.3% score](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-298.md#-gpt-62-astra-tops-gdpx-leaderboard-with-193-score) | AI in Healthcare and Science |
+| 2026-11-26 | [Gemini 4 Carbon – Kyoto moss garden built in Godot 4.7.2 with code only](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-282.md#-gemini-4-carbon--kyoto-moss-garden-built-in-godot-472-with-code-only) | AI Powered Film and Media |
+| 2026-11-25 | [Gemini API CLI open source release, easy access with API key](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-325.md#-gemini-api-cli-open-source-release-easy-access-with-api-key) | CS Academics |
+| 2026-11-25 | [Google AI Mode ads, ChatGPT numbers rough, $1B spend](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-257.md#-google-ai-mode-ads-chatgpt-numbers-rough-1b-spend) | PR and Communications |
 | 2026-11-24 | [Neon LLM and Mai Image 2.7 flash for AI film generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-281.md#-neon-llm-and-mai-image-27-flash-for-ai-film-generation) | AI Powered Film and Media |
+| 2026-11-24 | [Gemini 4 Neon Antigravity video created in 17 minutes using 1% weekly usage](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-279.md#-gemini-4-neon-antigravity-video-created-in-17-minutes-using-1-weekly-usage) | AR VR Professionals and Community |
 | 2026-11-23 | [Gemini quotas reset; Carbon for Pro, Hydrogen for all](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-324.md#-gemini-quotas-reset-carbon-for-pro-hydrogen-for-all) | CS Academics |
 | 2026-11-23 | [Gemini 4 Neon adds native video and audio function calling](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-281.md#-gemini-4-neon-adds-native-video-and-audio-function-calling) | Computer Vision and AI Applications |
 | 2026-11-22 | [Gemini 4 Neon rollout announced with focus on usability and steerability](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-323.md#-gemini-4-neon-rollout-announced-with-focus-on-usability-and-steerability) | CS Academics |
@@ -101,8 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-10-10 | [Google AI Notetaker App for Mac Launch](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-257.md#-google-ai-notetaker-app-for-mac-launch) | Computer Vision and AI Applications |
 | 2026-10-09 | [Conversational Voice Aesthetic Model (CVAM) release](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-270.md#-conversational-voice-aesthetic-model-cvam-release) | AI Generated Music and Audio |
 | 2026-10-08 | [Self‑improvement breakdown – GPT‑5.6 Luna vs Gemini 3.1 Pro artifact use](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-264.md#-selfimprovement-breakdown--gpt56-luna-vs-gemini31pro-artifact-use) | AI Professionals and Community |
-| 2026-10-08 | [Google launches Gemini agent as universal work assistant](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-232.md#-google-launches-gemini-agent-as-universal-work-assistant) | PR and Communications |
-| 2026-10-07 | [AI Tools - SynthID Detector](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-300.md#-ai-tools---synthid-detector) | CS Academics |
-| 2026-10-07 | [AI-generated Content - SynthID Detector Adoption and Impact](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-300.md#-ai-generated-content---synthid-detector-adoption-and-impact) | CS Academics |
-| 2026-10-07 | [Claude Haiku 5.5 Intelligence Index jump to 43](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-277.md#-claude-haiku-55-intelligence-index-jump-to-43) | AI Organizations and Media |
-| 2026-10-07 | [Biohub $1.8B virtual cell effort backed by DeepMind, Meta, Isomorphic Labs](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-270.md#-biohub-18b-virtual-cell-effort-backed-by-deepmind-meta-isomorphic-labs) | AI in Healthcare and Science |

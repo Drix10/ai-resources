@@ -4,6 +4,15 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 
 ## November 2026
 
+- **Nov 26** · [Solar Mini 4.5 Preview launch on OpenRouter with pricing](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-312.md#-solar-mini-45-preview-launch-on-openrouter-with-pricing) <sub>AI Companies and Ventures</sub>
+- **Nov 26** · [Drex Max v1.2 launch – #1 Decision Index, $0.04 per million tokens](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-279.md#-drex-max-v12-launch--1-decision-index-004-per-million-tokens) <sub>AI in Enterprise Applications</sub>
+- **Nov 25** · [Perplexity Time Machine launches, roll index to any date](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-325.md#-perplexity-time-machine-launches-roll-index-to-any-date) <sub>CS Academics</sub>
+- **Nov 25** · [Gemini API CLI open source release, easy access with API key](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-325.md#-gemini-api-cli-open-source-release-easy-access-with-api-key) <sub>CS Academics</sub>
+- **Nov 25** · [Polymarket launches pricing for Nvidia H100 to 2028](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-316.md#-polymarket-launches-pricing-for-nvidia-h100-to-2028) <sub>Devs, Designers, DevRel</sub>
+- **Nov 25** · [SenseNova U1.6 Studio launches on Hugging Face](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-282.md#-sensenova-u16-studio-launches-on-hugging-face) <sub>Computer Vision and AI Applications</sub>
+- **Nov 25** · [Giving Pledge 2.0 launches $10 billion direct-giving platform](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-264.md#-giving-pledge-20-launches-10-billion-direct-giving-platform) <sub>Interesting Finds</sub>
+- **Nov 25** · [Roma 2.0 launch – live task loop with agents](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-254.md#-roma-20-launch--live-task-loop-with-agents) <sub>Tech Journalists and VIPs</sub>
+- **Nov 25** · [Cuttlefish macOS Apple silicon port released on GitHub](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-251.md#-cuttlefish-macos-apple-silicon-port-released-on-github) <sub>Tech Companies and News</sub>
 - **Nov 24** · [GPT-6.2 Sol released in Chat tab, everyday conversation](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-324.md#-gpt-62-sol-released-in-chat-tab-everyday-conversation) <sub>CS Academics</sub>
 - **Nov 24** · [ERNIE 5.5 Flash Preview weights released – 280B total, 14B active](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-313.md#-ernie-55-flash-preview-weights-released--280b-total-14b-active) <sub>AI Leaders and Thinkers</sub>
 - **Nov 24** · [Ideogram 4.6 now available on Blyth AI for 4K images](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-294.md#-ideogram-46-now-available-on-blyth-ai-for-4k-images) <sub>AI Holodeck and Virtual Worlds</sub>
@@ -201,21 +210,3 @@ Model and product releases by the companies in [topics](topics/README.md), newes
 - **Sep 18** · [Xcode 27.1 Beta Release](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-215.md#-xcode-271-beta-release) <sub>Spatial Computing</sub>
 - **Sep 16** · [AI - DeepMind's Alpha-Fold and Open-Source Model](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-241.md#-ai---deepminds-alpha-fold-and-open-source-model) <sub>AI Driven Vehicles and Transportation</sub>
 - **Sep 12** · [AI Tools - Launching Releases with GPT-6 Astra](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-246.md#-ai-tools---launching-releases-with-gpt-6-astra) <sub>AI Holodeck and Virtual Worlds</sub>
-- **Sep 11** · [DSPy 3.4 Release Candidate](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-262.md#-dspy-34-release-candidate) <sub>AI Developer Tools</sub>
-- **Sep 4** · [GPT-6 Astra Launch - Disappointment and Expectations](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-203.md#-gpt-6-astra-launch---disappointment-and-expectations) <sub>Spatial Computing</sub>
-
-## August 2026
-
-- **Aug 31** · [Crypto - Zakura Release 1.3.0](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-218.md#-crypto---zakura-release-130) <sub>Crypto and Web3</sub>
-- **Aug 28** · [Model Release - Qwen Models Availability](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-249.md#-model-release---qwen-models-availability) <sub>AI Developer Tools</sub>
-- **Aug 27** · [Model Release - GLM-5.3-Flash](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-248.md#-model-release---glm-53-flash) <sub>AI Developer Tools</sub>
-- **Aug 26** · [AI Model Update - Wan 3.0 Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-234.md#-ai-model-update---wan-30-release) <sub>AI Holodeck and Virtual Worlds</sub>
-- **Aug 20** · [Model Release - Ornith-1.5 Family](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-247.md#-model-release---ornith-15-family) <sub>AI Developer Tools</sub>
-
-## July 2026
-
-- **Jul 8** · [AI Model Release - Grok 4.5 Overview](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-226.md#-ai-model-release---grok-45-overview) <sub>Tech VIPs</sub>
-
-## June 2026
-
-- **Jun 23** · [Claude AI - Claude Tag Beta Launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-216.md#-claude-ai---claude-tag-beta-launch) <sub>AI Education</sub>

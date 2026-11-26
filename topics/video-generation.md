@@ -1,11 +1,12 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 838 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 839 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-26 | [FAA ground stop at Miami Airport after FedEx jet overshoot](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-246.md#-faa-ground-stop-at-miami-airport-after-fedex-jet-overshoot) | World News and Updates |
 | 2026-11-24 | [Kling 4 and Seedance 2.5 used in SoundBoost MVG video](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-294.md#-kling-4-and-seedance-25-used-in-soundboost-mvg-video) | AI Generated Music and Audio |
 | 2026-11-23 | [Freebeat connects to OpenAI ChatGPT for image creation, editing, video generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-294.md#-freebeat-connects-to-openai-chatgpt-for-image-creation-editing-video-generation) | AI Generated Music and Audio |
 | 2026-11-22 | [Suno AI video creation tool integration with Grok Bot via MCP](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-315.md#-suno-ai-video-creation-tool-integration-with-grok-bot-via-mcp) | Tech VIPs |
@@ -105,4 +106,3 @@ Models and tools that make video. The 100 newest of 838 briefings that mention i
 | 2026-08-28 | [Video Generation - Gemini Omni 1.1 Flash Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-244.md#-video-generation---gemini-omni-11-flash-update) | AI Companies and Ventures |
 | 2026-08-28 | [Video Generation - Scene Simulation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-235.md#-video-generation---scene-simulation) | AI Holodeck and Virtual Worlds |
 | 2026-08-28 | [Video Generation - Model Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-229.md#-video-generation---model-release) | AI Professionals and Community |
-| 2026-08-27 | [Gemini Omni 1.1 Flash - Video Generation Capabilities](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-266.md#-gemini-omni-11-flash---video-generation-capabilities) | CS Academics |

@@ -1,11 +1,20 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,355 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,364 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-26 | [GPT-6.2 Astra and Sol limit consumption increase 40% and 25%](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-307.md#-gpt-62-astra-and-sol-limit-consumption-increase-40-and-25) | AI Organizations and Media |
+| 2026-11-26 | [GPT-6.2 Astra tops GDPx leaderboard with 19.3% score](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-298.md#-gpt-62-astra-tops-gdpx-leaderboard-with-193-score) | AI in Healthcare and Science |
+| 2026-11-26 | [GPT-6.2 usage limit reaches 40% faster after billing fix](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-288.md#-gpt-62-usage-limit-reaches-40-faster-after-billing-fix) | AI Professionals and Community |
+| 2026-11-26 | [GPT-6.2 billing error fixed, usage 40% faster](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-288.md#-gpt-62-billing-error-fixed-usage-40-faster) | AI Professionals and Community |
+| 2026-11-26 | [Claude Fable 5.2 leads FrontierPhysics leaderboard at 32%](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-279.md#-claude-fable-52-leads-frontierphysics-leaderboard-at-32) | AR VR Professionals and Community |
+| 2026-11-26 | [ffmpeg-skill adds local FFmpeg tools for Claude, Cursor, Codex 42](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-272.md#-ffmpeg-skill-adds-local-ffmpeg-tools-for-claude-cursor-codex-42) | Crypto and Web3 |
+| 2026-11-25 | [OpenAI publishes proof reducing FFT complexity](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-289.md#-openai-publishes-proof-reducing-fft-complexity) | AI Driven Vehicles and Transportation |
+| 2026-11-25 | [Google AI Mode ads, ChatGPT numbers rough, $1B spend](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-257.md#-google-ai-mode-ads-chatgpt-numbers-rough-1b-spend) | PR and Communications |
+| 2026-11-25 | [OpenAI Private Inference testing begins with select customers](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-254.md#-openai-private-inference-testing-begins-with-select-customers) | Tech Journalists and VIPs |
 | 2026-11-24 | [GPT-6.2 Astra scores 97% on RoboDojo-RC Tier 1](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-324.md#-gpt-62-astra-scores-97-on-robodojo-rc-tier-1) | CS Academics |
 | 2026-11-24 | [GPT-6.2 Astra sits 5x above trend on robot-control benchmarks](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-324.md#-gpt-62-astra-sits-5x-above-trend-on-robot-control-benchmarks) | CS Academics |
 | 2026-11-24 | [GPT-6.2 Astra research taste 4.9x, Fable 5.2 2.5x](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-324.md#-gpt-62-astra-research-taste-49x-fable-52-25x) | CS Academics |
@@ -97,12 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,355 briefings t
 | 2026-11-10 | [Paris Call for AI Safety commits to model shutdowns](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-273.md#-paris-call-for-ai-safety-commits-to-model-shutdowns) | AI Policy and Ethical Considerations |
 | 2026-11-10 | [Opus 5.5 domination reported in T3 Code split chart](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-265.md#-opus-55-domination-reported-in-t3-code-split-chart) | Decentralized AI |
 | 2026-11-10 | [SpaceX Anthropic OpenAI generate $4.2T liquidity](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-261.md#-spacex-anthropic-openai-generate-42t-liquidity) | Interesting Finds |
-| 2026-11-09 | [Inkling 2 Small free on OpenRouter limited time](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-314.md#-inkling-2-small-free-on-openrouter-limited-time) | CS Academics |
-| 2026-11-09 | [Claude Opus 5.5 vs GPT-6.1 Terra – 32 beads replayed identical bin counts](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-312.md#-claude-opus-55-vs-gpt-61-terra--32-beads-replayed-identical-bin-counts) | AI Developer Tools |
-| 2026-11-09 | [Spacefast announced daily shipping for 30 days](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-306.md#-spacefast-announced-daily-shipping-for-30-days) | Tech VIPs |
-| 2026-11-09 | [OpenAI integration drove 190,000 restaurant visits](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-303.md#-openai-integration-drove-190000-restaurant-visits) | AI Leaders and Thinkers |
-| 2026-11-09 | [GPT-6 Astra stands dominoes in robot arm test](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-284.md#-gpt-6-astra-stands-dominoes-in-robot-arm-test) | AI and Robotics Applications |
-| 2026-11-09 | [Opus5.5 model evolution and AI-powered RC car achievement](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-283.md#-opus55-model-evolution-and-ai-powered-rc-car-achievement) | AI and Robotics Applications |
-| 2026-11-09 | [Procedura – MCP integration released 2026-10-20](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-266.md#-procedura--mcp-integration-released-2026-10-20) | AI in Real Estate and Property Tech |
-| 2026-11-08 | [Orca build workflow creates 9 PRs in morning](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-311.md#-orca-build-workflow-creates-9-prs-in-morning) | AI Developer Tools |
-| 2026-11-08 | [Learning When to Think Aloud in Latent Reasoning shows 9.6% accuracy gain on GPT-2](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-295.md#-learning-when-to-think-aloud-in-latent-reasoning-shows-96-accuracy-gain-on-gpt-2) | AI Organizations and Media |

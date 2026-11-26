@@ -1,11 +1,14 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 653 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 656 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-25 | [Praxis-1 runs 1.7x faster on ExecuTorch with TensorRT](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-281.md#-praxis-1-runs-17x-faster-on-executorch-with-tensorrt) | AR VR Companies and Development |
+| 2026-11-25 | [Meta VR CLI docs search for XR SDKs](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-281.md#-meta-vr-cli-docs-search-for-xr-sdks) | AR VR Companies and Development |
+| 2026-11-25 | [Cuttlefish macOS Apple silicon port released on GitHub](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-251.md#-cuttlefish-macos-apple-silicon-port-released-on-github) | Tech Companies and News |
 | 2026-11-24 | [Zernio Ads API adds Microsoft Ads integration](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-284.md#-zernio-ads-api-adds-microsoft-ads-integration) | AI for Content Creation and Marketing |
 | 2026-11-24 | [Valve stops Steam Machine waitlists, Meta VR Start contest $1M prize pool](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-280.md#-valve-stops-steam-machine-waitlists-meta-vr-start-contest-1m-prize-pool) | AR VR Companies and Development |
 | 2026-11-23 | [Meta VR Glasses guide – Unity setup and hand-gaze demo](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-280.md#-meta-vr-glasses-guide--unity-setup-and-hand-gaze-demo) | AR VR Companies and Development |
@@ -103,6 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 653 brie
 | 2026-09-28 | [AI Research - Meta's Team Proposes DCE + SRCL as an Alternative to On-Policy Self-Distillation](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-260.md#-ai-research---metas-team-proposes-dce--srcl-as-an-alternative-to-on-policy-self-distillation) | AI Professionals and Community |
 | 2026-09-28 | [Meta VR Start Developer Competition](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-251.md#-meta-vr-start-developer-competition) | AR VR Companies and Development |
 | 2026-09-28 | [Tech News - Meta Ray-Ban Display Hackathon](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-249.md#-tech-news---meta-ray-ban-display-hackathon) | AR VR Professionals and Community |
-| 2026-09-27 | [Meta VR Glasses and Apple Vision Pro](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-281.md#-meta-vr-glasses-and-apple-vision-pro) | Tech VIPs |
-| 2026-09-27 | [Technology - Meta Pay](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-245.md#-technology---meta-pay) | Interesting Finds |
-| 2026-09-26 | [Ad Pipeline Automation](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-282.md#-ad-pipeline-automation) | AI Developer Tools |

@@ -1,11 +1,13 @@
 # Microsoft
 
-Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 619 briefings that mention it, from every category, newest first.
+Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 621 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-26 | [Azure SQL Hyperscale automatic index compaction with ALTER DATABASE command](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-291.md#-azure-sql-hyperscale-automatic-index-compaction-with-alter-database-command) | Tech Infrastructure |
+| 2026-11-25 | [Aim AI Marketer now in Slack, Teams, Gmail, Outlook](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-285.md#-aim-ai-marketer-now-in-slack-teams-gmail-outlook) | AI for Content Creation and Marketing |
 | 2026-11-24 | [Zernio Ads API adds Microsoft Ads integration](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-284.md#-zernio-ads-api-adds-microsoft-ads-integration) | AI for Content Creation and Marketing |
 | 2026-11-24 | [Microsoft Sentinel MCP – save KQL query as tool](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-251.md#-microsoft-sentinel-mcp--save-kql-query-as-tool) | Cybersecurity and Tech |
 | 2026-11-22 | [Nvidia loses $2.6T market cap, falls to fourth](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-305.md#-nvidia-loses-26t-market-cap-falls-to-fourth) | AI Organizations and Media |
@@ -104,5 +106,3 @@ Microsoft, Copilot, Azure AI and the Phi models. The 100 newest of 619 briefings
 | 2026-09-28 | [Claude Sonnet 5.5 - Improved Efficiency and Accuracy](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-276.md#-claude-sonnet-55---improved-efficiency-and-accuracy) | AI Companies and Ventures |
 | 2026-09-28 | [Napster is the Only End-to-End Azure Native Agentic AI Company](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-251.md#-napster-is-the-only-end-to-end-azure-native-agentic-ai-company) | AR VR Companies and Development |
 | 2026-09-27 | [Bing Search and Blogging](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-253.md#-bing-search-and-blogging) | Founders and Entrepreneurs |
-| 2026-09-26 | [GitHub Copilot - Join Dev Days](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-294.md#-github-copilot---join-dev-days) | CS Academics |
-| 2026-09-26 | [AI - Microsoft AI For Beginners](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-254.md#-ai---microsoft-ai-for-beginners) | AI Consulting and Expertise |
