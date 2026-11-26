@@ -1,11 +1,16 @@
 # Amazon & AWS
 
-Amazon, AWS, Bedrock and Alexa. The 100 newest of 412 briefings that mention it, from every category, newest first.
+Amazon, AWS, Bedrock and Alexa. The 100 newest of 417 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-26 | [Amazon SageMaker HyperPod adds NCCL profiling support](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-291.md#-amazon-sagemaker-hyperpod-adds-nccl-profiling-support) | Tech Infrastructure |
+| 2026-11-26 | [AWS Device Farm supports Android emulators and iOS simulators](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-291.md#-aws-device-farm-supports-android-emulators-and-ios-simulators) | Tech Infrastructure |
+| 2026-11-26 | [Amazon loses latest attempt to avoid recall handling](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-257.md#-amazon-loses-latest-attempt-to-avoid-recall-handling) | PR and Communications |
+| 2026-11-26 | [FAA ground stop at Miami Airport after FedEx jet overshoot](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-246.md#-faa-ground-stop-at-miami-airport-after-fedex-jet-overshoot) | World News and Updates |
+| 2026-11-25 | [Amazon 1999 CNBC accusation vs Bezos warehouse cost claim](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-288.md#-amazon-1999-cnbc-accusation-vs-bezos-warehouse-cost-claim) | AI Professionals and Community |
 | 2026-11-24 | [CoreWeave backlog $132.5B, AWS sold out through 2027](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-coreweave-backlog-1325b-aws-sold-out-through-2027) | Decentralized AI |
 | 2026-11-23 | [Robotics Summit at Stanford – January 10 2027](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-273.md#-robotics-summit-at-stanford--january-10-2027) | The Exponential Future |
 | 2026-11-23 | [Decart acquisition talks with Amazon $7.5B deal](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-253.md#-decart-acquisition-talks-with-amazon-75b-deal) | Tech Journalists and VIPs |
@@ -101,8 +106,3 @@ Amazon, AWS, Bedrock and Alexa. The 100 newest of 412 briefings that mention it,
 | 2026-08-31 | [MCP Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-234.md#-mcp-release) | AI Powered Film and Media |
 | 2026-08-31 | [Anthropic](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-230.md#-anthropic) | AI in Real Estate and Property Tech |
 | 2026-08-31 | [Business - Honda and Nissan's Collaboration](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-202.md#-business---honda-and-nissans-collaboration) | Quantum Computing |
-| 2026-08-31 | [Business - Physical AI Development Support Program](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-202.md#-business---physical-ai-development-support-program) | Quantum Computing |
-| 2026-08-27 | [AI Performance - Stratusphere UX Update](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-228.md#-ai-performance---stratusphere-ux-update) | Tech Infrastructure |
-| 2026-08-27 | [Hardware - AI Infrastructure Deployment](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-228.md#-hardware---ai-infrastructure-deployment) | Tech Infrastructure |
-| 2026-07-07 | [AI Impact - Decline of Mechanical Turk](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-195.md#-ai-impact---decline-of-mechanical-turk) | The Exponential Future |
-| 2026-05-15 | [AWS Container Services - Proliferation and Choice Paralysis](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-186.md#-aws-container-services---proliferation-and-choice-paralysis) | Tech Infrastructure |

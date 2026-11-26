@@ -1,11 +1,15 @@
 # Qwen & Alibaba
 
-Alibaba, the Qwen models and Wan. The 100 newest of 270 briefings that mention it, from every category, newest first.
+Alibaba, the Qwen models and Wan. The 100 newest of 274 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-26 | [Pirate Face adds 999 new model torrents to Community torrents](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-324.md#-pirate-face-adds-999-new-model-torrents-to-community-torrents) | AI Developer Tools |
+| 2026-11-26 | [Qwen 4 Max builds voxel Hyrule Castle in 30 minutes](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-285.md#-qwen-4-max-builds-voxel-hyrule-castle-in-30-minutes) | AI Consulting and Expertise |
+| 2026-11-25 | [Qwen3-Omni Talker labels reproduced – encoder identified](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-295.md#-qwen3-omni-talker-labels-reproduced--encoder-identified) | AI Generated Music and Audio |
+| 2026-11-25 | [Qwen3-0.6B 24KB x86-64 Assembly OS runs 54% faster than Linux llama.cpp](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-252.md#-qwen3-06b-24kb-x86-64-assembly-os-runs-54-faster-than-linux-llamacpp) | Cybersecurity and Tech |
 | 2026-11-24 | [Inkling-2-Mini runs 344k context on RTX 3090](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-287.md#-inkling-2-mini-runs-344k-context-on-rtx-3090) | AI Professionals and Community |
 | 2026-11-21 | [Qwen 3.8 Flash Next – 180B model, ~6B active per token](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-285.md#-qwen-38-flash-next--180b-model-6b-active-per-token) | AI Professionals and Community |
 | 2026-11-21 | [Qwen3.8-35B-A3B runs at 50 tokens/s on RTX 3060 12GB VRAM](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-283.md#-qwen38-35b-a3b-runs-at-50-tokenss-on-rtx-3060-12gb-vram) | AI Artists and Creators |
@@ -102,7 +106,3 @@ Alibaba, the Qwen models and Wan. The 100 newest of 270 briefings that mention i
 | 2026-09-23 | [AI/ML - Introducing XOR](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-247.md#-aiml---introducing-xor) | Computer Vision and AI Applications |
 | 2026-09-22 | [AI - Qwen 3 Max Weights](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-270.md#-ai---qwen-3-max-weights) | AI Leaders and Thinkers |
 | 2026-09-22 | [AI Engineering - Qwen Image 2.1 Edit](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-249.md#-ai-engineering---qwen-image-21-edit) | AI Consulting and Expertise |
-| 2026-09-22 | [Token Usage and AI Model Performance 1/1](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-247.md#-token-usage-and-ai-model-performance-11) | Founders and Entrepreneurs |
-| 2026-09-22 | [LUCI Desktop](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-246.md#-luci-desktop) | AI in Enterprise Applications |
-| 2026-09-21 | [Qwen3.8-27B: Unsupervised CUDA Inference Engine](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-278.md#-qwen38-27b-unsupervised-cuda-inference-engine) | Devs, Designers, DevRel |
-| 2026-09-21 | [Qwen Image 2.1 - Dino Drawing](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-219.md#-qwen-image-21---dino-drawing) | Spatial Computing |

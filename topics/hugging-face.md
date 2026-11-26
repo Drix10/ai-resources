@@ -1,11 +1,13 @@
 # Hugging Face
 
-Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 234 briefings that mention it, from every category, newest first.
+Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 236 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-25 | [Inkling 2 Mini – local availability announced with partner support](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-316.md#-inkling-2-mini--local-availability-announced-with-partner-support) | Devs, Designers, DevRel |
+| 2026-11-25 | [SenseNova U1.6 Studio launches on Hugging Face](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-282.md#-sensenova-u16-studio-launches-on-hugging-face) | Computer Vision and AI Applications |
 | 2026-11-24 | [ERNIE 5.5 Flash Preview weights released – 280B total, 14B active](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-313.md#-ernie-55-flash-preview-weights-released--280b-total-14b-active) | AI Leaders and Thinkers |
 | 2026-11-24 | [Sand3D Organic open source 10K organic 3D assets as code](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-294.md#-sand3d-organic-open-source-10k-organic-3d-assets-as-code) | AI Holodeck and Virtual Worlds |
 | 2026-11-21 | [Lory-27B v2 and Lory-4B v2 released, Lory-27B scores 80 on blind test](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-288.md#-lory-27b-v2-and-lory-4b-v2-released-lory-27b-scores-80-on-blind-test) | AI Education |
@@ -104,5 +106,3 @@ Hugging Face: the Hub, its libraries and the models shared there. The 100 newest
 | 2026-02-10 | [Hugging Face Hackathon - Build with TRL](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-158.md#-hugging-face-hackathon---build-with-trl) | AI Developer Tools |
 | 2026-01-09 | [AI Agents - Hugging Face CLI Tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-139.md#-ai-agents---hugging-face-cli-tools) | AI Consulting and Expertise |
 | 2026-01-09 | [Data Formats - Optimized Parquet on Hugging Face](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-133.md#-data-formats---optimized-parquet-on-hugging-face) | AI and Robotics Applications |
-| 2026-01-03 | [Real-time AI - Webcam Demo with SmolVLM](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-125.md#-real-time-ai---webcam-demo-with-smolvlm) | Tech Journalists and VIPs |
-| 2025-12-18 | [AI Tools - Hugging Face Inference Credits](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-125.md#-ai-tools---hugging-face-inference-credits) | AI Professionals and Community |

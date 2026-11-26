@@ -1,11 +1,12 @@
 # xAI
 
-xAI and Grok. The 100 newest of 651 briefings that mention it, from every category, newest first.
+xAI and Grok. The 100 newest of 652 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-25 | [Grok Bot saved the day, found $200,000 in lost payments](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-274.md#-grok-bot-saved-the-day-found-200000-in-lost-payments) | The Exponential Future |
 | 2026-11-24 | [Muse app 3Billion Wonder tokens for 139usd/month, Grok Bot adds teach-a-Task](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-281.md#-muse-app-3billion-wonder-tokens-for-139usdmonth-grok-bot-adds-teach-a-task) | AI Powered Film and Media |
 | 2026-11-24 | [Muse daily driver with cloud instance and Sentinel security](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-278.md#-muse-daily-driver-with-cloud-instance-and-sentinel-security) | AR VR Professionals and Community |
 | 2026-11-24 | [Keki – Mac menu-bar app connects coding agents](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-keki--mac-menu-bar-app-connects-coding-agents) | Decentralized AI |
@@ -105,4 +106,3 @@ xAI and Grok. The 100 newest of 651 briefings that mention it, from every catego
 | 2026-09-10 | [AI & Tech News - Grok Bot](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-252.md#-ai--tech-news---grok-bot) | AI Leaders and Thinkers |
 | 2026-09-08 | [Neural Texturing MLP Sizes](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-263.md#-neural-texturing-mlp-sizes) | Devs, Designers, DevRel |
 | 2026-09-07 | [The Hottest Category in Tech: AI Assistants](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-206.md#the-hottest-category-in-tech-ai-assistants) | Tech Companies and News |
-| 2026-09-06 | [AI Tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-249.md#-ai-tools) | AI Leaders and Thinkers |

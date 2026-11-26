@@ -1,12 +1,14 @@
 # Funding & acquisitions
 
-Rounds, raises and deals. The 100 newest of 1,250 briefings that mention it, from every category, newest first.
+Rounds, raises and deals. The 100 newest of 1,252 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-25 | [Deepmind minority stake in EVE Online studio announced](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-316.md#-deepmind-minority-stake-in-eve-online-studio-announced) | Devs, Designers, DevRel |
 | 2026-11-24 | [Insmed acquisition announced with two marketed medicines](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-297.md#-insmed-acquisition-announced-with-two-marketed-medicines) | AI in Healthcare and Science |
+| 2026-11-24 | [Uber could acquire Atoms, valued like Tesla, $56B value gain](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-280.md#-uber-could-acquire-atoms-valued-like-tesla-56b-value-gain) | Founders and Entrepreneurs |
 | 2026-11-23 | [Heidi AI care partner raises Series C, $50M ARR](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-297.md#-heidi-ai-care-partner-raises-series-c-50m-arr) | AI in Healthcare and Science |
 | 2026-11-23 | [Research Solutions, Inc. to be acquired by KwGlobalLtd](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-289.md#-research-solutions-inc-to-be-acquired-by-kwgloballtd) | AI Education |
 | 2026-11-23 | [Decart acquisition talks with Amazon $7.5B deal](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-253.md#-decart-acquisition-talks-with-amazon-75b-deal) | Tech Journalists and VIPs |
@@ -104,5 +106,3 @@ Rounds, raises and deals. The 100 newest of 1,250 briefings that mention it, fro
 | 2026-10-29 | [wabi raises $55M Series A at $1.25B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-292.md#-wabi-raises-55m-series-a-at-125b-valuation) | AI Leaders and Thinkers |
 | 2026-10-29 | [Dream introduces new models and raises $17M seed](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-291.md#-dream-introduces-new-models-and-raises-17m-seed) | AI Leaders and Thinkers |
 | 2026-10-29 | [Cohere Series E funding up to CAD $7B at $35.7B valuation](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-291.md#-cohere-series-e-funding-up-to-cad-7b-at-357b-valuation) | AI Leaders and Thinkers |
-| 2026-10-29 | [Nvidia invests $3B in Meta as Meta raises $95B for AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-278.md#-nvidia-invests-3b-in-meta-as-meta-raises-95b-for-ai) | AI Holodeck and Virtual Worlds |
-| 2026-10-29 | [ADT acquisition announced – essential service focus](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-275.md#-adt-acquisition-announced--essential-service-focus) | AI and Robotics Applications |

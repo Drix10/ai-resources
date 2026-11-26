@@ -1,11 +1,18 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,150 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,157 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-25 | [SpaceX 1 million satellite constellation approved by FCC](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-317.md#-spacex-1-million-satellite-constellation-approved-by-fcc) | Tech VIPs |
+| 2026-11-25 | [Ornn Contract Index launches pricing H100, B200, B300 GPU-hour contracts](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-316.md#-ornn-contract-index-launches-pricing-h100-b200-b300-gpu-hour-contracts) | Devs, Designers, DevRel |
+| 2026-11-25 | [ComputeWise measuring and fixing GPU waste, benchmark released](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-307.md#-computewise-measuring-and-fixing-gpu-waste-benchmark-released) | AI Organizations and Media |
+| 2026-11-25 | [SAM3 in Labelme v7.11 runs on GPU, 7x faster masks](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-282.md#-sam3-in-labelme-v711-runs-on-gpu-7x-faster-masks) | Computer Vision and AI Applications |
+| 2026-11-25 | [Praxis-1 runs 1.7x faster on ExecuTorch with TensorRT](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-281.md#-praxis-1-runs-17x-faster-on-executorch-with-tensorrt) | AR VR Companies and Development |
+| 2026-11-25 | [Diraq silicon spin quantum computer in Sydney center](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-258.md#-diraq-silicon-spin-quantum-computer-in-sydney-center) | Quantum Computing |
+| 2026-11-25 | [SpaceX 1 million satellites approved for orbital data centers](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-254.md#-spacex-1-million-satellites-approved-for-orbital-data-centers) | Tech Journalists and VIPs |
 | 2026-11-24 | [Continuous auditing of data center assets with robotic AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-311.md#-continuous-auditing-of-data-center-assets-with-robotic-ai) | AI Companies and Ventures |
 | 2026-11-24 | [Israeli startup exits 2026 total $92 billion](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-279.md#-israeli-startup-exits-2026-total-92-billion) | Founders and Entrepreneurs |
 | 2026-11-24 | [Modly – Open source desktop app for local image-to-3D mesh generation](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-275.md#-modly--open-source-desktop-app-for-local-image-to-3d-mesh-generation) | AI in Real Estate and Property Tech |
@@ -99,10 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,150 briefings tha
 | 2026-11-07 | [Claude Opus 5.5 built campus, 1 GW fits 413,712 GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-268.md#-claude-opus-55-built-campus-1-gw-fits-413712-gpus) | AI in Enterprise Applications |
 | 2026-11-07 | [Kardashev stack – SpaceX rockets, nuclear reactors, AI chips](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-263.md#-kardashev-stack--spacex-rockets-nuclear-reactors-ai-chips) | The Exponential Future |
 | 2026-11-07 | [NVIDIA TEE inference on H200, Tier 3+ partner](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-262.md#-nvidia-tee-inference-on-h200-tier-3-partner) | Decentralized AI |
-| 2026-11-07 | [Xperia 1 II UniXNU port GPU driver stable to boot Dusklight](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-244.md#-xperia-1-ii-unixnu-port-gpu-driver-stable-to-boot-dusklight) | Spatial Computing |
-| 2026-11-06 | [Huawei AI data center Horinger capacity 7% of Colossus 2](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-311.md#-huawei-ai-data-center-horinger-capacity-7-of-colossus-2) | CS Academics |
-| 2026-11-06 | [InfiniStems ARA VST3/AU plugin released GPU accelerated](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-283.md#-infinistems-ara-vst3au-plugin-released-gpu-accelerated) | AI Generated Music and Audio |
-| 2026-11-06 | [Vork 3D engine 2,500-token API renders 1M birds in 97 s](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-278.md#-vork-3d-engine-2500-token-api-renders-1m-birds-in-97-s) | Tech Infrastructure |
-| 2026-11-06 | [Gemma 4 fine-tuned classifier latency 35ms, F1 0.902](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-258.md#-gemma-4-fine-tuned-classifier-latency-35ms-f1-0902) | Investors and Venture Capital |
-| 2026-11-06 | [AI engineer redesigns data centre cooling and turbine blade, open-sources simulation agent](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-242.md#-ai-engineer-redesigns-data-centre-cooling-and-turbine-blade-open-sources-simulation-agent) | Tech Journalists and VIPs |
-| 2026-11-06 | [Boom expansion into gas turbines for data centers announced](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-242.md#-boom-expansion-into-gas-turbines-for-data-centers-announced) | Tech Journalists and VIPs |

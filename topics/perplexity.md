@@ -1,11 +1,12 @@
 # Perplexity
 
-Perplexity and Comet. The 100 newest of 126 briefings that mention it, from every category, newest first.
+Perplexity and Comet. The 100 newest of 127 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-25 | [Perplexity Time Machine launches, roll index to any date](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-325.md#-perplexity-time-machine-launches-roll-index-to-any-date) | CS Academics |
 | 2026-11-24 | [How to optimize for AI search results in 2026 – AI Overviews 16%](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-256.md#-how-to-optimize-for-ai-search-results-in-2026--ai-overviews-16) | PR and Communications |
 | 2026-11-21 | [Gemini Neon launch described as “approaching” frontier models](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-323.md#-gemini-neon-launch-described-as-approaching-frontier-models) | CS Academics |
 | 2026-11-20 | [Embed V2 Context live on OpenRouter 9B and 0.6B sizes](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-280.md#-embed-v2-context-live-on-openrouter-9b-and-06b-sizes) | Computer Vision and AI Applications |
@@ -105,4 +106,3 @@ Perplexity and Comet. The 100 newest of 126 briefings that mention it, from ever
 |  | [E-commerce - Perplexity's In-Chat Shopping](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-052.md#-e-commerce---perplexitys-in-chat-shopping) | AI for Content Creation and Marketing |
 |  | [Technology - Data Aggregation Challenges](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-049.md#-technology---data-aggregation-challenges) | PR and Communications |
 |  | [Technology - Perplexity iOS Voice Assistant Update](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-047.md#-technology---perplexity-ios-voice-assistant-update) | VC Firms |
-|  | [Startup Tools - Perplexity AI for Startups](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-045.md#-startup-tools---perplexity-ai-for-startups) | AI Education |

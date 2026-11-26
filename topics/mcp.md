@@ -1,11 +1,14 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 460 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 463 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-26 | [ffmpeg-skill adds local FFmpeg tools for Claude, Cursor, Codex 42](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-272.md#-ffmpeg-skill-adds-local-ffmpeg-tools-for-claude-cursor-codex-42) | Crypto and Web3 |
+| 2026-11-25 | [Steel MCP launch – hosted cloud browser with 31% fewer tokens](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-324.md#-steel-mcp-launch--hosted-cloud-browser-with-31-fewer-tokens) | AI Developer Tools |
+| 2026-11-25 | [MCP servers hand Claude playbook and tools, require sign-off](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-257.md#-mcp-servers-hand-claude-playbook-and-tools-require-sign-off) | PR and Communications |
 | 2026-11-24 | [CopilotStudio demo with Dataverse MCP, SharePoint Excel data](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-290.md#-copilotstudio-demo-with-dataverse-mcp-sharepoint-excel-data) | Tech Infrastructure |
 | 2026-11-24 | [Flare FDC × LayerZero Core live build announcement](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-flare-fdc--layerzero-core-live-build-announcement) | Decentralized AI |
 | 2026-11-24 | [Microsoft Sentinel MCP – save KQL query as tool](https://github.com/Drix10/ai-resources/blob/main/Cybersecurity%20and%20Tech/resources-251.md#-microsoft-sentinel-mcp--save-kql-query-as-tool) | Cybersecurity and Tech |
@@ -103,6 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-23 | [Notion MCP](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-246.md#-notion-mcp) | AI for Content Creation and Marketing |
 | 2026-09-22 | [Higgsfield x Claude Opus 5.5](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-260.md#-higgsfield-x-claude-opus-55) | AI Holodeck and Virtual Worlds |
 | 2026-09-22 | [Details MCP: A Tool for Inspiration and Innovation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-259.md#-details-mcp-a-tool-for-inspiration-and-innovation) | AI Holodeck and Virtual Worlds |
-| 2026-09-22 | [Model Context Protocol (MCP): Standardized Access for AI Systems](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-250.md#-model-context-protocol-mcp-standardized-access-for-ai-systems) | AI Consulting and Expertise |
-| 2026-09-22 | [AI & VR Development](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-245.md#-ai--vr-development) | AR VR Companies and Development |
-| 2026-09-21 | [Design - Details MCP](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-258.md#-design---details-mcp) | AI Holodeck and Virtual Worlds |

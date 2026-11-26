@@ -1,11 +1,14 @@
 # DeepSeek
 
-DeepSeek and its open models. The 100 newest of 263 briefings that mention it, from every category, newest first.
+DeepSeek and its open models. The 100 newest of 266 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-25 | [Inkling 2 Small passes DeepSeek Flash in Auto Router](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-325.md#-inkling-2-small-passes-deepseek-flash-in-auto-router) | CS Academics |
+| 2026-11-25 | [Scaling Swarms to Thousands of Agents – blog release](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-317.md#-scaling-swarms-to-thousands-of-agents--blog-release) | Tech VIPs |
+| 2026-11-25 | [DeepSeek AI gap could widen to 9 months, internal estimate](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-254.md#-deepseek-ai-gap-could-widen-to-9-months-internal-estimate) | Tech Journalists and VIPs |
 | 2026-11-24 | [Inkling-2-Mini runs 344k context on RTX 3090](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-287.md#-inkling-2-mini-runs-344k-context-on-rtx-3090) | AI Professionals and Community |
 | 2026-11-24 | [DeepSeek founder Liang Wenfeng net worth $55 billion](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-275.md#-deepseek-founder-liang-wenfeng-net-worth-55-billion) | AI Policy and Ethical Considerations |
 | 2026-11-21 | [Qwen 3.8 Flash Next – 180B model, ~6B active per token](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-285.md#-qwen-38-flash-next--180b-model-6b-active-per-token) | AI Professionals and Community |
@@ -103,6 +106,3 @@ DeepSeek and its open models. The 100 newest of 263 briefings that mention it, f
 | 2025-10-01 | [AI Development - Deepseek and GPU Forecast](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-124.md#-ai-development---deepseek-and-gpu-forecast) | Devs, Designers, DevRel |
 | 2025-10-01 | [AI Leadership - U.S. vs. DeepSeek Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-117.md#-ai-leadership---us-vs-deepseek-performance) | AI Policy and Ethical Considerations |
 | 2025-08-03 | [AI-Powered Income - DeepSeek Guide](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-093.md#-ai-powered-income---deepseek-guide) | AI Consulting and Expertise |
-| 2025-07-09 | [Large Language Models - DeepSeek-TNG Model Evaluation](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-086.md#--large-language-models---deepseek-tng-model-evaluation) | AI Consulting and Expertise |
-| 2025-06-28 | [Data Privacy Concerns - DeepSeek User Data](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-079.md#-data-privacy-concerns---deepseek-user-data) | AI Artists and Creators |
-| 2025-05-29 | [AI Lab Rankings - DeepSeek's R1 Performance](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-065.md#-ai-lab-rankings---deepseeks-r1-performance) | AI Consulting and Expertise |

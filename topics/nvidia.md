@@ -1,11 +1,20 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 848 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 857 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-26 | [Nvidia CEO Jensen Huang re-appointment plan under Defense Production Act](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-317.md#-nvidia-ceo-jensen-huang-re-appointment-plan-under-defense-production-act) | Tech VIPs |
+| 2026-11-26 | [Polymarket pricing on-demand compute for Nvidia H100s B200s B300s out to 2028](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-315.md#-polymarket-pricing-on-demand-compute-for-nvidia-h100s-b200s-b300s-out-to-2028) | VC Firms |
+| 2026-11-26 | [Nvidia CEO Jensen Huang returns, stock jumps 31%](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-312.md#-nvidia-ceo-jensen-huang-returns-stock-jumps-31) | AI Companies and Ventures |
+| 2026-11-26 | [Amazon SageMaker HyperPod adds NCCL profiling support](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-291.md#-amazon-sagemaker-hyperpod-adds-nccl-profiling-support) | Tech Infrastructure |
+| 2026-11-26 | [NVIDIA DGX Spark runs excavator with 1M particles](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-256.md#-nvidia-dgx-spark-runs-excavator-with-1m-particles) | Spatial Computing |
+| 2026-11-25 | [Polymarket launches pricing for Nvidia H100 to 2028](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-316.md#-polymarket-launches-pricing-for-nvidia-h100-to-2028) | Devs, Designers, DevRel |
+| 2026-11-25 | [Inkling 2 Mini – local availability announced with partner support](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-316.md#-inkling-2-mini--local-availability-announced-with-partner-support) | Devs, Designers, DevRel |
+| 2026-11-25 | [Nvidia Pentagon law pressure restore Jensen Huang](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-315.md#-nvidia-pentagon-law-pressure-restore-jensen-huang) | VC Firms |
+| 2026-11-25 | [Praxis-1 runs 1.7x faster on ExecuTorch with TensorRT](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-281.md#-praxis-1-runs-17x-faster-on-executorch-with-tensorrt) | AR VR Companies and Development |
 | 2026-11-24 | [Nvidia CEO returns, US equities jump 4.7%](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-273.md#-nvidia-ceo-returns-us-equities-jump-47) | The Exponential Future |
 | 2026-11-24 | [Megaspeed restricted from buying advanced semiconductor chips](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-245.md#-megaspeed-restricted-from-buying-advanced-semiconductor-chips) | World News and Updates |
 | 2026-11-23 | [Nvidia reinstated as CEO adds $3 trillion market cap](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-275.md#-nvidia-reinstated-as-ceo-adds-3-trillion-market-cap) | AI Policy and Ethical Considerations |
@@ -97,12 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 848 briefin
 | 2026-11-03 | [Revolut moves 2k engineers to self-hosted GLM](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-275.md#-revolut-moves-2k-engineers-to-self-hosted-glm) | Tech Infrastructure |
 | 2026-11-03 | [Nvidia data centre policy caps China compute at 49%](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-267.md#-nvidia-data-centre-policy-caps-china-compute-at-49) | Founders and Entrepreneurs |
 | 2026-11-02 | [NVIDIA DGX Spark kernel vulnerable to CVE-2026-98432](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-296.md#-nvidia-dgx-spark-kernel-vulnerable-to-cve-2026-98432) | AI Leaders and Thinkers |
-| 2026-11-02 | [Starcloud-1 anniversary, H100 in space, 3 launches](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-238.md#-starcloud-1-anniversary-h100-in-space-3-launches) | Tech Journalists and VIPs |
-| 2026-10-31 | [ScienceClaw Hackathon launched with sponsors](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-295.md#-scienceclaw-hackathon-launched-with-sponsors) | AI Leaders and Thinkers |
-| 2026-10-31 | [Meta Max humanoid robot prototype built in 3 months](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-289.md#-meta-max-humanoid-robot-prototype-built-in-3-months) | AI Organizations and Media |
-| 2026-10-31 | [NVIDIA Holoscan and CUDA-X used by SETI Institute](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-263.md#-nvidia-holoscan-and-cuda-x-used-by-seti-institute) | AI in Enterprise Applications |
-| 2026-10-31 | [Lightberry Lumi robot priced at $39,990 with $20,000 annual software fee](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-237.md#-lightberry-lumi-robot-priced-at-39990-with-20000-annual-software-fee) | Tech Journalists and VIPs |
-| 2026-10-29 | [NVIDIA Robotics tutorial live event on Nov 5](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-303.md#-nvidia-robotics-tutorial-live-event-on-nov-5) | AI Developer Tools |
-| 2026-10-29 | [NVIDIAAI xToken recipe boosts Nemotron 3.5 pass@1](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-nvidiaai-xtoken-recipe-boosts-nemotron-35-pass1) | AI Developer Tools |
-| 2026-10-29 | [IREN AI Cloud demo shows sovereign token flow](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-302.md#-iren-ai-cloud-demo-shows-sovereign-token-flow) | AI Developer Tools |
-| 2026-10-29 | [Nemotron 3.5-transcribe benchmark 1.15% WER and speed](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-294.md#-nemotron-35-transcribe-benchmark-115-wer-and-speed) | AI Leaders and Thinkers |

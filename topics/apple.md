@@ -1,11 +1,16 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 691 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 696 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-26 | [HyNote – Apple Watch quick-tap note capture announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-312.md#-hynote--apple-watch-quick-tap-note-capture-announced) | AI Companies and Ventures |
+| 2026-11-26 | [Apple secret autonomous car leak, $10 billion project details](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-286.md#-apple-secret-autonomous-car-leak-10-billion-project-details) | AI Artists and Creators |
+| 2026-11-26 | [8 Balls Club: Pool and Snooker – Vision Pro robot rival demo](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-256.md#-8-balls-club-pool-and-snooker--vision-pro-robot-rival-demo) | Spatial Computing |
+| 2026-11-25 | [Apple iPads run macOS internally, no macOS iPad plans](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-279.md#-apple-ipads-run-macos-internally-no-macos-ipad-plans) | AR VR Professionals and Community |
+| 2026-11-25 | [Cuttlefish macOS Apple silicon port released on GitHub](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-251.md#-cuttlefish-macos-apple-silicon-port-released-on-github) | Tech Companies and News |
 | 2026-11-24 | [Modly – Open source desktop app for local image-to-3D mesh generation](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-275.md#-modly--open-source-desktop-app-for-local-image-to-3d-mesh-generation) | AI in Real Estate and Property Tech |
 | 2026-11-24 | [Keki – Mac menu-bar app connects coding agents](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-keki--mac-menu-bar-app-connects-coding-agents) | Decentralized AI |
 | 2026-11-22 | [Nvidia loses $2.6T market cap, falls to fourth](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-305.md#-nvidia-loses-26t-market-cap-falls-to-fourth) | AI Organizations and Media |
@@ -101,8 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 691 br
 | 2026-09-23 | [Apple Just Dropped a New Model on Hugging Face: Qwen3.5-9B Finetune](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-277.md#-apple-just-dropped-a-new-model-on-hugging-face-qwen35-9b-finetune) | Tech VIPs |
 | 2026-09-23 | [Hugging Face Model - Qwen3.5-9B](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-271.md#-hugging-face-model---qwen35-9b) | AI Leaders and Thinkers |
 | 2026-09-23 | [The iMessage Assistant That Remembers Everything](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-242.md#-the-imessage-assistant-that-remembers-everything) | The Exponential Future |
-| 2026-09-23 | [Business - H-1B Visa Abuse](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-241.md#-business---h-1b-visa-abuse) | Crypto and Web3 |
-| 2026-09-23 | [Tech News - Wearable Computers](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-220.md#-tech-news---wearable-computers) | Tech Companies and News |
-| 2026-09-23 | [Tech News - Zuckerberg's Presentation](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-220.md#-tech-news---zuckerbergs-presentation) | Tech Companies and News |
-| 2026-09-22 | [Finance - Apple Financing Options](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-279.md#-finance---apple-financing-options) | Devs, Designers, DevRel |
-| 2026-09-22 | [Tech - Mac Studio M5 Ultra vs Spark](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-270.md#-tech---mac-studio-m5-ultra-vs-spark) | AI Leaders and Thinkers |

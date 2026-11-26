@@ -1,11 +1,13 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,545 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,547 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-26 | [Six Easy Tasks benchmark humans 100% models 0% claim](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-293.md#-six-easy-tasks-benchmark-humans-100-models-0-claim) | AI and Robotics Applications |
+| 2026-11-26 | [8 Balls Club: Pool and Snooker – Vision Pro robot rival demo](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-256.md#-8-balls-club-pool-and-snooker--vision-pro-robot-rival-demo) | Spatial Computing |
 | 2026-11-24 | [GPT-6.2 Astra scores 97% on RoboDojo-RC Tier 1](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-324.md#-gpt-62-astra-scores-97-on-robodojo-rc-tier-1) | CS Academics |
 | 2026-11-24 | [GPT-6.2 Astra sits 5x above trend on robot-control benchmarks](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-324.md#-gpt-62-astra-sits-5x-above-trend-on-robot-control-benchmarks) | CS Academics |
 | 2026-11-24 | [BrightMaster T100 robot spray paints buildings up to 100 meters high](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-316.md#-brightmaster-t100-robot-spray-paints-buildings-up-to-100-meters-high) | Tech VIPs |
@@ -104,5 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,545 briefings that men
 | 2026-11-05 | [VerneRobotics V0.5 released, leads LIBERO benchmark](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-280.md#-vernerobotics-v05-released-leads-libero-benchmark) | AI and Robotics Applications |
 | 2026-11-05 | [Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-280.md#-reinforcement-learning-enables-scaling-generalist-robot-policy-improvement) | AI and Robotics Applications |
 | 2026-11-05 | [WidowX provides tools to train manipulation skills](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-280.md#-widowx-provides-tools-to-train-manipulation-skills) | AI and Robotics Applications |
-| 2026-11-05 | [Asim – Launch of physical intelligence benchmarking platform](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-241.md#-asim--launch-of-physical-intelligence-benchmarking-platform) | Tech Journalists and VIPs |
-| 2026-11-04 | [peaqOS Verify robots prove they’re real; launchpad live](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-296.md#-peaqos-verify-robots-prove-theyre-real-launchpad-live) | AI Companies and Ventures |
