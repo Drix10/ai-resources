@@ -1,11 +1,12 @@
 # Amazon & AWS
 
-Amazon, AWS, Bedrock and Alexa. The 100 newest of 417 briefings that mention it, from every category, newest first.
+Amazon, AWS, Bedrock and Alexa. The 100 newest of 418 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [Runlayer panel at AWS re:Invent on agents production](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-313.md#-runlayer-panel-at-aws-reinvent-on-agents-production) | AI Companies and Ventures |
 | 2026-11-26 | [Amazon SageMaker HyperPod adds NCCL profiling support](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-291.md#-amazon-sagemaker-hyperpod-adds-nccl-profiling-support) | Tech Infrastructure |
 | 2026-11-26 | [AWS Device Farm supports Android emulators and iOS simulators](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-291.md#-aws-device-farm-supports-android-emulators-and-ios-simulators) | Tech Infrastructure |
 | 2026-11-26 | [Amazon loses latest attempt to avoid recall handling](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-257.md#-amazon-loses-latest-attempt-to-avoid-recall-handling) | PR and Communications |
@@ -105,4 +106,3 @@ Amazon, AWS, Bedrock and Alexa. The 100 newest of 417 briefings that mention it,
 | 2026-09-01 | [Security - Amazon Ring Doorbell Encryption](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-203.md#-security---amazon-ring-doorbell-encryption) | Quantum Computing |
 | 2026-08-31 | [MCP Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-234.md#-mcp-release) | AI Powered Film and Media |
 | 2026-08-31 | [Anthropic](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Real%20Estate%20and%20Property%20Tech/resources-230.md#-anthropic) | AI in Real Estate and Property Tech |
-| 2026-08-31 | [Business - Honda and Nissan's Collaboration](https://github.com/Drix10/ai-resources/blob/main/Quantum%20Computing/resources-202.md#-business---honda-and-nissans-collaboration) | Quantum Computing |

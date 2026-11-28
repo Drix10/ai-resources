@@ -1,11 +1,22 @@
 # OpenAI
 
-OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,364 briefings that mention it, from every category, newest first.
+OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,375 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [box by Simular launches cloud Linux desktop for AI agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-325.md#-box-by-simular-launches-cloud-linux-desktop-for-ai-agents) | AI Developer Tools |
+| 2026-11-28 | [Topics desktop workspace adds git worktree per task](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-325.md#-topics-desktop-workspace-adds-git-worktree-per-task) | AI Developer Tools |
+| 2026-11-28 | [OpenAI financing round, Anthropic $3T valuation target](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-318.md#-openai-financing-round-anthropic-3t-valuation-target) | Tech VIPs |
+| 2026-11-28 | [Codex Anime Pets – 57 characters added, desktop-only support](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-313.md#-codex-anime-pets--57-characters-added-desktop-only-support) | AI Companies and Ventures |
+| 2026-11-28 | [Runlayer panel at AWS re:Invent on agents production](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-313.md#-runlayer-panel-at-aws-reinvent-on-agents-production) | AI Companies and Ventures |
+| 2026-11-28 | [Cloud One breach – control plane bug forces pause](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-289.md#-cloud-one-breach--control-plane-bug-forces-pause) | AI Professionals and Community |
+| 2026-11-28 | [OpenAI Businesses in ChatGPT launch announced](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-286.md#-openai-businesses-in-chatgpt-launch-announced) | AI for Content Creation and Marketing |
+| 2026-11-28 | [Vercel AI deployments rise to over 60% from 3%](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-275.md#-vercel-ai-deployments-rise-to-over-60-from-3) | The Exponential Future |
+| 2026-11-28 | [OpenAI releases 700 AI-written math preprints solving 300 problems](https://github.com/Drix10/ai-resources/blob/main/Neuroscience%20and%20AI/resources-260.md#-openai-releases-700-ai-written-math-preprints-solving-300-problems) | Neuroscience and AI |
+| 2026-11-27 | [Codex reduces Responses API data ~80% to 930KB from 7.48MB](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-282.md#-codex-reduces-responses-api-data-80-to-930kb-from-748mb) | AR VR Companies and Development |
+| 2026-11-27 | [Anthropic retention – engineers 8x more likely to leave OpenAI](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-255.md#-anthropic-retention--engineers-8x-more-likely-to-leave-openai) | Tech Journalists and VIPs |
 | 2026-11-26 | [GPT-6.2 Astra and Sol limit consumption increase 40% and 25%](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-307.md#-gpt-62-astra-and-sol-limit-consumption-increase-40-and-25) | AI Organizations and Media |
 | 2026-11-26 | [GPT-6.2 Astra tops GDPx leaderboard with 19.3% score](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-298.md#-gpt-62-astra-tops-gdpx-leaderboard-with-193-score) | AI in Healthcare and Science |
 | 2026-11-26 | [GPT-6.2 usage limit reaches 40% faster after billing fix](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-288.md#-gpt-62-usage-limit-reaches-40-faster-after-billing-fix) | AI Professionals and Community |
@@ -95,14 +106,3 @@ OpenAI, ChatGPT, GPT models, Sora and Codex. The 100 newest of 2,364 briefings t
 | 2026-11-13 | [TokenTrust helps AI developers showcase verified usage](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-315.md#-tokentrust-helps-ai-developers-showcase-verified-usage) | AI Developer Tools |
 | 2026-11-13 | [OpenAI Wallet pass-through design and agentic commerce launch](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-306.md#-openai-wallet-pass-through-design-and-agentic-commerce-launch) | AI Leaders and Thinkers |
 | 2026-11-13 | [McClipFace – AI shopping assistant launch integrates with major AI platforms](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-303.md#-mcclipface--ai-shopping-assistant-launch-integrates-with-major-ai-platforms) | AI Companies and Ventures |
-| 2026-11-13 | [Simple Memory Evolution boosts GPT-6-Astra SR to 81.7%](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-286.md#-simple-memory-evolution-boosts-gpt-6-astra-sr-to-817) | AI and Robotics Applications |
-| 2026-11-13 | [Belief Protocol – belief files for AI platforms](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-267.md#-belief-protocol--belief-files-for-ai-platforms) | Decentralized AI |
-| 2026-11-12 | [Agent Toolkit for AWS launches MCP server 300+ services](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-314.md#-agent-toolkit-for-aws-launches-mcp-server-300-services) | AI Developer Tools |
-| 2026-11-12 | [AI-native law firms receive $100M+ funding this year](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-283.md#-ai-native-law-firms-receive-100m-funding-this-year) | AI Education |
-| 2026-11-12 | [ChatGPT voice modes retiring December 11, move to GPT-Live](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-248.md#-chatgpt-voice-modes-retiring-december-11-move-to-gpt-live) | Spatial Computing |
-| 2026-11-12 | [Anthropic Claude chip design and OpenAI Jalapeño chip news](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-243.md#-anthropic-claude-chip-design-and-openai-jalapeño-chip-news) | Tech Companies and News |
-| 2026-11-11 | [Ploid — The Search Engine, Built for People launches digital footprint tool](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-307.md#-ploid--the-search-engine-built-for-people-launches-digital-footprint-tool) | Tech VIPs |
-| 2026-11-10 | [Dialt Budget launch at half price, Dialt Fast 41.1% pass rate](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-297.md#-dialt-budget-launch-at-half-price-dialt-fast-411-pass-rate) | AI Organizations and Media |
-| 2026-11-10 | [Paris Call for AI Safety commits to model shutdowns](https://github.com/Drix10/ai-resources/blob/main/AI%20Policy%20and%20Ethical%20Considerations/resources-273.md#-paris-call-for-ai-safety-commits-to-model-shutdowns) | AI Policy and Ethical Considerations |
-| 2026-11-10 | [Opus 5.5 domination reported in T3 Code split chart](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-265.md#-opus-55-domination-reported-in-t3-code-split-chart) | Decentralized AI |
-| 2026-11-10 | [SpaceX Anthropic OpenAI generate $4.2T liquidity](https://github.com/Drix10/ai-resources/blob/main/Interesting%20Finds/resources-261.md#-spacex-anthropic-openai-generate-42t-liquidity) | Interesting Finds |

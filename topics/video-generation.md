@@ -1,11 +1,13 @@
 # Video generation
 
-Models and tools that make video. The 100 newest of 839 briefings that mention it, from every category, newest first.
+Models and tools that make video. The 100 newest of 841 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [Syllaby Mobile App – launch on App Store & Google Play](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-286.md#-syllaby-mobile-app--launch-on-app-store--google-play) | AI for Content Creation and Marketing |
+| 2026-11-27 | [Kling Image 4.0 Series Mode set built in one pass, supports 2K-8K generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-296.md#-kling-image-40-series-mode-set-built-in-one-pass-supports-2k-8k-generation) | AI Holodeck and Virtual Worlds |
 | 2026-11-26 | [FAA ground stop at Miami Airport after FedEx jet overshoot](https://github.com/Drix10/ai-resources/blob/main/World%20News%20and%20Updates/resources-246.md#-faa-ground-stop-at-miami-airport-after-fedex-jet-overshoot) | World News and Updates |
 | 2026-11-24 | [Kling 4 and Seedance 2.5 used in SoundBoost MVG video](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-294.md#-kling-4-and-seedance-25-used-in-soundboost-mvg-video) | AI Generated Music and Audio |
 | 2026-11-23 | [Freebeat connects to OpenAI ChatGPT for image creation, editing, video generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-294.md#-freebeat-connects-to-openai-chatgpt-for-image-creation-editing-video-generation) | AI Generated Music and Audio |
@@ -104,5 +106,3 @@ Models and tools that make video. The 100 newest of 839 briefings that mention i
 | 2026-09-01 | [Seedance 2.5 - AI Video Generation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-237.md#-seedance-25---ai-video-generation) | AI Holodeck and Virtual Worlds |
 | 2026-09-01 | [Ultra Annual Plan](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-235.md#-ultra-annual-plan) | AI Powered Film and Media |
 | 2026-08-28 | [Video Generation - Gemini Omni 1.1 Flash Update](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-244.md#-video-generation---gemini-omni-11-flash-update) | AI Companies and Ventures |
-| 2026-08-28 | [Video Generation - Scene Simulation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-235.md#-video-generation---scene-simulation) | AI Holodeck and Virtual Worlds |
-| 2026-08-28 | [Video Generation - Model Release](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-229.md#-video-generation---model-release) | AI Professionals and Community |

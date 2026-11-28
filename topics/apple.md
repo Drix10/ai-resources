@@ -1,11 +1,15 @@
 # Apple
 
-Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 696 briefings that mention it, from every category, newest first.
+Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 700 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [Siri AI request limits drop to 20/day free, 140/day 2TB](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-292.md#-siri-ai-request-limits-drop-to-20day-free-140day-2tb) | Tech Infrastructure |
+| 2026-11-28 | [Cloud One breach – control plane bug forces pause](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-289.md#-cloud-one-breach--control-plane-bug-forces-pause) | AI Professionals and Community |
+| 2026-11-28 | [Spatial Modeling Mesh Mode adds GLB import on Vision Pro](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-257.md#-spatial-modeling-mesh-mode-adds-glb-import-on-vision-pro) | Spatial Computing |
+| 2026-11-27 | [Apple Godot plug-in – link released, demo dog walk game shown](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-280.md#-apple-godot-plug-in--link-released-demo-dog-walk-game-shown) | AR VR Professionals and Community |
 | 2026-11-26 | [HyNote – Apple Watch quick-tap note capture announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-312.md#-hynote--apple-watch-quick-tap-note-capture-announced) | AI Companies and Ventures |
 | 2026-11-26 | [Apple secret autonomous car leak, $10 billion project details](https://github.com/Drix10/ai-resources/blob/main/AI%20Artists%20and%20Creators/resources-286.md#-apple-secret-autonomous-car-leak-10-billion-project-details) | AI Artists and Creators |
 | 2026-11-26 | [8 Balls Club: Pool and Snooker – Vision Pro robot rival demo](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-256.md#-8-balls-club-pool-and-snooker--vision-pro-robot-rival-demo) | Spatial Computing |
@@ -102,7 +106,3 @@ Apple Intelligence, Apple silicon and Apple's AI moves. The 100 newest of 696 br
 | 2026-09-24 | [Apple Home Hub and Siri AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-259.md#-apple-home-hub-and-siri-ai) | AI Generated Music and Audio |
 | 2026-09-24 | [Gardening - Apple Trees Ready to Plant](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-248.md#-gardening---apple-trees-ready-to-plant) | AR VR Companies and Development |
 | 2026-09-24 | [XR Tech - Apple AR Glasses](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-244.md#-xr-tech---apple-ar-glasses) | AR VR Professionals and Community |
-| 2026-09-24 | [Tech News - Vision Pro Limitations](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-221.md#-tech-news---vision-pro-limitations) | Tech Companies and News |
-| 2026-09-23 | [Apple Just Dropped a New Model on Hugging Face: Qwen3.5-9B Finetune](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-277.md#-apple-just-dropped-a-new-model-on-hugging-face-qwen35-9b-finetune) | Tech VIPs |
-| 2026-09-23 | [Hugging Face Model - Qwen3.5-9B](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-271.md#-hugging-face-model---qwen35-9b) | AI Leaders and Thinkers |
-| 2026-09-23 | [The iMessage Assistant That Remembers Everything](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-242.md#-the-imessage-assistant-that-remembers-everything) | The Exponential Future |

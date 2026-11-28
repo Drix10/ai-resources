@@ -1,11 +1,13 @@
 # MCP
 
-The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 463 briefings that mention it, from every category, newest first.
+The Model Context Protocol: servers, clients and the tools built on it. The 100 newest of 465 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [effect ui + effect cluster on rivet – new grok bot alternative announced](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-325.md#-effect-ui--effect-cluster-on-rivet--new-grok-bot-alternative-announced) | AI Developer Tools |
+| 2026-11-28 | [metavr init adds Meta VR skills and MCP server](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-257.md#-metavr-init-adds-meta-vr-skills-and-mcp-server) | Spatial Computing |
 | 2026-11-26 | [ffmpeg-skill adds local FFmpeg tools for Claude, Cursor, Codex 42](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-272.md#-ffmpeg-skill-adds-local-ffmpeg-tools-for-claude-cursor-codex-42) | Crypto and Web3 |
 | 2026-11-25 | [Steel MCP launch – hosted cloud browser with 31% fewer tokens](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-324.md#-steel-mcp-launch--hosted-cloud-browser-with-31-fewer-tokens) | AI Developer Tools |
 | 2026-11-25 | [MCP servers hand Claude playbook and tools, require sign-off](https://github.com/Drix10/ai-resources/blob/main/PR%20and%20Communications/resources-257.md#-mcp-servers-hand-claude-playbook-and-tools-require-sign-off) | PR and Communications |
@@ -104,5 +106,3 @@ The Model Context Protocol: servers, clients and the tools built on it. The 100 
 | 2026-09-24 | [AI Tools - MCP Integration](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-247.md#-ai-tools---mcp-integration) | AI for Content Creation and Marketing |
 | 2026-09-24 | [AI/ML - Skills vs MCP vs RAG vs Memory](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-247.md#-aiml---skills-vs-mcp-vs-rag-vs-memory) | Computer Vision and AI Applications |
 | 2026-09-23 | [Notion MCP](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-246.md#-notion-mcp) | AI for Content Creation and Marketing |
-| 2026-09-22 | [Higgsfield x Claude Opus 5.5](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-260.md#-higgsfield-x-claude-opus-55) | AI Holodeck and Virtual Worlds |
-| 2026-09-22 | [Details MCP: A Tool for Inspiration and Innovation](https://github.com/Drix10/ai-resources/blob/main/AI%20Holodeck%20and%20Virtual%20Worlds/resources-259.md#-details-mcp-a-tool-for-inspiration-and-innovation) | AI Holodeck and Virtual Worlds |

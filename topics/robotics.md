@@ -1,11 +1,14 @@
 # Robotics
 
-Robots, humanoids and robot learning. The 100 newest of 2,547 briefings that mention it, from every category, newest first.
+Robots, humanoids and robot learning. The 100 newest of 2,550 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [Gatherer robot launch by Autom Robotics for site cleanup](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-294.md#-gatherer-robot-launch-by-autom-robotics-for-site-cleanup) | AI and Robotics Applications |
+| 2026-11-28 | [Sydekick Robotics model local training, 99% success](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-280.md#-sydekick-robotics-model-local-training-99-success) | AI in Enterprise Applications |
+| 2026-11-27 | [Tesla Optimus supply chain bottleneck 14 million harmonic reducers](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-294.md#-tesla-optimus-supply-chain-bottleneck-14-million-harmonic-reducers) | AI and Robotics Applications |
 | 2026-11-26 | [Six Easy Tasks benchmark humans 100% models 0% claim](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-293.md#-six-easy-tasks-benchmark-humans-100-models-0-claim) | AI and Robotics Applications |
 | 2026-11-26 | [8 Balls Club: Pool and Snooker – Vision Pro robot rival demo](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-256.md#-8-balls-club-pool-and-snooker--vision-pro-robot-rival-demo) | Spatial Computing |
 | 2026-11-24 | [GPT-6.2 Astra scores 97% on RoboDojo-RC Tier 1](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-324.md#-gpt-62-astra-scores-97-on-robodojo-rc-tier-1) | CS Academics |
@@ -103,6 +106,3 @@ Robots, humanoids and robot learning. The 100 newest of 2,547 briefings that men
 | 2026-11-05 | [VFlash delivers 12x faster decoding, 5.1x robot speedup](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-302.md#-vflash-delivers-12x-faster-decoding-51x-robot-speedup) | Tech VIPs |
 | 2026-11-05 | [Humble Robotics Series A $51M funding round](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-300.md#-humble-robotics-series-a-51m-funding-round) | VC Firms |
 | 2026-11-05 | [Anchor 1 Precise and Stable Humanoid Control – 30–80% error reduction](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-280.md#-anchor-1-precise-and-stable-humanoid-control--3080-error-reduction) | AI and Robotics Applications |
-| 2026-11-05 | [VerneRobotics V0.5 released, leads LIBERO benchmark](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-280.md#-vernerobotics-v05-released-leads-libero-benchmark) | AI and Robotics Applications |
-| 2026-11-05 | [Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-280.md#-reinforcement-learning-enables-scaling-generalist-robot-policy-improvement) | AI and Robotics Applications |
-| 2026-11-05 | [WidowX provides tools to train manipulation skills](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-280.md#-widowx-provides-tools-to-train-manipulation-skills) | AI and Robotics Applications |
