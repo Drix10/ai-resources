@@ -1,11 +1,15 @@
 # Google DeepMind
 
-Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 1,005 briefings that mention it, from every category, newest first.
+Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 1,009 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [Google Antigravity Orchestrator adds model pairing](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-325.md#-google-antigravity-orchestrator-adds-model-pairing) | AI Developer Tools |
+| 2026-11-28 | [Topics desktop workspace adds git worktree per task](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-325.md#-topics-desktop-workspace-adds-git-worktree-per-task) | AI Developer Tools |
+| 2026-11-28 | [Replay Before You Reply: Second-Look Prompting improves VLM scores](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-308.md#-replay-before-you-reply-second-look-prompting-improves-vlm-scores) | AI Organizations and Media |
+| 2026-11-27 | [Anthropic retention – engineers 8x more likely to leave OpenAI](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-255.md#-anthropic-retention--engineers-8x-more-likely-to-leave-openai) | Tech Journalists and VIPs |
 | 2026-11-26 | [GPT-6.2 Astra tops GDPx leaderboard with 19.3% score](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-298.md#-gpt-62-astra-tops-gdpx-leaderboard-with-193-score) | AI in Healthcare and Science |
 | 2026-11-26 | [Gemini 4 Carbon – Kyoto moss garden built in Godot 4.7.2 with code only](https://github.com/Drix10/ai-resources/blob/main/AI%20Powered%20Film%20and%20Media/resources-282.md#-gemini-4-carbon--kyoto-moss-garden-built-in-godot-472-with-code-only) | AI Powered Film and Media |
 | 2026-11-25 | [Gemini API CLI open source release, easy access with API key](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-325.md#-gemini-api-cli-open-source-release-easy-access-with-api-key) | CS Academics |
@@ -102,7 +106,3 @@ Google DeepMind, Gemini, Gemma, Veo and Google's AI products. The 100 newest of 
 | 2026-10-14 | [Circleboom AI search visits and revenue 1.6%](https://github.com/Drix10/ai-resources/blob/main/AI%20for%20Content%20Creation%20and%20Marketing/resources-261.md#-circleboom-ai-search-visits-and-revenue-16) | AI for Content Creation and Marketing |
 | 2026-10-12 | [Added /v1/responses and rebuilt Play with shareable inputs](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-258.md#-added-v1responses-and-rebuilt-play-with-shareable-inputs) | AR VR Companies and Development |
 | 2026-10-11 | [Google DeepMind FNV3 forecasts Isaias up to 11 days ahead](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-264.md#-google-deepmind-fnv3-forecasts-isaias-up-to-11-days-ahead) | AI Driven Vehicles and Transportation |
-| 2026-10-10 | [Google adds Code Comprehension interview round with Gemini](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-257.md#-google-adds-code-comprehension-interview-round-with-gemini) | Computer Vision and AI Applications |
-| 2026-10-10 | [Google AI Notetaker App for Mac Launch](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-257.md#-google-ai-notetaker-app-for-mac-launch) | Computer Vision and AI Applications |
-| 2026-10-09 | [Conversational Voice Aesthetic Model (CVAM) release](https://github.com/Drix10/ai-resources/blob/main/AI%20Generated%20Music%20and%20Audio/resources-270.md#-conversational-voice-aesthetic-model-cvam-release) | AI Generated Music and Audio |
-| 2026-10-08 | [Self‑improvement breakdown – GPT‑5.6 Luna vs Gemini 3.1 Pro artifact use](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-264.md#-selfimprovement-breakdown--gpt56-luna-vs-gemini31pro-artifact-use) | AI Professionals and Community |

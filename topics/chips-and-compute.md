@@ -1,11 +1,18 @@
 # Chips & compute
 
-GPUs, TPUs, accelerators and data centers. The 100 newest of 1,157 briefings that mention it, from every category, newest first.
+GPUs, TPUs, accelerators and data centers. The 100 newest of 1,164 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [Claude Opus 5.5 sabotage ML training with 3.8× size blowup](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-318.md#-claude-opus-55-sabotage-ml-training-with-38-size-blowup) | Tech VIPs |
+| 2026-11-28 | [RunPod rent GPU train Applio OS model 45min 200 epochs](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-315.md#-runpod-rent-gpu-train-applio-os-model-45min-200-epochs) | AI Leaders and Thinkers |
+| 2026-11-28 | [Inkling 2 Mini fine-tuned for trial adverse event arithmetic, 98.3% completeness](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-299.md#-inkling-2-mini-fine-tuned-for-trial-adverse-event-arithmetic-983-completeness) | AI in Healthcare and Science |
+| 2026-11-28 | [Nerochain MOU with Alatau City Authority to tokenise GPU power $5M](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-273.md#-nerochain-mou-with-alatau-city-authority-to-tokenise-gpu-power-5m) | Crypto and Web3 |
+| 2026-11-28 | [SpaceX Starmind constellation FCC approval and launch timeline](https://github.com/Drix10/ai-resources/blob/main/Investors%20and%20Venture%20Capital/resources-270.md#-spacex-starmind-constellation-fcc-approval-and-launch-timeline) | Investors and Venture Capital |
+| 2026-11-27 | [Mamba-2 forward kernel 4.1x faster on H100](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-326.md#-mamba-2-forward-kernel-41x-faster-on-h100) | CS Academics |
+| 2026-11-27 | [Space Data Centers – 10 TW capacity in sun-synchronous orbit](https://github.com/Drix10/ai-resources/blob/main/Tech%20Journalists%20and%20VIPs/resources-255.md#-space-data-centers--10-tw-capacity-in-sun-synchronous-orbit) | Tech Journalists and VIPs |
 | 2026-11-25 | [SpaceX 1 million satellite constellation approved by FCC](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-317.md#-spacex-1-million-satellite-constellation-approved-by-fcc) | Tech VIPs |
 | 2026-11-25 | [Ornn Contract Index launches pricing H100, B200, B300 GPU-hour contracts](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-316.md#-ornn-contract-index-launches-pricing-h100-b200-b300-gpu-hour-contracts) | Devs, Designers, DevRel |
 | 2026-11-25 | [ComputeWise measuring and fixing GPU waste, benchmark released](https://github.com/Drix10/ai-resources/blob/main/AI%20Organizations%20and%20Media/resources-307.md#-computewise-measuring-and-fixing-gpu-waste-benchmark-released) | AI Organizations and Media |
@@ -99,10 +106,3 @@ GPUs, TPUs, accelerators and data centers. The 100 newest of 1,157 briefings tha
 | 2026-11-09 | [Deepseek 4.1 1017 build on RTX Pro 6000 with MiniMax h3](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-270.md#-deepseek-41-1017-build-on-rtx-pro-6000-with-minimax-h3) | AI in Enterprise Applications |
 | 2026-11-09 | [CoreWeave debt $29.8B vs $3.95B cash, coverage &lt;2×](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-264.md#-coreweave-debt-298b-vs-395b-cash-coverage-2) | Decentralized AI |
 | 2026-11-08 | [Symbolica raises $31M, deck seeks $8M at $120M valuation](https://github.com/Drix10/ai-resources/blob/main/CS%20Academics/resources-313.md#-symbolica-raises-31m-deck-seeks-8m-at-120m-valuation) | CS Academics |
-| 2026-11-08 | [CoreWeave CEO letter to Texas governor-elect on data centers](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-263.md#-coreweave-ceo-letter-to-texas-governor-elect-on-data-centers) | Decentralized AI |
-| 2026-11-07 | [GPU without Linux enables GUI under a second startup](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-278.md#-gpu-without-linux-enables-gui-under-a-second-startup) | AI Driven Vehicles and Transportation |
-| 2026-11-07 | [H200x8 node post-training under 4 hours using 8 H200 GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-277.md#-h200x8-node-post-training-under-4-hours-using-8-h200-gpus) | AI Driven Vehicles and Transportation |
-| 2026-11-07 | [XMimic trains one policy on 40 LAFAN1 clips in 54 seconds](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-270.md#-xmimic-trains-one-policy-on-40-lafan1-clips-in-54-seconds) | Computer Vision and AI Applications |
-| 2026-11-07 | [Claude Opus 5.5 built campus, 1 GW fits 413,712 GPUs](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Enterprise%20Applications/resources-268.md#-claude-opus-55-built-campus-1-gw-fits-413712-gpus) | AI in Enterprise Applications |
-| 2026-11-07 | [Kardashev stack – SpaceX rockets, nuclear reactors, AI chips](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-263.md#-kardashev-stack--spacex-rockets-nuclear-reactors-ai-chips) | The Exponential Future |
-| 2026-11-07 | [NVIDIA TEE inference on H200, Tier 3+ partner](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-262.md#-nvidia-tee-inference-on-h200-tier-3-partner) | Decentralized AI |

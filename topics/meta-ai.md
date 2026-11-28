@@ -1,11 +1,13 @@
 # Meta AI
 
-Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 656 briefings that mention it, from every category, newest first.
+Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 658 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [metavr init adds Meta VR skills and MCP server](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-257.md#-metavr-init-adds-meta-vr-skills-and-mcp-server) | Spatial Computing |
+| 2026-11-27 | [Texas vs Texas A&M immersive 180° broadcast on Meta Quest](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-282.md#-texas-vs-texas-am-immersive-180-broadcast-on-meta-quest) | AR VR Companies and Development |
 | 2026-11-25 | [Praxis-1 runs 1.7x faster on ExecuTorch with TensorRT](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-281.md#-praxis-1-runs-17x-faster-on-executorch-with-tensorrt) | AR VR Companies and Development |
 | 2026-11-25 | [Meta VR CLI docs search for XR SDKs](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-281.md#-meta-vr-cli-docs-search-for-xr-sdks) | AR VR Companies and Development |
 | 2026-11-25 | [Cuttlefish macOS Apple silicon port released on GitHub](https://github.com/Drix10/ai-resources/blob/main/Tech%20Companies%20and%20News/resources-251.md#-cuttlefish-macos-apple-silicon-port-released-on-github) | Tech Companies and News |
@@ -104,5 +106,3 @@ Meta's AI work: Llama, Meta AI and its research labs. The 100 newest of 656 brie
 | 2026-09-29 | [Tech News - Meta XR Simulator](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-250.md#-tech-news---meta-xr-simulator) | AR VR Professionals and Community |
 | 2026-09-28 | [Replit: Latest Features and Integrations](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-284.md#-replit-latest-features-and-integrations) | AI Developer Tools |
 | 2026-09-28 | [AI Research - Meta's Team Proposes DCE + SRCL as an Alternative to On-Policy Self-Distillation](https://github.com/Drix10/ai-resources/blob/main/AI%20Professionals%20and%20Community/resources-260.md#-ai-research---metas-team-proposes-dce--srcl-as-an-alternative-to-on-policy-self-distillation) | AI Professionals and Community |
-| 2026-09-28 | [Meta VR Start Developer Competition](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Companies%20and%20Development/resources-251.md#-meta-vr-start-developer-competition) | AR VR Companies and Development |
-| 2026-09-28 | [Tech News - Meta Ray-Ban Display Hackathon](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-249.md#-tech-news---meta-ray-ban-display-hackathon) | AR VR Professionals and Community |

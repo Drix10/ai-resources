@@ -1,11 +1,12 @@
 # Hugging Face
 
-Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 236 briefings that mention it, from every category, newest first.
+Hugging Face: the Hub, its libraries and the models shared there. The 100 newest of 237 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [MapAnything launches universal metric 3D reconstruction model supporting 12+ tasks](https://github.com/Drix10/ai-resources/blob/main/Spatial%20Computing/resources-257.md#-mapanything-launches-universal-metric-3d-reconstruction-model-supporting-12-tasks) | Spatial Computing |
 | 2026-11-25 | [Inkling 2 Mini – local availability announced with partner support](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-316.md#-inkling-2-mini--local-availability-announced-with-partner-support) | Devs, Designers, DevRel |
 | 2026-11-25 | [SenseNova U1.6 Studio launches on Hugging Face](https://github.com/Drix10/ai-resources/blob/main/Computer%20Vision%20and%20AI%20Applications/resources-282.md#-sensenova-u16-studio-launches-on-hugging-face) | Computer Vision and AI Applications |
 | 2026-11-24 | [ERNIE 5.5 Flash Preview weights released – 280B total, 14B active](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-313.md#-ernie-55-flash-preview-weights-released--280b-total-14b-active) | AI Leaders and Thinkers |
@@ -105,4 +106,3 @@ Hugging Face: the Hub, its libraries and the models shared there. The 100 newest
 | 2026-02-21 | [Machine Learning - Model Exploration](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-164.md#-machine-learning---model-exploration) | Devs, Designers, DevRel |
 | 2026-02-10 | [Hugging Face Hackathon - Build with TRL](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-158.md#-hugging-face-hackathon---build-with-trl) | AI Developer Tools |
 | 2026-01-09 | [AI Agents - Hugging Face CLI Tools](https://github.com/Drix10/ai-resources/blob/main/AI%20Consulting%20and%20Expertise/resources-139.md#-ai-agents---hugging-face-cli-tools) | AI Consulting and Expertise |
-| 2026-01-09 | [Data Formats - Optimized Parquet on Hugging Face](https://github.com/Drix10/ai-resources/blob/main/AI%20and%20Robotics%20Applications/resources-133.md#-data-formats---optimized-parquet-on-hugging-face) | AI and Robotics Applications |

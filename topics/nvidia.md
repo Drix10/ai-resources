@@ -1,11 +1,12 @@
 # NVIDIA
 
-NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 857 briefings that mention it, from every category, newest first.
+NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 858 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [Inkling 2 Mini fine-tuned for trial adverse event arithmetic, 98.3% completeness](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-299.md#-inkling-2-mini-fine-tuned-for-trial-adverse-event-arithmetic-983-completeness) | AI in Healthcare and Science |
 | 2026-11-26 | [Nvidia CEO Jensen Huang re-appointment plan under Defense Production Act](https://github.com/Drix10/ai-resources/blob/main/Tech%20VIPs/resources-317.md#-nvidia-ceo-jensen-huang-re-appointment-plan-under-defense-production-act) | Tech VIPs |
 | 2026-11-26 | [Polymarket pricing on-demand compute for Nvidia H100s B200s B300s out to 2028](https://github.com/Drix10/ai-resources/blob/main/VC%20Firms/resources-315.md#-polymarket-pricing-on-demand-compute-for-nvidia-h100s-b200s-b300s-out-to-2028) | VC Firms |
 | 2026-11-26 | [Nvidia CEO Jensen Huang returns, stock jumps 31%](https://github.com/Drix10/ai-resources/blob/main/AI%20Companies%20and%20Ventures/resources-312.md#-nvidia-ceo-jensen-huang-returns-stock-jumps-31) | AI Companies and Ventures |
@@ -105,4 +106,3 @@ NVIDIA: GPUs, CUDA, Nemotron and its AI platforms. The 100 newest of 857 briefin
 | 2026-11-03 | [Brooklyn AI-Native 6G Summit live AI-RAN demo](https://github.com/Drix10/ai-resources/blob/main/AI%20in%20Healthcare%20and%20Science/resources-283.md#-brooklyn-ai-native-6g-summit-live-ai-ran-demo) | AI in Healthcare and Science |
 | 2026-11-03 | [Revolut moves 2k engineers to self-hosted GLM](https://github.com/Drix10/ai-resources/blob/main/Tech%20Infrastructure/resources-275.md#-revolut-moves-2k-engineers-to-self-hosted-glm) | Tech Infrastructure |
 | 2026-11-03 | [Nvidia data centre policy caps China compute at 49%](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-267.md#-nvidia-data-centre-policy-caps-china-compute-at-49) | Founders and Entrepreneurs |
-| 2026-11-02 | [NVIDIA DGX Spark kernel vulnerable to CVE-2026-98432](https://github.com/Drix10/ai-resources/blob/main/AI%20Leaders%20and%20Thinkers/resources-296.md#-nvidia-dgx-spark-kernel-vulnerable-to-cve-2026-98432) | AI Leaders and Thinkers |

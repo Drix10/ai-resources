@@ -1,11 +1,13 @@
 # Cursor
 
-Cursor, the AI code editor. The 100 newest of 219 briefings that mention it, from every category, newest first.
+Cursor, the AI code editor. The 100 newest of 221 briefings that mention it, from every category, newest first.
 
 <sub>[All topics](README.md) · [Release timeline](../TIMELINE.md) · [All categories](../README.md)</sub>
 
 | Date | Briefing | Category |
 | --- | --- | --- |
+| 2026-11-28 | [box by Simular launches cloud Linux desktop for AI agents](https://github.com/Drix10/ai-resources/blob/main/AI%20Developer%20Tools/resources-325.md#-box-by-simular-launches-cloud-linux-desktop-for-ai-agents) | AI Developer Tools |
+| 2026-11-28 | [Vercel AI deployments rise to over 60% from 3%](https://github.com/Drix10/ai-resources/blob/main/The%20Exponential%20Future/resources-275.md#-vercel-ai-deployments-rise-to-over-60-from-3) | The Exponential Future |
 | 2026-11-26 | [ffmpeg-skill adds local FFmpeg tools for Claude, Cursor, Codex 42](https://github.com/Drix10/ai-resources/blob/main/Crypto%20and%20Web3/resources-272.md#-ffmpeg-skill-adds-local-ffmpeg-tools-for-claude-cursor-codex-42) | Crypto and Web3 |
 | 2026-11-24 | [Flare FDC × LayerZero Core live build announcement](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-flare-fdc--layerzero-core-live-build-announcement) | Decentralized AI |
 | 2026-11-24 | [Keki – Mac menu-bar app connects coding agents](https://github.com/Drix10/ai-resources/blob/main/Decentralized%20AI/resources-273.md#-keki--mac-menu-bar-app-connects-coding-agents) | Decentralized AI |
@@ -104,5 +106,3 @@ Cursor, the AI code editor. The 100 newest of 219 briefings that mention it, fro
 |  | [Technical Partnerships - Anthropic and Cursor](https://github.com/Drix10/ai-resources/blob/main/AI%20Driven%20Vehicles%20and%20Transportation/resources-226.md#-technical-partnerships---anthropic-and-cursor) | AI Driven Vehicles and Transportation |
 |  | [Software Access - Cursor App Limitation](https://github.com/Drix10/ai-resources/blob/main/Devs%2C%20Designers%2C%20DevRel/resources-220.md#-software-access---cursor-app-limitation) | Devs, Designers, DevRel |
 |  | [Developer Events - Cursor AI Ship Night](https://github.com/Drix10/ai-resources/blob/main/Founders%20and%20Entrepreneurs/resources-218.md#-developer-events---cursor-ai-ship-night) | Founders and Entrepreneurs |
-|  | [Cursor AI - iPad Application Release](https://github.com/Drix10/ai-resources/blob/main/AR%20VR%20Professionals%20and%20Community/resources-213.md#-cursor-ai---ipad-application-release) | AR VR Professionals and Community |
-|  | [AI Workflow Coordination - OriginTrail and Cursor AI](https://github.com/Drix10/ai-resources/blob/main/AI%20Education/resources-210.md#-ai-workflow-coordination---origintrail-and-cursor-ai) | AI Education |
